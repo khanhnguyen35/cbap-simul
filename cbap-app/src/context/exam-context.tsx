@@ -191,9 +191,15 @@ export function ExamProvider({ children }: { children: ReactNode }) {
   const [state, dispatch] = useReducer(reducer, undefined, initialState);
   const { currentUser } = useAuth();
   
+  // Flag to prevent writing empty local state to Firestore before fetching
+  const [hasFetchedFromCloud, setHasFetchedFromCloud] = React.useState(false);
+
   // ── Sync from Firestore when user logs in ─────────────────
   useEffect(() => {
-    if (!currentUser) return;
+    if (!currentUser) {
+      setHasFetchedFromCloud(false);
+      return;
+    }
     
     const fetchUserData = async () => {
       try {
@@ -226,6 +232,8 @@ export function ExamProvider({ children }: { children: ReactNode }) {
         }
       } catch (error) {
         console.error("Lỗi khi tải dữ liệu từ Firestore:", error);
+      } finally {
+        setHasFetchedFromCloud(true);
       }
     };
     
@@ -243,8 +251,8 @@ export function ExamProvider({ children }: { children: ReactNode }) {
       localStorage.removeItem(LS_KEYS.ongoingSession);
     }
     
-    // 2. Lưu Firestore nếu đã đăng nhập
-    if (currentUser) {
+    // 2. Lưu Firestore nếu đã đăng nhập và ĐÃ tải xong dữ liệu
+    if (currentUser && hasFetchedFromCloud) {
       const syncToFirebase = async () => {
         try {
           const userDocRef = doc(db, 'users', currentUser.uid);
@@ -261,7 +269,7 @@ export function ExamProvider({ children }: { children: ReactNode }) {
       // Debounce call to Firebase could be implemented here if performance is an issue
       syncToFirebase();
     }
-  }, [state.examHistory, state.bookmarks, state.ongoingSession, currentUser]);
+  }, [state.examHistory, state.bookmarks, state.ongoingSession, currentUser, hasFetchedFromCloud]);
 
   // ── Action creators ──────────────────────────────────────
   const setData = useCallback((questions: Question[], buckets: QuestionBuckets) => {
