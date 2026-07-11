@@ -36,6 +36,13 @@ export function AuthProvider({ children }: { children: ReactNode }) {
   const logout = async () => {
     try {
       await signOut(auth);
+      // Xóa dữ liệu local storage để tránh lộ dữ liệu hoặc trộn lẫn với Guest mode
+      localStorage.removeItem('cbap_exam_history');
+      localStorage.removeItem('cbap_bookmarked_questions');
+      localStorage.removeItem('cbap_ongoing_session');
+      
+      // Tải lại trang để xóa sạch state cũ trong các Context
+      window.location.reload();
     } catch (error) {
       console.error('Lỗi đăng xuất:', error);
     }
