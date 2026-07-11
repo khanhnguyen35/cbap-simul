@@ -1,7 +1,7 @@
 // ============================================================
 // ExamContext — Global state management for the application
 // Manages: questions, history, bookmarks, ongoing session
-// Syncs history + bookmarks + session to localStorage
+// Syncs history + bookmarks + session to Firestore (or localStorage if guest)
 // ============================================================
 
 import React, {
@@ -12,6 +12,9 @@ import React, {
   useCallback,
   type ReactNode,
 } from 'react';
+import { doc, getDoc, setDoc } from 'firebase/firestore';
+import { db } from '@/config/firebase';
+import { useAuth } from './auth-context';
 import type { Question, ExamHistory, OngoingSession, ExamMode, QuestionBuckets } from '@/types/exam';
 import { LS_KEYS, calculateScore } from '@/utils/data-filter';
 
@@ -30,6 +33,7 @@ interface ExamState {
 
 type ExamAction =
   | { type: 'SET_DATA'; payload: { questions: Question[]; buckets: QuestionBuckets } }
+  | { type: 'SET_SYNC_DATA'; payload: { history: ExamHistory[]; bookmarks: string[]; session: OngoingSession | null } }
   | { type: 'START_SESSION'; payload: OngoingSession }
   | { type: 'SUBMIT_ANSWER'; payload: { questionId: string; letter: string } }
   | { type: 'TOGGLE_BOOKMARK'; payload: string }
@@ -50,6 +54,7 @@ function loadFromStorage<T>(key: string, fallback: T): T {
 }
 
 function initialState(): ExamState {
+  // Bắt đầu bằng local storage cho tốc độ khởi động nhanh
   const historyRaw = loadFromStorage<ExamHistory[]>(LS_KEYS.history, []);
   const bookmarksRaw = loadFromStorage<string[]>(LS_KEYS.bookmarks, []);
   const session = loadFromStorage<OngoingSession | null>(LS_KEYS.ongoingSession, null);
@@ -72,6 +77,14 @@ function reducer(state: ExamState, action: ExamAction): ExamState {
         allQuestions: action.payload.questions,
         buckets: action.payload.buckets,
         isDataLoaded: true,
+      };
+      
+    case 'SET_SYNC_DATA':
+      return {
+        ...state,
+        examHistory: action.payload.history,
+        bookmarks: new Set(action.payload.bookmarks),
+        ongoingSession: action.payload.session,
       };
 
     case 'START_SESSION':
@@ -176,23 +189,79 @@ const ExamContext = createContext<ExamContextValue | null>(null);
 
 export function ExamProvider({ children }: { children: ReactNode }) {
   const [state, dispatch] = useReducer(reducer, undefined, initialState);
-
-  // ── Sync to localStorage on change ──────────────────────
+  const { currentUser } = useAuth();
+  
+  // ── Sync from Firestore when user logs in ─────────────────
   useEffect(() => {
+    if (!currentUser) return;
+    
+    const fetchUserData = async () => {
+      try {
+        const userDocRef = doc(db, 'users', currentUser.uid);
+        const docSnap = await getDoc(userDocRef);
+        
+        if (docSnap.exists()) {
+          const data = docSnap.data();
+          
+          // Merge history to prevent local data loss
+          const firestoreHistory: ExamHistory[] = data.examHistory || [];
+          const localHistory: ExamHistory[] = state.examHistory;
+          
+          const mergedMap = new Map<string, ExamHistory>();
+          localHistory.forEach(h => mergedMap.set(h.id, h));
+          firestoreHistory.forEach(h => mergedMap.set(h.id, h));
+          const mergedHistory = Array.from(mergedMap.values()).sort((a, b) => b.timestamp - a.timestamp);
+
+          // Merge bookmarks
+          const mergedBookmarks = new Set([...state.bookmarks, ...(data.bookmarks || [])]);
+
+          dispatch({
+            type: 'SET_SYNC_DATA',
+            payload: {
+              history: mergedHistory,
+              bookmarks: Array.from(mergedBookmarks),
+              session: data.ongoingSession || state.ongoingSession,
+            },
+          });
+        }
+      } catch (error) {
+        console.error("Lỗi khi tải dữ liệu từ Firestore:", error);
+      }
+    };
+    
+    fetchUserData();
+  }, [currentUser]);
+
+  // ── Sync to Storage (Firebase + Local) on change ──────────
+  useEffect(() => {
+    // 1. Lưu LocalStorage cho Guest Mode
     localStorage.setItem(LS_KEYS.history, JSON.stringify(state.examHistory));
-  }, [state.examHistory]);
-
-  useEffect(() => {
     localStorage.setItem(LS_KEYS.bookmarks, JSON.stringify(Array.from(state.bookmarks)));
-  }, [state.bookmarks]);
-
-  useEffect(() => {
     if (state.ongoingSession) {
       localStorage.setItem(LS_KEYS.ongoingSession, JSON.stringify(state.ongoingSession));
     } else {
       localStorage.removeItem(LS_KEYS.ongoingSession);
     }
-  }, [state.ongoingSession]);
+    
+    // 2. Lưu Firestore nếu đã đăng nhập
+    if (currentUser) {
+      const syncToFirebase = async () => {
+        try {
+          const userDocRef = doc(db, 'users', currentUser.uid);
+          await setDoc(userDocRef, {
+            examHistory: state.examHistory,
+            bookmarks: Array.from(state.bookmarks),
+            ongoingSession: state.ongoingSession
+          }, { merge: true });
+        } catch (error) {
+          console.error("Lỗi khi lưu dữ liệu lên Firestore:", error);
+        }
+      };
+      
+      // Debounce call to Firebase could be implemented here if performance is an issue
+      syncToFirebase();
+    }
+  }, [state.examHistory, state.bookmarks, state.ongoingSession, currentUser]);
 
   // ── Action creators ──────────────────────────────────────
   const setData = useCallback((questions: Question[], buckets: QuestionBuckets) => {

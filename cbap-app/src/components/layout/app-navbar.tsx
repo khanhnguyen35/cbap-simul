@@ -5,7 +5,7 @@
 
 import React from 'react';
 import { useNavigate, useLocation } from 'react-router-dom';
-import { Layout, Menu, Typography } from 'antd';
+import { Layout, Menu, Typography, Button, Dropdown, Avatar } from 'antd';
 import {
   AppstoreOutlined,
   BarChartOutlined,
@@ -14,7 +14,11 @@ import {
   ReadOutlined,
   BranchesOutlined,
   OrderedListOutlined,
+  UserOutlined,
+  LogoutOutlined,
+  GoogleOutlined
 } from '@ant-design/icons';
+import { useAuth } from '@/context/auth-context';
 
 const { Header } = Layout;
 const { Text } = Typography;
@@ -62,6 +66,7 @@ const NAV_ITEMS = [
 export default function AppNavbar() {
   const navigate = useNavigate();
   const location = useLocation();
+  const { currentUser, loginWithGoogle, logout } = useAuth();
 
   // Flatten nav items to include children for key matching
   const allKeys: string[] = [];
@@ -141,6 +146,47 @@ export default function AppNavbar() {
         theme="dark"
         id="app-navbar-menu"
       />
+      
+      {/* ── User Auth Section ── */}
+      <div style={{ marginLeft: 16, flexShrink: 0 }}>
+        {currentUser ? (
+          <Dropdown
+            menu={{
+              items: [
+                {
+                  key: 'logout',
+                  icon: <LogoutOutlined />,
+                  label: 'Đăng xuất',
+                  onClick: logout,
+                  danger: true,
+                },
+              ],
+            }}
+            placement="bottomRight"
+          >
+            <div style={{ display: 'flex', alignItems: 'center', gap: 8, cursor: 'pointer' }}>
+              <Avatar src={currentUser.photoURL} icon={<UserOutlined />} size="small" />
+              <Text style={{ color: '#fff', fontSize: 13, maxWidth: 120 }} ellipsis>
+                {currentUser.displayName || 'User'}
+              </Text>
+            </div>
+          </Dropdown>
+        ) : (
+          <Button 
+            type="primary" 
+            icon={<GoogleOutlined />} 
+            onClick={loginWithGoogle}
+            style={{ 
+              background: '#ffffff', 
+              color: '#1d3557', 
+              fontWeight: 600,
+              border: 'none'
+            }}
+          >
+            Đăng nhập
+          </Button>
+        )}
+      </div>
     </Header>
   );
 }

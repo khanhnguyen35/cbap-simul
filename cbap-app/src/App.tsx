@@ -6,6 +6,7 @@ import React, { Suspense, lazy } from 'react';
 import { BrowserRouter, Routes, Route, Navigate, useLocation } from 'react-router-dom';
 import { ConfigProvider, App as AntApp, Skeleton, Layout } from 'antd';
 import { ExamProvider } from '@/context/exam-context';
+import { AuthProvider } from '@/context/auth-context';
 import { useTsvParser } from '@/hooks/use-tsv-parser';
 import { useExamContext } from '@/context/exam-context';
 import AppNavbar from '@/components/layout/app-navbar';
@@ -116,33 +117,35 @@ export default function App() {
   return (
     <ConfigProvider theme={CBAPTheme}>
       <AntApp>
-        <ExamProvider>
-          <BrowserRouter>
-            <DataLoader>
-              <AppLayout>
-                <Suspense
-                  fallback={
-                    <div style={{ padding: 40 }}>
-                      <Skeleton active />
-                    </div>
-                  }
-                >
-                  <Routes>
-                    <Route path="/" element={<Dashboard />} />
-                    <Route path="/exam/:number" element={<ExamRoom />} />
-                    <Route path="/review/:historyId" element={<ExamReview />} />
-                    <Route path="/flashcard" element={<FlashcardMode />} />
-                    <Route path="/analytics" element={<Analytics />} />
-                    <Route path="/data-quality" element={<DataQualityInspector />} />
-                    <Route path="/babok-io" element={<BabokIOReview />} />
-                    <Route path="/babok-elements" element={<BabokElementsReview />} />
-                    <Route path="*" element={<Navigate to="/" replace />} />
-                  </Routes>
-                </Suspense>
-              </AppLayout>
-            </DataLoader>
-          </BrowserRouter>
-        </ExamProvider>
+        <AuthProvider>
+          <ExamProvider>
+            <BrowserRouter>
+              <DataLoader>
+                <AppLayout>
+                  <Suspense
+                    fallback={
+                      <div style={{ padding: 40 }}>
+                        <Skeleton active />
+                      </div>
+                    }
+                  >
+                    <Routes>
+                      <Route path="/" element={<Dashboard />} />
+                      <Route path="/exam/:number" element={<ExamRoom />} />
+                      <Route path="/review/:historyId" element={<ExamReview />} />
+                      <Route path="/flashcard" element={<FlashcardMode />} />
+                      <Route path="/analytics" element={<Analytics />} />
+                      <Route path="/data-quality" element={<DataQualityInspector />} />
+                      <Route path="/babok-io" element={<BabokIOReview />} />
+                      <Route path="/babok-elements" element={<BabokElementsReview />} />
+                      <Route path="*" element={<Navigate to="/" replace />} />
+                    </Routes>
+                  </Suspense>
+                </AppLayout>
+              </DataLoader>
+            </BrowserRouter>
+          </ExamProvider>
+        </AuthProvider>
       </AntApp>
     </ConfigProvider>
   );
