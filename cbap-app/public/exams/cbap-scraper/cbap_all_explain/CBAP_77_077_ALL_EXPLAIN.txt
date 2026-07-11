@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 77 ===
+📚 Tên: TopicSet 77
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+Which of the following statements is NOT a desired business outcome?
+
+A. Increase customer satisfaction.
+   ❌ SAI
+   📝 Increased customer satisfaction is a desired business outcome. BABOK 6.2.4.1
+
+B. Improve profitability by increasing sales or reducing cost.
+   ❌ SAI
+   📝 Improved profitability is a desired business outcome. BABOK 6.2.4.1
+
+C. Upgrade the CRM solution to the latest release.
+   ✅ ĐÚNG
+   📝 This statement does not include a business outcome. BABOK 6.2.4.1
+
+D. Reduce waste.
+   ❌ SAI
+   📝 Reduced waste is a desired business outcome. BABOK 6.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Upgrade the CRM solution to the latest release.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This statement does not include a business outcome. BABOK 6.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+In what situation would a feasibility analysis be MOST useful?
+
+A. Resolving a business problem.
+   ❌ SAI
+   📝 Not all business problems would warrant feasibility analysis. BABOK 6.2.4.9
+
+B. Buying a COTS package.
+   ❌ SAI
+   📝 This is implementing a solution, and would be done after any feasibility analysis is conducted. BABOK 6.2.4.9
+
+C. When a sponsor places constraints on a solution option.
+   ❌ SAI
+   📝 Constraints are always a consideration. Given the options, this is not the MOST useful. BABOK 6.2.4.9
+
+D. Migrating critical applications to a cloud environment.
+   ✅ ĐÚNG
+   📝 This is a major and complex endeavor. A feasibility analysis is warranted, especially given the criticality of the applications. BABOK 6.2.4.9 and 10.7.3.3.
+
+➤ ĐÁP ÁN ĐÚNG: Migrating critical applications to a cloud environment.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a major and complex endeavor. A feasibility analysis is warranted, especially given the criticality of the applications. BABOK 6.2.4.9 and 10.7.3.3.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+You have encountered a huge mental block in determining solution options for your project and the project implementation date just got moved up. You need options and you need them fast. Which of the following will best help you?
+
+A. Interviews
+   ❌ SAI
+   📝 This is a time-consuming technique and not the best venue for creative ideas. BABOK 6.2.6 and 10.25
+
+B. Brainstorming
+   ✅ ĐÚNG
+   📝 Brainstorming can produce creative ideas quickly. BABOK 6.2.6 and 10.5
+
+C. Focus group
+   ❌ SAI
+   📝 This technique is to gain insight on new products, especially attitudes and feelings about them. BABOK 10.21
+
+D. Benchmarking
+   ❌ SAI
+   📝 This compares an organization's current practices to that of other companies. BABOK 6.2.6 and 10.4
+
+➤ ĐÁP ÁN ĐÚNG: Brainstorming
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Brainstorming can produce creative ideas quickly. BABOK 6.2.6 and 10.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+Which of the following statements best describes a common test for assessing business objectives?
+
+A. Specific, manageable, achievable, relevant, time-bounded.
+   ❌ SAI
+   📝 Manageable is not a characteristic of well-written objectives. BABOK 6.2.4.1
+
+B. Specific, measurable, achievable, relevant, time-bounded.
+   ✅ ĐÚNG
+   📝 Remember the SMART acronym for defining measurable objectives. You may not be tested on this in your actual exam,but it's good to know this one. BABOK 6.2.4.1
+
+C. Specific, measurable, achievable, realistic, time-bounded.
+   ❌ SAI
+   📝 Realistic is not a characteristic of well-written objectives. BABOK 6.2.4.1
+
+D. Specific, measurable, achievable, relevant, testable.
+   ❌ SAI
+   📝 Testable is not a characteristic of well-written objectives. BABOK 6.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Specific, measurable, achievable, relevant, time-bounded.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Remember the SMART acronym for defining measurable objectives. You may not be tested on this in your actual exam,but it's good to know this one. BABOK 6.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+Which task in the strategy analysis knowledge area uses business requirements as its sole input?
+
+A. Define change strategy
+   ❌ SAI
+   📝 Business requirements is not a stated input for this task. BABOK 6.4.3
+
+B. Define future state
+   ✅ ĐÚNG
+   📝 Business requirements are the problems, opportunities, or constraints that the future state will address. BABOK 6.2.3
+
+C. Assess risks
+   ❌ SAI
+   📝 There are many inputs for the assess risks task, but business requirements is not one of them. BABOK 6.3.3
+
+D. Validate requirements
+   ❌ SAI
+   📝 Validate requirements is a task in the requirements analysis and design definition knowledge area that uses the solution scope as an input. BABOK Figure 6.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Define future state
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Business requirements are the problems, opportunities, or constraints that the future state will address. BABOK 6.2.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+Which of the following statements best describes a common test for assessing business objectives?
+
+A. Specific, measurable, achievable, realistic, time-bounded.
+   ❌ SAI
+   📝 Realistic is not a characteristic of well-written objectives. BABOK 6.2.4.1
+
+B. Specific, measurable, achievable, relevant, time-bounded.
+   ✅ ĐÚNG
+   📝 Remember the SMART acronym for defining measurable objectives. You may not be tested on this in your actual exam,but it's good to know this one. BABOK 6.2.4.1
+
+C. Specific, manageable, achievable, relevant, time-bounded.
+   ❌ SAI
+   📝 Manageable is not a characteristic of well-written objectives. BABOK 6.2.4.1
+
+D. Specific, measurable, achievable, relevant, testable.
+   ❌ SAI
+   📝 Testable is not a characteristic of well-written objectives. BABOK 6.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Specific, measurable, achievable, relevant, time-bounded.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Remember the SMART acronym for defining measurable objectives. You may not be tested on this in your actual exam,but it's good to know this one. BABOK 6.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+An organization seeks to increase employee satisfaction within the next year. What is this an example of?
+
+A. Business requirement
+   ❌ SAI
+   📝 While employee satisfaction may be a component of a business requirement, it is not comprehensive enough. BABOK 6.2.4.1
+
+B. Business goal
+   ✅ ĐÚNG
+   📝 A business goal is a statement of a state or condition that an organization is seeking to establish and maintain. BABOK 6.2.4.1
+
+C. Business objective
+   ❌ SAI
+   📝 This is not specific enough to be considered an objective as it is not specific (remember: SMART). BABOK 6.2.4.1
+
+D. Potential value
+   ❌ SAI
+   📝 This accomplishment could be a part of the value proposition for a future state recommendation, but it is not specific enough. BABOK 6.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Business goal
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A business goal is a statement of a state or condition that an organization is seeking to establish and maintain. BABOK 6.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+Policies, budget, time, and resource availability are all types of __________________ ?
+
+A. Resources
+   ❌ SAI
+   📝 Resources are not considered a constraint which is what the question reflects. BABOK 6.2.4.3
+
+B. Capabilities
+   ❌ SAI
+   📝 None of these describe capabilities. BABOK 6.2.4.3
+
+C. Constraints
+   ✅ ĐÚNG
+   📝 These are constraints because they describe aspects of the current and future state that may not be changed by the solution. BABOK 6.2.4.3
+
+D. Risks
+   ❌ SAI
+   📝 Elements of all of these could pose risks but are not risks in and of themselves. BABOK 6.2.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Constraints
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are constraints because they describe aspects of the current and future state that may not be changed by the solution. BABOK 6.2.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Julie is a BA working to help a business owner clarify the business need. The business owner wants to undertake an initiative to eliminate waste throughout her division. She says that such an initiative, which will be comprised of multiple projects, will have the benefits of improved safety, reduced time to deliver the organization's product, and increased customer satisfaction. The listed benefits are another way of articulating which of the following?
+
+A. Desired outcomes
+   ✅ ĐÚNG
+   📝 The benefits referred to in the question are examples of desired outcomes. While the BABOK typically focuses on "goals and objectives," it does use this term in the description of how business cases are used in the Define Future State task. BABOK 6.2.6; 10.7.3.2
+
+B. The business opportunity
+   ❌ SAI
+   📝 The benefits are not the same as business opportunity.
+
+C. Business objectives
+   ❌ SAI
+   📝 The listed benefits do not meet the SMART criteria to be consider objectives.
+
+D. Future state description
+   ❌ SAI
+   📝 The listed benefits would be just one component of the future state description.
+
+➤ ĐÁP ÁN ĐÚNG: Desired outcomes
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The benefits referred to in the question are examples of desired outcomes. While the BABOK typically focuses on "goals and objectives," it does use this term in the description of how business cases are used in the Define Future State task. BABOK 6.2.6; 10.7.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+William conducted a brainstorming session with several key stakeholders to generate potential solutions. They identified several possible ways to satisfy the business objectives of an organization. How will William ultimately determine which solution options to seriously consider?
+
+A. He would ask the team to prioritize the options based upon their collective expertise.
+   ❌ SAI
+   📝 This is not a course of action recommended by the BABOK. BABOK 6.2.4.2
+
+B. He could use the Delphi technique to objectively prioritize the list of options.
+   ❌ SAI
+   📝 Delphi is an estimation tool. BABOK 6.2.4.2
+
+C. In part, he will calculate the opportunity cost of each option.
+   ✅ ĐÚNG
+   📝 In addition to calculating the opportunity cost, the BABOK mentions understanding the quantitative and qualitative value of each option along with the time needed to achieve each future state. BABOK 6.2.4.2
+
+D. Initially, he will discuss the options at a high level with the sponsor in order to determine which options to pursue further.
+   ❌ SAI
+   📝 The decision needs to be based on the value to be delivered which is not obtainable at a high level. BABOK 6.2.4.2
+
+➤ ĐÁP ÁN ĐÚNG: In part, he will calculate the opportunity cost of each option.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+In addition to calculating the opportunity cost, the BABOK mentions understanding the quantitative and qualitative value of each option along with the time needed to achieve each future state. BABOK 6.2.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Gracie owns a small office building. She recently changed cleaning services to reduce expenses. During the first week of the new service, she discovered that the change resulted in a change in the frequency of cleaning the bathrooms, as well as a change in the way tenants handled their trash. Since making the change, Gracie has received more complaints about the new cleaning service than she had the prior three months total. What techniques might have helped Gracie with this change?
+
+A. Developing business goals and objectives.
+   ❌ SAI
+   📝 This is not a technique, it's an element used when defining the future state.
+
+B. Performing a SWOT analysis and creating a scorecard.
+   ❌ SAI
+   📝 These techniques are used when defining the future state.
+
+C. Identifying what would make the future state acceptable and creating a business case.
+   ❌ SAI
+   📝 A business case would not have helped Gracie given the undesirable outcomes.
+
+D. Identifying what would make the future state acceptable and then assessing the potential value offered by vendors in relationship to that criteria.
+   ✅ ĐÚNG
+   📝 This is another way of saying "acceptance and evaluation criteria" and "vendor assessment"; both of which would've been valuable techniques. BABOK 6.2.6
+
+➤ ĐÁP ÁN ĐÚNG: Identifying what would make the future state acceptable and then assessing the potential value offered by vendors in relationship to that criteria.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is another way of saying "acceptance and evaluation criteria" and "vendor assessment"; both of which would've been valuable techniques. BABOK 6.2.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+Which of the following are outputs of the define future state task?
+
+A. Business goals and objectives, future state description, potential value
+   ❌ SAI
+   📝 Business goals are not defined outputs of the define future state task. BABOK Figure 6.2.1
+
+B. Business goals and objectives, capability analysis, potential value
+   ❌ SAI
+   📝 Business goals and a capability analysis are not defined outputs of the define future state task. BABOK Figure 6.2.1
+
+C. Business objectives, future state description, potential value
+   ✅ ĐÚNG
+   📝 These are the outputs of the define future state task. BABOK Figure 6.2.1
+
+D. Business objectives, capability analysis, potential value
+   ❌ SAI
+   📝 A capability analysis is not a defined output of the define future state task. BABOK Figure 6.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Business objectives, future state description, potential value
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the outputs of the define future state task. BABOK Figure 6.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+Sean, a BA, is working with a business owner to clarify the organization's business objectives. The business owner keeps talking about the current situation and a new project to automate a cumbersome business process. Sean tries to bring her back to the business objectives. Finally the business owner says that she has three business objectives: increase employee satisfaction, improve revenues by increasing sales, and comply with new regulations. Sean is not comfortable with these business objectives. Why?
+
+A. They do not state the business problem or opportunity.
+   ❌ SAI
+   📝 Objectives do not state the business problem or opportunity, they describe what the organization is seeking to achieve. BABOK 6.2.4.1
+
+B. They are stated but not confirmed.
+   ❌ SAI
+   📝 Objectives do not include confirmation. BABOK 6.2.4.1
+
+C. They are not measurable.
+   ✅ ĐÚNG
+   📝 Objectives need to be SMART: specific, measurable, achievable, relevant, and time-bounded. Also, the stated objectives are lacking in the "specific" and "time-bounded" aspects. BABOK 6.2.4.1
+
+D. They do not state the business benefits.
+   ❌ SAI
+   📝 Objectives do not include business benefits. In addition, objectives need to be SMART. BABOK 6.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: They are not measurable.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Objectives need to be SMART: specific, measurable, achievable, relevant, and time-bounded. Also, the stated objectives are lacking in the "specific" and "time-bounded" aspects. BABOK 6.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+You have encountered a huge mental block in determining solution options for your project and the project implementation date just got moved up. You need options and you need them fast. Which of the following will best help you?
+
+A. Focus group
+   ❌ SAI
+   📝 This technique is to gain insight on new products, especially attitudes and feelings about them. BABOK 10.21
+
+B. Interviews
+   ❌ SAI
+   📝 This is a time-consuming technique and not the best venue for creative ideas. BABOK 6.2.6 and 10.25
+
+C. Benchmarking
+   ❌ SAI
+   📝 This compares an organization's current practices to that of other companies. BABOK 6.2.6 and 10.4
+
+D. Brainstorming
+   ✅ ĐÚNG
+   📝 Brainstorming can produce creative ideas quickly. BABOK 6.2.6 and 10.5
+
+➤ ĐÁP ÁN ĐÚNG: Brainstorming
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Brainstorming can produce creative ideas quickly. BABOK 6.2.6 and 10.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+William conducted a brainstorming session with several key stakeholders to generate potential solutions. They identified several possible ways to satisfy the business objectives of an organization. How will William ultimately determine which solution options to seriously consider?
+
+A. He would ask the team to prioritize the options based upon their collective expertise.
+   ❌ SAI
+   📝 This is not a course of action recommended by the BABOK. BABOK 6.2.4.2
+
+B. He could use the Delphi technique to objectively prioritize the list of options.
+   ❌ SAI
+   📝 Delphi is an estimation tool. BABOK 6.2.4.2
+
+C. In part, he will calculate the opportunity cost of each option.
+   ✅ ĐÚNG
+   📝 In addition to calculating the opportunity cost, the BABOK mentions understanding the quantitative and qualitative value of each option along with the time needed to achieve each future state. BABOK 6.2.4.2
+
+D. Initially, he will discuss the options at a high level with the sponsor in order to determine which options to pursue further.
+   ❌ SAI
+   📝 The decision needs to be based on the value to be delivered which is not obtainable at a high level. BABOK 6.2.4.2
+
+➤ ĐÁP ÁN ĐÚNG: In part, he will calculate the opportunity cost of each option.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+In addition to calculating the opportunity cost, the BABOK mentions understanding the quantitative and qualitative value of each option along with the time needed to achieve each future state. BABOK 6.2.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+Which of the following statements best describes a common test for assessing business objectives?
+
+A. Specific, measurable, achievable, relevant, testable.
+   ❌ SAI
+   📝 Testable is not a characteristic of well-written objectives. BABOK 6.2.4.1
+
+B. Specific, manageable, achievable, relevant, time-bounded.
+   ❌ SAI
+   📝 Manageable is not a characteristic of well-written objectives. BABOK 6.2.4.1
+
+C. Specific, measurable, achievable, realistic, time-bounded.
+   ❌ SAI
+   📝 Realistic is not a characteristic of well-written objectives. BABOK 6.2.4.1
+
+D. Specific, measurable, achievable, relevant, time-bounded.
+   ✅ ĐÚNG
+   📝 Remember the SMART acronym for defining measurable objectives. You may not be tested on this in your actual exam,but it's good to know this one. BABOK 6.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Specific, measurable, achievable, relevant, time-bounded.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Remember the SMART acronym for defining measurable objectives. You may not be tested on this in your actual exam,but it's good to know this one. BABOK 6.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+Which task in the strategy analysis knowledge area uses business requirements as its sole input?
+
+A. Define change strategy
+   ❌ SAI
+   📝 Business requirements is not a stated input for this task. BABOK 6.4.3
+
+B. Assess risks
+   ❌ SAI
+   📝 There are many inputs for the assess risks task, but business requirements is not one of them. BABOK 6.3.3
+
+C. Define future state
+   ✅ ĐÚNG
+   📝 Business requirements are the problems, opportunities, or constraints that the future state will address. BABOK 6.2.3
+
+D. Validate requirements
+   ❌ SAI
+   📝 Validate requirements is a task in the requirements analysis and design definition knowledge area that uses the solution scope as an input. BABOK Figure 6.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Define future state
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Business requirements are the problems, opportunities, or constraints that the future state will address. BABOK 6.2.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+Gracie owns a small office building. She recently changed cleaning services to reduce expenses. During the first week of the new service, she discovered that the change resulted in a change in the frequency of cleaning the bathrooms, as well as a change in the way tenants handled their trash. Since making the change, Gracie has received more complaints about the new cleaning service than she had the prior three months total. What techniques might have helped Gracie with this change?
+
+A. Developing business goals and objectives.
+   ❌ SAI
+   📝 This is not a technique, it's an element used when defining the future state.
+
+B. Identifying what would make the future state acceptable and creating a business case.
+   ❌ SAI
+   📝 A business case would not have helped Gracie given the undesirable outcomes.
+
+C. Identifying what would make the future state acceptable and then assessing the potential value offered by vendors in relationship to that criteria.
+   ✅ ĐÚNG
+   📝 This is another way of saying "acceptance and evaluation criteria" and "vendor assessment"; both of which would've been valuable techniques. BABOK 6.2.6
+
+D. Performing a SWOT analysis and creating a scorecard.
+   ❌ SAI
+   📝 These techniques are used when defining the future state.
+
+➤ ĐÁP ÁN ĐÚNG: Identifying what would make the future state acceptable and then assessing the potential value offered by vendors in relationship to that criteria.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is another way of saying "acceptance and evaluation criteria" and "vendor assessment"; both of which would've been valuable techniques. BABOK 6.2.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+Julie is a BA working to help a business owner clarify the business need. The business owner wants to undertake an initiative to eliminate waste throughout her division. She says that such an initiative, which will be comprised of multiple projects, will have the benefits of improved safety, reduced time to deliver the organization's product, and increased customer satisfaction. The listed benefits are another way of articulating which of the following?
+
+A. Future state description
+   ❌ SAI
+   📝 The listed benefits would be just one component of the future state description.
+
+B. Desired outcomes
+   ✅ ĐÚNG
+   📝 The benefits referred to in the question are examples of desired outcomes. While the BABOK typically focuses on "goals and objectives," it does use this term in the description of how business cases are used in the Define Future State task. BABOK 6.2.6; 10.7.3.2
+
+C. The business opportunity
+   ❌ SAI
+   📝 The benefits are not the same as business opportunity.
+
+D. Business objectives
+   ❌ SAI
+   📝 The listed benefits do not meet the SMART criteria to be consider objectives.
+
+➤ ĐÁP ÁN ĐÚNG: Desired outcomes
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The benefits referred to in the question are examples of desired outcomes. While the BABOK typically focuses on "goals and objectives," it does use this term in the description of how business cases are used in the Define Future State task. BABOK 6.2.6; 10.7.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+Policies, budget, time, and resource availability are all types of __________________ ?
+
+A. Risks
+   ❌ SAI
+   📝 Elements of all of these could pose risks but are not risks in and of themselves. BABOK 6.2.4.3
+
+B. Resources
+   ❌ SAI
+   📝 Resources are not considered a constraint which is what the question reflects. BABOK 6.2.4.3
+
+C. Constraints
+   ✅ ĐÚNG
+   📝 These are constraints because they describe aspects of the current and future state that may not be changed by the solution. BABOK 6.2.4.3
+
+D. Capabilities
+   ❌ SAI
+   📝 None of these describe capabilities. BABOK 6.2.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Constraints
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are constraints because they describe aspects of the current and future state that may not be changed by the solution. BABOK 6.2.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Which of the following are outputs of the define future state task?
+
+A. Business goals and objectives, capability analysis, potential value
+   ❌ SAI
+   📝 Business goals and a capability analysis are not defined outputs of the define future state task. BABOK Figure 6.2.1
+
+B. Business objectives, capability analysis, potential value
+   ❌ SAI
+   📝 A capability analysis is not a defined output of the define future state task. BABOK Figure 6.2.1
+
+C. Business objectives, future state description, potential value
+   ✅ ĐÚNG
+   📝 These are the outputs of the define future state task. BABOK Figure 6.2.1
+
+D. Business goals and objectives, future state description, potential value
+   ❌ SAI
+   📝 Business goals are not defined outputs of the define future state task. BABOK Figure 6.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Business objectives, future state description, potential value
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the outputs of the define future state task. BABOK Figure 6.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+Tony has listed a risk on the BA risk register that states, "The off-the-shelf solution will not interface with the existing accounting system without significant customization." Team members have asked him to remove it from the register. Why?
+
+A. Because the team has determined a solution.
+   ❌ SAI
+   📝 This an invented answer. BABOK 6.3.4.1
+
+B. Because it is a solution risk that will be addressed by the delivery team.
+   ❌ SAI
+   📝 This an invented answer. BABOK 6.3.4.1
+
+C. Because it is a design risk and should be addressed by the solution architect.
+   ❌ SAI
+   📝 This an invented answer. BABOK 6.3.4.1
+
+D. Because the statement is not a risk.
+   ✅ ĐÚNG
+   📝 Since it is known that that the solution is not currently compatible with the accounting system, it is an issue vs. a risk. Risks contain a level of uncertainty. It should be moved to the issues log. BABOK 6.3.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Because the statement is not a risk.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Since it is known that that the solution is not currently compatible with the accounting system, it is an issue vs. a risk. Risks contain a level of uncertainty. It should be moved to the issues log. BABOK 6.3.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+Elizabeth is working on a complex government-regulated project where a great deal of uncertainty exists because of unknown requirements that do not show up in the government file specification. How might Elizabeth and other stakeholders identify potential negative impacts to value?
+
+A. Utilize lessons learned from past projects and expert judgment from pertinent stakeholders.
+   ✅ ĐÚNG
+   📝 Even when it is not possible to know all that will occur as a result of a change strategy, it is still possible to estimate the impact of unknown or uncertain events or conditions. BABOK 6.3.4.1
+
+B. Schedule an interview with relevant government personnel to obtain more specific information.
+   ❌ SAI
+   📝 This would be optimal but there is no indication in the scenario that this is a viable alternative. If it was an option, there is no evidence to support that they would be able to provide more specific information. BABOK 6.3.4.1
+
+C. Perform document analysis.
+   ❌ SAI
+   📝 There is no evidence that there are supporting documents to the specification to analyze. BABOK 6.3.4.1
+
+D. There isn't enough information in the government's specification to identify potential negative value impacts.
+   ❌ SAI
+   📝 This might be true at a comprehensive level, but there are still methods they could use to begin a value analysis. BABOK 6.3.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Utilize lessons learned from past projects and expert judgment from pertinent stakeholders.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Even when it is not possible to know all that will occur as a result of a change strategy, it is still possible to estimate the impact of unknown or uncertain events or conditions. BABOK 6.3.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Sofia is a BA who has just helped a business owner define a business need relating to a new service that her company wants to offer. The company is expecting this new service to increase revenues, increase market share, and reduce customer complaints. She, along with key stakeholders, have generated alternative change strategies related to the new service and are completing business cases to support a recommendation. Sofia realizes that she has no idea of the potential business and technical ramifications or magnitude of the effort. She realizes she needs to step back and complete which task/element/technique next?
+
+A. Sofia and her team need to analyze constraints, assumptions, and dependencies associated with their recommended solution.
+   ❌ SAI
+   📝 This is true but all risks need to be analyzed. Analyzing these three things will not address all risks. BABOK 6.3.1
+
+B. Sofia and her team need to identify risks.
+   ❌ SAI
+   📝 This is true but is just the first step and so is not comprehensive enough. BABOK 6.3.1
+
+C. Sofia and her team need to define the potential negative impact to value of the recommended solution.
+   ❌ SAI
+   📝 This is too specific and is just one component of qualitatively assessing risks. BABOK 6.3.1
+
+D. Sofia and her team need to assess risks.
+   ✅ ĐÚNG
+   📝 Risks speak to uncertainty and "potential" impacts. BABOK 6.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Sofia and her team need to assess risks.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Risks speak to uncertainty and "potential" impacts. BABOK 6.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+Lydia is a BA working in a financial institution. The organization has not had success implementing commercial software. Every time a package has been bought, it seems to cause more trouble than it's worth with customization requirements, trouble with interfaces, etc. Lydia is torn between recommending a commercial software package and building the software. What technique/tool will best help her with this analysis?
+
+A. Decision model.
+   ❌ SAI
+   📝 This may or may not help as decision models show how repeatable decisions are made. They may or may not exist in the organization for this particular decision.
+
+B. Decision tree.
+   ✅ ĐÚNG
+   📝 A decision tree is a tool contained within decision analysis that will help objectively identify the best decision. Everyone will have an opinion in this scenario! BABOK 10.16.3.3
+
+C. Business capability analysis.
+   ❌ SAI
+   📝 This may provide input into analysis to see if capabilities exist within the organization to either build a new or customize a commercial solution.
+
+D. A business case.
+   ❌ SAI
+   📝 A business case will be used to document the results of the analysis.
+
+➤ ĐÁP ÁN ĐÚNG: Decision tree.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A decision tree is a tool contained within decision analysis that will help objectively identify the best decision. Everyone will have an opinion in this scenario! BABOK 10.16.3.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+Which techniques might you use during the assess risks task?
+
+A. Brainstorming, root cause analysis, variance analysis
+   ❌ SAI
+   📝 Variance analysis is not a technique in the BABOK. BABOK 6.3.6
+
+B. Brainstorming, benchmarking, lessons learned
+   ❌ SAI
+   📝 Benchmarking is not a stated technique in the assess risks task, but is used in all the other tasks in the strategy analysis knowledge area. BABOK 6.1.6, 6.2.6, and 6.4.6
+
+C. Brainstorming, financial analysis, lessons learned
+   ✅ ĐÚNG
+   📝 These are three of multiple techniques used in the assess risks task. BABOK 6.3.6
+
+D. Brainstorming, functional decomposition, root cause analysis
+   ❌ SAI
+   📝 Functional decomposition is not a stated technique in the assess risks task, but is used in all the other tasks in the strategy analysis knowledge area. BABOK 6.1.6, 6.2.6, and 6.4.6
+
+➤ ĐÁP ÁN ĐÚNG: Brainstorming, financial analysis, lessons learned
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are three of multiple techniques used in the assess risks task. BABOK 6.3.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+Rhonda is a BA reviewing the issues that surfaced on a similar project to the one she is currently assigned to that was closed two years ago. What would be the value in reviewing past issues from similar projects?
+
+A. Reviewing past issues could help identify risks for the current project.
+   ✅ ĐÚNG
+   📝 Manifested risks are issues. Typically, using the Lessons Learned technique to proactively manage risks to prevent issues costs less and delivers more value. BABOK 6.3.6
+
+B. Reviewing past issues will help Rhonda understand which stakeholder groups were impacted and so will assist in stakeholder identification.
+   ❌ SAI
+   📝 While stakeholder identification may be a side benefit, it is not the primary purpose.
+
+C. Reviewing past issues and their fixes could help establish the amount of money needed for the contingency reserves.
+   ❌ SAI
+   📝 While reviewing the financial information may help understand the quantitative impacts of the issues, it is not the primary purpose.
+
+D. Reviewing past issues could help identify the fix so the team won't have to recreate the wheel.
+   ❌ SAI
+   📝 While true, it would be more helpful to prevent the issue from reoccurring.
+
+➤ ĐÁP ÁN ĐÚNG: Reviewing past issues could help identify risks for the current project.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Manifested risks are issues. Typically, using the Lessons Learned technique to proactively manage risks to prevent issues costs less and delivers more value. BABOK 6.3.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+Jessica is the lead business analyst for a major upgrade of enterprise resource planning (ERP) software for her company. She is concerned about the risks associated with achieving the future state that the sponsor wants for the enterprise. Besides the sponsor, which of the following stakeholders would be sensible to invite to the meeting?
+
+A. Suppliers
+   ✅ ĐÚNG
+   📝 Suppliers are listed as a stakeholder type for the assess risks task. They would be logical participants given the scenario's mention of an ERP system. BABOK 6.3.7
+
+B. End-users
+   ❌ SAI
+   📝 End-users are not a listed stakeholder for the assess risks task. BABOK 6.3.7
+
+C. Customers
+   ❌ SAI
+   📝 Customers are not a listed stakeholder for the assess risks task. BABOK 6.3.7
+
+D. Business analysts
+   ❌ SAI
+   📝 Business analyst are not a listed stakeholder for the assess risks task. BABOK 6.3.7
+
+➤ ĐÁP ÁN ĐÚNG: Suppliers
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Suppliers are listed as a stakeholder type for the assess risks task. They would be logical participants given the scenario's mention of an ERP system. BABOK 6.3.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+Lydia is a BA working in a financial institution. The organization has not had success implementing commercial software. Every time a package has been bought, it seems to cause more trouble than it's worth with customization requirements, trouble with interfaces, etc. Lydia is torn between recommending a commercial software package and building the software. What technique/tool will best help her with this analysis?
+
+A. Business capability analysis.
+   ❌ SAI
+   📝 This may provide input into analysis to see if capabilities exist within the organization to either build a new or customize a commercial solution.
+
+B. Decision model.
+   ❌ SAI
+   📝 This may or may not help as decision models show how repeatable decisions are made. They may or may not exist in the organization for this particular decision.
+
+C. Decision tree.
+   ✅ ĐÚNG
+   📝 A decision tree is a tool contained within decision analysis that will help objectively identify the best decision. Everyone will have an opinion in this scenario! BABOK 10.16.3.3
+
+D. A business case.
+   ❌ SAI
+   📝 A business case will be used to document the results of the analysis.
+
+➤ ĐÁP ÁN ĐÚNG: Decision tree.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A decision tree is a tool contained within decision analysis that will help objectively identify the best decision. Everyone will have an opinion in this scenario! BABOK 10.16.3.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+Which of the following types of risk tolerance would be most likely to need a risk mitigation strategy?
+
+A. Risk averse
+   ✅ ĐÚNG
+   📝 With risk-aversion, there is an unwillingness to accept much uncertainty. BABOK 6.3.4.4
+
+B. Risk-seeking
+   ❌ SAI
+   📝 A risk-seeking risk tolerance means a stakeholder is willing to accept risk or even take on more so mitigation is not usually needed. BABOK 6.3.4.4
+
+C. Neutrality
+   ❌ SAI
+   📝 With neutrality some mitigation may be necessary, but not to the same extent as with risk aversion. BABOK 6.3.4.4
+
+D. Risk transferring
+   ❌ SAI
+   📝 This is an invented term.
+
+➤ ĐÁP ÁN ĐÚNG: Risk averse
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+With risk-aversion, there is an unwillingness to accept much uncertainty. BABOK 6.3.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 77 - 30 câu FULL EXPLAIN

@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 134 ===
+📚 Tên: TopicSet 134
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+Monique is analyzing historical data to identify information relevant to her current project. Which type of elicitation is Monique utilizing?
+
+A. Research
+   ✅ ĐÚNG
+   📝 Research involves systematically discovering and studying information from materials or sources that are not directly known by stakeholders to identify trends or past results. Stakeholders can still participate in the research. BABOK 4.2.2
+
+B. Experiments
+   ❌ SAI
+   📝 Experiments involve identifying information that could not be known without some sort of controlled test. Experiments involve observational studies, proofs of concept, and prototypes. The scenario is describing research. BABOK 4.2.2
+
+C. Document analysis
+   ❌ SAI
+   📝 This is a close second! However, document analysis examines materials that describe either the business environment or existing organizational assets vs. historical data. In addition, document analysis is a technique vs. an elicitation type (experiments, collaborative, or research). The scenario is describing research. BABOK 10.18.1 and 4.2.2
+
+D. Collaborative
+   ❌ SAI
+   📝 Collaborative involves direct interaction with stakeholders and relies on stakeholders' experiences, expertise, and judgment. The scenario is describing research. BABOK 4.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Research
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Research involves systematically discovering and studying information from materials or sources that are not directly known by stakeholders to identify trends or past results. Stakeholders can still participate in the research. BABOK 4.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+Which of the following lists contain the three common types of elicitation?
+
+A. Observation, interviews, focus groups
+   ❌ SAI
+   📝 These are techniques that may be used in elicitation vs. elicitation types. BABOK 4.2.2
+
+B. Collaborative, observation, research
+   ❌ SAI
+   📝 Observation is a technique and not one of three types of elicitation. BABOK 4.2.2
+
+C. Collaborative, research, experiments
+   ✅ ĐÚNG
+   📝 These are three stated elicitation types. BABOK 4.2.2
+
+D. Collaborative, document analysis, observation
+   ❌ SAI
+   📝 Document analysis and observation are techniques that may be used in elicitation; collaborative is not. BABOK 4.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Collaborative, research, experiments
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are three stated elicitation types. BABOK 4.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+Kato is working with stakeholders on a proof of concept to validate the design of the new system. What type of elicitation is Kato's team utilizing?
+
+A. Collaborative
+   ❌ SAI
+   📝 Collaborative involves direct interaction with stakeholders and relies on stakeholders' experiences, expertise, and judgment. The scenario is describing experiments. BABOK 4.2.2
+
+B. Prototyping
+   ❌ SAI
+   📝 Prototyping is a technique vs. an elicitation type and a proof of concept is one form of prototyping. BABOK 10.36.3.2 The scenario is describing experiments. The other two elicitation types are research and collaboration. BABOK 4.2.2
+
+C. Research
+   ❌ SAI
+   📝 Research involves systematically discovering and studying information from materials or sources that are not directly known by stakeholders to identify trends or past results. The scenario is describing experiments. BABOK 4.2.2
+
+D. Experiments
+   ✅ ĐÚNG
+   📝 Experiments involve identifying information that could not be known without some sort of controlled test. Experiments involve observational studies, proofs of concept, and prototypes. BABOK 4.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Experiments
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Experiments involve identifying information that could not be known without some sort of controlled test. Experiments involve observational studies, proofs of concept, and prototypes. BABOK 4.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+You have been working on your project for 6 months and have just finished eliciting all of the requirements. A review is scheduled in 2 weeks to ensure you have a solid understanding of your stakeholders' requirements before they are baselined. What do you have at this point as an input into the review?
+
+A. Stakeholder concerns
+   ❌ SAI
+   📝 You may have a list of stakeholder concerns but the question is asking about requirements. At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+B. Unconfirmed elicitation results
+   ✅ ĐÚNG
+   📝 At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+C. Specified and modeled requirements
+   ❌ SAI
+   📝 Perhaps but there is no evidence in the scenario that requirements have been specified and modeled at this point. At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+D. Confirmed elicitation results
+   ❌ SAI
+   📝 The review will be used to confirm requirements. At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+➤ ĐÁP ÁN ĐÚNG: Unconfirmed elicitation results
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+Which task in the elicitation and collaboration knowledge area may use all of the following techniques: brainstorming, focus groups, interviews, and observation?
+
+A. Confirm elicitation results
+   ❌ SAI
+   📝 Confirm elicitation results may use interviews, but brainstorming, focus groups, and observation are not listed as techniques for this task. BABOK 4.3.6
+
+B. Manage elicitation results
+   ❌ SAI
+   📝 This is an invented answer; there is no such task in the elicitation and collaboration knowledge area. BABOK 4.0
+
+C. Conduct elicitation
+   ✅ ĐÚNG
+   📝 Brainstorming, focus groups, interviews, and observation techniques are all listed for this task. BABOK 4.2.6
+
+D. Prepare for elicitation
+   ❌ SAI
+   📝 Prepare for elicitation may use brainstorming and interviews, but focus groups and observation are not listed as techniques for this task. BABOK 4.1.6
+
+➤ ĐÁP ÁN ĐÚNG: Conduct elicitation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Brainstorming, focus groups, interviews, and observation techniques are all listed for this task. BABOK 4.2.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+Which stakeholders participate in the conduct elicitation task?
+
+A. Stakeholders who were originally identified in the elicitation activity plan.
+   ❌ SAI
+   📝 This may be a great starting place, but remember that plans are dynamic and are continuously modified and improved. BABOK 4.2.7
+
+B. Depending on the activity, any stakeholder with relevant knowledge or experience.
+   ✅ ĐÚNG
+   📝 This is the "catch all" participant. Others noted include the customer, domain and implementation subject matter experts, end users, and sponsor. BABOK 4.2.7
+
+C. Customers, end users, domain subject matter experts, and implementation subject matter experts.
+   ❌ SAI
+   📝 Stakeholders from these categories will most likely be involved but this list is too definitive given the question. It is missing sponsor, and "any stakeholder" who has relevant knowledge or experience. BABOK 4.2.7
+
+D. Only the sponsor.
+   ❌ SAI
+   📝 While the sponsor does participate, this is too narrow an answer. BABOK 4.2.7
+
+➤ ĐÁP ÁN ĐÚNG: Depending on the activity, any stakeholder with relevant knowledge or experience.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the "catch all" participant. Others noted include the customer, domain and implementation subject matter experts, end users, and sponsor. BABOK 4.2.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+You are eliciting requirements by analyzing historical data to identify trends. What task are you performing?
+
+A. Data mining
+   ❌ SAI
+   📝 This is the likely technique you are using but the question is asking for a task. BABOK 4.2.2 and 10.14
+
+B. Conduct elicitation
+   ✅ ĐÚNG
+   📝 You are utilizing the "research" type of elicitation. BABOK 4.2.2
+
+C. Confirm elicitation results
+   ❌ SAI
+   📝 You may perform document analysis to confirm requirements you have elicited from stakeholders; however, this question states that you are "eliciting" requirements through historical analysis. Therefore, you are conducting elicitation. BABOK 4.2.2
+
+D. Document analysis
+   ❌ SAI
+   📝 This is a technique vs. a task. BABOK 4.2.2 and 10.18
+
+➤ ĐÁP ÁN ĐÚNG: Conduct elicitation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+You are utilizing the "research" type of elicitation. BABOK 4.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+In order to conduct elicitation, what guidelines and tools will you need?
+
+A. Business analysis approach, existing business analysis information, stakeholder engagement approach, and the elicitation activity plan
+   ❌ SAI
+   📝 The elicitation activity plan is an "input" vs. a guideline or tool; the list is missing "supporting materials." BABOK Figure 4.2.1
+
+B. Business analysis approach, existing business analysis Information, stakeholder engagement approach, and supporting materials
+   ✅ ĐÚNG
+   📝 This is the correct list of guidelines and tools for the task "conduct elicitation." BABOK Figure 4.2.1
+
+C. Business analysis approach, elicitation activity plan, stakeholder engagement approach, and supporting materials
+   ❌ SAI
+   📝 The elicitation activity plan is an "input" vs. a guideline or tool; the list is missing "existing business analysis information." BABOK Figure 4.2.1
+
+D. Elicitation activity plan, existing business analysis information, stakeholder engagement approach, and supporting materials
+   ❌ SAI
+   📝 The elicitation activity plan is an "input" vs. a guideline or tool; the list is missing "business analysis approach." BABOK Figure 4.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis approach, existing business analysis Information, stakeholder engagement approach, and supporting materials
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the correct list of guidelines and tools for the task "conduct elicitation." BABOK Figure 4.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+In order to conduct elicitation, what guidelines and tools will you need?
+
+A. Elicitation activity plan, existing business analysis information, stakeholder engagement approach, and supporting materials
+   ❌ SAI
+   📝 The elicitation activity plan is an "input" vs. a guideline or tool; the list is missing "business analysis approach." BABOK Figure 4.2.1
+
+B. Business analysis approach, elicitation activity plan, stakeholder engagement approach, and supporting materials
+   ❌ SAI
+   📝 The elicitation activity plan is an "input" vs. a guideline or tool; the list is missing "existing business analysis information." BABOK Figure 4.2.1
+
+C. Business analysis approach, existing business analysis Information, stakeholder engagement approach, and supporting materials
+   ✅ ĐÚNG
+   📝 This is the correct list of guidelines and tools for the task "conduct elicitation." BABOK Figure 4.2.1
+
+D. Business analysis approach, existing business analysis information, stakeholder engagement approach, and the elicitation activity plan
+   ❌ SAI
+   📝 The elicitation activity plan is an "input" vs. a guideline or tool; the list is missing "supporting materials." BABOK Figure 4.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis approach, existing business analysis Information, stakeholder engagement approach, and supporting materials
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the correct list of guidelines and tools for the task "conduct elicitation." BABOK Figure 4.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+Interviews and interface analysis are techniques used during which task?
+
+A. Prepare for elicitation
+   ❌ SAI
+   📝 Interface analysis is not a suggested technique for this task. BABOK 4.2.6
+
+B. Confirm elicitation
+   ❌ SAI
+   📝 Interface analysis is not a suggested technique for this task. BABOK 4.2.6
+
+C. Conduct elicitation
+   ✅ ĐÚNG
+   📝 These are stated techniques used to conduct elicitation. BABOK 4.2.6
+
+D. Prepare documentation
+   ❌ SAI
+   📝 This is not a BABOK task. Conduct elicitation is the correct task. BABOK 4.2.6
+
+➤ ĐÁP ÁN ĐÚNG: Conduct elicitation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are stated techniques used to conduct elicitation. BABOK 4.2.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Shelby is eliciting requirements for a new program intended to increase employee satisfaction. Recent surveys indicated that employees did not feel recognized for a job well done, but the sponsor is not sure a "Gold Star Award" would bolster employee satisfaction results at their company. What could Shelby suggest?
+
+A. Suggest the "Gold Star Award" be piloted and then assess the results before moving forward.
+   ✅ ĐÚNG
+   📝 This is a type of elicitation called "experiments" and is used when information is unknown without some sort of controlled test. BABOK 4.2.2
+
+B. Suggest that a quick survey be distributed to see what employees think of the idea.
+   ❌ SAI
+   📝 This would be a close answer, but a survey will not provide detailed requirements and may work against the overall objective if the program is queried but not implemented. In addition, response rates on surveys are often too low for a thorough understanding of a topic and any ambiguous questions may be left unanswered or answered incorrectly. Given this is a new award program which people know little about, it may be difficult to get employee's input on something that doesn't exist. In this case it might be better to conduct a pilot of the award program to get more realistic feedback. BABOK 4.2.2
+
+C. Researching other companies to see what they do and then benchmark against existing programs.
+   ❌ SAI
+   📝 The scenario suggests that the sponsor isn't sure that the "Gold Star Award" would work at their company. Researching and benchmarking will not change that. The scenario is calling for a pilot which is an "experiment" elicitation type. BABOK 4.2.2
+
+D. Scrap the idea because it is too risky.
+   ❌ SAI
+   📝 This is a little hasty; the idea had to be elicited from a company source. The scenario is calling for a pilot which is an "experiment" elicitation type. BABOK 4.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Suggest the "Gold Star Award" be piloted and then assess the results before moving forward.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a type of elicitation called "experiments" and is used when information is unknown without some sort of controlled test. BABOK 4.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+Shelby is eliciting requirements for a new program intended to increase employee satisfaction. Recent surveys indicated that employees did not feel recognized for a job well done, but the sponsor is not sure a "Gold Star Award" would bolster employee satisfaction results at their company. What could Shelby suggest?
+
+A. Suggest that a quick survey be distributed to see what employees think of the idea.
+   ❌ SAI
+   📝 This would be a close answer, but a survey will not provide detailed requirements and may work against the overall objective if the program is queried but not implemented. In addition, response rates on surveys are often too low for a thorough understanding of a topic and any ambiguous questions may be left unanswered or answered incorrectly. Given this is a new award program which people know little about, it may be difficult to get employee's input on something that doesn't exist. In this case it might be better to conduct a pilot of the award program to get more realistic feedback. BABOK 4.2.2
+
+B. Scrap the idea because it is too risky.
+   ❌ SAI
+   📝 This is a little hasty; the idea had to be elicited from a company source. The scenario is calling for a pilot which is an "experiment" elicitation type. BABOK 4.2.2
+
+C. Suggest the "Gold Star Award" be piloted and then assess the results before moving forward.
+   ✅ ĐÚNG
+   📝 This is a type of elicitation called "experiments" and is used when information is unknown without some sort of controlled test. BABOK 4.2.2
+
+D. Researching other companies to see what they do and then benchmark against existing programs.
+   ❌ SAI
+   📝 The scenario suggests that the sponsor isn't sure that the "Gold Star Award" would work at their company. Researching and benchmarking will not change that. The scenario is calling for a pilot which is an "experiment" elicitation type. BABOK 4.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Suggest the "Gold Star Award" be piloted and then assess the results before moving forward.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a type of elicitation called "experiments" and is used when information is unknown without some sort of controlled test. BABOK 4.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+You have been working on your project for 6 months and have just finished eliciting all of the requirements. A review is scheduled in 2 weeks to ensure you have a solid understanding of your stakeholders' requirements before they are baselined. What do you have at this point as an input into the review?
+
+A. Unconfirmed elicitation results
+   ✅ ĐÚNG
+   📝 At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+B. Stakeholder concerns
+   ❌ SAI
+   📝 You may have a list of stakeholder concerns but the question is asking about requirements. At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+C. Specified and modeled requirements
+   ❌ SAI
+   📝 Perhaps but there is no evidence in the scenario that requirements have been specified and modeled at this point. At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+D. Confirmed elicitation results
+   ❌ SAI
+   📝 The review will be used to confirm requirements. At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+➤ ĐÁP ÁN ĐÚNG: Unconfirmed elicitation results
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+Which task in the elicitation and collaboration knowledge area may use all of the following techniques: brainstorming, focus groups, interviews, and observation?
+
+A. Prepare for elicitation
+   ❌ SAI
+   📝 Prepare for elicitation may use brainstorming and interviews, but focus groups and observation are not listed as techniques for this task. BABOK 4.1.6
+
+B. Manage elicitation results
+   ❌ SAI
+   📝 This is an invented answer; there is no such task in the elicitation and collaboration knowledge area. BABOK 4.0
+
+C. Conduct elicitation
+   ✅ ĐÚNG
+   📝 Brainstorming, focus groups, interviews, and observation techniques are all listed for this task. BABOK 4.2.6
+
+D. Confirm elicitation results
+   ❌ SAI
+   📝 Confirm elicitation results may use interviews, but brainstorming, focus groups, and observation are not listed as techniques for this task. BABOK 4.3.6
+
+➤ ĐÁP ÁN ĐÚNG: Conduct elicitation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Brainstorming, focus groups, interviews, and observation techniques are all listed for this task. BABOK 4.2.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+Which of the following is NOT a key element to consider when conducting elicitation activities?
+
+A. Understand how the output integrates into what is already known.
+   ❌ SAI
+   📝 This is a stated element within the task of conduct elicitation. BABOK 4.2.4.1
+
+B. Determine what forms of output the activity will generate.
+   ❌ SAI
+   📝 This is a stated element within the task of conduct elicitation. BABOK 4.2.4.1
+
+C. Select an elicitation technique to use.
+   ✅ ĐÚNG
+   📝 This is not a stated element within the task of conduct elicitation; it is a more appropriate element in the task of preparing for elicitation. BABOK 4.1.4.1 and 4.2.4
+
+D. Consider how the information will be used.
+   ❌ SAI
+   📝 This is a stated element within the task of conduct elicitation. BABOK 4.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Select an elicitation technique to use.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is not a stated element within the task of conduct elicitation; it is a more appropriate element in the task of preparing for elicitation. BABOK 4.1.4.1 and 4.2.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+Interviews and interface analysis are techniques used during which task?
+
+A. Prepare documentation
+   ❌ SAI
+   📝 This is not a BABOK task. Conduct elicitation is the correct task. BABOK 4.2.6
+
+B. Confirm elicitation
+   ❌ SAI
+   📝 Interface analysis is not a suggested technique for this task. BABOK 4.2.6
+
+C. Conduct elicitation
+   ✅ ĐÚNG
+   📝 These are stated techniques used to conduct elicitation. BABOK 4.2.6
+
+D. Prepare for elicitation
+   ❌ SAI
+   📝 Interface analysis is not a suggested technique for this task. BABOK 4.2.6
+
+➤ ĐÁP ÁN ĐÚNG: Conduct elicitation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are stated techniques used to conduct elicitation. BABOK 4.2.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+Which task in the elicitation and collaboration knowledge area may use all of the following techniques: brainstorming, focus groups, interviews, and observation?
+
+A. Manage elicitation results
+   ❌ SAI
+   📝 This is an invented answer; there is no such task in the elicitation and collaboration knowledge area. BABOK 4.0
+
+B. Prepare for elicitation
+   ❌ SAI
+   📝 Prepare for elicitation may use brainstorming and interviews, but focus groups and observation are not listed as techniques for this task. BABOK 4.1.6
+
+C. Confirm elicitation results
+   ❌ SAI
+   📝 Confirm elicitation results may use interviews, but brainstorming, focus groups, and observation are not listed as techniques for this task. BABOK 4.3.6
+
+D. Conduct elicitation
+   ✅ ĐÚNG
+   📝 Brainstorming, focus groups, interviews, and observation techniques are all listed for this task. BABOK 4.2.6
+
+➤ ĐÁP ÁN ĐÚNG: Conduct elicitation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Brainstorming, focus groups, interviews, and observation techniques are all listed for this task. BABOK 4.2.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+Kato is working with stakeholders on a proof of concept to validate the design of the new system. What type of elicitation is Kato's team utilizing?
+
+A. Experiments
+   ✅ ĐÚNG
+   📝 Experiments involve identifying information that could not be known without some sort of controlled test. Experiments involve observational studies, proofs of concept, and prototypes. BABOK 4.2.2
+
+B. Research
+   ❌ SAI
+   📝 Research involves systematically discovering and studying information from materials or sources that are not directly known by stakeholders to identify trends or past results. The scenario is describing experiments. BABOK 4.2.2
+
+C. Collaborative
+   ❌ SAI
+   📝 Collaborative involves direct interaction with stakeholders and relies on stakeholders' experiences, expertise, and judgment. The scenario is describing experiments. BABOK 4.2.2
+
+D. Prototyping
+   ❌ SAI
+   📝 Prototyping is a technique vs. an elicitation type and a proof of concept is one form of prototyping. BABOK 10.36.3.2 The scenario is describing experiments. The other two elicitation types are research and collaboration. BABOK 4.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Experiments
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Experiments involve identifying information that could not be known without some sort of controlled test. Experiments involve observational studies, proofs of concept, and prototypes. BABOK 4.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+You are eliciting requirements by analyzing historical data to identify trends. What task are you performing?
+
+A. Conduct elicitation
+   ✅ ĐÚNG
+   📝 You are utilizing the "research" type of elicitation. BABOK 4.2.2
+
+B. Document analysis
+   ❌ SAI
+   📝 This is a technique vs. a task. BABOK 4.2.2 and 10.18
+
+C. Confirm elicitation results
+   ❌ SAI
+   📝 You may perform document analysis to confirm requirements you have elicited from stakeholders; however, this question states that you are "eliciting" requirements through historical analysis. Therefore, you are conducting elicitation. BABOK 4.2.2
+
+D. Data mining
+   ❌ SAI
+   📝 This is the likely technique you are using but the question is asking for a task. BABOK 4.2.2 and 10.14
+
+➤ ĐÁP ÁN ĐÚNG: Conduct elicitation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+You are utilizing the "research" type of elicitation. BABOK 4.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+Which stakeholders participate in the conduct elicitation task?
+
+A. Only the sponsor.
+   ❌ SAI
+   📝 While the sponsor does participate, this is too narrow an answer. BABOK 4.2.7
+
+B. Stakeholders who were originally identified in the elicitation activity plan.
+   ❌ SAI
+   📝 This may be a great starting place, but remember that plans are dynamic and are continuously modified and improved. BABOK 4.2.7
+
+C. Depending on the activity, any stakeholder with relevant knowledge or experience.
+   ✅ ĐÚNG
+   📝 This is the "catch all" participant. Others noted include the customer, domain and implementation subject matter experts, end users, and sponsor. BABOK 4.2.7
+
+D. Customers, end users, domain subject matter experts, and implementation subject matter experts.
+   ❌ SAI
+   📝 Stakeholders from these categories will most likely be involved but this list is too definitive given the question. It is missing sponsor, and "any stakeholder" who has relevant knowledge or experience. BABOK 4.2.7
+
+➤ ĐÁP ÁN ĐÚNG: Depending on the activity, any stakeholder with relevant knowledge or experience.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the "catch all" participant. Others noted include the customer, domain and implementation subject matter experts, end users, and sponsor. BABOK 4.2.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Which of the following lists contain the three common types of elicitation?
+
+A. Collaborative, research, experiments
+   ✅ ĐÚNG
+   📝 These are three stated elicitation types. BABOK 4.2.2
+
+B. Collaborative, observation, research
+   ❌ SAI
+   📝 Observation is a technique and not one of three types of elicitation. BABOK 4.2.2
+
+C. Observation, interviews, focus groups
+   ❌ SAI
+   📝 These are techniques that may be used in elicitation vs. elicitation types. BABOK 4.2.2
+
+D. Collaborative, document analysis, observation
+   ❌ SAI
+   📝 Document analysis and observation are techniques that may be used in elicitation; collaborative is not. BABOK 4.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Collaborative, research, experiments
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are three stated elicitation types. BABOK 4.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+You have been working on your project for 6 months and have just finished eliciting all of the requirements. A review is scheduled in 2 weeks to ensure you have a solid understanding of your stakeholders' requirements before they are baselined. What do you have at this point as an input into the review?
+
+A. Specified and modeled requirements
+   ❌ SAI
+   📝 Perhaps but there is no evidence in the scenario that requirements have been specified and modeled at this point. At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+B. Unconfirmed elicitation results
+   ✅ ĐÚNG
+   📝 At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+C. Confirmed elicitation results
+   ❌ SAI
+   📝 The review will be used to confirm requirements. At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+D. Stakeholder concerns
+   ❌ SAI
+   📝 You may have a list of stakeholder concerns but the question is asking about requirements. At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+➤ ĐÁP ÁN ĐÚNG: Unconfirmed elicitation results
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+At the end of elicitation activities, the BA has unconfirmed elicitation results. BABOK 4.2.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+Shelby is eliciting requirements for a new program intended to increase employee satisfaction. Recent surveys indicated that employees did not feel recognized for a job well done, but the sponsor is not sure a "Gold Star Award" would bolster employee satisfaction results at their company. What could Shelby suggest?
+
+A. Researching other companies to see what they do and then benchmark against existing programs.
+   ❌ SAI
+   📝 The scenario suggests that the sponsor isn't sure that the "Gold Star Award" would work at their company. Researching and benchmarking will not change that. The scenario is calling for a pilot which is an "experiment" elicitation type. BABOK 4.2.2
+
+B. Suggest that a quick survey be distributed to see what employees think of the idea.
+   ❌ SAI
+   📝 This would be a close answer, but a survey will not provide detailed requirements and may work against the overall objective if the program is queried but not implemented. In addition, response rates on surveys are often too low for a thorough understanding of a topic and any ambiguous questions may be left unanswered or answered incorrectly. Given this is a new award program which people know little about, it may be difficult to get employee's input on something that doesn't exist. In this case it might be better to conduct a pilot of the award program to get more realistic feedback. BABOK 4.2.2
+
+C. Scrap the idea because it is too risky.
+   ❌ SAI
+   📝 This is a little hasty; the idea had to be elicited from a company source. The scenario is calling for a pilot which is an "experiment" elicitation type. BABOK 4.2.2
+
+D. Suggest the "Gold Star Award" be piloted and then assess the results before moving forward.
+   ✅ ĐÚNG
+   📝 This is a type of elicitation called "experiments" and is used when information is unknown without some sort of controlled test. BABOK 4.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Suggest the "Gold Star Award" be piloted and then assess the results before moving forward.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a type of elicitation called "experiments" and is used when information is unknown without some sort of controlled test. BABOK 4.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Interviews and interface analysis are techniques used during which task?
+
+A. Prepare for elicitation
+   ❌ SAI
+   📝 Interface analysis is not a suggested technique for this task. BABOK 4.2.6
+
+B. Conduct elicitation
+   ✅ ĐÚNG
+   📝 These are stated techniques used to conduct elicitation. BABOK 4.2.6
+
+C. Confirm elicitation
+   ❌ SAI
+   📝 Interface analysis is not a suggested technique for this task. BABOK 4.2.6
+
+D. Prepare documentation
+   ❌ SAI
+   📝 This is not a BABOK task. Conduct elicitation is the correct task. BABOK 4.2.6
+
+➤ ĐÁP ÁN ĐÚNG: Conduct elicitation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are stated techniques used to conduct elicitation. BABOK 4.2.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+In order to conduct elicitation, what guidelines and tools will you need?
+
+A. Business analysis approach, elicitation activity plan, stakeholder engagement approach, and supporting materials
+   ❌ SAI
+   📝 The elicitation activity plan is an "input" vs. a guideline or tool; the list is missing "existing business analysis information." BABOK Figure 4.2.1
+
+B. Elicitation activity plan, existing business analysis information, stakeholder engagement approach, and supporting materials
+   ❌ SAI
+   📝 The elicitation activity plan is an "input" vs. a guideline or tool; the list is missing "business analysis approach." BABOK Figure 4.2.1
+
+C. Business analysis approach, existing business analysis information, stakeholder engagement approach, and the elicitation activity plan
+   ❌ SAI
+   📝 The elicitation activity plan is an "input" vs. a guideline or tool; the list is missing "supporting materials." BABOK Figure 4.2.1
+
+D. Business analysis approach, existing business analysis Information, stakeholder engagement approach, and supporting materials
+   ✅ ĐÚNG
+   📝 This is the correct list of guidelines and tools for the task "conduct elicitation." BABOK Figure 4.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis approach, existing business analysis Information, stakeholder engagement approach, and supporting materials
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the correct list of guidelines and tools for the task "conduct elicitation." BABOK Figure 4.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+You have completed the elicitation activity plan. You have prepared for and conducted a workshop to gather requirements. What is the typical next step that you would follow?
+
+A. Confirm your elicitation results and communicate as appropriate
+   ❌ SAI
+   📝 You cannot confirm them yet; you're missing an essential step. The question is looking for "capture the elicitation outcomes" which is an element of conduct elicitation. BABOK 4.2.4.2
+
+B. Send meeting notes out to all attendees
+   ❌ SAI
+   📝 This is too general an answer as some level of meeting notes or minutes are typically distributed subsequent to any meeting. The question is looking for "capture the elicitation outcomes" which is an element of conduct elicitation. BABOK 4.2.4.2
+
+C. Specify and model the requirements
+   ❌ SAI
+   📝 You might elect to do this but typically not until you have completed another step. The question is looking for "capture the elicitation outcomes" which is an element of conduct elicitation. BABOK 4.2.4.2
+
+D. Record the results from the workshop so that they can be confirmed
+   ✅ ĐÚNG
+   📝 The BABOK actually uses the phrase "capture the elicitation outcomes." This is an element of conduct elicitation. BABOK 4.2.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Record the results from the workshop so that they can be confirmed
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The BABOK actually uses the phrase "capture the elicitation outcomes." This is an element of conduct elicitation. BABOK 4.2.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+Which task in the elicitation and collaboration knowledge area may use all of the following techniques: brainstorming, focus groups, interviews, and observation?
+
+A. Manage elicitation results
+   ❌ SAI
+   📝 This is an invented answer; there is no such task in the elicitation and collaboration knowledge area. BABOK 4.0
+
+B. Prepare for elicitation
+   ❌ SAI
+   📝 Prepare for elicitation may use brainstorming and interviews, but focus groups and observation are not listed as techniques for this task. BABOK 4.1.6
+
+C. Confirm elicitation results
+   ❌ SAI
+   📝 Confirm elicitation results may use interviews, but brainstorming, focus groups, and observation are not listed as techniques for this task. BABOK 4.3.6
+
+D. Conduct elicitation
+   ✅ ĐÚNG
+   📝 Brainstorming, focus groups, interviews, and observation techniques are all listed for this task. BABOK 4.2.6
+
+➤ ĐÁP ÁN ĐÚNG: Conduct elicitation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Brainstorming, focus groups, interviews, and observation techniques are all listed for this task. BABOK 4.2.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+You are eliciting requirements by analyzing historical data to identify trends. What task are you performing?
+
+A. Confirm elicitation results
+   ❌ SAI
+   📝 You may perform document analysis to confirm requirements you have elicited from stakeholders; however, this question states that you are "eliciting" requirements through historical analysis. Therefore, you are conducting elicitation. BABOK 4.2.2
+
+B. Document analysis
+   ❌ SAI
+   📝 This is a technique vs. a task. BABOK 4.2.2 and 10.18
+
+C. Conduct elicitation
+   ✅ ĐÚNG
+   📝 You are utilizing the "research" type of elicitation. BABOK 4.2.2
+
+D. Data mining
+   ❌ SAI
+   📝 This is the likely technique you are using but the question is asking for a task. BABOK 4.2.2 and 10.14
+
+➤ ĐÁP ÁN ĐÚNG: Conduct elicitation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+You are utilizing the "research" type of elicitation. BABOK 4.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+Shelby is eliciting requirements for a new program intended to increase employee satisfaction. Recent surveys indicated that employees did not feel recognized for a job well done, but the sponsor is not sure a "Gold Star Award" would bolster employee satisfaction results at their company. What could Shelby suggest?
+
+A. Suggest that a quick survey be distributed to see what employees think of the idea.
+   ❌ SAI
+   📝 This would be a close answer, but a survey will not provide detailed requirements and may work against the overall objective if the program is queried but not implemented. In addition, response rates on surveys are often too low for a thorough understanding of a topic and any ambiguous questions may be left unanswered or answered incorrectly. Given this is a new award program which people know little about, it may be difficult to get employee's input on something that doesn't exist. In this case it might be better to conduct a pilot of the award program to get more realistic feedback. BABOK 4.2.2
+
+B. Scrap the idea because it is too risky.
+   ❌ SAI
+   📝 This is a little hasty; the idea had to be elicited from a company source. The scenario is calling for a pilot which is an "experiment" elicitation type. BABOK 4.2.2
+
+C. Researching other companies to see what they do and then benchmark against existing programs.
+   ❌ SAI
+   📝 The scenario suggests that the sponsor isn't sure that the "Gold Star Award" would work at their company. Researching and benchmarking will not change that. The scenario is calling for a pilot which is an "experiment" elicitation type. BABOK 4.2.2
+
+D. Suggest the "Gold Star Award" be piloted and then assess the results before moving forward.
+   ✅ ĐÚNG
+   📝 This is a type of elicitation called "experiments" and is used when information is unknown without some sort of controlled test. BABOK 4.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Suggest the "Gold Star Award" be piloted and then assess the results before moving forward.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a type of elicitation called "experiments" and is used when information is unknown without some sort of controlled test. BABOK 4.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+Which of the following lists contain the three common types of elicitation?
+
+A. Collaborative, observation, research
+   ❌ SAI
+   📝 Observation is a technique and not one of three types of elicitation. BABOK 4.2.2
+
+B. Collaborative, document analysis, observation
+   ❌ SAI
+   📝 Document analysis and observation are techniques that may be used in elicitation; collaborative is not. BABOK 4.2.2
+
+C. Observation, interviews, focus groups
+   ❌ SAI
+   📝 These are techniques that may be used in elicitation vs. elicitation types. BABOK 4.2.2
+
+D. Collaborative, research, experiments
+   ✅ ĐÚNG
+   📝 These are three stated elicitation types. BABOK 4.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Collaborative, research, experiments
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are three stated elicitation types. BABOK 4.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 134 - 30 câu FULL EXPLAIN

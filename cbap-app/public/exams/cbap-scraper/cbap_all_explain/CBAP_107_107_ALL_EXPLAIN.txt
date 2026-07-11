@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 107 ===
+📚 Tên: TopicSet 107
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+Approval of requirements and designs may be formal or informal. Which of the following tasks defines how approval and prioritization decisions are made?
+
+A. Approve requirements
+   ❌ SAI
+   📝 The purpose of the approve requirements task is to obtain agreement and approval, but not define decisions on how the approval process will be conducted. BABOK 5.5.2
+
+B. Plan business analysis information management
+   ❌ SAI
+   📝 This task defines how business analysis information is captured and stored for reuse. BABOK 3.4.2
+
+C. Plan business analysis approach
+   ❌ SAI
+   📝 This task defines the appropriate method for conducting business analysis activities. BABOK 3.1.2
+
+D. Plan business analysis governance
+   ✅ ĐÚNG
+   📝 Governance is responsible for defining how decisions are made regarding all facets of requirements and designs. BABOK 3.3.2
+
+➤ ĐÁP ÁN ĐÚNG: Plan business analysis governance
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Governance is responsible for defining how decisions are made regarding all facets of requirements and designs. BABOK 3.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+Piper is the business analyst for an initiative. The organization is undergoing restructuring and introducing changes to the existing business analysis approach. She has been asked to assess each proposed change. The results of her assessment must support the decision-making and change control approaches defined by which of the following tasks?
+
+A. Plan business analysis governance
+   ✅ ĐÚNG
+   📝 A governance process identifies the decision makers, process, and information required for making decisions. BABOK 3.3.2
+
+B. Business analysis performance assessment
+   ❌ SAI
+   📝 This is a guideline/tool for the plan business analysis governance task, not a task. BABOK 3.3.5
+
+C. Approve changes
+   ❌ SAI
+   📝 The scenario asks about assessing changing in support of decision-making processes.
+
+D. Assess requirements changes
+   ❌ SAI
+   📝 This task deals with evaluating the implications of proposed changes and not with governance.
+
+➤ ĐÁP ÁN ĐÚNG: Plan business analysis governance
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A governance process identifies the decision makers, process, and information required for making decisions. BABOK 3.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+Approval of requirements and designs may be formal or informal. Which of the following tasks defines how approval and prioritization decisions are made?
+
+A. Plan business analysis information management
+   ❌ SAI
+   📝 This task defines how business analysis information is captured and stored for reuse. BABOK 3.4.2
+
+B. Plan business analysis approach
+   ❌ SAI
+   📝 This task defines the appropriate method for conducting business analysis activities. BABOK 3.1.2
+
+C. Plan business analysis governance
+   ✅ ĐÚNG
+   📝 Governance is responsible for defining how decisions are made regarding all facets of requirements and designs. BABOK 3.3.2
+
+D. Approve requirements
+   ❌ SAI
+   📝 The purpose of the approve requirements task is to obtain agreement and approval, but not define decisions on how the approval process will be conducted. BABOK 5.5.2
+
+➤ ĐÁP ÁN ĐÚNG: Plan business analysis governance
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Governance is responsible for defining how decisions are made regarding all facets of requirements and designs. BABOK 3.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+As soon as you were assigned as the BA to an initiative, you were advised to begin planning the governance approach to define how decisions will be made about requirements and designs. What would you expect to have available to you in order to create this plan?
+
+A. The current state description and lessons learned documentation from previous, similar projects
+   ❌ SAI
+   📝 The current state description is a guideline/tool for the plan business analysis governance approach task but neither are inputs. BABOK Figure 3.3.1
+
+B. Business policies and the current state description
+   ❌ SAI
+   📝 These are guidelines and tools but not the required inputs. BABOK Figure 3.3.1
+
+C. Business policies and legal/regulatory information
+   ❌ SAI
+   📝 These are guidelines and tools but not the required inputs. BABOK Figure 3.3.1
+
+D. The business analysis approach and the stakeholder engagement approach
+   ✅ ĐÚNG
+   📝 The business analysis and stakeholder engagement approaches are inputs into the plan business analysis governance task. BABOK Figure 3.3.1.
+
+➤ ĐÁP ÁN ĐÚNG: The business analysis approach and the stakeholder engagement approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The business analysis and stakeholder engagement approaches are inputs into the plan business analysis governance task. BABOK Figure 3.3.1.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+Which of the following outputs will identify the stakeholders who will be responsible for setting priorities?
+
+A. Governance approach
+   ✅ ĐÚNG
+   📝 In addition, it will identify the stakeholders who will have the responsibility and authority to make decisions about business analysis work and who will approve changes to BA information. BABOK 3.3.8
+
+B. Business analysis performance strategy
+   ❌ SAI
+   📝 This is not an output in the BABOK. BABOK 3.3.8
+
+C. Information management approach
+   ❌ SAI
+   📝 This is an output of plan business analysis information management and includes the defined approach for how BA information will be stored, accessed, and utilized both during and after the change. BABOK 3.4.8
+
+D. Stakeholder engagement approach
+   ❌ SAI
+   📝 This is an output of plan stakeholder engagement and includes a list of the stakeholders, their characteristics which were analyzed, and a listing of roles and responsibilities for the change. BABOK 3.2.8
+
+➤ ĐÁP ÁN ĐÚNG: Governance approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+In addition, it will identify the stakeholders who will have the responsibility and authority to make decisions about business analysis work and who will approve changes to BA information. BABOK 3.3.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+Which of the following sets represents key concepts that are needed to understand how to effectively perform the plan business analysis governance task?
+
+A. Decision making, change control process, plan prioritization approach, level of abstraction, plan for approvals.
+   ❌ SAI
+   📝 Level of abstraction is an element in the plan business analysis information management task. BABOK 3.4.4.2
+
+B. Performance analysis, change control process, plan prioritization approach, plan for approvals.
+   ❌ SAI
+   📝 Performance analysis is an element in the identify business analysis performance improvements task. BABOK 3.5.4.1
+
+C. Decision making, change control process, plan prioritization approach, plan for approvals.
+   ✅ ĐÚNG
+   📝 These are stated elements of the plan business analysis governance task. BABOK 3.3.4
+
+D. Organization of business analysis information, change control process, plan prioritization approach, plan for approvals.
+   ❌ SAI
+   📝 Organization of business analysis information is an element of the plan business analysis information management task. BABOK 3.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Decision making, change control process, plan prioritization approach, plan for approvals.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are stated elements of the plan business analysis governance task. BABOK 3.3.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+Guidelines and tools included in the plan business analysis governance task include which of the following?
+
+A. Business analysis performance assessment, business policies, current state description.
+   ❌ SAI
+   📝 The legal/regulatory information guideline is missing. BABOK 3.3.5
+
+B. Business analysis performance assessment, business policies, change strategy, current state description, legal/regulatory information.
+   ❌ SAI
+   📝 Change strategy is not a stated element in the BABOK. BABOK 3.3.5
+
+C. Business analysis performance assessment, change strategy, current state description, legal/regulatory information.
+   ❌ SAI
+   📝 Change strategy is not a stated element in the BABOK, and the business policies guideline is missing. BABOK 3.3.5
+
+D. Business analysis performance assessment, business policies, current state description, legal/regulatory information.
+   ✅ ĐÚNG
+   📝 These are the guidelines and tools used in the plan business analysis governance task. BABOK 3.3.5
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis performance assessment, business policies, current state description, legal/regulatory information.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the guidelines and tools used in the plan business analysis governance task. BABOK 3.3.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+Dustin is a BA who has just completed defining an appropriate method to conduct business analysis activities when a stakeholder raises concerns about how decisions will be made. In response to the disgruntled stakeholder, Dustin wants to solidify how decisions will be made about requirements, including reviews, change control, and prioritization. However, you remind him he has to complete one more task before he can start this activity. What would that task be?
+
+A. Plan business analysis approach
+   ❌ SAI
+   📝 Before planning business analysis governance, which is the described task that Dustin wants to do, the inputs of the business analysis and stakeholder engagement approaches must be in place. BABOK 3.3.3
+
+B. Plan stakeholder engagement
+   ✅ ĐÚNG
+   📝 Before planning business analysis governance, which is the described task that Dustin wants to do, the inputs of the business analysis and stakeholder engagement approaches must be in place. BABOK 3.3.3
+
+C. Decision analysis
+   ❌ SAI
+   📝 This is a technique vs. a task. BABOK 10.16
+
+D. Root cause analysis
+   ❌ SAI
+   📝 This is a technique vs. a task. BABOK 10.40
+
+➤ ĐÁP ÁN ĐÚNG: Plan stakeholder engagement
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Before planning business analysis governance, which is the described task that Dustin wants to do, the inputs of the business analysis and stakeholder engagement approaches must be in place. BABOK 3.3.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Which of the following statements best describes the purpose of the plan business analysis governance task?
+
+A. The primary purpose is to provide inputs into the business analysis performance assessment report.
+   ❌ SAI
+   📝 Although this might logically ring true, it is not a listed input into the plan business analysis governance task. BABOK 3.3.1
+
+B. The purpose is to provide oversight to business analysis activities and results.
+   ❌ SAI
+   📝 This is true in part but is not the best description of the purpose. BABOK 3.3.1
+
+C. The purpose is to define how decisions are made about requirements and designs, including reviews, change control, approvals, and prioritization.
+   ✅ ĐÚNG
+   📝 Decision rights is the primary component of governance. BABOK 3.3.1
+
+D. The purpose is to align with the project management governance approach.
+   ❌ SAI
+   📝 While this may be true in part, business analysis tasks may have differing requirements for governance than other aspects of the overall initiative. BABOK 3.3.1
+
+➤ ĐÁP ÁN ĐÚNG: The purpose is to define how decisions are made about requirements and designs, including reviews, change control, approvals, and prioritization.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Decision rights is the primary component of governance. BABOK 3.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+Which guideline or tool would help in defining the limits within which decisions must be made?
+
+A. Business policies
+   ✅ ĐÚNG
+   📝 Limits may be described by regulations, contracts, agreements, warranties, certifications, or other legal obligations. BABOK 3.3.5
+
+B. Legal/regulatory information
+   ❌ SAI
+   📝 This information helps develop a framework that ensures sound business decision making by describing legislative rules or regulations. BABOK 3.3.5
+
+C. Business analysis performance assessment
+   ❌ SAI
+   📝 This assessment provides results of previous assessments that should be reviewed and incorporated into all planning approaches. BABOK 3.3.5
+
+D. Current state description
+   ❌ SAI
+   📝 This information can help drive how to make better decisions by providing the context within which the work needs to be completed. BABOK 3.3.5
+
+➤ ĐÁP ÁN ĐÚNG: Business policies
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Limits may be described by regulations, contracts, agreements, warranties, certifications, or other legal obligations. BABOK 3.3.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Approval of requirements and designs may be formal or informal. Which of the following tasks defines how approval and prioritization decisions are made?
+
+A. Plan business analysis governance
+   ✅ ĐÚNG
+   📝 Governance is responsible for defining how decisions are made regarding all facets of requirements and designs. BABOK 3.3.2
+
+B. Approve requirements
+   ❌ SAI
+   📝 The purpose of the approve requirements task is to obtain agreement and approval, but not define decisions on how the approval process will be conducted. BABOK 5.5.2
+
+C. Plan business analysis approach
+   ❌ SAI
+   📝 This task defines the appropriate method for conducting business analysis activities. BABOK 3.1.2
+
+D. Plan business analysis information management
+   ❌ SAI
+   📝 This task defines how business analysis information is captured and stored for reuse. BABOK 3.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Plan business analysis governance
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Governance is responsible for defining how decisions are made regarding all facets of requirements and designs. BABOK 3.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+Which of the following sets represents key concepts that are needed to understand how to effectively perform the plan business analysis governance task?
+
+A. Performance analysis, change control process, plan prioritization approach, plan for approvals.
+   ❌ SAI
+   📝 Performance analysis is an element in the identify business analysis performance improvements task. BABOK 3.5.4.1
+
+B. Decision making, change control process, plan prioritization approach, plan for approvals.
+   ✅ ĐÚNG
+   📝 These are stated elements of the plan business analysis governance task. BABOK 3.3.4
+
+C. Decision making, change control process, plan prioritization approach, level of abstraction, plan for approvals.
+   ❌ SAI
+   📝 Level of abstraction is an element in the plan business analysis information management task. BABOK 3.4.4.2
+
+D. Organization of business analysis information, change control process, plan prioritization approach, plan for approvals.
+   ❌ SAI
+   📝 Organization of business analysis information is an element of the plan business analysis information management task. BABOK 3.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Decision making, change control process, plan prioritization approach, plan for approvals.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are stated elements of the plan business analysis governance task. BABOK 3.3.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+A business analyst is defining how decisions about requirements and designs will be made. Which of the following techniques could be used to generate a list of potential approvers?
+
+A. Decision modeling
+   ❌ SAI
+   📝 Decision modeling is not a stated technique for the plan business analysis governance task which is the task the business analyst is performing. BABOK 3.3.1
+
+B. Document analysis
+   ❌ SAI
+   📝 Document analysis is not a quick way to generate approvers. Rather, it is a way to evaluate existing governance processes or templates. BABOK 3.3.6
+
+C. Brainstorming
+   ✅ ĐÚNG
+   📝 This technique can be used to generate an initial list of potential stakeholder names for the approver role. BABOK 3.3.6
+
+D. Mind mapping
+   ❌ SAI
+   📝 Mind mapping is not a stated technique for the plan business analysis governance task which is the task the business analyst is performing. BABOK 3.3.1.
+
+➤ ĐÁP ÁN ĐÚNG: Brainstorming
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This technique can be used to generate an initial list of potential stakeholder names for the approver role. BABOK 3.3.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+Piper is the business analyst for an initiative. The organization is undergoing restructuring and introducing changes to the existing business analysis approach. She has been asked to assess each proposed change. The results of her assessment must support the decision-making and change control approaches defined by which of the following tasks?
+
+A. Business analysis performance assessment
+   ❌ SAI
+   📝 This is a guideline/tool for the plan business analysis governance task, not a task. BABOK 3.3.5
+
+B. Assess requirements changes
+   ❌ SAI
+   📝 This task deals with evaluating the implications of proposed changes and not with governance.
+
+C. Plan business analysis governance
+   ✅ ĐÚNG
+   📝 A governance process identifies the decision makers, process, and information required for making decisions. BABOK 3.3.2
+
+D. Approve changes
+   ❌ SAI
+   📝 The scenario asks about assessing changing in support of decision-making processes.
+
+➤ ĐÁP ÁN ĐÚNG: Plan business analysis governance
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A governance process identifies the decision makers, process, and information required for making decisions. BABOK 3.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+As soon as you were assigned as the BA to an initiative, you were advised to begin planning the governance approach to define how decisions will be made about requirements and designs. What would you expect to have available to you in order to create this plan?
+
+A. Business policies and the current state description
+   ❌ SAI
+   📝 These are guidelines and tools but not the required inputs. BABOK Figure 3.3.1
+
+B. Business policies and legal/regulatory information
+   ❌ SAI
+   📝 These are guidelines and tools but not the required inputs. BABOK Figure 3.3.1
+
+C. The current state description and lessons learned documentation from previous, similar projects
+   ❌ SAI
+   📝 The current state description is a guideline/tool for the plan business analysis governance approach task but neither are inputs. BABOK Figure 3.3.1
+
+D. The business analysis approach and the stakeholder engagement approach
+   ✅ ĐÚNG
+   📝 The business analysis and stakeholder engagement approaches are inputs into the plan business analysis governance task. BABOK Figure 3.3.1.
+
+➤ ĐÁP ÁN ĐÚNG: The business analysis approach and the stakeholder engagement approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The business analysis and stakeholder engagement approaches are inputs into the plan business analysis governance task. BABOK Figure 3.3.1.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+Approval of requirements and designs may be formal or informal. Which of the following tasks defines how approval and prioritization decisions are made?
+
+A. Plan business analysis information management
+   ❌ SAI
+   📝 This task defines how business analysis information is captured and stored for reuse. BABOK 3.4.2
+
+B. Plan business analysis approach
+   ❌ SAI
+   📝 This task defines the appropriate method for conducting business analysis activities. BABOK 3.1.2
+
+C. Plan business analysis governance
+   ✅ ĐÚNG
+   📝 Governance is responsible for defining how decisions are made regarding all facets of requirements and designs. BABOK 3.3.2
+
+D. Approve requirements
+   ❌ SAI
+   📝 The purpose of the approve requirements task is to obtain agreement and approval, but not define decisions on how the approval process will be conducted. BABOK 5.5.2
+
+➤ ĐÁP ÁN ĐÚNG: Plan business analysis governance
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Governance is responsible for defining how decisions are made regarding all facets of requirements and designs. BABOK 3.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+What are the input(s) to the plan business analysis governance task?
+
+A. Business analysis approach and stakeholder engagement approach
+   ✅ ĐÚNG
+   📝 These are the two stated inputs for the plan business analysis governance task. BABOK 3.3.3
+
+B. Needs and business analysis approach
+   ❌ SAI
+   📝 These are inputs for the plan stakeholder engagement task. BABOK 3.2.3
+
+C. Business analysis approach and performance objectives (external)
+   ❌ SAI
+   📝 These are inputs for the identify business analysis performance improvements task. BABOK 3.5.3
+
+D. Needs
+   ❌ SAI
+   📝 This is the input for plan business analysis approach task. BABOK 3.1.3
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis approach and stakeholder engagement approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the two stated inputs for the plan business analysis governance task. BABOK 3.3.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+A business analyst is defining how decisions about requirements and designs will be made. Which of the following techniques could be used to generate a list of potential approvers?
+
+A. Mind mapping
+   ❌ SAI
+   📝 Mind mapping is not a stated technique for the plan business analysis governance task which is the task the business analyst is performing. BABOK 3.3.1.
+
+B. Decision modeling
+   ❌ SAI
+   📝 Decision modeling is not a stated technique for the plan business analysis governance task which is the task the business analyst is performing. BABOK 3.3.1
+
+C. Document analysis
+   ❌ SAI
+   📝 Document analysis is not a quick way to generate approvers. Rather, it is a way to evaluate existing governance processes or templates. BABOK 3.3.6
+
+D. Brainstorming
+   ✅ ĐÚNG
+   📝 This technique can be used to generate an initial list of potential stakeholder names for the approver role. BABOK 3.3.6
+
+➤ ĐÁP ÁN ĐÚNG: Brainstorming
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This technique can be used to generate an initial list of potential stakeholder names for the approver role. BABOK 3.3.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+A business analyst intern wants to be able to make trade-offs between requirements, identify stakeholders affected by potential changes, and understand the effect of a proposed change. Where would you advise the intern to look for this information?
+
+A. Repository
+   ❌ SAI
+   📝 A repository is simply a place to store documentation. BABOK 3.4.4.5
+
+B. Requirements attributes
+   ✅ ĐÚNG
+   📝 Requirements attributes allow BAs to associate information with individual or related groups of requirements. BABOK 3.4.4.6
+
+C. Business policies document
+   ❌ SAI
+   📝 Business policies define the limits within which decisions must be made; they do not provide the necessary information for this scenario. BABOK 3.4.5
+
+D. Traceability document
+   ❌ SAI
+   📝 Traceability is a useful tool for performing impact analysis on changing requirements, but not the impact on the change itself. BABOK 5.4.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Requirements attributes
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Requirements attributes allow BAs to associate information with individual or related groups of requirements. BABOK 3.4.4.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+Defining an approach for how business analysis data will be stored and accessed represents the purpose of which task?
+
+A. Plan business analysis information management
+   ✅ ĐÚNG
+   📝 The primary purpose of this task is to develop an approach for how business analysis information will be stored and accessed. BABOK 3.4.1
+
+B. Plan business analysis data management process
+   ❌ SAI
+   📝 There is no such task in the BABOK. BABOK 3.4.1
+
+C. Plan business analysis approach
+   ❌ SAI
+   📝 The purpose of this task is to define an appropriate method to conduct business analysis activities. BABOK 3.1.1
+
+D. Plan business analysis governance
+   ❌ SAI
+   📝 The primary purpose of this task is to define how decisions are made. BABOK 3.3.2
+
+➤ ĐÁP ÁN ĐÚNG: Plan business analysis information management
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The primary purpose of this task is to develop an approach for how business analysis information will be stored and accessed. BABOK 3.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Plan for requirements reuse is an element of which of the following tasks?
+
+A. Plan business analysis approach
+   ❌ SAI
+   📝 Plan for requirements reuse is an element of plan business analysis information management. BABOK 3.4.4.4
+
+B. Plan business analysis information management
+   ✅ ĐÚNG
+   📝 Reusing requirements can save an organization time, effort, and cost if they are easily accessible. BABOK 3.4.4.4
+
+C. Plan traceability approach
+   ❌ SAI
+   📝 This is another element within the plan business analysis information management task. BABOK 3.4.4.3
+
+D. Business analysis planning and monitoring
+   ❌ SAI
+   📝 This is a knowledge area. BABOK 3.0
+
+➤ ĐÁP ÁN ĐÚNG: Plan business analysis information management
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Reusing requirements can save an organization time, effort, and cost if they are easily accessible. BABOK 3.4.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+Which of the following statements is accurate about the plan business analysis information management task?
+
+A. Information management entails identifying characteristics about the information that must be reused.
+   ❌ SAI
+   📝 This answer is only partially correct. Information may not necessarily be reused but must be maintained. BABOK 3.4
+
+B. The tool that is chosen to manage information only needs to store the requirements and designs.
+   ❌ SAI
+   📝 The tool that is chosen to manage requirements and designs may need to store other information as well. BABOK 3.4.4.5
+
+C. The purpose of this task is to ensure that requirements are accurate and current throughout the life cycle and facilitate reuse where appropriate.
+   ❌ SAI
+   📝 This is the purpose of the maintain requirements task, not the plan business analysis information management task. BABOK 5.2.1
+
+D. Requirements that are potential candidates for long-term use are those an organization must meet on an ongoing basis.
+   ✅ ĐÚNG
+   📝 Examples of these include regulatory requirements, quality standards, service level agreements and contractual obligations. BABOK 3.4.4.4
+
+➤ ĐÁP ÁN ĐÚNG: Requirements that are potential candidates for long-term use are those an organization must meet on an ongoing basis.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Examples of these include regulatory requirements, quality standards, service level agreements and contractual obligations. BABOK 3.4.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+Which of the following lists represents inputs required in the task charged with developing an approach for how business artifacts will be stored, accessed, and shared?
+
+A. Governance approach, stakeholder engagement approach, needs, business analysis approach.
+   ❌ SAI
+   📝 Needs is not one of the stated inputs for the task of plan business analysis information management. BABOK 3.4.3
+
+B. Governance approach, stakeholder engagement approach, business analysis approach.
+   ✅ ĐÚNG
+   📝 These are the three stated inputs for the plan business analysis information management task. BABOK 3.4.3
+
+C. Performance objectives (external), governance approach, stakeholder engagement approach, business analysis approach.
+   ❌ SAI
+   📝 Performance objectives (external) is not one of the stated inputs for the task of plan business analysis information management. BABOK 3.4.3
+
+D. Governance approach, stakeholder engagement approach, business analysis approach, requirements(Validated).
+   ❌ SAI
+   📝 Requirements (validated) is not one of the stated inputs for the task of plan business analysis information management. BABOK 3.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Governance approach, stakeholder engagement approach, business analysis approach.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the three stated inputs for the plan business analysis information management task. BABOK 3.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Which of the following lists contain valid requirements attributes?
+
+A. Priority, source, status, urgency
+   ✅ ĐÚNG
+   📝 Use the mnemonic "CARA'S SOUPS" to remember the attributes: complexity, absolute reference, risks, author, source, stability, ownership, urgency, priority, status. BABOK 3.4.4.6
+
+B. Unambiguous, testable, complete, understandable
+   ❌ SAI
+   📝 These are characteristics of well-defined requirements, not attributes. BABOK 7.2.4
+
+C. Performance, interface, quality glossary
+   ❌ SAI
+   📝 These are not requirements attributes; these are invented terms. BABOK 3.4.4.6
+
+D. Author, source, class, complexity
+   ❌ SAI
+   📝 Class is not a stated attribute. BABOK 3.4.4.6
+
+➤ ĐÁP ÁN ĐÚNG: Priority, source, status, urgency
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Use the mnemonic "CARA'S SOUPS" to remember the attributes: complexity, absolute reference, risks, author, source, stability, ownership, urgency, priority, status. BABOK 3.4.4.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+A business analyst intern wants to be able to make trade-offs between requirements, identify stakeholders affected by potential changes, and understand the effect of a proposed change. Where would you advise the intern to look for this information?
+
+A. Requirements attributes
+   ✅ ĐÚNG
+   📝 Requirements attributes allow BAs to associate information with individual or related groups of requirements. BABOK 3.4.4.6
+
+B. Traceability document
+   ❌ SAI
+   📝 Traceability is a useful tool for performing impact analysis on changing requirements, but not the impact on the change itself. BABOK 5.4.4.2
+
+C. Business policies document
+   ❌ SAI
+   📝 Business policies define the limits within which decisions must be made; they do not provide the necessary information for this scenario. BABOK 3.4.5
+
+D. Repository
+   ❌ SAI
+   📝 A repository is simply a place to store documentation. BABOK 3.4.4.5
+
+➤ ĐÁP ÁN ĐÚNG: Requirements attributes
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Requirements attributes allow BAs to associate information with individual or related groups of requirements. BABOK 3.4.4.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+You are developing an approach for how business artifacts will be stored, accessed, and shared. Which set of stakeholders would you involve in this task?
+
+A. Project manager, domain subject matter expert, regulator, sponsor.
+   ❌ SAI
+   📝 Project manager is not one of the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+B. Domain subject matter expert, regulator, sponsor.
+   ✅ ĐÚNG
+   📝 These are the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+C. Domain subject matter expert, tester, regulator.
+   ❌ SAI
+   📝 Tester is not one of the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+D. Sponsor, domain subject matter expert, regulator, customer.
+   ❌ SAI
+   📝 Customer is not one of the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+➤ ĐÁP ÁN ĐÚNG: Domain subject matter expert, regulator, sponsor.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+An architect is invited into a meeting to share her knowledge as input into the decision-making process. What role was the architect asked to play in the decision-making process?
+
+A. Approver of decisions
+   ❌ SAI
+   📝 The architect was asked to share her knowledge, not approve the resulting decision. BABOK 3.3.4.1
+
+B. Reviewer of information
+   ❌ SAI
+   📝 The architect may have been asked to review information as part of the process but primarily was asked to share her knowledge. BABOK 3.3.4.1
+
+C. Subject matter expert (SME)
+   ✅ ĐÚNG
+   📝 The architect is lending her expertise and experience to the decision-making process. BABOK 3.3.4.1
+
+D. Participant in the discussion
+   ❌ SAI
+   📝 This is true but isn't her specific role. BABOK 3.3.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Subject matter expert (SME)
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The architect is lending her expertise and experience to the decision-making process. BABOK 3.3.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+A business analyst intern wants to be able to make trade-offs between requirements, identify stakeholders affected by potential changes, and understand the effect of a proposed change. Where would you advise the intern to look for this information?
+
+A. Traceability document
+   ❌ SAI
+   📝 Traceability is a useful tool for performing impact analysis on changing requirements, but not the impact on the change itself. BABOK 5.4.4.2
+
+B. Repository
+   ❌ SAI
+   📝 A repository is simply a place to store documentation. BABOK 3.4.4.5
+
+C. Business policies document
+   ❌ SAI
+   📝 Business policies define the limits within which decisions must be made; they do not provide the necessary information for this scenario. BABOK 3.4.5
+
+D. Requirements attributes
+   ✅ ĐÚNG
+   📝 Requirements attributes allow BAs to associate information with individual or related groups of requirements. BABOK 3.4.4.6
+
+➤ ĐÁP ÁN ĐÚNG: Requirements attributes
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Requirements attributes allow BAs to associate information with individual or related groups of requirements. BABOK 3.4.4.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+You are developing an approach for how business artifacts will be stored, accessed, and shared. Which set of stakeholders would you involve in this task?
+
+A. Project manager, domain subject matter expert, regulator, sponsor.
+   ❌ SAI
+   📝 Project manager is not one of the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+B. Domain subject matter expert, regulator, sponsor.
+   ✅ ĐÚNG
+   📝 These are the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+C. Domain subject matter expert, tester, regulator.
+   ❌ SAI
+   📝 Tester is not one of the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+D. Sponsor, domain subject matter expert, regulator, customer.
+   ❌ SAI
+   📝 Customer is not one of the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+➤ ĐÁP ÁN ĐÚNG: Domain subject matter expert, regulator, sponsor.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+Which of the following statements is accurate about the plan business analysis information management task?
+
+A. The tool that is chosen to manage information only needs to store the requirements and designs.
+   ❌ SAI
+   📝 The tool that is chosen to manage requirements and designs may need to store other information as well. BABOK 3.4.4.5
+
+B. The purpose of this task is to ensure that requirements are accurate and current throughout the life cycle and facilitate reuse where appropriate.
+   ❌ SAI
+   📝 This is the purpose of the maintain requirements task, not the plan business analysis information management task. BABOK 5.2.1
+
+C. Information management entails identifying characteristics about the information that must be reused.
+   ❌ SAI
+   📝 This answer is only partially correct. Information may not necessarily be reused but must be maintained. BABOK 3.4
+
+D. Requirements that are potential candidates for long-term use are those an organization must meet on an ongoing basis.
+   ✅ ĐÚNG
+   📝 Examples of these include regulatory requirements, quality standards, service level agreements and contractual obligations. BABOK 3.4.4.4
+
+➤ ĐÁP ÁN ĐÚNG: Requirements that are potential candidates for long-term use are those an organization must meet on an ongoing basis.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Examples of these include regulatory requirements, quality standards, service level agreements and contractual obligations. BABOK 3.4.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 107 - 30 câu FULL EXPLAIN

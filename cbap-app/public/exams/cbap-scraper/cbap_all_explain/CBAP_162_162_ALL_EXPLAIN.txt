@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 162 ===
+📚 Tên: TopicSet 162
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+Rebecca is structuring the requirements to ensure all requirements form a single whole that supports overall business objectives and produce meaningful outcome for the stakeholders. Which of the following would NOT be a consideration for Rebecca?
+
+A. Template architectures
+   ❌ SAI
+   📝 This is one of the elements in the task Define Requirements Architecture. BABOK 7.4.4.2
+
+B. Requirements allocation
+   ✅ ĐÚNG
+   📝 Requirements allocation is the process of assigning requirements to solution components and releases to best achieve the objectives and is a consideration in Define Design Options. BABOK 7.5.4.3
+
+C. Requirements viewpoints and views
+   ❌ SAI
+   📝 This is one of the elements in the task Define Requirements Architecture. BABOK 7.4.4.1
+
+D. Completeness
+   ❌ SAI
+   📝 This is one of the elements in the task Define Requirements Architecture. BABOK 7.4.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Requirements allocation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Requirements allocation is the process of assigning requirements to solution components and releases to best achieve the objectives and is a consideration in Define Design Options. BABOK 7.5.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+Wendy is assessing the merits of the solution approaches for each design option. Which of the following is NOT one of the solution approaches?
+
+A. Combination of both creation and purchase
+   ❌ SAI
+   📝 This is one of the solution approaches. BABOK 7.5.4.1
+
+B. Solution components creation
+   ❌ SAI
+   📝 This is one of the solution approaches. BABOK 7.5.4.1
+
+C. Solution components developed
+   ✅ ĐÚNG
+   📝 This is an invented answer.
+
+D. Solution components purchase
+   ❌ SAI
+   📝 This is one of the solution approaches. BABOK 7.5.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Solution components developed
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is an invented answer.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+Benchmarking and market analysis is a stated technique for which of the following tasks in the requirements analysis and design definition knowledge area?
+
+A. Analyze potential value and recommend solution
+   ❌ SAI
+   📝 Benchmarking and market analysis is not a stated technique for this task. BABOK 7.6.6
+
+B. Specify and model requirements
+   ❌ SAI
+   📝 Benchmarking and market analysis is not a stated technique for this task. BABOK 7.1.6
+
+C. Verify requirements
+   ❌ SAI
+   📝 Benchmarking and market analysis is not a stated technique for this task. BABOK 7.2.6
+
+D. Define design options
+   ✅ ĐÚNG
+   📝 This technique is used in this task to identify and analyze existing solutions and market trends. BABOK 7.5.6
+
+➤ ĐÁP ÁN ĐÚNG: Define design options
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This technique is used in this task to identify and analyze existing solutions and market trends. BABOK 7.5.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+Which subset of stakeholders are likely to participate in the define design options task?
+
+A. Operational support, domain subject matter expert, sponsor
+   ❌ SAI
+   📝 Sponsor is not one of the stakeholders in this task. BABOK 7.5.7
+
+B. Implementation subject matter expert, regulator, domain subject matter expert
+   ❌ SAI
+   📝 Regulator is not one of the stakeholders in this task. BABOK 7.5.7
+
+C. Operational support, project manager, end user
+   ❌ SAI
+   📝 End user is not one of the stakeholders in this task. BABOK 7.5.7
+
+D. Implementation subject matter expert, operational support, supplier
+   ✅ ĐÚNG
+   📝 This is the subset of the stakeholder list for Define Design Options task. BABOK 7.5.7
+
+➤ ĐÁP ÁN ĐÚNG: Implementation subject matter expert, operational support, supplier
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the subset of the stakeholder list for Define Design Options task. BABOK 7.5.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+In what task are requirements allocated to a solution component or a release?
+
+A. Define Design Options.
+   ✅ ĐÚNG
+   📝 BABOK 7.5.4.3
+
+B. Analyze Potential Value and Recommend Solution.
+   ❌ SAI
+   📝 The purpose of this task is to estimate value for design options, not allocate requirements. BABOK 7.6.1
+
+C. Specify and Model Requirements.
+   ❌ SAI
+   📝 This task involves turning elicitation results into requirements, not allocating requirements. BABOK 7.1.1
+
+D. Verify Requirements.
+   ❌ SAI
+   📝 This task ensures that requirements and designs meet quality standards. BABOK 7.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Define Design Options.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.5.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+Not every process analyzed will be transformed by a software solution, so processes that are flagged in the design plan as not being a candidate for automation will not undergo further elaboration during the technical design. With that premise, which of the following statements is NOT true?
+
+A. The business analyst should present recommendations to the appropriate project stakeholders to determine if proposed improvements should be considered for implementation.
+   ❌ SAI
+   📝 This is true and fairly common, so is not the right answer.
+
+B. The business analyst should refrain from documenting recommendations to transform the process that are outside the scope of software automation.
+   ✅ ĐÚNG
+   📝 The business analyst should consider documenting recommendations ( e.g. simplify the work people perform by re-engineering or sharing processes), even though they are outside the scope of automation. BABOK 7.5.4.2
+
+C. The business analyst will have decomposed and modeled the process and identified new procedures.
+   ❌ SAI
+   📝 This is true and fairly common, so is not the right answer.
+
+D. The business analyst and the process owner may have determined new manual steps that may streamline and improve the current process.
+   ❌ SAI
+   📝 This is true and fairly common, so is not the right answer.
+
+➤ ĐÁP ÁN ĐÚNG: The business analyst should refrain from documenting recommendations to transform the process that are outside the scope of software automation.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The business analyst should consider documenting recommendations ( e.g. simplify the work people perform by re-engineering or sharing processes), even though they are outside the scope of automation. BABOK 7.5.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+Mary is preparing to allocate requirements to solution components and releases to best achieve the objectives and maximize value. What should Mary do?
+
+A. Ensure her requirements are verified and tested.
+   ❌ SAI
+   📝 Only validated requirements are considered in design options. BABOK 7.5.3
+
+B. Ensure her requirements are validated and prioritized.
+   ✅ ĐÚNG
+   📝 Only validated requirements are considered in design options, and knowing the requirement priorities aids in the suggestion of reasonable design options. BABOK 7.5.3
+
+C. Ensure her requirements are designed and approved by the implementation SMEs.
+   ❌ SAI
+   📝 Made up answer.
+
+D. Ensure her requirements are verified and traced.
+   ❌ SAI
+   📝 Only validated requirements are considered in design options. BABOK 7.5.3
+
+➤ ĐÁP ÁN ĐÚNG: Ensure her requirements are validated and prioritized.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Only validated requirements are considered in design options, and knowing the requirement priorities aids in the suggestion of reasonable design options. BABOK 7.5.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+Joseph is assessing each design option based on the potential value it is expected to deliver and ensuring that it represents the most effective trade-offs. Which of the following would he NOT consider in this activity?
+
+A. Constraints on the solution
+   ❌ SAI
+   📝 Regulatory requirements or business decisions may require that certain requirement be handled a certain way or be prioritized above all others. BABOK 7.6.4.4
+
+B. Dependencies between requirements
+   ❌ SAI
+   📝 Some capabilities may provide limited value to the organization but need to be deliver to support other high-value requirements. BABOK 7.6.4.4
+
+C. Requirements allocation
+   ✅ ĐÚNG
+   📝 This should have been considered while defining the design options, making it the correct answer. BABOK 7.5.4.3
+
+D. Available resources
+   ❌ SAI
+   📝 There may be limitations regarding the amount of requirements that can be implemented based on the allocated resources. BABOK 7.6.4.4
+
+➤ ĐÁP ÁN ĐÚNG: Requirements allocation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This should have been considered while defining the design options, making it the correct answer. BABOK 7.5.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Which of the following is NOT an input to Define Requirements Architecture Task?
+
+A. Solution Scope
+   ❌ SAI
+   📝 This is an input. BABOK 7.4.3
+
+B. Requirements (any state).
+   ❌ SAI
+   📝 This is an input. BABOK 7.4.3
+
+C. Information Management Approach.
+   ❌ SAI
+   📝 This is an input. BABOK 7.4.3
+
+D. Define Design Options.
+   ✅ ĐÚNG
+   📝 This is a task that uses Requirements Architecture as an input. BABOK Figure 7.5.1
+
+➤ ĐÁP ÁN ĐÚNG: Define Design Options.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a task that uses Requirements Architecture as an input. BABOK Figure 7.5.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+Jennifer who is working on defining design options, identifies that bank managers from various branches have some common needs that can better be met via a single solution, thereby reducing costs. What kind of improvement opportunity is she looking at?
+
+A. Identify additional capabilities
+   ❌ SAI
+   📝 This is one of the common examples of opportunities that a business analyst is likely to identify, but it not what the question is referring to.
+
+B. Automate the work
+   ❌ SAI
+   📝 This is one of the common examples of opportunities that a business analyst is likely to identify, but it not what the question is referring to.
+
+C. Improve access to information
+   ❌ SAI
+   📝 This is one of the common examples of opportunities that a business analyst is likely to identify, but it not what the question is referring to.
+
+D. Eliminating redundancy
+   ✅ ĐÚNG
+   📝 This is one of the examples of opportunities that a business analyst is likely to identify. BABOK 7.5.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Eliminating redundancy
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is one of the examples of opportunities that a business analyst is likely to identify. BABOK 7.5.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+In what task are requirements allocated to a solution component or a release?
+
+A. Define Design Options.
+   ✅ ĐÚNG
+   📝 BABOK 7.5.4.3
+
+B. Analyze Potential Value and Recommend Solution.
+   ❌ SAI
+   📝 The purpose of this task is to estimate value for design options, not allocate requirements. BABOK 7.6.1
+
+C. Specify and Model Requirements.
+   ❌ SAI
+   📝 This task involves turning elicitation results into requirements, not allocating requirements. BABOK 7.1.1
+
+D. Verify Requirements.
+   ❌ SAI
+   📝 This task ensures that requirements and designs meet quality standards. BABOK 7.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Define Design Options.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.5.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+Your organization has announced an initiative to streamline accounts payable processes in all its divisions. You are a business analyst assigned to analyze current business processes and recommend one process for all divisions. Which of the following are you LEAST likely to do?
+
+A. Recommend a new process to increase consistency of behavior.
+   ❌ SAI
+   📝 This would be a wise thing to do, so is not the right answer. BABOK 7.5.4.2
+
+B. Simplify manual processes by increasing the complexity of system interfaces.
+   ✅ ĐÚNG
+   📝 Just the opposite. The business analyst should reduce the complexity of interfaces. BABOK 7.5.4.2
+
+C. Map the current processes in all the divisions and eliminate redundancy.
+   ❌ SAI
+   📝 This would be a wise thing to do, so is not the right answer. BABOK 7.5.4.2
+
+D. Improve access to information.
+   ❌ SAI
+   📝 This would be a wise thing to do, so is not the right answer. BABOK 7.5.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Simplify manual processes by increasing the complexity of system interfaces.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Just the opposite. The business analyst should reduce the complexity of interfaces. BABOK 7.5.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+Which subset of stakeholders are likely to participate in the define design options task?
+
+A. Implementation subject matter expert, operational support, supplier
+   ✅ ĐÚNG
+   📝 This is the subset of the stakeholder list for Define Design Options task. BABOK 7.5.7
+
+B. Operational support, domain subject matter expert, sponsor
+   ❌ SAI
+   📝 Sponsor is not one of the stakeholders in this task. BABOK 7.5.7
+
+C. Operational support, project manager, end user
+   ❌ SAI
+   📝 End user is not one of the stakeholders in this task. BABOK 7.5.7
+
+D. Implementation subject matter expert, regulator, domain subject matter expert
+   ❌ SAI
+   📝 Regulator is not one of the stakeholders in this task. BABOK 7.5.7
+
+➤ ĐÁP ÁN ĐÚNG: Implementation subject matter expert, operational support, supplier
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the subset of the stakeholder list for Define Design Options task. BABOK 7.5.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+Mary is preparing to allocate requirements to solution components and releases to best achieve the objectives and maximize value. What should Mary do?
+
+A. Ensure her requirements are verified and tested.
+   ❌ SAI
+   📝 Only validated requirements are considered in design options. BABOK 7.5.3
+
+B. Ensure her requirements are designed and approved by the implementation SMEs.
+   ❌ SAI
+   📝 Made up answer.
+
+C. Ensure her requirements are validated and prioritized.
+   ✅ ĐÚNG
+   📝 Only validated requirements are considered in design options, and knowing the requirement priorities aids in the suggestion of reasonable design options. BABOK 7.5.3
+
+D. Ensure her requirements are verified and traced.
+   ❌ SAI
+   📝 Only validated requirements are considered in design options. BABOK 7.5.3
+
+➤ ĐÁP ÁN ĐÚNG: Ensure her requirements are validated and prioritized.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Only validated requirements are considered in design options, and knowing the requirement priorities aids in the suggestion of reasonable design options. BABOK 7.5.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+The lead business analyst and the project team have come up with three design options that would potentially achieve the desired future state. She needs an expert to provide input about the constraints and cost implications of each option. Who would be the BEST person to provide guidance?
+
+A. Domain subject matter expert
+   ❌ SAI
+   📝 Domain SMEs provide the expertise within the business and provide input for the potential benefits of a solution. BABOK 7.5.7
+
+B. Implementation subject matter expert
+   ✅ ĐÚNG
+   📝 Implementation SMEs use their expertise to provide input about the constraints and costs of a solution. BABOK 7.5.7
+
+C. Operational support
+   ❌ SAI
+   📝 Operational support can help evaluate the difficult and cost of integrating proposed solutions with existing processes and systems. BABOK 7.5.7
+
+D. Supplier
+   ❌ SAI
+   📝 The supplier provides information on the functionality of the design option. BABOK 7.5.7
+
+➤ ĐÁP ÁN ĐÚNG: Implementation subject matter expert
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Implementation SMEs use their expertise to provide input about the constraints and costs of a solution. BABOK 7.5.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+Which of the following is NOT an improvement opportunity when defining design options?
+
+A. Improve access to stakeholders
+   ✅ ĐÚNG
+   📝 Not mentioned as an improvement opportunity. BABOK 7.5.4.2
+
+B. Improve access to information
+   ❌ SAI
+   📝 This is an improvement opportunity.
+
+C. Increase consistency of behavior
+   ❌ SAI
+   📝 This is an improvement opportunity.
+
+D. Eliminate redundancy
+   ❌ SAI
+   📝 This is an improvement opportunity.
+
+➤ ĐÁP ÁN ĐÚNG: Improve access to stakeholders
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Not mentioned as an improvement opportunity. BABOK 7.5.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+The lead business analyst has engaged you to outline the design possibilities that would satisfy a set of requirements in the project. Which set of activities is the lead business analyst involved in?
+
+A. Defining Solution Approaches, Identifying Improvement Opportunities, Requirements Allocation.
+   ❌ SAI
+   📝 List not exhaustive. There is a better answer.
+
+B. Defining Solution Approaches, Identifying Improvement Opportunities, Requirements Allocation, Describing Design Options.
+   ✅ ĐÚNG
+   📝 These are elements in Define Design Option which is what the business analyst is engaged in. BABOK 7.5.4.
+
+C. Determining Expected Benefits, Determining Expected Costs, Determining Value, Assess Design Options.
+   ❌ SAI
+   📝 These are elements in Analyze Potential Value and Recommend Solution. The business analyst is not engaged in this task.
+
+D. Analyzing Current State, Defining Future State, Assessing Risks, Defining Change Strategy.
+   ❌ SAI
+   📝 These are tasks in Strategy Analysis. Outlining the design possibilities is not synonymous to strategy analysis.
+
+➤ ĐÁP ÁN ĐÚNG: Defining Solution Approaches, Identifying Improvement Opportunities, Requirements Allocation, Describing Design Options.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are elements in Define Design Option which is what the business analyst is engaged in. BABOK 7.5.4.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+Wendy is assessing the merits of the solution approaches for each design option. Which of the following is NOT one of the solution approaches?
+
+A. Combination of both creation and purchase
+   ❌ SAI
+   📝 This is one of the solution approaches. BABOK 7.5.4.1
+
+B. Solution components creation
+   ❌ SAI
+   📝 This is one of the solution approaches. BABOK 7.5.4.1
+
+C. Solution components purchase
+   ❌ SAI
+   📝 This is one of the solution approaches. BABOK 7.5.4.1
+
+D. Solution components developed
+   ✅ ĐÚNG
+   📝 This is an invented answer.
+
+➤ ĐÁP ÁN ĐÚNG: Solution components developed
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is an invented answer.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+Rebecca is structuring the requirements to ensure all requirements form a single whole that supports overall business objectives and produce meaningful outcome for the stakeholders. Which of the following would NOT be a consideration for Rebecca?
+
+A. Template architectures
+   ❌ SAI
+   📝 This is one of the elements in the task Define Requirements Architecture. BABOK 7.4.4.2
+
+B. Completeness
+   ❌ SAI
+   📝 This is one of the elements in the task Define Requirements Architecture. BABOK 7.4.4.3
+
+C. Requirements viewpoints and views
+   ❌ SAI
+   📝 This is one of the elements in the task Define Requirements Architecture. BABOK 7.4.4.1
+
+D. Requirements allocation
+   ✅ ĐÚNG
+   📝 Requirements allocation is the process of assigning requirements to solution components and releases to best achieve the objectives and is a consideration in Define Design Options. BABOK 7.5.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Requirements allocation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Requirements allocation is the process of assigning requirements to solution components and releases to best achieve the objectives and is a consideration in Define Design Options. BABOK 7.5.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+Rebecca is structuring the requirements to ensure all requirements form a single whole that supports overall business objectives and produce meaningful outcome for the stakeholders. Which of the following would NOT be a consideration for Rebecca?
+
+A. Requirements viewpoints and views
+   ❌ SAI
+   📝 This is one of the elements in the task Define Requirements Architecture. BABOK 7.4.4.1
+
+B. Completeness
+   ❌ SAI
+   📝 This is one of the elements in the task Define Requirements Architecture. BABOK 7.4.4.3
+
+C. Requirements allocation
+   ✅ ĐÚNG
+   📝 Requirements allocation is the process of assigning requirements to solution components and releases to best achieve the objectives and is a consideration in Define Design Options. BABOK 7.5.4.3
+
+D. Template architectures
+   ❌ SAI
+   📝 This is one of the elements in the task Define Requirements Architecture. BABOK 7.4.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Requirements allocation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Requirements allocation is the process of assigning requirements to solution components and releases to best achieve the objectives and is a consideration in Define Design Options. BABOK 7.5.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Joseph is assessing each design option based on the potential value it is expected to deliver and ensuring that it represents the most effective trade-offs. Which of the following would he NOT consider in this activity?
+
+A. Constraints on the solution
+   ❌ SAI
+   📝 Regulatory requirements or business decisions may require that certain requirement be handled a certain way or be prioritized above all others. BABOK 7.6.4.4
+
+B. Dependencies between requirements
+   ❌ SAI
+   📝 Some capabilities may provide limited value to the organization but need to be deliver to support other high-value requirements. BABOK 7.6.4.4
+
+C. Requirements allocation
+   ✅ ĐÚNG
+   📝 This should have been considered while defining the design options, making it the correct answer. BABOK 7.5.4.3
+
+D. Available resources
+   ❌ SAI
+   📝 There may be limitations regarding the amount of requirements that can be implemented based on the allocated resources. BABOK 7.6.4.4
+
+➤ ĐÁP ÁN ĐÚNG: Requirements allocation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This should have been considered while defining the design options, making it the correct answer. BABOK 7.5.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+The lead business analyst has engaged you to outline the design possibilities that would satisfy a set of requirements in the project. Which set of activities is the lead business analyst involved in?
+
+A. Determining Expected Benefits, Determining Expected Costs, Determining Value, Assess Design Options.
+   ❌ SAI
+   📝 These are elements in Analyze Potential Value and Recommend Solution. The business analyst is not engaged in this task.
+
+B. Analyzing Current State, Defining Future State, Assessing Risks, Defining Change Strategy.
+   ❌ SAI
+   📝 These are tasks in Strategy Analysis. Outlining the design possibilities is not synonymous to strategy analysis.
+
+C. Defining Solution Approaches, Identifying Improvement Opportunities, Requirements Allocation, Describing Design Options.
+   ✅ ĐÚNG
+   📝 These are elements in Define Design Option which is what the business analyst is engaged in. BABOK 7.5.4.
+
+D. Defining Solution Approaches, Identifying Improvement Opportunities, Requirements Allocation.
+   ❌ SAI
+   📝 List not exhaustive. There is a better answer.
+
+➤ ĐÁP ÁN ĐÚNG: Defining Solution Approaches, Identifying Improvement Opportunities, Requirements Allocation, Describing Design Options.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are elements in Define Design Option which is what the business analyst is engaged in. BABOK 7.5.4.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+The lead business analyst and the project team have come up with three design options that would potentially achieve the desired future state. She needs an expert to provide input about the constraints and cost implications of each option. Who would be the BEST person to provide guidance?
+
+A. Operational support
+   ❌ SAI
+   📝 Operational support can help evaluate the difficult and cost of integrating proposed solutions with existing processes and systems. BABOK 7.5.7
+
+B. Supplier
+   ❌ SAI
+   📝 The supplier provides information on the functionality of the design option. BABOK 7.5.7
+
+C. Implementation subject matter expert
+   ✅ ĐÚNG
+   📝 Implementation SMEs use their expertise to provide input about the constraints and costs of a solution. BABOK 7.5.7
+
+D. Domain subject matter expert
+   ❌ SAI
+   📝 Domain SMEs provide the expertise within the business and provide input for the potential benefits of a solution. BABOK 7.5.7
+
+➤ ĐÁP ÁN ĐÚNG: Implementation subject matter expert
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Implementation SMEs use their expertise to provide input about the constraints and costs of a solution. BABOK 7.5.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Your organization has announced an initiative to streamline accounts payable processes in all its divisions. You are a business analyst assigned to analyze current business processes and recommend one process for all divisions. Which of the following are you LEAST likely to do?
+
+A. Improve access to information.
+   ❌ SAI
+   📝 This would be a wise thing to do, so is not the right answer. BABOK 7.5.4.2
+
+B. Map the current processes in all the divisions and eliminate redundancy.
+   ❌ SAI
+   📝 This would be a wise thing to do, so is not the right answer. BABOK 7.5.4.2
+
+C. Recommend a new process to increase consistency of behavior.
+   ❌ SAI
+   📝 This would be a wise thing to do, so is not the right answer. BABOK 7.5.4.2
+
+D. Simplify manual processes by increasing the complexity of system interfaces.
+   ✅ ĐÚNG
+   📝 Just the opposite. The business analyst should reduce the complexity of interfaces. BABOK 7.5.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Simplify manual processes by increasing the complexity of system interfaces.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Just the opposite. The business analyst should reduce the complexity of interfaces. BABOK 7.5.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+Your organization has announced an initiative to streamline accounts payable processes in all its divisions. You are a business analyst assigned to analyze current business processes and recommend one process for all divisions. Which of the following are you LEAST likely to do?
+
+A. Improve access to information.
+   ❌ SAI
+   📝 This would be a wise thing to do, so is not the right answer. BABOK 7.5.4.2
+
+B. Recommend a new process to increase consistency of behavior.
+   ❌ SAI
+   📝 This would be a wise thing to do, so is not the right answer. BABOK 7.5.4.2
+
+C. Map the current processes in all the divisions and eliminate redundancy.
+   ❌ SAI
+   📝 This would be a wise thing to do, so is not the right answer. BABOK 7.5.4.2
+
+D. Simplify manual processes by increasing the complexity of system interfaces.
+   ✅ ĐÚNG
+   📝 Just the opposite. The business analyst should reduce the complexity of interfaces. BABOK 7.5.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Simplify manual processes by increasing the complexity of system interfaces.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Just the opposite. The business analyst should reduce the complexity of interfaces. BABOK 7.5.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+The lead business analyst has engaged you to outline the design possibilities that would satisfy a set of requirements in the project. Which set of activities is the lead business analyst involved in?
+
+A. Determining Expected Benefits, Determining Expected Costs, Determining Value, Assess Design Options.
+   ❌ SAI
+   📝 These are elements in Analyze Potential Value and Recommend Solution. The business analyst is not engaged in this task.
+
+B. Defining Solution Approaches, Identifying Improvement Opportunities, Requirements Allocation, Describing Design Options.
+   ✅ ĐÚNG
+   📝 These are elements in Define Design Option which is what the business analyst is engaged in. BABOK 7.5.4.
+
+C. Analyzing Current State, Defining Future State, Assessing Risks, Defining Change Strategy.
+   ❌ SAI
+   📝 These are tasks in Strategy Analysis. Outlining the design possibilities is not synonymous to strategy analysis.
+
+D. Defining Solution Approaches, Identifying Improvement Opportunities, Requirements Allocation.
+   ❌ SAI
+   📝 List not exhaustive. There is a better answer.
+
+➤ ĐÁP ÁN ĐÚNG: Defining Solution Approaches, Identifying Improvement Opportunities, Requirements Allocation, Describing Design Options.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are elements in Define Design Option which is what the business analyst is engaged in. BABOK 7.5.4.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+Which of the following is NOT an improvement opportunity when defining design options?
+
+A. Eliminate redundancy
+   ❌ SAI
+   📝 This is an improvement opportunity.
+
+B. Improve access to information
+   ❌ SAI
+   📝 This is an improvement opportunity.
+
+C. Increase consistency of behavior
+   ❌ SAI
+   📝 This is an improvement opportunity.
+
+D. Improve access to stakeholders
+   ✅ ĐÚNG
+   📝 Not mentioned as an improvement opportunity. BABOK 7.5.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Improve access to stakeholders
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Not mentioned as an improvement opportunity. BABOK 7.5.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+Anna has assembled a team to define design options. What inputs will they need to accomplish this task?
+
+A. Traced requirements, change strategy, enterprise architecture
+   ❌ SAI
+   📝 Traced requirements is a guideline and tool, not an input. Enterprise architecture is not a stated input for this task for any task in the BABOK. BABOK Figure 7.5.1
+
+B. Validated and prioritized requirements, change strategy, enterprise architecture
+   ❌ SAI
+   📝 Enterprise architecture is not a stated input for this task for any task in the BABOK. BABOK Figure 7.5.1
+
+C. Traced requirements, change strategy, requirements architecture
+   ❌ SAI
+   📝 Traced requirements is a guideline and tool, not an input. BABOK Figure 7.5.1
+
+D. Validated and prioritized requirements, change strategy, requirements architecture
+   ✅ ĐÚNG
+   📝 These are the inputs for the define design options task. BABOK Figure 7.5.1
+
+➤ ĐÁP ÁN ĐÚNG: Validated and prioritized requirements, change strategy, requirements architecture
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the inputs for the define design options task. BABOK Figure 7.5.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+Which subset of stakeholders are likely to participate in the define design options task?
+
+A. Implementation subject matter expert, regulator, domain subject matter expert
+   ❌ SAI
+   📝 Regulator is not one of the stakeholders in this task. BABOK 7.5.7
+
+B. Operational support, domain subject matter expert, sponsor
+   ❌ SAI
+   📝 Sponsor is not one of the stakeholders in this task. BABOK 7.5.7
+
+C. Operational support, project manager, end user
+   ❌ SAI
+   📝 End user is not one of the stakeholders in this task. BABOK 7.5.7
+
+D. Implementation subject matter expert, operational support, supplier
+   ✅ ĐÚNG
+   📝 This is the subset of the stakeholder list for Define Design Options task. BABOK 7.5.7
+
+➤ ĐÁP ÁN ĐÚNG: Implementation subject matter expert, operational support, supplier
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the subset of the stakeholder list for Define Design Options task. BABOK 7.5.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+Susan is done with defining the solution approach, identifying opportunities to improve the business, allocating requirements across solution components, and representing design options that achieve the desired future state. Which one of the following activities may be a likely next step?
+
+A. Ensure that the requirements and designs align to the business requirements and support the needed value.
+   ❌ SAI
+   📝 Requirements should be validated before defining design options. BABOK 7.3.1
+
+B. Ensure that the designs meet quality standards.
+   ❌ SAI
+   📝 Requirements should be verified before defining design options. Figure 7.5.1
+
+C. Produce different viewpoints of the requirements for the various stakeholders.
+   ❌ SAI
+   📝 This would have been done as part of specifying the requirements. BABOK 7.1.4.4
+
+D. Estimate the potential value of each design option.
+   ✅ ĐÚNG
+   📝 BABOK 7.6.1. Although there is not a specific next step listed, it is highly likely that once you define the design options you would estimate the potential value for each design option and to establish which one is most appropriate to meet the enterprise’s requirements.
+
+➤ ĐÁP ÁN ĐÚNG: Estimate the potential value of each design option.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.6.1. Although there is not a specific next step listed, it is highly likely that once you define the design options you would estimate the potential value for each design option and to establish which one is most appropriate to meet the enterprise’s requirements.
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 162 - 30 câu FULL EXPLAIN

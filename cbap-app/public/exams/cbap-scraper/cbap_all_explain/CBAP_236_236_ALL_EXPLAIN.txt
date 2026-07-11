@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 236 ===
+📚 Tên: TopicSet 236
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+What is the purpose of analyzing performance measures?
+
+A. Provide insights into the performance of a solution in relation to the value it brings.
+   ✅ ĐÚNG
+   📝 BABOK 8.2.1
+
+B. Provide understanding of the performance of the solution in order to pass potential audits.
+   ❌ SAI
+   📝 This is a fabricated answer. BABOK 8.2.1
+
+C. Prepare clients for upcoming changes based on results of measuring a solution's performance.
+   ❌ SAI
+   📝 While this can occur for future planning it is not the purpose. BABOK 8.2.1
+
+D. Assist in developing the project schedule once it has been determined that changes are required.
+   ❌ SAI
+   📝 Analyzing performance doesn't have impact on creating the project schedule. Hint: If you see project schedule in an answer, it's probably incorrect. BABOK 8.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Provide insights into the performance of a solution in relation to the value it brings.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+Finn is a BA working on a newly implemented logistics process for a package supply company. He began gathering performance metrics on such things as how long the process took vs. how long to get output from one area to another, defects in the output, duplicate steps, number of complaints, etc. The department supervisor complained to Finn that gathering these statistics was a waste of time. She said she would rather he spend his time gathering requirements for automation to support the process. What rationale does Finn offer for his activities?
+
+A. The information is needed as inputs into a SWOT analysis for the new automation project.
+   ❌ SAI
+   📝 Gathering statistics is not a prerequisite for SWOT analysis.
+
+B. He needs to keep an eye out for defects so he can address them in a timely way to ensure customer satisfaction.
+   ❌ SAI
+   📝 At this point we are not aware of any specific defects. So, this is noble but not necessary.
+
+C. He is working to understand and validate the value that was delivered by the implemented solution.
+   ✅ ĐÚNG
+   📝 Finn is gathering the actual metrics that describe the performance of the solution in order to measure and analyze solution performance. BABOK 8.2 and 8.3
+
+D. The gathered measurements will support the automation project.
+   ❌ SAI
+   📝 This rationale isn't valid as it doesn't explain the ongoing measurement activity.
+
+➤ ĐÁP ÁN ĐÚNG: He is working to understand and validate the value that was delivered by the implemented solution.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Finn is gathering the actual metrics that describe the performance of the solution in order to measure and analyze solution performance. BABOK 8.2 and 8.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+When analyzing performance data, business analysts consider the time period when the data was collected to guard against what?
+
+A. Performance variances
+   ❌ SAI
+   📝 Performance variances are the difference between the expected and actual performance. Time is not a factor. BABOK 8.2.4.5 and 8.2.4.3
+
+B. Solution scope changes
+   ❌ SAI
+   📝 Solution scope is not a concern when analyzing performance data. BABOK 8.2.4.3
+
+C. An incorrect benchmark
+   ❌ SAI
+   📝 Time is not a consideration for benchmarking. BABOK 8.2.4.3
+
+D. Anomalies and skewed trends
+   ✅ ĐÚNG
+   📝 BABOK 8.2.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Anomalies and skewed trends
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+What are the guidelines and tools that are used to support analyzing performance measures?
+
+A. Project strategy, implementation scope, risk mitigation response, and performance analysis metrics.
+   ❌ SAI
+   📝 Made up answers. BABOK 8.2.5
+
+B. Solution performance analysis, solution performance measures, solution limitations, and recommended actions.
+   ❌ SAI
+   📝 These are outputs of this knowledge area.
+
+C. Acceptance and evaluation criteria, metrics and key performance measures, data mining, and root cause analysis.
+   ❌ SAI
+   📝 These are techniques, not guidelines and tools. BABOK 8.2.6
+
+D. Change strategy, future state description, risk analysis results, and solution scope.
+   ✅ ĐÚNG
+   📝 BABOK 8.2.5
+
+➤ ĐÁP ÁN ĐÚNG: Change strategy, future state description, risk analysis results, and solution scope.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+Finn is a BA working on a newly implemented logistics process for a package supply company. He began gathering performance metrics on such things as how long the process took vs. how long to get output from one area to another, defects in the output, duplicate steps, number of complaints, etc. The department supervisor complained to Finn that gathering these statistics was a waste of time. She said she would rather he spend his time gathering requirements for automation to support the process. What rationale does Finn offer for his activities?
+
+A. He is working to understand and validate the value that was delivered by the implemented solution.
+   ✅ ĐÚNG
+   📝 Finn is gathering the actual metrics that describe the performance of the solution in order to measure and analyze solution performance. BABOK 8.2 and 8.3
+
+B. The gathered measurements will support the automation project.
+   ❌ SAI
+   📝 This rationale isn't valid as it doesn't explain the ongoing measurement activity.
+
+C. He needs to keep an eye out for defects so he can address them in a timely way to ensure customer satisfaction.
+   ❌ SAI
+   📝 At this point we are not aware of any specific defects. So, this is noble but not necessary.
+
+D. The information is needed as inputs into a SWOT analysis for the new automation project.
+   ❌ SAI
+   📝 Gathering statistics is not a prerequisite for SWOT analysis.
+
+➤ ĐÁP ÁN ĐÚNG: He is working to understand and validate the value that was delivered by the implemented solution.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Finn is gathering the actual metrics that describe the performance of the solution in order to measure and analyze solution performance. BABOK 8.2 and 8.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+For the stakeholders that support analyzing performance metrics, which one can identify risks, and provide insights into the data and potential value of a solution?
+
+A. Data analyst
+   ❌ SAI
+   📝 BABOK 8.2.7. This is not a stakeholder in the BABOK.
+
+B. Project manager
+   ❌ SAI
+   📝 The Project Manager is responsible for overall risk management, not determining potential value of a solution. BABOK 8.2.7
+
+C. Sponsor
+   ✅ ĐÚNG
+   📝 BABOK 8.2.7
+
+D. Domain subject matter expert
+   ❌ SAI
+   📝 The Domain Subject Matter Expert only provides input into the data for analyzing the performance, not the potential value. BABOK 8.2.7
+
+➤ ĐÁP ÁN ĐÚNG: Sponsor
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+When analyzing performance data, business analysts consider the time period when the data was collected to guard against what?
+
+A. Performance variances
+   ❌ SAI
+   📝 Performance variances are the difference between the expected and actual performance. Time is not a factor. BABOK 8.2.4.5 and 8.2.4.3
+
+B. Anomalies and skewed trends
+   ✅ ĐÚNG
+   📝 BABOK 8.2.4.3
+
+C. Solution scope changes
+   ❌ SAI
+   📝 Solution scope is not a concern when analyzing performance data. BABOK 8.2.4.3
+
+D. An incorrect benchmark
+   ❌ SAI
+   📝 Time is not a consideration for benchmarking. BABOK 8.2.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Anomalies and skewed trends
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+If the performance measures defined to evaluate the effectiveness of a solution are not sufficient to help stakeholders determine solution value, what actions should a business analyst take to address the situation?
+
+A. Collect more measurements or treat the lack of measures as a solution risk.
+   ✅ ĐÚNG
+   📝 BABOK 8.2.4.1
+
+B. Revisit the business objectives.
+   ❌ SAI
+   📝 This answer does not state why the business objectives would be revisited. The objectives are not the issue and will not help evaluate the effectiveness of a solution. BABOK 8.2.4
+
+C. Consider the time period used.
+   ❌ SAI
+   📝 While this might be a consideration, it's not the best answer, since it is related to analyzing performance data, not the effectiveness of the solution in relation to value. BABOK 8.2.4.3
+
+D. Conduct change control and create high level estimates.
+   ❌ SAI
+   📝 Neither of these are elements when analyzing performance measures. BABOK 8.2.4
+
+➤ ĐÁP ÁN ĐÚNG: Collect more measurements or treat the lack of measures as a solution risk.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Ben isn't sure that the data generated by the performance measures is accurate so he is hesitant to take further action. What could Ben do to understand if he can rely on the data generated by performance measures?
+
+A. Analyze the data from several different aspects to ensure data integrity.
+   ❌ SAI
+   📝 This is an option but another answer is closer to the mark.
+
+B. Test the results to see if they can be repeated and reproduced.
+   ✅ ĐÚNG
+   📝 The accuracy of performance measures is essential to the validity of their analysis. Business analysts test and analyze the data collected to ensure their accuracy and reliability. The results of performance measures should be reproducible and repeatable. BABOK 8.2.4.4
+
+C. Monitor the data for another month to see if the same results continue to be generated.
+   ❌ SAI
+   📝 The problem with this answer is that if the data is unreliable, it may be consistently unreliable.
+
+D. Analyze the source of the data to ensure source integrity.
+   ❌ SAI
+   📝 Source integrity is a fabricated answer.
+
+➤ ĐÁP ÁN ĐÚNG: Test the results to see if they can be repeated and reproduced.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The accuracy of performance measures is essential to the validity of their analysis. Business analysts test and analyze the data collected to ensure their accuracy and reliability. The results of performance measures should be reproducible and repeatable. BABOK 8.2.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+If the performance measures defined to evaluate the effectiveness of a solution are not sufficient to help stakeholders determine solution value, what actions should a business analyst take to address the situation?
+
+A. Consider the time period used.
+   ❌ SAI
+   📝 While this might be a consideration, it's not the best answer, since it is related to analyzing performance data, not the effectiveness of the solution in relation to value. BABOK 8.2.4.3
+
+B. Revisit the business objectives.
+   ❌ SAI
+   📝 This answer does not state why the business objectives would be revisited. The objectives are not the issue and will not help evaluate the effectiveness of a solution. BABOK 8.2.4
+
+C. Conduct change control and create high level estimates.
+   ❌ SAI
+   📝 Neither of these are elements when analyzing performance measures. BABOK 8.2.4
+
+D. Collect more measurements or treat the lack of measures as a solution risk.
+   ✅ ĐÚNG
+   📝 BABOK 8.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Collect more measurements or treat the lack of measures as a solution risk.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+What is the purpose of analyzing performance measures?
+
+A. Provide insights into the performance of a solution in relation to the value it brings.
+   ✅ ĐÚNG
+   📝 BABOK 8.2.1
+
+B. Prepare clients for upcoming changes based on results of measuring a solution's performance.
+   ❌ SAI
+   📝 While this can occur for future planning it is not the purpose. BABOK 8.2.1
+
+C. Assist in developing the project schedule once it has been determined that changes are required.
+   ❌ SAI
+   📝 Analyzing performance doesn't have impact on creating the project schedule. Hint: If you see project schedule in an answer, it's probably incorrect. BABOK 8.2.1
+
+D. Provide understanding of the performance of the solution in order to pass potential audits.
+   ❌ SAI
+   📝 This is a fabricated answer. BABOK 8.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Provide insights into the performance of a solution in relation to the value it brings.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+What is the purpose of analyzing performance measures?
+
+A. Prepare clients for upcoming changes based on results of measuring a solution's performance.
+   ❌ SAI
+   📝 While this can occur for future planning it is not the purpose. BABOK 8.2.1
+
+B. Provide understanding of the performance of the solution in order to pass potential audits.
+   ❌ SAI
+   📝 This is a fabricated answer. BABOK 8.2.1
+
+C. Assist in developing the project schedule once it has been determined that changes are required.
+   ❌ SAI
+   📝 Analyzing performance doesn't have impact on creating the project schedule. Hint: If you see project schedule in an answer, it's probably incorrect. BABOK 8.2.1
+
+D. Provide insights into the performance of a solution in relation to the value it brings.
+   ✅ ĐÚNG
+   📝 BABOK 8.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Provide insights into the performance of a solution in relation to the value it brings.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+Deima is a BA assigned to the evaluation of a solution that isn't delivering value to the level forecasted during the project. She has gone into the project archives and is reviewing all available project documentation. Why is she doing that?
+
+A. She is trying to familiarize herself with the stakeholders impacted by the solution.
+   ❌ SAI
+   📝 This is one aspect of understanding potential value but is too narrow in scope.
+
+B. She is primarily concerned with the solution requirements to ensure current performance measures are relevant.
+   ❌ SAI
+   📝 This is one aspect of understanding potential value but is too narrow in scope.
+
+C. She is working to understand the potential value of the solution.
+   ✅ ĐÚNG
+   📝 Potential Value is listed as an input to Analyze Performance Measures, which is what the question is asking. The forecasted level is "...a benchmark against which solution performance can be evaluated." BABOK 8.2.3
+
+D. She is reviewing the project objectives to better understand what the solution was supposed to achieve.
+   ❌ SAI
+   📝 Tempting answer because of the mention of project archives. The potential value may not even be listed with the project objectives, though.
+
+➤ ĐÁP ÁN ĐÚNG: She is working to understand the potential value of the solution.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Potential Value is listed as an input to Analyze Performance Measures, which is what the question is asking. The forecasted level is "...a benchmark against which solution performance can be evaluated." BABOK 8.2.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+The target time for creating printable labels is 4 minutes per 100 labels. Current results range from 3.4 minutes to 7.8 minutes. What is the term which describes the discrepancy between expected and actual performance?
+
+A. Error
+   ❌ SAI
+   📝 Many organizations calls defects "errors"; see explanation for answer "a."
+
+B. Variance
+   ✅ ĐÚNG
+   📝 BABOK 8.2.4.5
+
+C. Defect
+   ❌ SAI
+   📝 Any result over 4 minutes may be considered a defect but the "discrepancy" between expected and actual results has another term.
+
+D. Known errors
+   ❌ SAI
+   📝 This is term many IT organizations use to describe a problem for which a root cause has been discovered. Though you may use it in your organization, the BABOK does not.
+
+➤ ĐÁP ÁN ĐÚNG: Variance
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.4.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+Ben isn't sure that the data generated by the performance measures is accurate so he is hesitant to take further action. What could Ben do to understand if he can rely on the data generated by performance measures?
+
+A. Analyze the source of the data to ensure source integrity.
+   ❌ SAI
+   📝 Source integrity is a fabricated answer.
+
+B. Analyze the data from several different aspects to ensure data integrity.
+   ❌ SAI
+   📝 This is an option but another answer is closer to the mark.
+
+C. Monitor the data for another month to see if the same results continue to be generated.
+   ❌ SAI
+   📝 The problem with this answer is that if the data is unreliable, it may be consistently unreliable.
+
+D. Test the results to see if they can be repeated and reproduced.
+   ✅ ĐÚNG
+   📝 The accuracy of performance measures is essential to the validity of their analysis. Business analysts test and analyze the data collected to ensure their accuracy and reliability. The results of performance measures should be reproducible and repeatable. BABOK 8.2.4.4
+
+➤ ĐÁP ÁN ĐÚNG: Test the results to see if they can be repeated and reproduced.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The accuracy of performance measures is essential to the validity of their analysis. Business analysts test and analyze the data collected to ensure their accuracy and reliability. The results of performance measures should be reproducible and repeatable. BABOK 8.2.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+Which input describes the value that may be realized by implementing the proposed future state? It can be used as a benchmark against which solution performance can be evaluated.
+
+A. Solution performance measures
+   ❌ SAI
+   📝 This input provides information on how well the solution is performing, not about the value of the solution. BABOK 8.2.3
+
+B. Business objectives
+   ❌ SAI
+   📝 Business objectives are an input into Measuring Solution Performance and does not describe the value that may be implemented in the propose future state. BABOK Figure 8.2.1 and BABOK 8.1.3
+
+C. Potential Value
+   ✅ ĐÚNG
+   📝 BABOK 8.2.3
+
+D. Relationship management
+   ❌ SAI
+   📝 BABOK 8.2.3. Relationship management is not an input in the BABOK.
+
+➤ ĐÁP ÁN ĐÚNG: Potential Value
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+How can a BA meaningfully determine the value of a solution?
+
+A. By defining solution performance measures.
+   ❌ SAI
+   📝 Performance measures in and of themselves will not determine the value of a solution.
+
+B. By gaining a thorough understanding of the potential value that stakeholders hope to achieve with the solution.
+   ✅ ĐÚNG
+   📝 BABOK 8.2.2
+
+C. By thoroughly analyzing the "voice of the data."
+   ❌ SAI
+   📝 This is a fabricated answer.
+
+D. By performing a financial analysis to ensure the benefit continues to outweigh the cost.
+   ❌ SAI
+   📝 This might be helpful in understanding value but is too focused.
+
+➤ ĐÁP ÁN ĐÚNG: By gaining a thorough understanding of the potential value that stakeholders hope to achieve with the solution.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+Lucas is a BA who is assessing a seemingly under-performing solution. What sorts of things can Lucas do to gain a thorough understanding of the potential value that was expected for this solution?
+
+A. Lucas can evaluate and understand the potential value of this solution by comparing key performance indicators of similar solutions.
+   ❌ SAI
+   📝 The potential value of the solution should be evaluated for a particular solution not similar solutions. BABOK 8.2.2
+
+B. Lucas can ensure performance measures are asking the "right" things in the "right" way with the "right" frequency.
+   ❌ SAI
+   📝 This response is concerned with collecting performance measures vs. potential value. BABOK 8.1.4.3
+
+C. Lucas can assess the solution within the context of the enterprise's goals and objectives and key performance indicators.
+   ✅ ĐÚNG
+   📝 This answer adds the enterprise goals and objectives which is a more comprehensive answer. Understanding potential value doesn't end here though! BABOK 8.2.2
+
+D. Lucas can understand the potential value the solution by measuring its current performance.
+   ❌ SAI
+   📝 This response only focuses on collecting current performance measures, to know if the solution is underperforming, you need to compare its current performance to its expected performance value. BABOK 8.1.2 and BABOK 8.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Lucas can assess the solution within the context of the enterprise's goals and objectives and key performance indicators.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This answer adds the enterprise goals and objectives which is a more comprehensive answer. Understanding potential value doesn't end here though! BABOK 8.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+Ben isn't sure that the data generated by the performance measures is accurate so he is hesitant to take further action. What could Ben do to understand if he can rely on the data generated by performance measures?
+
+A. Analyze the source of the data to ensure source integrity.
+   ❌ SAI
+   📝 Source integrity is a fabricated answer.
+
+B. Monitor the data for another month to see if the same results continue to be generated.
+   ❌ SAI
+   📝 The problem with this answer is that if the data is unreliable, it may be consistently unreliable.
+
+C. Test the results to see if they can be repeated and reproduced.
+   ✅ ĐÚNG
+   📝 The accuracy of performance measures is essential to the validity of their analysis. Business analysts test and analyze the data collected to ensure their accuracy and reliability. The results of performance measures should be reproducible and repeatable. BABOK 8.2.4.4
+
+D. Analyze the data from several different aspects to ensure data integrity.
+   ❌ SAI
+   📝 This is an option but another answer is closer to the mark.
+
+➤ ĐÁP ÁN ĐÚNG: Test the results to see if they can be repeated and reproduced.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The accuracy of performance measures is essential to the validity of their analysis. Business analysts test and analyze the data collected to ensure their accuracy and reliability. The results of performance measures should be reproducible and repeatable. BABOK 8.2.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+Finn is a BA working on a newly implemented logistics process for a package supply company. He began gathering performance metrics on such things as how long the process took vs. how long to get output from one area to another, defects in the output, duplicate steps, number of complaints, etc. The department supervisor complained to Finn that gathering these statistics was a waste of time. She said she would rather he spend his time gathering requirements for automation to support the process. What rationale does Finn offer for his activities?
+
+A. He is working to understand and validate the value that was delivered by the implemented solution.
+   ✅ ĐÚNG
+   📝 Finn is gathering the actual metrics that describe the performance of the solution in order to measure and analyze solution performance. BABOK 8.2 and 8.3
+
+B. He needs to keep an eye out for defects so he can address them in a timely way to ensure customer satisfaction.
+   ❌ SAI
+   📝 At this point we are not aware of any specific defects. So, this is noble but not necessary.
+
+C. The gathered measurements will support the automation project.
+   ❌ SAI
+   📝 This rationale isn't valid as it doesn't explain the ongoing measurement activity.
+
+D. The information is needed as inputs into a SWOT analysis for the new automation project.
+   ❌ SAI
+   📝 Gathering statistics is not a prerequisite for SWOT analysis.
+
+➤ ĐÁP ÁN ĐÚNG: He is working to understand and validate the value that was delivered by the implemented solution.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Finn is gathering the actual metrics that describe the performance of the solution in order to measure and analyze solution performance. BABOK 8.2 and 8.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Deima is a BA assigned to the evaluation of a solution that isn't delivering value to the level forecasted during the project. She has gone into the project archives and is reviewing all available project documentation. Why is she doing that?
+
+A. She is trying to familiarize herself with the stakeholders impacted by the solution.
+   ❌ SAI
+   📝 This is one aspect of understanding potential value but is too narrow in scope.
+
+B. She is reviewing the project objectives to better understand what the solution was supposed to achieve.
+   ❌ SAI
+   📝 Tempting answer because of the mention of project archives. The potential value may not even be listed with the project objectives, though.
+
+C. She is working to understand the potential value of the solution.
+   ✅ ĐÚNG
+   📝 Potential Value is listed as an input to Analyze Performance Measures, which is what the question is asking. The forecasted level is "...a benchmark against which solution performance can be evaluated." BABOK 8.2.3
+
+D. She is primarily concerned with the solution requirements to ensure current performance measures are relevant.
+   ❌ SAI
+   📝 This is one aspect of understanding potential value but is too narrow in scope.
+
+➤ ĐÁP ÁN ĐÚNG: She is working to understand the potential value of the solution.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Potential Value is listed as an input to Analyze Performance Measures, which is what the question is asking. The forecasted level is "...a benchmark against which solution performance can be evaluated." BABOK 8.2.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+Deima is a BA assigned to the evaluation of a solution that isn't delivering value to the level forecasted during the project. She has gone into the project archives and is reviewing all available project documentation. Why is she doing that?
+
+A. She is working to understand the potential value of the solution.
+   ✅ ĐÚNG
+   📝 Potential Value is listed as an input to Analyze Performance Measures, which is what the question is asking. The forecasted level is "...a benchmark against which solution performance can be evaluated." BABOK 8.2.3
+
+B. She is trying to familiarize herself with the stakeholders impacted by the solution.
+   ❌ SAI
+   📝 This is one aspect of understanding potential value but is too narrow in scope.
+
+C. She is primarily concerned with the solution requirements to ensure current performance measures are relevant.
+   ❌ SAI
+   📝 This is one aspect of understanding potential value but is too narrow in scope.
+
+D. She is reviewing the project objectives to better understand what the solution was supposed to achieve.
+   ❌ SAI
+   📝 Tempting answer because of the mention of project archives. The potential value may not even be listed with the project objectives, though.
+
+➤ ĐÁP ÁN ĐÚNG: She is working to understand the potential value of the solution.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Potential Value is listed as an input to Analyze Performance Measures, which is what the question is asking. The forecasted level is "...a benchmark against which solution performance can be evaluated." BABOK 8.2.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+What are the guidelines and tools that are used to support analyzing performance measures?
+
+A. Solution performance analysis, solution performance measures, solution limitations, and recommended actions.
+   ❌ SAI
+   📝 These are outputs of this knowledge area.
+
+B. Project strategy, implementation scope, risk mitigation response, and performance analysis metrics.
+   ❌ SAI
+   📝 Made up answers. BABOK 8.2.5
+
+C. Change strategy, future state description, risk analysis results, and solution scope.
+   ✅ ĐÚNG
+   📝 BABOK 8.2.5
+
+D. Acceptance and evaluation criteria, metrics and key performance measures, data mining, and root cause analysis.
+   ❌ SAI
+   📝 These are techniques, not guidelines and tools. BABOK 8.2.6
+
+➤ ĐÁP ÁN ĐÚNG: Change strategy, future state description, risk analysis results, and solution scope.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Val is a BA who has been asked to evaluate a software solution which supports vital business functions. When the software doesn't perform, employees can't perform! Val discovers after analyzing three months worth of recent data that the software's transacting ability deteriorates noticeably around lunch time and significantly every Thursday about 4 pm. What has Val discovered?
+
+A. A pattern
+   ❌ SAI
+   📝 Yes he has, but the BABOK uses a different term.
+
+B. A variance
+   ❌ SAI
+   📝 Val hasn't discovered the difference between expected and actual performance. BABOK 8.2.4.5
+
+C. A trend
+   ✅ ĐÚNG
+   📝 BABOK 8.2.4.3
+
+D. A theme
+   ❌ SAI
+   📝 The BABOK doesn't use this term regarding data analysis.
+
+➤ ĐÁP ÁN ĐÚNG: A trend
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+What is the purpose of analyzing performance measures?
+
+A. Prepare clients for upcoming changes based on results of measuring a solution's performance.
+   ❌ SAI
+   📝 While this can occur for future planning it is not the purpose. BABOK 8.2.1
+
+B. Assist in developing the project schedule once it has been determined that changes are required.
+   ❌ SAI
+   📝 Analyzing performance doesn't have impact on creating the project schedule. Hint: If you see project schedule in an answer, it's probably incorrect. BABOK 8.2.1
+
+C. Provide insights into the performance of a solution in relation to the value it brings.
+   ✅ ĐÚNG
+   📝 BABOK 8.2.1
+
+D. Provide understanding of the performance of the solution in order to pass potential audits.
+   ❌ SAI
+   📝 This is a fabricated answer. BABOK 8.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Provide insights into the performance of a solution in relation to the value it brings.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+When analyzing performance data, business analysts consider the time period when the data was collected to guard against what?
+
+A. An incorrect benchmark
+   ❌ SAI
+   📝 Time is not a consideration for benchmarking. BABOK 8.2.4.3
+
+B. Performance variances
+   ❌ SAI
+   📝 Performance variances are the difference between the expected and actual performance. Time is not a factor. BABOK 8.2.4.5 and 8.2.4.3
+
+C. Anomalies and skewed trends
+   ✅ ĐÚNG
+   📝 BABOK 8.2.4.3
+
+D. Solution scope changes
+   ❌ SAI
+   📝 Solution scope is not a concern when analyzing performance data. BABOK 8.2.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Anomalies and skewed trends
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+Val is a BA who has been asked to evaluate a software solution which supports vital business functions. When the software doesn't perform, employees can't perform! Val discovers after analyzing three months worth of recent data that the software's transacting ability deteriorates noticeably around lunch time and significantly every Thursday about 4 pm. What has Val discovered?
+
+A. A pattern
+   ❌ SAI
+   📝 Yes he has, but the BABOK uses a different term.
+
+B. A trend
+   ✅ ĐÚNG
+   📝 BABOK 8.2.4.3
+
+C. A theme
+   ❌ SAI
+   📝 The BABOK doesn't use this term regarding data analysis.
+
+D. A variance
+   ❌ SAI
+   📝 Val hasn't discovered the difference between expected and actual performance. BABOK 8.2.4.5
+
+➤ ĐÁP ÁN ĐÚNG: A trend
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+Which input describes the value that may be realized by implementing the proposed future state? It can be used as a benchmark against which solution performance can be evaluated.
+
+A. Solution performance measures
+   ❌ SAI
+   📝 This input provides information on how well the solution is performing, not about the value of the solution. BABOK 8.2.3
+
+B. Potential Value
+   ✅ ĐÚNG
+   📝 BABOK 8.2.3
+
+C. Business objectives
+   ❌ SAI
+   📝 Business objectives are an input into Measuring Solution Performance and does not describe the value that may be implemented in the propose future state. BABOK Figure 8.2.1 and BABOK 8.1.3
+
+D. Relationship management
+   ❌ SAI
+   📝 BABOK 8.2.3. Relationship management is not an input in the BABOK.
+
+➤ ĐÁP ÁN ĐÚNG: Potential Value
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+Finn is a BA working on a newly implemented logistics process for a package supply company. He began gathering performance metrics on such things as how long the process took vs. how long to get output from one area to another, defects in the output, duplicate steps, number of complaints, etc. The department supervisor complained to Finn that gathering these statistics was a waste of time. She said she would rather he spend his time gathering requirements for automation to support the process. What rationale does Finn offer for his activities?
+
+A. The information is needed as inputs into a SWOT analysis for the new automation project.
+   ❌ SAI
+   📝 Gathering statistics is not a prerequisite for SWOT analysis.
+
+B. He is working to understand and validate the value that was delivered by the implemented solution.
+   ✅ ĐÚNG
+   📝 Finn is gathering the actual metrics that describe the performance of the solution in order to measure and analyze solution performance. BABOK 8.2 and 8.3
+
+C. He needs to keep an eye out for defects so he can address them in a timely way to ensure customer satisfaction.
+   ❌ SAI
+   📝 At this point we are not aware of any specific defects. So, this is noble but not necessary.
+
+D. The gathered measurements will support the automation project.
+   ❌ SAI
+   📝 This rationale isn't valid as it doesn't explain the ongoing measurement activity.
+
+➤ ĐÁP ÁN ĐÚNG: He is working to understand and validate the value that was delivered by the implemented solution.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Finn is gathering the actual metrics that describe the performance of the solution in order to measure and analyze solution performance. BABOK 8.2 and 8.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+What are the guidelines and tools that are used to support analyzing performance measures?
+
+A. Acceptance and evaluation criteria, metrics and key performance measures, data mining, and root cause analysis.
+   ❌ SAI
+   📝 These are techniques, not guidelines and tools. BABOK 8.2.6
+
+B. Project strategy, implementation scope, risk mitigation response, and performance analysis metrics.
+   ❌ SAI
+   📝 Made up answers. BABOK 8.2.5
+
+C. Change strategy, future state description, risk analysis results, and solution scope.
+   ✅ ĐÚNG
+   📝 BABOK 8.2.5
+
+D. Solution performance analysis, solution performance measures, solution limitations, and recommended actions.
+   ❌ SAI
+   📝 These are outputs of this knowledge area.
+
+➤ ĐÁP ÁN ĐÚNG: Change strategy, future state description, risk analysis results, and solution scope.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.2.5
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 236 - 30 câu FULL EXPLAIN

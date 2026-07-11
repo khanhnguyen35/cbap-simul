@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 166 ===
+📚 Tên: TopicSet 166
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+Janine is a BA and new to her company. She has been assigned to an effort to improve reporting on inventory levels and re-order points. In planning the work she needs to do, she realizes there is a great deal of information she needs to manage and requirements to trace. Which of the following would Janine request to have access to in order to adequately do her job?
+
+A. Requirements management tools/repository
+   ✅ ĐÚNG
+   📝 This is a guideline or tool used to store and manage business analysis information and would help Janine with the challenge described. It may be as simple as a text document or as complex as a dedicated requirements management tool. BABOK 5.1.5
+
+B. Configuration management system
+   ❌ SAI
+   📝 This is not a BABOK term. BABOK 5.1.5
+
+C. Knowledge management tools
+   ❌ SAI
+   📝 This is not a BABOK term. BABOK 5.1.5
+
+D. Information management approach
+   ❌ SAI
+   📝 This guideline or tool provides decisions from planning activities concerning the traceability approach. BABOK 5.1.5
+
+➤ ĐÁP ÁN ĐÚNG: Requirements management tools/repository
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a guideline or tool used to store and manage business analysis information and would help Janine with the challenge described. It may be as simple as a text document or as complex as a dedicated requirements management tool. BABOK 5.1.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+XYZ is a new organization that uses agile methodology. The organization is looking for best solution for tracing its large number of requirements that are considered unmanageable with manual approaches. Anna, a new hire, is responsible for ensuring the solution being developed meets the business need and brings awareness of dependencies between solution components during implementation. What type of stakeholder is Anna?
+
+A. Sponsor
+   ❌ SAI
+   📝 The sponsor approves the various relationships included in the task of trace requirements.
+
+B. Operational support
+   ❌ SAI
+   📝 This type of stakeholder ensures traceability documentation provides another reference source for help desk support.
+
+C. Domain subject matter expert
+   ❌ SAI
+   📝 This stakeholder may have recommendations regarding the set of requirements to be linked to a solution component or to a release but will not necessarily be helpful in identifying dependencies between solution components.
+
+D. Implementation subject matter expert
+   ✅ ĐÚNG
+   📝 This stakeholder is more technical in nature and would be in the best position to identify dependencies between solution components. BABOK 5.1.7
+
+➤ ĐÁP ÁN ĐÚNG: Implementation subject matter expert
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This stakeholder is more technical in nature and would be in the best position to identify dependencies between solution components. BABOK 5.1.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+As business analyst on an initiative, you are documenting relationships that exist between requirements. While traceability is valuable, you balance the number of relationship types with the benefit gained by representing them. Which stakeholder would be required to approve these relationships?
+
+A. Tester
+   ❌ SAI
+   📝 The tester is concerned with understanding how and where requirements are implemented when creating test plans and test cases, and may trace test cases to requirements. BABOK 5.1.7
+
+B. Sponsor
+   ✅ ĐÚNG
+   📝 The sponsor is required to approve the various relationships in the trace requirements task. BABOK 5.1.7
+
+C. Project manager
+   ❌ SAI
+   📝 The project manager ensures that traceability supports project change and scope management. BABOK 5.1.7
+
+D. Product owner
+   ❌ SAI
+   📝 The product owner is not a stated stakeholder for the trace requirements task. BABOK 5.1.7
+
+➤ ĐÁP ÁN ĐÚNG: Sponsor
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The sponsor is required to approve the various relationships in the trace requirements task. BABOK 5.1.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+The purpose of tracing requirements is best described by which of the following statements:
+
+A. Traceability assists in managing accountability for requirements activities that are performed by stakeholders outside of the requirements team.
+   ❌ SAI
+   📝 Traceability refers to the requirements, not to who does it. BABOK 5.1.1
+
+B. Ensuring that requirements and designs at different levels are aligned to one another, and to manage the effects of change to one level on related requirements."
+   ✅ ĐÚNG
+   📝 Purpose as listed in the BABOK 5.1.1
+
+C. Traceability metrics are used by the Change Management Board to approve or deny requests for change.
+   ❌ SAI
+   📝 There is no such thing as traceability metrics, there may or may not be a Change Management board, and traceability is not used to approve or deny change requests. BABOK 5.1.1
+
+D. Traceability requirements supplement business requirements and functional requirements.
+   ❌ SAI
+   📝 Invented answer. There is no such thing as a traceability requirement. Requirements must be traceable to be considered 'good,' but there is no category of requirement called 'traceability.' BABOK 2.3 and 5.1.1
+
+➤ ĐÁP ÁN ĐÚNG: Ensuring that requirements and designs at different levels are aligned to one another, and to manage the effects of change to one level on related requirements."
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Purpose as listed in the BABOK 5.1.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+In her last job, Gayle knew how everything worked. Her organization had formal and informal standards in place regarding how business analysis should be performed. But after leaving her last job, she just landed a Sr. Business Analyst job with ABC company and to her surprise there are no defined standards in place. Gayle determines that she needs to define a requirements management life cycle approach for the initiative she has been assigned to. Which requirements lifecycle processes should Gayle define?
+
+A. Gayle should define processes for analyzing the current state and future state, assessing risks and defining a change strategy.
+   ❌ SAI
+   📝 These are all tasks in Strategy Analysis. BABOK 6.0
+
+B. Gayle should define processes for tracing, prioritizing, assessing changes to, maintaining, and approving requirements.
+   ✅ ĐÚNG
+   📝 Requirements Life Cycle Management includes tracing requirements, maintaining requirements, prioritizing requirements, assessing requirements changes, and approving requirements. BABOK 5.0
+
+C. Gayle should define processes for preparing for elicitation, conducting elicitation, and managing stakeholder collaboration.
+   ❌ SAI
+   📝 These are all tasks in Elicitation and Collaboration. BABOK 4.0
+
+D. Gayle should define processes for stakeholder engagement, business analysis governance, and information management.
+   ❌ SAI
+   📝 These are all tasks in Business Analysis Planning and Monitoring. BABOK 3.0
+
+➤ ĐÁP ÁN ĐÚNG: Gayle should define processes for tracing, prioritizing, assessing changes to, maintaining, and approving requirements.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Requirements Life Cycle Management includes tracing requirements, maintaining requirements, prioritizing requirements, assessing requirements changes, and approving requirements. BABOK 5.0
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+Which statement is the most true about approving requirements?
+
+A. Once approval is obtained, the details related to that approval are no longer needed, and can be discarded.
+   ❌ SAI
+   📝 The business analyst must record approval decisions and to communicate the status of the requirements. "There may be value in maintaining an audit history of changes to requirements: what was changed, who made the change, the reason for the change, and when it was made." BABOK 5.5.4.4
+
+B. Approving stakeholders need to sign off on the requirements in writing.
+   ❌ SAI
+   📝 Approvals can also be verbal and don't have to be in writing. Business analysts are responsible for ensuring that only stakeholders with approval authority understand and accept the requirements. BABOK 5.5.4.1
+
+C. Approval may be obtained from individual stakeholders or as a group.
+   ✅ ĐÚNG
+   📝 A stakeholder is defined as a group or individual. The Business analyst works closely with authorized stakeholders to maintain an understanding, agreement, and approval of requirements and designs. BABOK 5, Table 5.0.1
+
+D. Approval decisions need to be traced to the technical design.
+   ❌ SAI
+   📝 Invented answer. There is no such mention in the BABOK.
+
+➤ ĐÁP ÁN ĐÚNG: Approval may be obtained from individual stakeholders or as a group.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A stakeholder is defined as a group or individual. The Business analyst works closely with authorized stakeholders to maintain an understanding, agreement, and approval of requirements and designs. BABOK 5, Table 5.0.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+What is one of the outputs of trace requirements?
+
+A. Requirements
+   ❌ SAI
+   📝 This answer is close, but does capture the idea fully since the output is Requirements (Traced). The best answer is Designs (Traced). BABOK 5.1.8
+
+B. Needs (Traced)
+   ❌ SAI
+   📝 Although requirements represent a need, this answer is too nebulous and not one of the outputs listed for Trace Requirements. BABOK 5.1.8
+
+C. Designs (Traced)
+   ✅ ĐÚNG
+   📝 This is one of the outputs of Trace Requirements. BABOK 5.1.8
+
+D. Constraints (Traced)
+   ❌ SAI
+   📝 Constraints are not traced. BABOK 5.1.8
+
+➤ ĐÁP ÁN ĐÚNG: Designs (Traced)
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is one of the outputs of Trace Requirements. BABOK 5.1.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+A requirements management tool may be needed to trace large numbers of requirements. What is this tool called?
+
+A. Requirements management repository
+   ✅ ĐÚNG
+   📝 A Requirements Management Tools/Repository can be used to store and manage a large number of requirements. The tool could be as simple as a text/spreadsheet document or as complex as a Requirements Management System. BABOK 5.1.5
+
+B. Requirements organizational system
+   ❌ SAI
+   📝 An invented answer. BABOK 5.1.5
+
+C. Traceability and relationship management system
+   ❌ SAI
+   📝 An invented answer - there are no such systems. BABOK 5.1.5
+
+D. Change management system
+   ❌ SAI
+   📝 Change management is a process, not a system. BABOK 5.1.5 and 8.5.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Requirements management repository
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A Requirements Management Tools/Repository can be used to store and manage a large number of requirements. The tool could be as simple as a text/spreadsheet document or as complex as a Requirements Management System. BABOK 5.1.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Which of the following permits the business analyst to identify and document a requirement's relationship to other requirements, business rules, work products, and solution components?
+
+A. Requirements traceability
+   ✅ ĐÚNG
+   📝 Requirements traceability permits the business analyst to identify and document the lineage of each requirement to other requirements, work products, and other components. BABOK 5.1.2 & 5.1.3
+
+B. Business analysis package
+   ❌ SAI
+   📝 A Business Analysis Package is used to communicate requirements and designs to stakeholders. BABOK 4.4.4.1
+
+C. Requirements workshop
+   ❌ SAI
+   📝 A Requirements Workshop is a technique used to elicit requirements. BABOK 4.4.6 and 10.50
+
+D. Requirements reviews
+   ❌ SAI
+   📝 Requirements reviews provide a venue where stakeholders can provide their feedback and approvals on the requirements. It is a technique used to elicit requirements. BABOK 4.4.6
+
+➤ ĐÁP ÁN ĐÚNG: Requirements traceability
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Requirements traceability permits the business analyst to identify and document the lineage of each requirement to other requirements, work products, and other components. BABOK 5.1.2 & 5.1.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+Ed is a new business analyst working on the requirements for a large initiative to expand the functionality of an insurance product at his company. A senior BA told Ed that he should use a requirements management tool to trace the requirements for this effort. To make using the complexity of a requirements management tool worthwhile, what can be implied from the senior business analyst's suggestion?
+
+A. Poorly defined requirements
+   ❌ SAI
+   📝 BABOK 5.1.4.3. Not relevant to the question being asked.
+
+B. There are relatively few requirements for Ed's project.
+   ❌ SAI
+   📝 Less formal methods could be leveraged to manage requirements traceability. BABOK 5.1.4.3
+
+C. The number of requirements are quite extensive.
+   ✅ ĐÚNG
+   📝 Although it is not required, tracing a large number of requirements may be unmanageable with a manual approach. BABOK 5.1.4.3
+
+D. There are multiple relationships between requirements on this project.
+   ❌ SAI
+   📝 BABOK 5.1.4.3 An invented answer.
+
+➤ ĐÁP ÁN ĐÚNG: The number of requirements are quite extensive.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Although it is not required, tracing a large number of requirements may be unmanageable with a manual approach. BABOK 5.1.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+There are several types of relationships that the business analyst considers when defining the traceability approach. What type of the following describes the relationship between a functional requirement and a solution component that is implementing it?
+
+A. Necessity
+   ❌ SAI
+   📝 This is a subset of "depends" and refers to when it only makes sense to implement a particular requirement if a related requirement is also implemented. BABOK 5.1.4.2
+
+B. Derive
+   ❌ SAI
+   📝 This is the relationship between two requirements, used when a requirement is derived from another requirement. BABOK 5.1.4.2
+
+C. Depends
+   ❌ SAI
+   📝 This is relationship between two requirements, used when a requirement depends on another requirement. BABOK 5.1.4.2
+
+D. Satisfy
+   ✅ ĐÚNG
+   📝 The satisfy relationship exists between an implementation element and the requirement(s) it is satisfying, which is what the scenario is describing. BABOK 5.1.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Satisfy
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The satisfy relationship exists between an implementation element and the requirement(s) it is satisfying, which is what the scenario is describing. BABOK 5.1.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+Which type of relationship between requirements describes when it only makes sense to implement a particular requirement if a related requirement is also implemented?
+
+A. Necessity
+   ✅ ĐÚNG
+   📝 This relationship exists when it only makes sense to implement a particular requirement if a related requirement is also implemented. BABOK 5.1.4
+
+B. Satisfy
+   ❌ SAI
+   📝 Satisfy describes a relationship between an implementation element and the requirement it is satisfying. BABOK 5.1.4
+
+C. Validate
+   ❌ SAI
+   📝 Validate is the relationship between a requirement and a test case or similar element that can determine whether a solution fulfills the requirement. BABOK 5.1.4
+
+D. Effort
+   ❌ SAI
+   📝 An Effort relationship is one in which a requirement is easier to implement if a related requirement is also implemented. BABOK 5.1.4
+
+➤ ĐÁP ÁN ĐÚNG: Necessity
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This relationship exists when it only makes sense to implement a particular requirement if a related requirement is also implemented. BABOK 5.1.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+If the solution team thinks that the requirements are not represented by the solution, which of the following would help them address their concerns?
+
+A. Assess requirements change
+   ❌ SAI
+   📝 Assessing requirements changes focuses on whether the proposed change will increase the value of the solution, not whether there are missing or incorrect requirements. BABOK 5.4.1
+
+B. Prioritize requirements
+   ❌ SAI
+   📝 Requirements prioritization determines the requirements relative importance to the stakeholder, rather than missing or incorrect requirements and designs. BABOK 5.3.2
+
+C. Requirements and designs analysis
+   ❌ SAI
+   📝 This is a made up answer. This phrase does not appear in the BABOK. See BABOK 5.4.1 for correct answer.
+
+D. Trace requirements
+   ✅ ĐÚNG
+   📝 Traceability is used to ensure that the solution confirms to requirements by linking each requirement back to the business value. BABOK 5.1.2
+
+➤ ĐÁP ÁN ĐÚNG: Trace requirements
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Traceability is used to ensure that the solution confirms to requirements by linking each requirement back to the business value. BABOK 5.1.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+Cindy was working on requirements dependencies and prioritization. Requirement #5.1.2 was dependent on requirement #5.1. Requirement #5.1 was dependent on requirement #3.0. Requirement #3.0 was given a priority of medium, and requirement #5.1 was given a priority of low. A new requirement #7.0 was added, and it was determined that requirement #5.1 was actually dependent on #7.0. Requirement #7.0 was given a priority of high and the priority of #5.1 was changed to medium. What was the deciding factor to change the priority of requirement #5.1?
+
+A. Subset
+   ❌ SAI
+   📝 There are subsets here, but they do not indicate whether they are more important than other requirements or not. BABOK 5.1.4.2
+
+B. Necessity
+   ❌ SAI
+   📝 The dependency showed the necessity. But the value shows why it became more important. BABOK 5.1.4.2
+
+C. Value
+   ✅ ĐÚNG
+   📝 The inclusion of the requirement #7.0 made #5.1 more desirable and therefore a higher priority. #7.0 had greater value than #3.0. BABOK Table 5.0.1 and 5.1.4.2
+
+D. Effort
+   ❌ SAI
+   📝 We have no knowledge if any of these requirements are easier to implement than the others. BABOK 5.1.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Value
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The inclusion of the requirement #7.0 made #5.1 more desirable and therefore a higher priority. #7.0 had greater value than #3.0. BABOK Table 5.0.1 and 5.1.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+What is traceability considered an enabler of?
+
+A. Better requirements management planning
+   ❌ SAI
+   📝 You plan for traceability when planning the Business Analysis Information Management Approach, part of requirements management planning, but Traceability itself does not enable planning. BABOK 3.4.4.3 and 5.1.2
+
+B. Faster and simpler impact analysis
+   ✅ ĐÚNG
+   📝 Traceability does enable faster and simpler impact analysis. BABOK 5.1.2
+
+C. Enhanced relationship management
+   ❌ SAI
+   📝 Traceability does not enable the relationship management. BABOK 5.1.2
+
+D. Improved stakeholder management
+   ❌ SAI
+   📝 Traceability does not enable the improvement of stakeholder management. BABOK 5.1.2
+
+➤ ĐÁP ÁN ĐÚNG: Faster and simpler impact analysis
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Traceability does enable faster and simpler impact analysis. BABOK 5.1.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+Which of the following is NOT a guideline and tool for traceability?
+
+A. Domain knowledge
+   ❌ SAI
+   📝 Listed in BABOK 5.1.5
+
+B. Business rule repository
+   ✅ ĐÚNG
+   📝 Not listed in BABOK 5.1.5
+
+C. Legal regulatory information
+   ❌ SAI
+   📝 Listed in BABOK 5.1.5
+
+D. Information management approach
+   ❌ SAI
+   📝 Listed in BABOK 5.1.5
+
+➤ ĐÁP ÁN ĐÚNG: Business rule repository
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Not listed in BABOK 5.1.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+Which of the following permits the business analyst to identify and document a requirement's relationship to other requirements, business rules, work products, and solution components?
+
+A. Requirements traceability
+   ✅ ĐÚNG
+   📝 Requirements traceability permits the business analyst to identify and document the lineage of each requirement to other requirements, work products, and other components. BABOK 5.1.2 & 5.1.3
+
+B. Requirements reviews
+   ❌ SAI
+   📝 Requirements reviews provide a venue where stakeholders can provide their feedback and approvals on the requirements. It is a technique used to elicit requirements. BABOK 4.4.6
+
+C. Requirements workshop
+   ❌ SAI
+   📝 A Requirements Workshop is a technique used to elicit requirements. BABOK 4.4.6 and 10.50
+
+D. Business analysis package
+   ❌ SAI
+   📝 A Business Analysis Package is used to communicate requirements and designs to stakeholders. BABOK 4.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Requirements traceability
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Requirements traceability permits the business analyst to identify and document the lineage of each requirement to other requirements, work products, and other components. BABOK 5.1.2 & 5.1.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+Which type of relationship between requirements describes when it only makes sense to implement a particular requirement if a related requirement is also implemented?
+
+A. Effort
+   ❌ SAI
+   📝 An Effort relationship is one in which a requirement is easier to implement if a related requirement is also implemented. BABOK 5.1.4
+
+B. Validate
+   ❌ SAI
+   📝 Validate is the relationship between a requirement and a test case or similar element that can determine whether a solution fulfills the requirement. BABOK 5.1.4
+
+C. Necessity
+   ✅ ĐÚNG
+   📝 This relationship exists when it only makes sense to implement a particular requirement if a related requirement is also implemented. BABOK 5.1.4
+
+D. Satisfy
+   ❌ SAI
+   📝 Satisfy describes a relationship between an implementation element and the requirement it is satisfying. BABOK 5.1.4
+
+➤ ĐÁP ÁN ĐÚNG: Necessity
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This relationship exists when it only makes sense to implement a particular requirement if a related requirement is also implemented. BABOK 5.1.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+What tool or system can provide significant benefits when there is a need to trace a large number of requirements and that may be too unwieldy with a manual approach?
+
+A. Change management traceability system
+   ❌ SAI
+   📝 Change management is a process, and there is no such thing as a change management traceability system. BABOK 5.1.4.3
+
+B. Traceability and relationship management system
+   ❌ SAI
+   📝 This is an invented term. There is no such system. BABOK 5.1.4.3
+
+C. Traceability management system
+   ❌ SAI
+   📝 This is an invented term, there is no such system. BABOK 5.1.4.3
+
+D. Requirements management tool
+   ✅ ĐÚNG
+   📝 A requirements management tool can provide a system for managing a large number of requirements. It can also act as a repository for all requirements. BABOK 5.1.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Requirements management tool
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A requirements management tool can provide a system for managing a large number of requirements. It can also act as a repository for all requirements. BABOK 5.1.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+Which statement is the most true about approving requirements?
+
+A. Approving stakeholders need to sign off on the requirements in writing.
+   ❌ SAI
+   📝 Approvals can also be verbal and don't have to be in writing. Business analysts are responsible for ensuring that only stakeholders with approval authority understand and accept the requirements. BABOK 5.5.4.1
+
+B. Approval decisions need to be traced to the technical design.
+   ❌ SAI
+   📝 Invented answer. There is no such mention in the BABOK.
+
+C. Once approval is obtained, the details related to that approval are no longer needed, and can be discarded.
+   ❌ SAI
+   📝 The business analyst must record approval decisions and to communicate the status of the requirements. "There may be value in maintaining an audit history of changes to requirements: what was changed, who made the change, the reason for the change, and when it was made." BABOK 5.5.4.4
+
+D. Approval may be obtained from individual stakeholders or as a group.
+   ✅ ĐÚNG
+   📝 A stakeholder is defined as a group or individual. The Business analyst works closely with authorized stakeholders to maintain an understanding, agreement, and approval of requirements and designs. BABOK 5, Table 5.0.1
+
+➤ ĐÁP ÁN ĐÚNG: Approval may be obtained from individual stakeholders or as a group.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A stakeholder is defined as a group or individual. The Business analyst works closely with authorized stakeholders to maintain an understanding, agreement, and approval of requirements and designs. BABOK 5, Table 5.0.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Which of the following is NOT a consideration in the trace requirements task?
+
+A. Traceability repository
+   ❌ SAI
+   📝 This is a type of requirements management tool and an element of tracing requirements. BABOK 5.1.4.3
+
+B. Relationships
+   ❌ SAI
+   📝 There are several types of relationships that the BA considers when defining the traceability approach. This is an element of tracing requirements and not the correct answer. BABOK 5.1.4.2
+
+C. Level of formality
+   ❌ SAI
+   📝 Effort to trace requirements grows significantly when the number of requirements or level of formality increases. This is an element of tracing requirements and not the correct answer. BABOK 5.1.4.1
+
+D. Depends
+   ✅ ĐÚNG
+   📝 This is a type of relationship vs. an element of tracing requirements.
+
+➤ ĐÁP ÁN ĐÚNG: Depends
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a type of relationship vs. an element of tracing requirements.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+What is one of the outputs of trace requirements?
+
+A. Constraints (Traced)
+   ❌ SAI
+   📝 Constraints are not traced. BABOK 5.1.8
+
+B. Requirements
+   ❌ SAI
+   📝 This answer is close, but does capture the idea fully since the output is Requirements (Traced). The best answer is Designs (Traced). BABOK 5.1.8
+
+C. Designs (Traced)
+   ✅ ĐÚNG
+   📝 This is one of the outputs of Trace Requirements. BABOK 5.1.8
+
+D. Needs (Traced)
+   ❌ SAI
+   📝 Although requirements represent a need, this answer is too nebulous and not one of the outputs listed for Trace Requirements. BABOK 5.1.8
+
+➤ ĐÁP ÁN ĐÚNG: Designs (Traced)
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is one of the outputs of Trace Requirements. BABOK 5.1.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+What type of requirements relationship exists when a requirement is easier to implement if a related requirement is also implemented?
+
+A. Derive
+   ❌ SAI
+   📝 This is the relationship between two requirements, used when a requirement is derived from another requirement. BABOK 5.1.4.2
+
+B. Necessity
+   ❌ SAI
+   📝 This is a sub-set of the depends relationship and describes when it only makes sense to implement a particular requirement if a related requirement is also implemented. BABOK 5.1.4.2
+
+C. Depends
+   ❌ SAI
+   📝 This is relationship between two requirements, used when a requirement depends on another requirement. BABOK 5.1.4.2
+
+D. Effort
+   ✅ ĐÚNG
+   📝 This is a sub-set of the depends relationship and describes the relationship in the question. BABOK 5.1.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Effort
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a sub-set of the depends relationship and describes the relationship in the question. BABOK 5.1.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Hartley is in the process of defining the requirements traceability approach. She has defined the relationship between a requirement and a test case and other elements that determine whether a solution fulfills the requirement. What type of relationship has Hartley defined?
+
+A. Derive
+   ❌ SAI
+   📝 This relationship between two requirements is used when a requirement is derived from another requirement. BABOK 5.1.4.2
+
+B. Validate
+   ✅ ĐÚNG
+   📝 This relationship does determine whether a solution fulfills a requirement by tracing a requirement to a test case or other element that could provide validation. BABOK 5.1.4.2
+
+C. Satisfy
+   ❌ SAI
+   📝 Satisfy defines the relationship between an implementation element and the requirements it is satisfying. For example, the relationship between a functional requirement and a solution component that is implementing it. BABOK 5.1.4.2
+
+D. Authenticate
+   ❌ SAI
+   📝 This is not a relationship in BABOK. BABOK 5.1.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Validate
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This relationship does determine whether a solution fulfills a requirement by tracing a requirement to a test case or other element that could provide validation. BABOK 5.1.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+Traceability helps manage requirements and assists in risk, time, change, and scope management. What else can it do?
+
+A. Identify missing functionality
+   ✅ ĐÚNG
+   📝 Traceability also helps detect missing functionality. BABOK 5.1.2
+
+B. Detect implementation Issues
+   ❌ SAI
+   📝 This not detected by traceability. BABOK 5.1.2
+
+C. Identify code defects
+   ❌ SAI
+   📝 This not detected by traceability. BABOK 5.1.2
+
+D. Identify missing stakeholders
+   ❌ SAI
+   📝 This not detected by traceability. BABOK 5.1.2
+
+➤ ĐÁP ÁN ĐÚNG: Identify missing functionality
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Traceability also helps detect missing functionality. BABOK 5.1.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+What are the key types of relationships that the business analyst considers when defining the traceability approach?
+
+A. Derive, Depends, Satisfy, and Validate
+   ✅ ĐÚNG
+   📝 BABOK 5.1.4.2.
+
+B. Business Value, Depends, Scalability, and Validate
+   ❌ SAI
+   📝 Depends and Validate are the only applicable relationships. BABOK 5.1.4.2.
+
+C. Effort, Depends, Necessity, Bi-directional Approach, and Value
+   ❌ SAI
+   📝 Effort and Necessity are types of a Depends relationship, which is the only type of relationship in this list that is also listed in the BABOK. BABOK 5.1.4.2.
+
+D. Deliver, Bi-direction, Analysis, Effort, Necessity, and Backwards Compatibility
+   ❌ SAI
+   📝 None of these values relate to defining the traceability approach. Effort and Necessity are types of a Depends relationship. BABOK 5.1.4.2.
+
+➤ ĐÁP ÁN ĐÚNG: Derive, Depends, Satisfy, and Validate
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 5.1.4.2.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+Which of the following is NOT a consideration in the trace requirements task?
+
+A. Level of formality
+   ❌ SAI
+   📝 Effort to trace requirements grows significantly when the number of requirements or level of formality increases. This is an element of tracing requirements and not the correct answer. BABOK 5.1.4.1
+
+B. Relationships
+   ❌ SAI
+   📝 There are several types of relationships that the BA considers when defining the traceability approach. This is an element of tracing requirements and not the correct answer. BABOK 5.1.4.2
+
+C. Traceability repository
+   ❌ SAI
+   📝 This is a type of requirements management tool and an element of tracing requirements. BABOK 5.1.4.3
+
+D. Depends
+   ✅ ĐÚNG
+   📝 This is a type of relationship vs. an element of tracing requirements.
+
+➤ ĐÁP ÁN ĐÚNG: Depends
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a type of relationship vs. an element of tracing requirements.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+Traceability is best described by the following statement:
+
+A. Traceability requirements supplement business requirements and functional requirements.
+   ❌ SAI
+   📝 Nonsense answer. Business and functional requirements are two of the components in the requirements classification schema, but have nothing to do with traceability. Also, look for an answer that describes what it is, not how it might be used. BABOK 5.1.2
+
+B. Traceability identifies and documents the lineage of each requirement, including its backward traceability, its forward traceability, and its relationship to other requirements.
+   ✅ ĐÚNG
+   📝 This is the definition of traceability. BABOK 5.1.2
+
+C. Traceability is used to obtain metrics by the Change Management Board to approve or deny requests for change.
+   ❌ SAI
+   📝 While it may or may not be used to assist such a board, this answer does not define or describe what traceability is. Look for an answer that describes what it is, not how it might be used. Also, not every organization has such a board. BABOK 5.1.2
+
+D. Traceability assists in developing the project schedule.
+   ❌ SAI
+   📝 Traceability has little or no impact on the creation of the project schedule. Look for an answer that describes what it is, not how it might be used. BABOK 5.1.2
+
+➤ ĐÁP ÁN ĐÚNG: Traceability identifies and documents the lineage of each requirement, including its backward traceability, its forward traceability, and its relationship to other requirements.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the definition of traceability. BABOK 5.1.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+There are several types of relationships that the business analyst considers when defining the traceability approach. What type of relationship exists when it only makes sense to implement a particular requirement if a related requirement is also implemented?
+
+A. Derive
+   ❌ SAI
+   📝 This is the relationship between two requirements, used when a requirement is derived from another requirement. BABOK 5.1.4.2
+
+B. Effort
+   ❌ SAI
+   📝 This is a sub-type of the depends relationship that refers to when a requirement is easier to implement if a related requirement is also implemented. BABOK 5.1.4.2
+
+C. Necessity
+   ✅ ĐÚNG
+   📝 This is a sub-type of the depends relationship that exactly describes the situation in the scenario and the trace requirements task. BABOK 5.1.4.2
+
+D. Depends
+   ❌ SAI
+   📝 This is relationship between two requirements, used when a requirement depends on another requirement. It is a close answer but necessity is a sub-type of depends which is more specific to the scenario. BABOK 5.1.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Necessity
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a sub-type of the depends relationship that exactly describes the situation in the scenario and the trace requirements task. BABOK 5.1.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+XYZ is a new organization that uses agile methodology. The organization is looking for best solution for tracing its large number of requirements that are considered unmanageable with manual approaches. Anna, a new hire, is responsible for ensuring the solution being developed meets the business need and brings awareness of dependencies between solution components during implementation. What type of stakeholder is Anna?
+
+A. Implementation subject matter expert
+   ✅ ĐÚNG
+   📝 This stakeholder is more technical in nature and would be in the best position to identify dependencies between solution components. BABOK 5.1.7
+
+B. Sponsor
+   ❌ SAI
+   📝 The sponsor approves the various relationships included in the task of trace requirements.
+
+C. Domain subject matter expert
+   ❌ SAI
+   📝 This stakeholder may have recommendations regarding the set of requirements to be linked to a solution component or to a release but will not necessarily be helpful in identifying dependencies between solution components.
+
+D. Operational support
+   ❌ SAI
+   📝 This type of stakeholder ensures traceability documentation provides another reference source for help desk support.
+
+➤ ĐÁP ÁN ĐÚNG: Implementation subject matter expert
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This stakeholder is more technical in nature and would be in the best position to identify dependencies between solution components. BABOK 5.1.7
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 166 - 30 câu FULL EXPLAIN

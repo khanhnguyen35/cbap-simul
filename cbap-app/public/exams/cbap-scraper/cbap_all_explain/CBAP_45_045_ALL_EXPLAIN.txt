@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 45 ===
+📚 Tên: TopicSet 45
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+Robin is a BA working to identify interfaces. Which of the following techniques could she use to assist with this task?
+
+A. Document analysis, observation, scope modeling, interviews.
+   ✅ ĐÚNG
+   📝 The business analyst can use other techniques, such as document analysis,observation, scope modeling, and interviews in order to understand which interfaces need to be identified for analysis. BABOK 10.24.3.1
+
+B. Document analysis, observation, scope modeling, workshops.
+   ❌ SAI
+   📝 Although it would seem you could use a workshop to identify interfaces, a workshop is not a listed technique for this task in the BABOK 10.24.3.1
+
+C. Document analysis, observation, scope modeling, organizational modeling.
+   ❌ SAI
+   📝 An organizational model defines how an organization or organizational unit is structured and does not look at the interfaces. BABOK 10.32
+
+D. Document analysis, observation, functional decomposition.
+   ❌ SAI
+   📝 Functional decomposition breaks down processes, systems, functional areas, or deliverables into their simpler parts. Functional decomposition is not a listed technique for this task. BABOK 10.24.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Document analysis, observation, scope modeling, interviews.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The business analyst can use other techniques, such as document analysis,observation, scope modeling, and interviews in order to understand which interfaces need to be identified for analysis. BABOK 10.24.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+Which of the following are considered interface types?
+
+A. People external to the solution, business processes, data interfaces between systems
+   ✅ ĐÚNG
+   📝 BABOK 10.24.2
+
+B. User interfaces, business interfaces, data exchanges
+   ❌ SAI
+   📝 Interfaces facilitate exchange of data between two components or solutions, but there is no data exchange interface. BABOK 10.24.2
+
+C. Business processes, people external to the solution, implemented interfaces
+   ❌ SAI
+   📝 How interfaces are implemented is one of the things that interface analysis clarifies, not an interface type. BABOK 10.24.2
+
+D. Hardware devices, APIs, interface analysis
+   ❌ SAI
+   📝 Interface analysis is the name of the technique, not an interface type. BABOK 10.24.2
+
+➤ ĐÁP ÁN ĐÚNG: People external to the solution, business processes, data interfaces between systems
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.24.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+The early identification of interfaces provides context for the BA to elicit more detailed requirements. Which classification of requirement is the BABOK describing?
+
+A. Functional
+   ❌ SAI
+   📝 Identification of interfaces provides context for the BA to elicit more detailed stakeholder requirements which determines adequate functional coverage of the solution. BABOK 10.24.2
+
+B. Non-functional
+   ❌ SAI
+   📝 Identification of interfaces provides context for the BA to elicit more detailed stakeholder requirements which determines adequate functional coverage of the solution. BABOK 10.24.2
+
+C. Stakeholder
+   ✅ ĐÚNG
+   📝 Identification of interfaces provides context for the BA to elicit more detailed stakeholder requirements which determines adequate functional coverage of the solution. BABOK 10.24.2
+
+D. Transition
+   ❌ SAI
+   📝 Identification of interfaces provides context for the BA to elicit more detailed stakeholder requirements which determines adequate functional coverage of the solution. BABOK 10.24.2
+
+➤ ĐÁP ÁN ĐÚNG: Stakeholder
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Identification of interfaces provides context for the BA to elicit more detailed stakeholder requirements which determines adequate functional coverage of the solution. BABOK 10.24.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+Which of the following is a weakness when using interface analysis as a technique for eliciting requirements?
+
+A. The elicitation of an interface's functional requirements early in the project will provide valuable details for project planning.
+   ❌ SAI
+   📝 This is a strength of interface analysis. BABOK 10.24.4.1
+
+B. It does not provide an understanding of the business process.
+   ✅ ĐÚNG
+   📝 This is a weakness of interface analysis. Interface analysis only identifies inputs and outputs related to user or system interfaces. BABOK 10.24.4.2 and 10.24.3.3
+
+C. It helps avoid "analysis paralysis."
+   ❌ SAI
+   📝 This is a strength of interface analysis. BABOK 10.24.4.1
+
+D. The documentation detailing "as built" systems may be outdated.
+   ❌ SAI
+   📝 This may be true but the answer is more descriptive of a weakness of document analysis. BABOK 10.18.4.2
+
+➤ ĐÁP ÁN ĐÚNG: It does not provide an understanding of the business process.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a weakness of interface analysis. Interface analysis only identifies inputs and outputs related to user or system interfaces. BABOK 10.24.4.2 and 10.24.3.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+Kyle is a BA negotiating a service level agreement (SLA) with a customer associated with a new product currently in development. What type of requirement is Kyle negotiating?
+
+A. Transition
+   ❌ SAI
+   📝 SLAs are a type of non-functional requirement. BABOK 10.30.3
+
+B. Functional
+   ❌ SAI
+   📝 SLAs are a type of non-functional requirement. BABOK 10.30.3
+
+C. Solution
+   ❌ SAI
+   📝 SLAs are a type of non-functional requirement. Solution requirements include functional requirements. BABOK 10.30.3
+
+D. Non Functional
+   ✅ ĐÚNG
+   📝 Non-functional requirements define how well the functional requirements must perform. BABOK 10.30.3
+
+➤ ĐÁP ÁN ĐÚNG: Non Functional
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Non-functional requirements define how well the functional requirements must perform. BABOK 10.30.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+Which of the following categories of non-functional requirements are a valid selection?
+
+A. Expendability, security, compliance
+   ❌ SAI
+   📝 Expendability is not on the list of non-functional requirements. BABOK 10.30.3
+
+B. Extensibility, usability, performance reliability
+   ❌ SAI
+   📝 Performance reliability is a made-up phrase. BABOK 10.30.3
+
+C. Localization, certification, availability
+   ✅ ĐÚNG
+   📝 These are all on the list of non-functional requirements BABOK 10.30.3
+
+D. Compliance, security, accuracy
+   ❌ SAI
+   📝 Accuracy is not on the list of non-functional requirements. BABOK 10.30.3
+
+➤ ĐÁP ÁN ĐÚNG: Localization, certification, availability
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are all on the list of non-functional requirements BABOK 10.30.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+Quinn is analyzing the gaps between the current and desired future state. She also wants to understand the suppliers, inputs, process, outputs and customers of the process she is analyzing. What process analysis method would help her achieve her goal?
+
+A. Value stream mapping (VSM).
+   ❌ SAI
+   📝 VSM provides a one-page picture of all the steps involved in the end-to-end process.
+
+B. SIPOC.
+   ✅ ĐÚNG
+   📝 BABOK 10.34.3.4
+
+C. Gap analysis.
+   ❌ SAI
+   📝 The question suggests that Quinn has already completed a gap analysis as she is already analyzing the identified gaps.
+
+D. Six sigma.
+   ❌ SAI
+   📝 Six Sigma is a methodology to reduce variation in a process.
+
+➤ ĐÁP ÁN ĐÚNG: SIPOC.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.34.3.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+You have been hired on as the business analyst on the process improvement project. You have constructed process models of the current state, and are now assessing the process for its efficiency and effectiveness. The project manager has asked you to provide a one-page picture of all the steps involved in the end-to-end process, including both value-adding and non-value-adding elements. What process analysis method would be helpful to achieve your goal use?
+
+A. Agile.
+   ❌ SAI
+   📝 Agile is not one of the methods.
+
+B. Value stream mapping (VSM).
+   ✅ ĐÚNG
+   📝 BABOK 10.34.3.4
+
+C. SIPOC.
+   ❌ SAI
+   📝 SIPOC is powerful tool used to create dialogue about the process, but it is a high level overview and does not including both value-adding (the value stream) and non-value-adding (waste) elements
+
+D. Conceptual data modal.
+   ❌ SAI
+   📝 Conceptual data modal is not a process analysis method.
+
+➤ ĐÁP ÁN ĐÚNG: Value stream mapping (VSM).
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.34.3.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+You have been hired on as the business analyst on the process improvement project. You have constructed process models of the current state, and are now assessing the process for its efficiency and effectiveness. The project manager has asked you to provide a one-page picture of all the steps involved in the end-to-end process, including both value-adding and non-value-adding elements. What process analysis method would be helpful to achieve your goal use?
+
+A. SIPOC.
+   ❌ SAI
+   📝 SIPOC is powerful tool used to create dialogue about the process, but it is a high level overview and does not including both value-adding (the value stream) and non-value-adding (waste) elements
+
+B. Conceptual data modal.
+   ❌ SAI
+   📝 Conceptual data modal is not a process analysis method.
+
+C. Value stream mapping (VSM).
+   ✅ ĐÚNG
+   📝 BABOK 10.34.3.4
+
+D. Agile.
+   ❌ SAI
+   📝 Agile is not one of the methods.
+
+➤ ĐÁP ÁN ĐÚNG: Value stream mapping (VSM).
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.34.3.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+A business analyst is modeling the sequential flow of work across defined tasks and activities through the enterprise. She decides to use: swim lanes to show responsibilities, synchronization bars to show parallel processing, and multiple exit decision points. Which process model is the business analyst using?
+
+A. Flowcharts.
+   ❌ SAI
+   📝 Though swim lanes are commonly used in flowcharts, they do not show parallel processing or have multiple exit decision points.
+
+B. Activity diagrams.
+   ✅ ĐÚNG
+   📝 While similar in appearance to a flowchart, the activity diagram typically employs swim lanes to show responsibilities, synchronization bars to show parallel processing, and multiple exit decision points. BABOK 10.35.3.1
+
+C. BPMN.
+   ❌ SAI
+   📝 BPMN does not use synchronizing bars for parallel processing.
+
+D. Workflow modeling.
+   ❌ SAI
+   📝 All process models could be considered workflow modeling, which is a method for prototyping. BABOK 10.36.3.3
+
+➤ ĐÁP ÁN ĐÚNG: Activity diagrams.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+While similar in appearance to a flowchart, the activity diagram typically employs swim lanes to show responsibilities, synchronization bars to show parallel processing, and multiple exit decision points. BABOK 10.35.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Anna is a junior business analyst who has just been engaged in a process improvement project. She is in the planning stage, defining and documenting her business analysis approach and categorizing stakeholders by the systems that support their business processes. Which technique would you advise her to use for these activities?
+
+A. Flowcharts
+   ❌ SAI
+   📝 This isn't a technique; it's an artifact produced as an output of process modeling.
+
+B. Stakeholder List, Map, or Personas
+   ❌ SAI
+   📝 True, this is a technique that can help identify and analyze stakeholders, which she will need. But it is meant to be a global technique for the entire BA effort, and there is a more specific answer that will better address the scenario. BABOK 10.43.1
+
+C. Stakeholder analysis
+   ❌ SAI
+   📝 Stakeholder analysis is not a BABOK technique and its purpose is to help plan an approach for establishing and maintaining effective working relationships with stakeholders.
+
+D. Process modeling
+   ✅ ĐÚNG
+   📝 Process modeling may also identify any stakeholder groups that may have otherwise been overlooked and provide transparency and clarity to process owners. BABOK 10.35.4.1 and 3.2.6
+
+➤ ĐÁP ÁN ĐÚNG: Process modeling
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Process modeling may also identify any stakeholder groups that may have otherwise been overlooked and provide transparency and clarity to process owners. BABOK 10.35.4.1 and 3.2.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+What are the key elements in a process model?
+
+A. Activity, swim lane, event, directional flow, link, role.
+   ❌ SAI
+   📝 Swim lane is not one of the process models' key elements.
+
+B. Activity, decision point, event, directional flow, link, role.
+   ✅ ĐÚNG
+   📝 BABOK 10.35.3.1
+
+C. Activity, decision point, event, directional flow, role.
+   ❌ SAI
+   📝 Link is missing and is named as one of the process models' key elements.
+
+D. Activity, decision point, pools, directional flow, link, event.
+   ❌ SAI
+   📝 Pool is not one of the process models' key elements.
+
+➤ ĐÁP ÁN ĐÚNG: Activity, decision point, event, directional flow, link, role.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.35.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+You are conducting a workshop to come up with ideas on how to solve the issue of delays in the billing process. Which one of the following would be a suggested starting point?
+
+A. Brainstorm potential solutions
+   ❌ SAI
+   📝 This technique supports the generation of new ideas related to the issue of delays in the billing process but it would be premature to brainstorm solutions before understanding the current process. It would be best to begin with modeling the current process for subsequent analysis. BABOK 10.35.1
+
+B. Describe the current process
+   ❌ SAI
+   📝 This is a good first step; however, verbally describing a process is not optimal for subsequent analysis. It is better to model the process. BABOK 10.35.1
+
+C. Draw a diagram of the process
+   ✅ ĐÚNG
+   📝 Process models provide a basis for process analysis which is what the scenario is describing. BABOK 10.35.1 and 10.35.2
+
+D. Identify potential root causes for the delays
+   ❌ SAI
+   📝 This will definitely be included in the workshop but wouldn't be the starting point. Participants must first have a foundation for process analysis and that is what a process model would provide. BABOK 10.35.1
+
+➤ ĐÁP ÁN ĐÚNG: Draw a diagram of the process
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Process models provide a basis for process analysis which is what the scenario is describing. BABOK 10.35.1 and 10.35.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+Anna is a junior business analyst who has just been engaged in a process improvement project. She is in the planning stage, defining and documenting her business analysis approach and categorizing stakeholders by the systems that support their business processes. Which technique would you advise her to use for these activities?
+
+A. Stakeholder analysis
+   ❌ SAI
+   📝 Stakeholder analysis is not a BABOK technique and its purpose is to help plan an approach for establishing and maintaining effective working relationships with stakeholders.
+
+B. Stakeholder List, Map, or Personas
+   ❌ SAI
+   📝 True, this is a technique that can help identify and analyze stakeholders, which she will need. But it is meant to be a global technique for the entire BA effort, and there is a more specific answer that will better address the scenario. BABOK 10.43.1
+
+C. Process modeling
+   ✅ ĐÚNG
+   📝 Process modeling may also identify any stakeholder groups that may have otherwise been overlooked and provide transparency and clarity to process owners. BABOK 10.35.4.1 and 3.2.6
+
+D. Flowcharts
+   ❌ SAI
+   📝 This isn't a technique; it's an artifact produced as an output of process modeling.
+
+➤ ĐÁP ÁN ĐÚNG: Process modeling
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Process modeling may also identify any stakeholder groups that may have otherwise been overlooked and provide transparency and clarity to process owners. BABOK 10.35.4.1 and 3.2.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+ABC College has been receiving a lot of complaints on the time it takes to apply and register for courses. You have been hired on as the business analyst on the process improvement project to help reduce the time it takes to complete this task. You have constructed process models of the current state to provide understanding and agreement as to what happens now. What is the most logical next step?
+
+A. Activity diagram.
+   ❌ SAI
+   📝 Activity diagram is a process modeling diagram and process modeling is already done. BABOK 10.35.3.1
+
+B. Analyze cycle time data.
+   ❌ SAI
+   📝 At this point there may be no data available for analysis. The next logical step is to understand the current processes and to identify opportunities for improvement in those processes.
+
+C. Process analysis.
+   ✅ ĐÚNG
+   📝 Process modeling is a foundation for process analysis. BABOK 10.35.1
+
+D. Value stream mapping(VSM).
+   ❌ SAI
+   📝 This may be a good next step but this answer is too specific. Always look for the most representative answer.
+
+➤ ĐÁP ÁN ĐÚNG: Process analysis.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Process modeling is a foundation for process analysis. BABOK 10.35.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+A business analyst is modeling the sequential flow of work across defined tasks and activities through the enterprise. She decides to use: swim lanes to show responsibilities, synchronization bars to show parallel processing, and multiple exit decision points. Which process model is the business analyst using?
+
+A. Workflow modeling.
+   ❌ SAI
+   📝 All process models could be considered workflow modeling, which is a method for prototyping. BABOK 10.36.3.3
+
+B. Activity diagrams.
+   ✅ ĐÚNG
+   📝 While similar in appearance to a flowchart, the activity diagram typically employs swim lanes to show responsibilities, synchronization bars to show parallel processing, and multiple exit decision points. BABOK 10.35.3.1
+
+C. BPMN.
+   ❌ SAI
+   📝 BPMN does not use synchronizing bars for parallel processing.
+
+D. Flowcharts.
+   ❌ SAI
+   📝 Though swim lanes are commonly used in flowcharts, they do not show parallel processing or have multiple exit decision points.
+
+➤ ĐÁP ÁN ĐÚNG: Activity diagrams.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+While similar in appearance to a flowchart, the activity diagram typically employs swim lanes to show responsibilities, synchronization bars to show parallel processing, and multiple exit decision points. BABOK 10.35.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+A business analyst is modeling the sequential flow of work across defined tasks and activities through the enterprise. She decides to use: swim lanes to show responsibilities, synchronization bars to show parallel processing, and multiple exit decision points. Which process model is the business analyst using?
+
+A. Activity diagrams.
+   ✅ ĐÚNG
+   📝 While similar in appearance to a flowchart, the activity diagram typically employs swim lanes to show responsibilities, synchronization bars to show parallel processing, and multiple exit decision points. BABOK 10.35.3.1
+
+B. Flowcharts.
+   ❌ SAI
+   📝 Though swim lanes are commonly used in flowcharts, they do not show parallel processing or have multiple exit decision points.
+
+C. Workflow modeling.
+   ❌ SAI
+   📝 All process models could be considered workflow modeling, which is a method for prototyping. BABOK 10.36.3.3
+
+D. BPMN.
+   ❌ SAI
+   📝 BPMN does not use synchronizing bars for parallel processing.
+
+➤ ĐÁP ÁN ĐÚNG: Activity diagrams.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+While similar in appearance to a flowchart, the activity diagram typically employs swim lanes to show responsibilities, synchronization bars to show parallel processing, and multiple exit decision points. BABOK 10.35.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+Which of the following describes a component of a UML standard activity diagrams?
+
+A. Diamonds with multiple exit decision points.
+   ✅ ĐÚNG
+   📝 These describe a decision branch in an activity diagram. BABOK Figure 10.35.3
+
+B. Joins represented by a diamond bringing a number of parallel flows into a single flow.
+   ❌ SAI
+   📝 Decision branch is a diamond; "splits" and "joins" are represented by thick parallel lines (synchronization bars) in-between which tasks can be completed in parallel.
+
+C. Decision branches represented by a horizontal bar with multiple paths continuing forward.
+   ❌ SAI
+   📝 A decision branch is a diamond with one line entering and multiple lines leaving; a fork is a represented by a bar.
+
+D. Rounded rectangles converging independent flows into a single flow.
+   ❌ SAI
+   📝 Rounded rectangles represent activities, not converging paths.
+
+➤ ĐÁP ÁN ĐÚNG: Diamonds with multiple exit decision points.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These describe a decision branch in an activity diagram. BABOK Figure 10.35.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+You are conducting a workshop to come up with ideas on how to solve the issue of delays in the billing process. Which one of the following would be a suggested starting point?
+
+A. Draw a diagram of the process
+   ✅ ĐÚNG
+   📝 Process models provide a basis for process analysis which is what the scenario is describing. BABOK 10.35.1 and 10.35.2
+
+B. Describe the current process
+   ❌ SAI
+   📝 This is a good first step; however, verbally describing a process is not optimal for subsequent analysis. It is better to model the process. BABOK 10.35.1
+
+C. Brainstorm potential solutions
+   ❌ SAI
+   📝 This technique supports the generation of new ideas related to the issue of delays in the billing process but it would be premature to brainstorm solutions before understanding the current process. It would be best to begin with modeling the current process for subsequent analysis. BABOK 10.35.1
+
+D. Identify potential root causes for the delays
+   ❌ SAI
+   📝 This will definitely be included in the workshop but wouldn't be the starting point. Participants must first have a foundation for process analysis and that is what a process model would provide. BABOK 10.35.1
+
+➤ ĐÁP ÁN ĐÚNG: Draw a diagram of the process
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Process models provide a basis for process analysis which is what the scenario is describing. BABOK 10.35.1 and 10.35.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+In a short, 3-month project to implement a COTS system, the BA determined that a requirements specification document was not necessary and planned instead to develop use cases to document functional requirements. What is this an example of?
+
+A. Making assumptions that may prove risky and cause issues in the project at a later time
+   ❌ SAI
+   📝 There is no evidence to support this in the scenario.
+
+B. Incorrectly utilizing use cases
+   ❌ SAI
+   📝 Use cases do document functional requirements.
+
+C. Determining appropriate requirements analysis and documentation activities
+   ✅ ĐÚNG
+   📝 Use cases articulate the functional behavior of the system. BABOK 10.47.4.1
+
+D. Cutting the wrong corners. Use cases may be used to supplement a more formal specification document
+   ❌ SAI
+   📝 While use cases may provide supplemental documentation to a requirements document, use cases alone may be the "perfect" way to document functional requirements of the system given the scenario.
+
+➤ ĐÁP ÁN ĐÚNG: Determining appropriate requirements analysis and documentation activities
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Use cases articulate the functional behavior of the system. BABOK 10.47.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Sarah documented what circumstances must be in place prior to the steps outlined in a use case she was creating. What term addresses what Sarah was documenting?
+
+A. Boundaries
+   ❌ SAI
+   📝 Pre and post conditions define the boundaries of the use case, so while this is partially correct, it is does not answer the question.
+
+B. Post condition
+   ❌ SAI
+   📝 This term describes what is true when the use case is completed.
+
+C. Precondition
+   ✅ ĐÚNG
+   📝 BABOK 10.47.3.2
+
+D. Alternative flow
+   ❌ SAI
+   📝 An alternative flow describes a scenario or other path that could be followed to arrive at the post-condition, but which is different from the primary or "happy" path. One can think of an alternative flow as a slight "detour!"
+
+➤ ĐÁP ÁN ĐÚNG: Precondition
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.47.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+Amber is modeling use cases and has identified an actor in a use case that participates but has not initiated the use case. What is this actor known as?
+
+A. Tertiary actor
+   ❌ SAI
+   📝 There is no such term for an actor in a use case.
+
+B. Primary actor
+   ❌ SAI
+   📝 Primary infers the actor initiates.
+
+C. Secondary actor
+   ✅ ĐÚNG
+   📝 Primary and secondary actors are listed in the elements for Use Cases and Scenarios. "...actors who participate in the use case in a supporting role are called secondary actors." BABOK 10.47.3.2
+
+D. Participating actor
+   ❌ SAI
+   📝 There is no such term for an actor in a use case.
+
+➤ ĐÁP ÁN ĐÚNG: Secondary actor
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Primary and secondary actors are listed in the elements for Use Cases and Scenarios. "...actors who participate in the use case in a supporting role are called secondary actors." BABOK 10.47.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+Robert is struggling to find the best way to model requirements on his project. In particular, the business wants to allow mortgage applicants the ability to save their application and resume in the future if they cannot complete the application in one sitting. Which technique would Robert employ to define the accomplishment of this specific goal?
+
+A. Process modeling
+   ❌ SAI
+   📝 Process models might help with the larger business process, not the particular goal of saving and resuming a mortgage. BABOK 7.1.6
+
+B. Goal decomposition
+   ❌ SAI
+   📝 This technique might help to understand the goal, but not to fulfill it. Besides, it is not in the BABOK.
+
+C. Use Case Descriptions
+   ✅ ĐÚNG
+   📝 Use Case Descriptions would be useful to model the requirements for accomplishing the save-and-resume function, the specific goal described. The Flow of Events are a series of steps performed by actor and the solution that enable an actor to achieve a goal. BABOK 10.47.2
+
+D. Use Case Diagram
+   ❌ SAI
+   📝 Use Case Diagram visually depicts the scope of the solution by showing the actors who interact with the solution, the use cases they interact with and any relationships between the use cases. BABOK 10.47.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Use Case Descriptions
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Use Case Descriptions would be useful to model the requirements for accomplishing the save-and-resume function, the specific goal described. The Flow of Events are a series of steps performed by actor and the solution that enable an actor to achieve a goal. BABOK 10.47.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Sarah documented what circumstances must be in place prior to the steps outlined in a use case she was creating. What term addresses what Sarah was documenting?
+
+A. Boundaries
+   ❌ SAI
+   📝 Pre and post conditions define the boundaries of the use case, so while this is partially correct, it is does not answer the question.
+
+B. Alternative flow
+   ❌ SAI
+   📝 An alternative flow describes a scenario or other path that could be followed to arrive at the post-condition, but which is different from the primary or "happy" path. One can think of an alternative flow as a slight "detour!"
+
+C. Post condition
+   ❌ SAI
+   📝 This term describes what is true when the use case is completed.
+
+D. Precondition
+   ✅ ĐÚNG
+   📝 BABOK 10.47.3.2
+
+➤ ĐÁP ÁN ĐÚNG: Precondition
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.47.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+Amber is modeling use cases and has identified an actor in a use case that participates but has not initiated the use case. What is this actor known as?
+
+A. Primary actor
+   ❌ SAI
+   📝 Primary infers the actor initiates.
+
+B. Participating actor
+   ❌ SAI
+   📝 There is no such term for an actor in a use case.
+
+C. Secondary actor
+   ✅ ĐÚNG
+   📝 Primary and secondary actors are listed in the elements for Use Cases and Scenarios. "...actors who participate in the use case in a supporting role are called secondary actors." BABOK 10.47.3.2
+
+D. Tertiary actor
+   ❌ SAI
+   📝 There is no such term for an actor in a use case.
+
+➤ ĐÁP ÁN ĐÚNG: Secondary actor
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Primary and secondary actors are listed in the elements for Use Cases and Scenarios. "...actors who participate in the use case in a supporting role are called secondary actors." BABOK 10.47.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+Robert is struggling to find the best way to model requirements on his project. In particular, the business wants to allow mortgage applicants the ability to save their application and resume in the future if they cannot complete the application in one sitting. Which technique would Robert employ to define the accomplishment of this specific goal?
+
+A. Process modeling
+   ❌ SAI
+   📝 Process models might help with the larger business process, not the particular goal of saving and resuming a mortgage. BABOK 7.1.6
+
+B. Use Case Diagram
+   ❌ SAI
+   📝 Use Case Diagram visually depicts the scope of the solution by showing the actors who interact with the solution, the use cases they interact with and any relationships between the use cases. BABOK 10.47.3.1
+
+C. Goal decomposition
+   ❌ SAI
+   📝 This technique might help to understand the goal, but not to fulfill it. Besides, it is not in the BABOK.
+
+D. Use Case Descriptions
+   ✅ ĐÚNG
+   📝 Use Case Descriptions would be useful to model the requirements for accomplishing the save-and-resume function, the specific goal described. The Flow of Events are a series of steps performed by actor and the solution that enable an actor to achieve a goal. BABOK 10.47.2
+
+➤ ĐÁP ÁN ĐÚNG: Use Case Descriptions
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Use Case Descriptions would be useful to model the requirements for accomplishing the save-and-resume function, the specific goal described. The Flow of Events are a series of steps performed by actor and the solution that enable an actor to achieve a goal. BABOK 10.47.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+What is the difference between "associations" and "extensions" in a use case diagram?
+
+A. Associations and extensions are terms related to use cases vs. use case diagrams.
+   ❌ SAI
+   📝 These are terms associated with use case diagrams.
+
+B. Associations are between actors and use cases; extensions depict one type of dependent relationship between use cases.
+   ✅ ĐÚNG
+   📝 BABOK 10.47.3
+
+C. The terms association and extension can be used interchangeably.
+   ❌ SAI
+   📝 Associations are between actors and use cases while extensions depict one type of relationship between use cases.
+
+D. Extensions are between actors and use cases; associations depict one type of dependent relationship between use cases.
+   ❌ SAI
+   📝 Just the opposite
+
+➤ ĐÁP ÁN ĐÚNG: Associations are between actors and use cases; extensions depict one type of dependent relationship between use cases.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.47.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+Amber is modeling use cases and has identified an actor in a use case that participates but has not initiated the use case. What is this actor known as?
+
+A. Tertiary actor
+   ❌ SAI
+   📝 There is no such term for an actor in a use case.
+
+B. Secondary actor
+   ✅ ĐÚNG
+   📝 Primary and secondary actors are listed in the elements for Use Cases and Scenarios. "...actors who participate in the use case in a supporting role are called secondary actors." BABOK 10.47.3.2
+
+C. Primary actor
+   ❌ SAI
+   📝 Primary infers the actor initiates.
+
+D. Participating actor
+   ❌ SAI
+   📝 There is no such term for an actor in a use case.
+
+➤ ĐÁP ÁN ĐÚNG: Secondary actor
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Primary and secondary actors are listed in the elements for Use Cases and Scenarios. "...actors who participate in the use case in a supporting role are called secondary actors." BABOK 10.47.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+What is the difference between "associations" and "extensions" in a use case diagram?
+
+A. Associations are between actors and use cases; extensions depict one type of dependent relationship between use cases.
+   ✅ ĐÚNG
+   📝 BABOK 10.47.3
+
+B. Associations and extensions are terms related to use cases vs. use case diagrams.
+   ❌ SAI
+   📝 These are terms associated with use case diagrams.
+
+C. The terms association and extension can be used interchangeably.
+   ❌ SAI
+   📝 Associations are between actors and use cases while extensions depict one type of relationship between use cases.
+
+D. Extensions are between actors and use cases; associations depict one type of dependent relationship between use cases.
+   ❌ SAI
+   📝 Just the opposite
+
+➤ ĐÁP ÁN ĐÚNG: Associations are between actors and use cases; extensions depict one type of dependent relationship between use cases.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.47.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+You have been assigned to write user stories on your next effort. Which of the following approaches is your next effort likely using?
+
+A. Incremental
+   ❌ SAI
+   📝 This is partially true, because the term applies to both adaptive and predictive approaches. There is another answer that is more accurate.
+
+B. Predictive approach
+   ❌ SAI
+   📝 Predictive (waterfall) approaches rarely utilize user stories; rather, stakeholder requirements are elicited.
+
+C. Waterfall
+   ❌ SAI
+   📝 Waterfall (predictive) approaches rarely utilize user stories; rather, stakeholder requirements are elicited.
+
+D. Adaptive approach
+   ✅ ĐÚNG
+   📝 User stories represent small, implementable, and testable slices of functionality and help facilitate rapid delivery and frequent customer feedback. User stories are generally the preferred way to capture requirements for agile (adaptive) projects. BABOK 10.48.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Adaptive approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+User stories represent small, implementable, and testable slices of functionality and help facilitate rapid delivery and frequent customer feedback. User stories are generally the preferred way to capture requirements for agile (adaptive) projects. BABOK 10.48.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 45 - 30 câu FULL EXPLAIN

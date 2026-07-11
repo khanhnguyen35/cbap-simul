@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 42 ===
+📚 Tên: TopicSet 42
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+The volume of work items to be completed sometimes exceeds the capacity to complete them. Which of the following techniques identifies an approach for addressing this situation?
+
+A. Collaborative games
+   ❌ SAI
+   📝 While the facilitator may use collaborative games to identify an approach to effectively address the backlog situation, there is another technique more specific to the question. BABOK 10.2.2
+
+B. Capacity planning
+   ❌ SAI
+   📝 This is not a stated technique in the BABOK. Capacity planning may come into play in the final plan to manage the backlog. BABOK 10.2.2
+
+C. Backlog management
+   ✅ ĐÚNG
+   📝 True definition of backlog management. BABOK 10.2.2
+
+D. Requirement management
+   ❌ SAI
+   📝 Requirements management is not a technique. BABOK 10.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Backlog management
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+True definition of backlog management. BABOK 10.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+What is the primary purpose of backlog management?
+
+A. To provide management with reports of work that has not been started
+   ❌ SAI
+   📝 Backlog management might include reports in some situations in some organizations, but because this cannot be applied to all situations in all organizations, this cannot be the correct answer. BABOK 10.2.1
+
+B. To record, track, and prioritize remaining work items
+   ✅ ĐÚNG
+   📝 BABOK 10.2.1
+
+C. To allocate required resources to effectively clear the backlog
+   ❌ SAI
+   📝 Allocating resources may be an outcome in some situations, but because this cannot be applied to all situations in all organizations, this cannot be the correct answer. BABOK 10.2.1
+
+D. To communicate with stakeholders regarding the status and projected completion date of the work
+   ❌ SAI
+   📝 This may be an outcome of backlog management but it's not the primary purpose of the technique. BABOK 10.2.1
+
+➤ ĐÁP ÁN ĐÚNG: To record, track, and prioritize remaining work items
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+Mary Jo is a BA who was assigned to a large project that included several work streams. Before long, requests and requirements were pouring in from all directions. Mary Jo requested that a BA be assigned to each work stream. The sponsor replied to "address the high priority items and get to the rest when you can." What technique could Mary Jo leverage to execute the sponsor's guidance?
+
+A. Creative thinking
+   ❌ SAI
+   📝 Creative thinking is an underlying competency vs. a technique. BABOK 10.2.1
+
+B. Backlog management
+   ✅ ĐÚNG
+   📝 Utilizing backlog management would allow Mary Jo to record, track, and prioritize work items. BABOK 10.2.1
+
+C. Prioritization
+   ❌ SAI
+   📝 Prioritization is only one component needed and therefore an incomplete answer. BABOK 10.2.3.2
+
+D. Facilitation
+   ❌ SAI
+   📝 Facilitation is an underlying competency vs. a technique that Mary Jo may need to utilize during workshops to prioritize work items. BABOK 10.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Backlog management
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Utilizing backlog management would allow Mary Jo to record, track, and prioritize work items. BABOK 10.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+The volume of work items to be completed sometimes exceeds the capacity to complete them. Which of the following techniques identifies an approach for addressing this situation?
+
+A. Capacity planning
+   ❌ SAI
+   📝 This is not a stated technique in the BABOK. Capacity planning may come into play in the final plan to manage the backlog. BABOK 10.2.2
+
+B. Backlog management
+   ✅ ĐÚNG
+   📝 True definition of backlog management. BABOK 10.2.2
+
+C. Collaborative games
+   ❌ SAI
+   📝 While the facilitator may use collaborative games to identify an approach to effectively address the backlog situation, there is another technique more specific to the question. BABOK 10.2.2
+
+D. Requirement management
+   ❌ SAI
+   📝 Requirements management is not a technique. BABOK 10.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Backlog management
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+True definition of backlog management. BABOK 10.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+Mary Jo is a BA who was assigned to a large project that included several work streams. Before long, requests and requirements were pouring in from all directions. Mary Jo requested that a BA be assigned to each work stream. The sponsor replied to "address the high priority items and get to the rest when you can." What technique could Mary Jo leverage to execute the sponsor's guidance?
+
+A. Prioritization
+   ❌ SAI
+   📝 Prioritization is only one component needed and therefore an incomplete answer. BABOK 10.2.3.2
+
+B. Facilitation
+   ❌ SAI
+   📝 Facilitation is an underlying competency vs. a technique that Mary Jo may need to utilize during workshops to prioritize work items. BABOK 10.2.1
+
+C. Backlog management
+   ✅ ĐÚNG
+   📝 Utilizing backlog management would allow Mary Jo to record, track, and prioritize work items. BABOK 10.2.1
+
+D. Creative thinking
+   ❌ SAI
+   📝 Creative thinking is an underlying competency vs. a technique. BABOK 10.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Backlog management
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Utilizing backlog management would allow Mary Jo to record, track, and prioritize work items. BABOK 10.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+Which of the following is NOT accurate about item tracking technique?
+
+A. It ensures concerns around stakeholder requirements are captured, tracked, and resolved to the stakeholder's satisfaction.
+   ❌ SAI
+   📝 BABOK 10.26.4.1
+
+B. It may use time that could be better spent on other efforts and stakeholders could become mired in details and statistics.
+   ❌ SAI
+   📝 BABOK 10.26.4.2
+
+C. It's acceptable to assign an item to a team or group.
+   ✅ ĐÚNG
+   📝 The BABOK lists an "owner" as an attribute of the item record and describes the owner as "the stakeholder assigned to manage the item to closure." An individual stakeholder vs. a team or group should be assigned thereby ensuring clear accountability. BABOK 10.26.3.1
+
+D. Allows stakeholders to rank the importance of outstanding items.
+   ❌ SAI
+   📝 BABOK 10.26.4.1
+
+➤ ĐÁP ÁN ĐÚNG: It's acceptable to assign an item to a team or group.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The BABOK lists an "owner" as an attribute of the item record and describes the owner as "the stakeholder assigned to manage the item to closure." An individual stakeholder vs. a team or group should be assigned thereby ensuring clear accountability. BABOK 10.26.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+Item tracking is an organized approach used by business analysts to address stakeholder concerns. Which subset BEST represents item types that stakeholders may identify in item tracking?
+
+A. Actions, assumptions, dependencies, constraints, defects, enhancements, requirements, and issues.
+   ❌ SAI
+   📝 Requirements are not one of the listed item types. BABOK 10.26.2
+
+B. Actions, risks, assumptions, constraints, impacts, defects, enhancements, and issues.
+   ❌ SAI
+   📝 Risks and impacts are not listed item types. BABOK 10.26.2
+
+C. Actions, risks, assumptions, constraints, dependencies, defects, enhancements, and issues.
+   ❌ SAI
+   📝 Risks are not one of the listed item types. BABOK 10.26.2
+
+D. Actions, assumptions, constraints, dependencies, defects, enhancements, and issues.
+   ✅ ĐÚNG
+   📝 These elements are all listed as item types. BABOK 10.26.2
+
+➤ ĐÁP ÁN ĐÚNG: Actions, assumptions, constraints, dependencies, defects, enhancements, and issues.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These elements are all listed as item types. BABOK 10.26.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+Mario has been tracking several problems for quite some time on his project. When would he consider the tracking process complete?
+
+A. When the assigned owner and the resolver confirm receipt of the problems.
+   ❌ SAI
+   📝 The stakeholder assigned to resolve the item has to resolve the problem for the process to be considered complete. Confirming receipt does not mean the tracking process is complete.
+
+B. When each item has been tracked to its closure or resolution.
+   ✅ ĐÚNG
+   📝 BABOK 10.26.3.2
+
+C. When the item tracking record is shared with all stakeholders.
+   ❌ SAI
+   📝 Sharing with stakeholders is to ensure transparency and visibility into the status and progress of items in the record. However, each item must still be tracked to its closure or resolution.
+
+D. When the items are escalated.
+   ❌ SAI
+   📝 An item is escalated when it has not been resolved by the given due date, but the tracking process is not complete yet. Each item must be tracked to its closure or resolution.
+
+➤ ĐÁP ÁN ĐÚNG: When each item has been tracked to its closure or resolution.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.26.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+You have conducted several interviews this week for your project. Several stakeholder concerns have come up. In fact, there are so many that your project manager suggested that you formally document and track them. Why?
+
+A. As inputs to lessons learned for use in planning activities by business analysts assigned to similar future projects.
+   ❌ SAI
+   📝 This is true but the documented strengths for item tracking have more to do with the assurance of resolution, stakeholder satisfaction, and potential prioritization activities. BABOK 10.26.4.1
+
+B. Used to ensure the help desk and support teams are kept in the loop when the resulting production issues come up due to the problems that have been raised.
+   ❌ SAI
+   📝 The purpose of item tracking is to ensure that stakeholder issues are captured, tracked, and resolved to the stakeholder's satisfaction. In addition, if there are that many concerns stakeholders may need to prioritize them. BABOK 10.26.4.1
+
+C. To ensure the results of your requirements workshops and interviews are documented.
+   ❌ SAI
+   📝 The purpose of item tracking is to ensure that stakeholder issues are captured, tracked, and resolved to the stakeholder's satisfaction. In addition, if there are that many concerns stakeholders may need to prioritize them. BABOK 10.26.4.1
+
+D. To ensure that stakeholder issues are captured, tracked, and resolved to the stakeholder's satisfaction.
+   ✅ ĐÚNG
+   📝 This is a documented strength of item tracking. In addition, if there are that many concerns, formally capturing them will allow stakeholders to prioritize them. BABOK 10.26.4.1
+
+➤ ĐÁP ÁN ĐÚNG: To ensure that stakeholder issues are captured, tracked, and resolved to the stakeholder's satisfaction.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a documented strength of item tracking. In addition, if there are that many concerns, formally capturing them will allow stakeholders to prioritize them. BABOK 10.26.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+Which of the following is NOT an element in item tracking technique?
+
+A. Item Management.
+   ❌ SAI
+   📝 This is a listed element. BABOK 10.26.3.2
+
+B. Item Identifier.
+   ✅ ĐÚNG
+   📝 Not an element but an attribute for item tracking. BABOK 10.26.3.1
+
+C. Item Record.
+   ❌ SAI
+   📝 This is a listed element. BABOK 10.26.3.1
+
+D. Metrics.
+   ❌ SAI
+   📝 This is a listed element. BABOK 10.26.3.3
+
+➤ ĐÁP ÁN ĐÚNG: Item Identifier.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Not an element but an attribute for item tracking. BABOK 10.26.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Item tracking is an organized approach used by business analysts to address stakeholder concerns. Which subset BEST represents item types that stakeholders may identify in item tracking?
+
+A. Actions, risks, assumptions, constraints, impacts, defects, enhancements, and issues.
+   ❌ SAI
+   📝 Risks and impacts are not listed item types. BABOK 10.26.2
+
+B. Actions, assumptions, constraints, dependencies, defects, enhancements, and issues.
+   ✅ ĐÚNG
+   📝 These elements are all listed as item types. BABOK 10.26.2
+
+C. Actions, assumptions, dependencies, constraints, defects, enhancements, requirements, and issues.
+   ❌ SAI
+   📝 Requirements are not one of the listed item types. BABOK 10.26.2
+
+D. Actions, risks, assumptions, constraints, dependencies, defects, enhancements, and issues.
+   ❌ SAI
+   📝 Risks are not one of the listed item types. BABOK 10.26.2
+
+➤ ĐÁP ÁN ĐÚNG: Actions, assumptions, constraints, dependencies, defects, enhancements, and issues.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These elements are all listed as item types. BABOK 10.26.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+Mario has been tracking several problems for quite some time on his project. When would he consider the tracking process complete?
+
+A. When the assigned owner and the resolver confirm receipt of the problems.
+   ❌ SAI
+   📝 The stakeholder assigned to resolve the item has to resolve the problem for the process to be considered complete. Confirming receipt does not mean the tracking process is complete.
+
+B. When the items are escalated.
+   ❌ SAI
+   📝 An item is escalated when it has not been resolved by the given due date, but the tracking process is not complete yet. Each item must be tracked to its closure or resolution.
+
+C. When the item tracking record is shared with all stakeholders.
+   ❌ SAI
+   📝 Sharing with stakeholders is to ensure transparency and visibility into the status and progress of items in the record. However, each item must still be tracked to its closure or resolution.
+
+D. When each item has been tracked to its closure or resolution.
+   ✅ ĐÚNG
+   📝 BABOK 10.26.3.2
+
+➤ ĐÁP ÁN ĐÚNG: When each item has been tracked to its closure or resolution.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.26.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+You have conducted several interviews this week for your project. Several stakeholder concerns have come up. In fact, there are so many that your project manager suggested that you formally document and track them. Why?
+
+A. To ensure the results of your requirements workshops and interviews are documented.
+   ❌ SAI
+   📝 The purpose of item tracking is to ensure that stakeholder issues are captured, tracked, and resolved to the stakeholder's satisfaction. In addition, if there are that many concerns stakeholders may need to prioritize them. BABOK 10.26.4.1
+
+B. As inputs to lessons learned for use in planning activities by business analysts assigned to similar future projects.
+   ❌ SAI
+   📝 This is true but the documented strengths for item tracking have more to do with the assurance of resolution, stakeholder satisfaction, and potential prioritization activities. BABOK 10.26.4.1
+
+C. To ensure that stakeholder issues are captured, tracked, and resolved to the stakeholder's satisfaction.
+   ✅ ĐÚNG
+   📝 This is a documented strength of item tracking. In addition, if there are that many concerns, formally capturing them will allow stakeholders to prioritize them. BABOK 10.26.4.1
+
+D. Used to ensure the help desk and support teams are kept in the loop when the resulting production issues come up due to the problems that have been raised.
+   ❌ SAI
+   📝 The purpose of item tracking is to ensure that stakeholder issues are captured, tracked, and resolved to the stakeholder's satisfaction. In addition, if there are that many concerns stakeholders may need to prioritize them. BABOK 10.26.4.1
+
+➤ ĐÁP ÁN ĐÚNG: To ensure that stakeholder issues are captured, tracked, and resolved to the stakeholder's satisfaction.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a documented strength of item tracking. In addition, if there are that many concerns, formally capturing them will allow stakeholders to prioritize them. BABOK 10.26.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+Which of the following statements is true regarding item tracking?
+
+A. The item tracking record may be shared with stakeholders to ensure transparency and visibility into the status and progress of items in the record.
+   ✅ ĐÚNG
+   📝 Item tracking also tracks the items from the time they're raised through closure. BABOK 10.26.2
+
+B. The item tracking record is used to share the status and progress of documented items within the team only; pertinent items are included in stakeholder communications.
+   ❌ SAI
+   📝 All stakeholders should have access to the item tracking record. BABOK 10.26.2
+
+C. The item tracking record is for use by the business analyst, project manager, and sponsor only to ensure pertinent items are effectively addressed.
+   ❌ SAI
+   📝 All stakeholders should have access to the item tracking record. BABOK 10.26.2
+
+D. Item tracking is just another term for issues log.
+   ❌ SAI
+   📝 Items tracked can also include actions items, assumptions, constraints, dependencies, defects, and enhancements. BABOK 10.26.2
+
+➤ ĐÁP ÁN ĐÚNG: The item tracking record may be shared with stakeholders to ensure transparency and visibility into the status and progress of items in the record.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Item tracking also tracks the items from the time they're raised through closure. BABOK 10.26.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+Which set represents the attributes of items recorded for tracking?
+
+A. Item identifier, summary, category, type, date identified, identified by, impact, priority, resolution date, owner, resolver, agreed strategy, status, resolution updates, escalation matrix.
+   ✅ ĐÚNG
+   📝 BABOK 10.26.3.
+
+B. Item identifier, summary, category, type, date identified, identified by, impact, priority, resolution date, owner, resolver, agreed strategy, status, resolution updates, escalation matrix, evaluation.
+   ❌ SAI
+   📝 Evaluation is not an attribute.
+
+C. Item identifier, summary, category, type, date identified, identified by, impact, priority, resolution date, owner, resolver, agreed strategy, status, resolution updates, structure, escalation matrix.
+   ❌ SAI
+   📝 Structure is not an attribute.
+
+D. Item identifier, metrics, category, type, date identified, identified by, impact, priority, resolution date, owner, resolver, agreed strategy, status, resolution updates, escalation matrix.
+   ❌ SAI
+   📝 Metrics is not an attribute and summary is missing in this list.
+
+➤ ĐÁP ÁN ĐÚNG: Item identifier, summary, category, type, date identified, identified by, impact, priority, resolution date, owner, resolver, agreed strategy, status, resolution updates, escalation matrix.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.26.3.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+Which of the following is NOT accurate about item tracking technique?
+
+A. It's acceptable to assign an item to a team or group.
+   ✅ ĐÚNG
+   📝 The BABOK lists an "owner" as an attribute of the item record and describes the owner as "the stakeholder assigned to manage the item to closure." An individual stakeholder vs. a team or group should be assigned thereby ensuring clear accountability. BABOK 10.26.3.1
+
+B. It may use time that could be better spent on other efforts and stakeholders could become mired in details and statistics.
+   ❌ SAI
+   📝 BABOK 10.26.4.2
+
+C. Allows stakeholders to rank the importance of outstanding items.
+   ❌ SAI
+   📝 BABOK 10.26.4.1
+
+D. It ensures concerns around stakeholder requirements are captured, tracked, and resolved to the stakeholder's satisfaction.
+   ❌ SAI
+   📝 BABOK 10.26.4.1
+
+➤ ĐÁP ÁN ĐÚNG: It's acceptable to assign an item to a team or group.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The BABOK lists an "owner" as an attribute of the item record and describes the owner as "the stakeholder assigned to manage the item to closure." An individual stakeholder vs. a team or group should be assigned thereby ensuring clear accountability. BABOK 10.26.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+Which of the following statements is true regarding item tracking?
+
+A. The item tracking record may be shared with stakeholders to ensure transparency and visibility into the status and progress of items in the record.
+   ✅ ĐÚNG
+   📝 Item tracking also tracks the items from the time they're raised through closure. BABOK 10.26.2
+
+B. The item tracking record is used to share the status and progress of documented items within the team only; pertinent items are included in stakeholder communications.
+   ❌ SAI
+   📝 All stakeholders should have access to the item tracking record. BABOK 10.26.2
+
+C. Item tracking is just another term for issues log.
+   ❌ SAI
+   📝 Items tracked can also include actions items, assumptions, constraints, dependencies, defects, and enhancements. BABOK 10.26.2
+
+D. The item tracking record is for use by the business analyst, project manager, and sponsor only to ensure pertinent items are effectively addressed.
+   ❌ SAI
+   📝 All stakeholders should have access to the item tracking record. BABOK 10.26.2
+
+➤ ĐÁP ÁN ĐÚNG: The item tracking record may be shared with stakeholders to ensure transparency and visibility into the status and progress of items in the record.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Item tracking also tracks the items from the time they're raised through closure. BABOK 10.26.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+You have decided to use the PERT estimating method for your BA activities because the sponsor is requiring a 95% confidence level. What is the formula for PERT?
+
+A. (Optimistic * pessimistic) / 6.
+   ❌ SAI
+   📝 The formula for PERT is (optimistic + pessimistic + (4*most likely)) / 6. BABOK 10.19.3.1 and 10.19.3.4
+
+B. (Optimistic + pessimistic + (3 times most likely)) / 6.
+   ❌ SAI
+   📝 There is an incorrect weight on the "most likely" value. BABOK 10.19.3.1 and 10.19.3.4
+
+C. (Optimistic + pessimistic + (4 times most likely)) / 6.
+   ✅ ĐÚNG
+   📝 PERT weights the most likely estimate and can be used to provide estimates at various confidence levels. BABOK 10.19.3.1 and 10.19.3.4
+
+D. (Optimistic + pessimistic + most likely) / 3.
+   ❌ SAI
+   📝 This is called the 3 pt. average and does not statistically weight the "most likely" value. BABOK 10.19.3.1 and 10.19.3.4
+
+➤ ĐÁP ÁN ĐÚNG: (Optimistic + pessimistic + (4 times most likely)) / 6.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+PERT weights the most likely estimate and can be used to provide estimates at various confidence levels. BABOK 10.19.3.1 and 10.19.3.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+Claudette has been hired as the new lead business analyst in an ongoing project. The outgoing lead has handed her a set of analyzed and modeled requirements, but no initial plan was provided. Her project manager has requested that she quickly estimate the remaining hours of business analysis activity for the current release of the product being built. Because she has worked on similar projects before, she adjusts her estimate of the business analysis hours needed for the current project accordingly. How would you describe Claudette's informational source for the estimate?
+
+A. Expert judgment.
+   ❌ SAI
+   📝 Leverages the knowledge of individuals about the element being estimated.
+
+B. Analogous situation.
+   ✅ ĐÚNG
+   📝 BABOK 10.19.3.3
+
+C. Rough order of magnitude (ROM).
+   ❌ SAI
+   📝 This is a high-level estimate, generally based on limited information. BABOK 10.19.3.1
+
+D. Organization history.
+   ❌ SAI
+   📝 This method is based on the organization's historic data and project metrics.
+
+➤ ĐÁP ÁN ĐÚNG: Analogous situation.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.19.3.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+Which of the following is a limitation of the estimation technique?
+
+A. Estimates provide a rationale for an assigned budget, time frame, or size of a set of elements.
+   ❌ SAI
+   📝 This is a strength. BABOK 10.19.4.1
+
+B. Without an estimate, teams making a change may be provided an unrealistic budget.
+   ❌ SAI
+   📝 This is a strength. BABOK 10.19.4.1
+
+C. Without organization or local knowledge, estimates can vary widely from the actual values determined later.
+   ✅ ĐÚNG
+   📝 BABOK 10.19.4.2
+
+D. There are several variations of estimation methods. This can cause confusion to the stakeholders.
+   ❌ SAI
+   📝 Fabricated answer!
+
+➤ ĐÁP ÁN ĐÚNG: Without organization or local knowledge, estimates can vary widely from the actual values determined later.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.19.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Claudette has been hired as the new lead business analyst in an ongoing project. The outgoing lead has handed her a set of analyzed and modeled requirements, but no initial plan was provided. Her project manager has requested that she quickly estimate the remaining hours of business analysis activity for the current release of the product being built. Because she has worked on similar projects before, she adjusts her estimate of the business analysis hours needed for the current project accordingly. How would you describe Claudette's informational source for the estimate?
+
+A. Organization history.
+   ❌ SAI
+   📝 This method is based on the organization's historic data and project metrics.
+
+B. Expert judgment.
+   ❌ SAI
+   📝 Leverages the knowledge of individuals about the element being estimated.
+
+C. Rough order of magnitude (ROM).
+   ❌ SAI
+   📝 This is a high-level estimate, generally based on limited information. BABOK 10.19.3.1
+
+D. Analogous situation.
+   ✅ ĐÚNG
+   📝 BABOK 10.19.3.3
+
+➤ ĐÁP ÁN ĐÚNG: Analogous situation.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.19.3.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+You are in the initial phase of a project and the project manager has not been assigned. You have been asked to provide a quantitative assessment of the likely costs for resources required for the project. Which of the following techniques would be BEST to use?
+
+A. Evaluation criteria
+   ❌ SAI
+   📝 This is not an estimation method.
+
+B. Parametric estimation
+   ❌ SAI
+   📝 Close. Parametric estimation uses a statistical relationship between historical data and other variables. We are not told whether historical data is available. ROM is the best answer.
+
+C. Rough Order of Magnitude (ROM)
+   ✅ ĐÚNG
+   📝 Appropriate early in an initiative since A ROM estimate is "a high-level estimate, generally based on limited information, which may have a very wide confidence interval." BABOK 10.19.3.1
+
+D. Delphi
+   ❌ SAI
+   📝 Delphi uses a combination of expert judgment and history. When there is little information, such as early in the development of a solution approach, a rough order of magnitude estimate is delivered.
+
+➤ ĐÁP ÁN ĐÚNG: Rough Order of Magnitude (ROM)
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Appropriate early in an initiative since A ROM estimate is "a high-level estimate, generally based on limited information, which may have a very wide confidence interval." BABOK 10.19.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+Giewel is working as the business analyst on a compliance project. She has received estimates from all the involved stakeholders. She combines them all to get a total for all the activities and tasks. What method has she used for estimation?
+
+A. Delphi estimation.
+   ❌ SAI
+   📝 Delphi does not ask for estimates from all involved stakeholders; rather, a panel of experts are asked for estimates anonymously. The facilitator of this technique then shares the estimates with the panel who revise their estimates; the process continues until consensus is reached.
+
+B. Expert judgment.
+   ❌ SAI
+   📝 Expert judgement does not involve summing across all elements to provide an overall estimate.
+
+C. Rolling wave.
+   ❌ SAI
+   📝 Rolling wave is not a sum but repeated estimates throughout an initiative or project, provides detailed estimates for near-term activities and extrapolates for the remainder of the initiative.
+
+D. Bottom-up estimation.
+   ✅ ĐÚNG
+   📝 BABOK 10.19.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Bottom-up estimation.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.19.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Marie a new hire wants to understand roles, responsibilities, and reporting structures that exist in her organization. Which technique would help her achieve her goal?
+
+A. Organization chart
+   ❌ SAI
+   📝 This is not a technique but, fundamental diagram used in organizational modeling. BABOK 10.32.3.4
+
+B. Organizational modeling
+   ✅ ĐÚNG
+   📝 BABOK 10.32.1
+
+C. Matrix model
+   ❌ SAI
+   📝 This is a type of organizational model vs. a technique.
+
+D. RACI diagram
+   ❌ SAI
+   📝 A RACI diagram is not a technique (and would not help her understand reporting structures).
+
+➤ ĐÁP ÁN ĐÚNG: Organizational modeling
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.32.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+What technique is used by business analysts and other stakeholders to forecast the cost and effort involved in pursuing a course of action?
+
+A. Estimation.
+   ✅ ĐÚNG
+   📝 BABOK 10.19.1
+
+B. PERT.
+   ❌ SAI
+   📝 This is one of the common estimation methods. BABOK 10.19.3.1
+
+C. Bottom-up.
+   ❌ SAI
+   📝 This is one of the common estimation methods. BABOK 10.19.3.1
+
+D. Forecast analysis.
+   ❌ SAI
+   📝 There is no such technique in BABOK .
+
+➤ ĐÁP ÁN ĐÚNG: Estimation.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.19.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+Scope models provide the basis for understanding several types of boundaries. Which of the following terms describes the scope of roles and responsibilities, what is being analyzed, and what is internal and external to the organization?
+
+A. Scope of solution
+   ❌ SAI
+   📝 Scope of solution provides understanding of requirements met, value delivered, and impact of change. BABOK 10.41.2
+
+B. Scope of need
+   ❌ SAI
+   📝 Scope of need provides understanding of stakeholder needs, value to be delivered, functional areas, and organizational units to be explored. BABOK 10.41.2
+
+C. Scope of control
+   ✅ ĐÚNG
+   📝 BABOK 10.41.2
+
+D. Scope of change
+   ❌ SAI
+   📝 Scope of change provides understanding of actions to be taken, stakeholders affected or involved, and events to cause or prevent. BABOK 10.41.2
+
+➤ ĐÁP ÁN ĐÚNG: Scope of control
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.41.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+Samantha is a BA who wants to ensure the scope model she is creating is comprehensive. In order to ensure the integrity of her model she is exploring the dependencies between elements in the model. Which of the follow diagramming techniques will support her objective?
+
+A. Emerging, recursive, parent-child
+   ❌ SAI
+   📝 Only parent-child is on the list of the stated relationships that will explore the dependencies in a scope model. . BABOK 10.41.3.4
+
+B. Parent-child, supplier-consumer, function-responsibility
+   ✅ ĐÚNG
+   📝 BABOK 10.41.3.4
+
+C. Scope decomposition, functional decomposition, composition-subset
+   ❌ SAI
+   📝 Only composition-subset is on the list of the stated relationships that will explore the dependencies in a scope model. . BABOK 10.41.3.4
+
+D. Cause-effect, supplier-demand, emergent
+   ❌ SAI
+   📝 Supplier-demand is not one of the stated relationships that will explore the dependencies in a scope model. BABOK 10.41.3.4
+
+➤ ĐÁP ÁN ĐÚNG: Parent-child, supplier-consumer, function-responsibility
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.41.3.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+Tristen is a BA creating a scope model illustrating the relationships of scope elements. Which of the following representations would Tristen use to capture his results?
+
+A. Matrix
+   ❌ SAI
+   📝 Matrices depict dependencies between scope elements. BABOK 10.41.3.6
+
+B. Diagram or matrix
+   ❌ SAI
+   📝 The BABOK suggests that a diagram illustrates relationships of scope elements whereas a matrix depicts dependencies between scope elements. BABOK 10.41.3.6
+
+C. Text
+   ❌ SAI
+   📝 Text is best used to describe elements, including criteria for making in-scope or out-of-scope decisions. BABOK 10.41.3.6
+
+D. Diagram
+   ✅ ĐÚNG
+   📝 BABOK 10.41.3.6
+
+➤ ĐÁP ÁN ĐÚNG: Diagram
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.41.3.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+Samantha is a BA who wants to ensure the scope model she is creating is comprehensive. In order to ensure the integrity of her model she is exploring the dependencies between elements in the model. Which of the follow diagramming techniques will support her objective?
+
+A. Cause-effect, supplier-demand, emergent
+   ❌ SAI
+   📝 Supplier-demand is not one of the stated relationships that will explore the dependencies in a scope model. BABOK 10.41.3.4
+
+B. Scope decomposition, functional decomposition, composition-subset
+   ❌ SAI
+   📝 Only composition-subset is on the list of the stated relationships that will explore the dependencies in a scope model. . BABOK 10.41.3.4
+
+C. Parent-child, supplier-consumer, function-responsibility
+   ✅ ĐÚNG
+   📝 BABOK 10.41.3.4
+
+D. Emerging, recursive, parent-child
+   ❌ SAI
+   📝 Only parent-child is on the list of the stated relationships that will explore the dependencies in a scope model. . BABOK 10.41.3.4
+
+➤ ĐÁP ÁN ĐÚNG: Parent-child, supplier-consumer, function-responsibility
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.41.3.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+Scope models provide the basis for understanding several types of boundaries. Which of the following terms describes the scope of roles and responsibilities, what is being analyzed, and what is internal and external to the organization?
+
+A. Scope of solution
+   ❌ SAI
+   📝 Scope of solution provides understanding of requirements met, value delivered, and impact of change. BABOK 10.41.2
+
+B. Scope of control
+   ✅ ĐÚNG
+   📝 BABOK 10.41.2
+
+C. Scope of change
+   ❌ SAI
+   📝 Scope of change provides understanding of actions to be taken, stakeholders affected or involved, and events to cause or prevent. BABOK 10.41.2
+
+D. Scope of need
+   ❌ SAI
+   📝 Scope of need provides understanding of stakeholder needs, value to be delivered, functional areas, and organizational units to be explored. BABOK 10.41.2
+
+➤ ĐÁP ÁN ĐÚNG: Scope of control
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.41.2
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 42 - 30 câu FULL EXPLAIN

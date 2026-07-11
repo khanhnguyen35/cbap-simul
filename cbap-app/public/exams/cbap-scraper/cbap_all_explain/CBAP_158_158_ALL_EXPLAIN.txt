@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 158 ===
+📚 Tên: TopicSet 158
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+Will has been responding to several questions about the solution requirements from confused developers. What is the most likely cause of the confusion?
+
+A. The developers were just assigned to the project and haven't reviewed requirements and design documentation.
+   ❌ SAI
+   📝 This is not the likely scenario. If the requirements were verified they should not cause that much confusion.
+
+B. Will neglected to include the developers in modeling efforts so are trying to catch up.
+   ❌ SAI
+   📝 Being included in the specification and modeling effort would facilitate understanding but if the requirements were verified they should not cause that much confusion.
+
+C. The requirements were seemingly ambiguous and so most likely weren't verified.
+   ✅ ĐÚNG
+   📝 BABOK 7.2.4.1
+
+D. The requirements were not validated before handing them over for development.
+   ❌ SAI
+   📝 Validating requirements ensures they align to business requirements and will deliver value. BABOK 7.3.1
+
+➤ ĐÁP ÁN ĐÚNG: The requirements were seemingly ambiguous and so most likely weren't verified.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+"Atomic" is a characteristic of requirements and design quality. What does it mean?
+
+A. It contains no extraneous or unnecessary content.
+   ❌ SAI
+   📝 This is the definition of concise, another quality characteristic. BABOK 7.2.4.1
+
+B. It is at the level that will guide further work.
+   ❌ SAI
+   📝 This is part of the definition of complete, another quality characteristic. BABOK 7.2.4.1
+
+C. It is small; atom-like.
+   ❌ SAI
+   📝 This is an invented answer. BABOK 7.2.4.1
+
+D. It is self-contained and capable of being understood independently of other requirements or designs.
+   ✅ ĐÚNG
+   📝 This is the correct definition of atomic. BABOK 7.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: It is self-contained and capable of being understood independently of other requirements or designs.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the correct definition of atomic. BABOK 7.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+What is the purpose of item tracking when verifying requirements?
+
+A. Ensure that problems and issues identified during verification are managed and resolved.
+   ✅ ĐÚNG
+   📝 BABOK 7.2.6
+
+B. Ensure that appropriate checklists are used to resolve the issues or problems by the planned date.
+   ❌ SAI
+   📝 Too specific a technique since checklists are not always used.
+
+C. Ensure that problems identified are reported to the Help Desk.
+   ❌ SAI
+   📝 This is too narrow a response and the Help Desk may or may not be notified depending upon the item.
+
+D. Ensure that problems or issues identified during verification are escalated to the project manager to track resolution.
+   ❌ SAI
+   📝 This is the responsibility of the business analyst; items are escalated if necessary to facilitate resolution.
+
+➤ ĐÁP ÁN ĐÚNG: Ensure that problems and issues identified during verification are managed and resolved.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.2.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+On a project a business analyst makes sure that requirements models have met the necessary standard of quality so that they can be used effectively to guide further work. What has the business analyst been doing?
+
+A. Validating the requirement.
+   ❌ SAI
+   📝 Validating is making sure the requirement is warranted and supports the business requirements discovered. BABOK 7.3.1
+
+B. Documenting a transition requirement.
+   ❌ SAI
+   📝 Transition requirements describe the capabilities that the solution must have and the conditions the solution must meet to facilitate transition from the current state to the future state, but which are not needed once the change is complete. BABOK 2.3
+
+C. Verifying the requirement.
+   ✅ ĐÚNG
+   📝 Verifying makes sure a requirement is 'good enough' to continue working with. BABOK 7.2.1
+
+D. Specifying and modeling the requirement.
+   ❌ SAI
+   📝 The purpose of specifying and modeling requirements is to analyze, synthesize and refine elicitation results into requirements and designs. BABOK 7.1.1
+
+➤ ĐÁP ÁN ĐÚNG: Verifying the requirement.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Verifying makes sure a requirement is 'good enough' to continue working with. BABOK 7.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+Once the requirements are verified, what task might a business analyst perform, provided that other inputs required by the task are also available?
+
+A. Define design options
+   ❌ SAI
+   📝 Requirements are validated and prioritized before the define design options task. BABOK 7.5.3
+
+B. Identify improvement opportunities
+   ❌ SAI
+   📝 This is done when proposing design options. BABOK 7.5.4.2
+
+C. Approve requirements
+   ✅ ĐÚNG
+   📝 After requirements are verified, they need to be approved. BABOK Figure 7.2.1
+
+D. Validate requirements
+   ❌ SAI
+   📝 Validation is an ongoing process to ensure that all requirements align to the business requirements and support the delivery of needed value. BABOK 7.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Approve requirements
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+After requirements are verified, they need to be approved. BABOK Figure 7.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+Which of the following best describes some of the characteristics of requirements and designs quality?
+
+A. Atomic, concise, feasible, unambiguous, approved.
+   ❌ SAI
+   📝 Approved is not a stated characteristic.
+
+B. Atomic, concise, feasible, unambiguous, prioritized.
+   ✅ ĐÚNG
+   📝 BABOK 7.2.4.1
+
+C. Atomic, concise, feasible, unambiguous, estimated.
+   ❌ SAI
+   📝 Estimated is not a stated characteristic.
+
+D. Measurable, concise, feasible, unambiguous, prioritized.
+   ❌ SAI
+   📝 Measurable is not a stated characteristic.
+
+➤ ĐÁP ÁN ĐÚNG: Atomic, concise, feasible, unambiguous, prioritized.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+Which of the following stakeholders are included in the task Verify Requirements?
+
+A. All stakeholders.
+   ✅ ĐÚNG
+   📝 BABOK 7.2.7
+
+B. Business analyst; domain subject matter experts; developers; architects.
+   ❌ SAI
+   📝 These stakeholders may well be included but the list is not limited to them.
+
+C. Business analyst; domain subject matter experts; developers; testers.
+   ❌ SAI
+   📝 These stakeholders may well be included but the list is not limited to them.
+
+D. Business analyst; domain subject matter experts; architects; testers.
+   ❌ SAI
+   📝 These stakeholders may well be included but the list is not limited to them.
+
+➤ ĐÁP ÁN ĐÚNG: All stakeholders.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.2.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+Which of the following requirements does NOT meet the characteristics of a quality requirement.
+
+A. The system shall provide a maintenance function for correcting any missing data.
+   ❌ SAI
+   📝 While this is a bit high-level it is still a valid functional requirement and meets the characteristics of quality requirements. BABOK 7.2.4.1
+
+B. The system shall display bond prices using 3 decimal places instead of fractions.
+   ❌ SAI
+   📝 This is a valid functional requirement and meets the characteristics of quality requirements. BABOK 7.2.4.1
+
+C. The system shall read the tracking database and feed the bond prices to the web database using XML.
+   ✅ ĐÚNG
+   📝 This is a poorly written requirement because it names technologies and constrains the solution design.
+
+D. Bond prices will be viewable and sort able by maturity date, length of security, yield, and rating.
+   ❌ SAI
+   📝 This is a valid functional requirement and meets the characteristics of quality requirements. BABOK 7.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: The system shall read the tracking database and feed the bond prices to the web database using XML.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a poorly written requirement because it names technologies and constrains the solution design.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Which of the following is NOT a verification activity?
+
+A. Checking for completeness within each model.
+   ❌ SAI
+   📝 This is a verification activity. BABOK 7.2.4.2
+
+B. Identify and verify assumptions.
+   ✅ ĐÚNG
+   📝 This is a fabricated answer. Assumptions are identified and defined in order to manage any associated risk.
+
+C. Checking for compliance with organizational performance standards for business analysis.
+   ❌ SAI
+   📝 This is a verification activity. BABOK 7.2.4.2
+
+D. Checking for correct use of modelling notation, templates, or forms.
+   ❌ SAI
+   📝 This is a verification activity. BABOK 7.2.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Identify and verify assumptions.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a fabricated answer. Assumptions are identified and defined in order to manage any associated risk.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+What characteristic of a quality requirement is missing in this requirement: "The call center operator shall be able to view details of a protected household"?
+
+A. Understandable
+   ❌ SAI
+   📝 This requirement may be understandable but isn't complete. BABOK 7.2.4.1
+
+B. Consistent
+   ❌ SAI
+   📝 Consistent means requirements do not conflict with other requirements. That does not appear to the be the case with this requirement. BABOK 7.2.4.1
+
+C. Complete
+   ✅ ĐÚNG
+   📝 The stated requirement is incomplete in the sense that it lacks a qualifier. A complete requirement would state "The call center operator shall be able to view details of a protected household within two seconds of issuing a query." BABOK 7.2.4.1
+
+D. Concise
+   ❌ SAI
+   📝 Concise means that the requirement contains no unnecessary content which this requirement doesn't. If anything, this requirement lacks content. BABOK 7.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Complete
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The stated requirement is incomplete in the sense that it lacks a qualifier. A complete requirement would state "The call center operator shall be able to view details of a protected household within two seconds of issuing a query." BABOK 7.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Which of the following is a well-written requirement?
+
+A. After the order is physically shipped, it should be modified to 'Shipped' status.
+   ❌ SAI
+   📝 This requirement does not state the need and the user clearly.
+
+B. User shall have to register, unregister, and, if possible, de-activate the facility.
+   ❌ SAI
+   📝 Good requirements do not contain 'let-out clauses' like 'if'.
+
+C. The call center operator shall be able to view details of a protected household within two seconds of issuing a query.
+   ✅ ĐÚNG
+   📝 This is a complete sentence that meets all the characteristics of a good requirements. BABOK 7.2.4
+
+D. Jean will have the capability of online purchase through the web-business analyses system.
+   ❌ SAI
+   📝 Good requirements do not contain solutions. They state what the user wants to be able to do. BABOK 2.5
+
+➤ ĐÁP ÁN ĐÚNG: The call center operator shall be able to view details of a protected household within two seconds of issuing a query.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a complete sentence that meets all the characteristics of a good requirements. BABOK 7.2.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+A business analyst makes sure that requirements and design models have met the necessary standard of quality for a project. What is the intention of the business analyst in performing this task?
+
+A. To ensure they meet the regulatory compliance
+   ❌ SAI
+   📝 This is a verification activity. BABOK 7.2.4.2
+
+B. To specify and model the requirements
+   ❌ SAI
+   📝 The intention of specifying and modeling the requirements is to analyze, synthesize, and refine elicitation result. BABOK 7.1.1
+
+C. To verify the requirements
+   ✅ ĐÚNG
+   📝 "The purpose of Verify Requirements is to ensure that requirements and designs specifications and models meet quality standards and are usable for the purpose they serve." BABOK 7.2.1
+
+D. To validate the requirements
+   ❌ SAI
+   📝 The intention of validation is to ensure that requirements and design align to the business requirements and support the delivery of the needed value. BABOK 7.3.1
+
+➤ ĐÁP ÁN ĐÚNG: To verify the requirements
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+"The purpose of Verify Requirements is to ensure that requirements and designs specifications and models meet quality standards and are usable for the purpose they serve." BABOK 7.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+Which of the following techniques would be best suited to identify how to evaluate the quality of the requirements?
+
+A. Metrics and key performance indicators (KPIs)
+   ✅ ĐÚNG
+   📝 BABOK 7.2.6 and 10.28
+
+B. Acceptance and evaluation criteria
+   ❌ SAI
+   📝 This is not used to identify how to evaluate but rather ensures that the requirements are stated clearly. BABOK 7.2.6
+
+C. Verify requirements
+   ❌ SAI
+   📝 This is a task and not a technique.
+
+D. Reviews
+   ❌ SAI
+   📝 This does not identify how to evaluate but rather inspects requirements documentation to identify requirements that are not of acceptable quality. BABOK 7.2.6 and 10.37
+
+➤ ĐÁP ÁN ĐÚNG: Metrics and key performance indicators (KPIs)
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.2.6 and 10.28
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+The senior business analyst requested that all requirements be self-contained and capable of being understood independently of other requirements or designs. Which characteristic of requirements and designs is the senior business analyst requesting?
+
+A. Atomic
+   ✅ ĐÚNG
+   📝 The question describes this qualify characteristic. BABOK 7.2.4.1
+
+B. Complete
+   ❌ SAI
+   📝 This means the requirement is at the appropriate level of detail for work to continue. BABOK 7.2.4.1
+
+C. Consistent
+   ❌ SAI
+   📝 This means the requirement aligns with the identified needs and does not conflict with other requirements. BABOK 7.2.4.1
+
+D. Unambiguous
+   ❌ SAI
+   📝 This means the requirement must be clearly stated so it is clear whether a solution does or does not meet the associated need. BABOK 7.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Atomic
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The question describes this qualify characteristic. BABOK 7.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+Hae Lin is ensuring that the requirements and designs have been defined correctly and provide the necessary information for further work that will be performed. What task is Hae Lin doing?
+
+A. Validate requirements.
+   ❌ SAI
+   📝 Validate Requirements is making sure the requirements align to business requirements and support the delivery of needed value. BABOK 7.3.2
+
+B. Maintain requirements.
+   ❌ SAI
+   📝 Maintain Requirements has to do with longer term reuse of the requirements.
+
+C. Perform quality assurance.
+   ❌ SAI
+   📝 Perform quality assurance is not a BABOK task.
+
+D. Verify requirements.
+   ✅ ĐÚNG
+   📝 BABOK 7.2.2
+
+➤ ĐÁP ÁN ĐÚNG: Verify requirements.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+Which of the following subset best describes the characteristics of requirements and designs quality?
+
+A. Unambiguous, complete, feasible, standardized, testable
+   ❌ SAI
+   📝 Standardized is not a quality characteristic.
+
+B. Atomic, testable, consistent, defined, complete, understandable
+   ❌ SAI
+   📝 Defined is not a quality characteristic.
+
+C. Testable, verified, unambiguous, concise, prioritized
+   ❌ SAI
+   📝 Verified is not a quality characteristic.
+
+D. Atomic, testable, consistent, feasible, complete, understandable
+   ✅ ĐÚNG
+   📝 BABOK 7.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Atomic, testable, consistent, feasible, complete, understandable
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+Hae Lin is ensuring that the requirements and designs have been defined correctly and provide the necessary information for further work that will be performed. What task is Hae Lin doing?
+
+A. Validate requirements.
+   ❌ SAI
+   📝 Validate Requirements is making sure the requirements align to business requirements and support the delivery of needed value. BABOK 7.3.2
+
+B. Verify requirements.
+   ✅ ĐÚNG
+   📝 BABOK 7.2.2
+
+C. Perform quality assurance.
+   ❌ SAI
+   📝 Perform quality assurance is not a BABOK task.
+
+D. Maintain requirements.
+   ❌ SAI
+   📝 Maintain Requirements has to do with longer term reuse of the requirements.
+
+➤ ĐÁP ÁN ĐÚNG: Verify requirements.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+The project team is in the process of confirming compliance with organizational business analysis performance standards, correct use of modeling notation and completeness within each model, and that items determined to be important are included in the final requirements deliverables. What tool would help in carrying out these activities?
+
+A. Item tracking
+   ❌ SAI
+   📝 This is a technique used in the verify requirements task to ensure any problems or issues identified are managed and resolved. BABOK 7.2.6
+
+B. Control chart
+   ❌ SAI
+   📝 This is not a tool, technique or element in the BABOK. 7.2.4.3
+
+C. Metrics and key performance indicators (KPIs)
+   ❌ SAI
+   📝 This is a technique used in the verify requirements task to identify how to evaluate the quality of the requirements. BABOK 7.2.6
+
+D. Checklist
+   ✅ ĐÚNG
+   📝 The purpose of a checklist in the verify requirements task is to ensure that items determined to be important are included in the final requirements deliverables. BABOK 7.2.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Checklist
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The purpose of a checklist in the verify requirements task is to ensure that items determined to be important are included in the final requirements deliverables. BABOK 7.2.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+Which of the following stakeholders are included in the task Verify Requirements?
+
+A. Business analyst; domain subject matter experts; developers; architects.
+   ❌ SAI
+   📝 These stakeholders may well be included but the list is not limited to them.
+
+B. All stakeholders.
+   ✅ ĐÚNG
+   📝 BABOK 7.2.7
+
+C. Business analyst; domain subject matter experts; architects; testers.
+   ❌ SAI
+   📝 These stakeholders may well be included but the list is not limited to them.
+
+D. Business analyst; domain subject matter experts; developers; testers.
+   ❌ SAI
+   📝 These stakeholders may well be included but the list is not limited to them.
+
+➤ ĐÁP ÁN ĐÚNG: All stakeholders.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.2.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+Which of the following is NOT a verification activity?
+
+A. Checking for completeness within each model.
+   ❌ SAI
+   📝 This is a verification activity. BABOK 7.2.4.2
+
+B. Checking for compliance with organizational performance standards for business analysis.
+   ❌ SAI
+   📝 This is a verification activity. BABOK 7.2.4.2
+
+C. Identify and verify assumptions.
+   ✅ ĐÚNG
+   📝 This is a fabricated answer. Assumptions are identified and defined in order to manage any associated risk.
+
+D. Checking for correct use of modelling notation, templates, or forms.
+   ❌ SAI
+   📝 This is a verification activity. BABOK 7.2.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Identify and verify assumptions.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a fabricated answer. Assumptions are identified and defined in order to manage any associated risk.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Which of the following requirements does NOT meet the characteristics of a quality requirement.
+
+A. The system shall read the tracking database and feed the bond prices to the web database using XML.
+   ✅ ĐÚNG
+   📝 This is a poorly written requirement because it names technologies and constrains the solution design.
+
+B. The system shall provide a maintenance function for correcting any missing data.
+   ❌ SAI
+   📝 While this is a bit high-level it is still a valid functional requirement and meets the characteristics of quality requirements. BABOK 7.2.4.1
+
+C. Bond prices will be viewable and sort able by maturity date, length of security, yield, and rating.
+   ❌ SAI
+   📝 This is a valid functional requirement and meets the characteristics of quality requirements. BABOK 7.2.4.1
+
+D. The system shall display bond prices using 3 decimal places instead of fractions.
+   ❌ SAI
+   📝 This is a valid functional requirement and meets the characteristics of quality requirements. BABOK 7.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: The system shall read the tracking database and feed the bond prices to the web database using XML.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a poorly written requirement because it names technologies and constrains the solution design.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+Which of the following is NOT a verification activity?
+
+A. Checking for correct use of modelling notation, templates, or forms.
+   ❌ SAI
+   📝 This is a verification activity. BABOK 7.2.4.2
+
+B. Checking for compliance with organizational performance standards for business analysis.
+   ❌ SAI
+   📝 This is a verification activity. BABOK 7.2.4.2
+
+C. Checking for completeness within each model.
+   ❌ SAI
+   📝 This is a verification activity. BABOK 7.2.4.2
+
+D. Identify and verify assumptions.
+   ✅ ĐÚNG
+   📝 This is a fabricated answer. Assumptions are identified and defined in order to manage any associated risk.
+
+➤ ĐÁP ÁN ĐÚNG: Identify and verify assumptions.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a fabricated answer. Assumptions are identified and defined in order to manage any associated risk.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+What characteristic of a quality requirement is missing in this requirement: "The call center operator shall be able to view details of a protected household"?
+
+A. Complete
+   ✅ ĐÚNG
+   📝 The stated requirement is incomplete in the sense that it lacks a qualifier. A complete requirement would state "The call center operator shall be able to view details of a protected household within two seconds of issuing a query." BABOK 7.2.4.1
+
+B. Concise
+   ❌ SAI
+   📝 Concise means that the requirement contains no unnecessary content which this requirement doesn't. If anything, this requirement lacks content. BABOK 7.2.4.1
+
+C. Consistent
+   ❌ SAI
+   📝 Consistent means requirements do not conflict with other requirements. That does not appear to the be the case with this requirement. BABOK 7.2.4.1
+
+D. Understandable
+   ❌ SAI
+   📝 This requirement may be understandable but isn't complete. BABOK 7.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Complete
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The stated requirement is incomplete in the sense that it lacks a qualifier. A complete requirement would state "The call center operator shall be able to view details of a protected household within two seconds of issuing a query." BABOK 7.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+You are reviewing the requirements with your sponsor and customer. While examining the requirements, they note some minor quality problems you need to fix. What task have you just completed?
+
+A. Verify Requirements
+   ✅ ĐÚNG
+   📝 Verify ensures requirements and designs specifications meet quality standards. BABOK 7.2.1
+
+B. Perform Quality Assurance
+   ❌ SAI
+   📝 This is not a BABOK task.
+
+C. Validate Requirements
+   ❌ SAI
+   📝 Validation ensures requirements and designs deliver business value. BABOK 7.3.1
+
+D. Perform Quality Control
+   ❌ SAI
+   📝 This is not a BABOK task.
+
+➤ ĐÁP ÁN ĐÚNG: Verify Requirements
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Verify ensures requirements and designs specifications meet quality standards. BABOK 7.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+Which of the following subset best describes the characteristics of requirements and designs quality?
+
+A. Unambiguous, complete, feasible, standardized, testable
+   ❌ SAI
+   📝 Standardized is not a quality characteristic.
+
+B. Atomic, testable, consistent, defined, complete, understandable
+   ❌ SAI
+   📝 Defined is not a quality characteristic.
+
+C. Testable, verified, unambiguous, concise, prioritized
+   ❌ SAI
+   📝 Verified is not a quality characteristic.
+
+D. Atomic, testable, consistent, feasible, complete, understandable
+   ✅ ĐÚNG
+   📝 BABOK 7.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Atomic, testable, consistent, feasible, complete, understandable
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+What characteristic of a quality requirement is missing in this requirement: "The call center operator shall be able to view details of a protected household"?
+
+A. Complete
+   ✅ ĐÚNG
+   📝 The stated requirement is incomplete in the sense that it lacks a qualifier. A complete requirement would state "The call center operator shall be able to view details of a protected household within two seconds of issuing a query." BABOK 7.2.4.1
+
+B. Understandable
+   ❌ SAI
+   📝 This requirement may be understandable but isn't complete. BABOK 7.2.4.1
+
+C. Concise
+   ❌ SAI
+   📝 Concise means that the requirement contains no unnecessary content which this requirement doesn't. If anything, this requirement lacks content. BABOK 7.2.4.1
+
+D. Consistent
+   ❌ SAI
+   📝 Consistent means requirements do not conflict with other requirements. That does not appear to the be the case with this requirement. BABOK 7.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Complete
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The stated requirement is incomplete in the sense that it lacks a qualifier. A complete requirement would state "The call center operator shall be able to view details of a protected household within two seconds of issuing a query." BABOK 7.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+On a project a business analyst makes sure that requirements models have met the necessary standard of quality so that they can be used effectively to guide further work. What has the business analyst been doing?
+
+A. Validating the requirement.
+   ❌ SAI
+   📝 Validating is making sure the requirement is warranted and supports the business requirements discovered. BABOK 7.3.1
+
+B. Verifying the requirement.
+   ✅ ĐÚNG
+   📝 Verifying makes sure a requirement is 'good enough' to continue working with. BABOK 7.2.1
+
+C. Specifying and modeling the requirement.
+   ❌ SAI
+   📝 The purpose of specifying and modeling requirements is to analyze, synthesize and refine elicitation results into requirements and designs. BABOK 7.1.1
+
+D. Documenting a transition requirement.
+   ❌ SAI
+   📝 Transition requirements describe the capabilities that the solution must have and the conditions the solution must meet to facilitate transition from the current state to the future state, but which are not needed once the change is complete. BABOK 2.3
+
+➤ ĐÁP ÁN ĐÚNG: Verifying the requirement.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Verifying makes sure a requirement is 'good enough' to continue working with. BABOK 7.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+A business analyst makes sure that requirements and design models have met the necessary standard of quality for a project. What is the intention of the business analyst in performing this task?
+
+A. To verify the requirements
+   ✅ ĐÚNG
+   📝 "The purpose of Verify Requirements is to ensure that requirements and designs specifications and models meet quality standards and are usable for the purpose they serve." BABOK 7.2.1
+
+B. To specify and model the requirements
+   ❌ SAI
+   📝 The intention of specifying and modeling the requirements is to analyze, synthesize, and refine elicitation result. BABOK 7.1.1
+
+C. To ensure they meet the regulatory compliance
+   ❌ SAI
+   📝 This is a verification activity. BABOK 7.2.4.2
+
+D. To validate the requirements
+   ❌ SAI
+   📝 The intention of validation is to ensure that requirements and design align to the business requirements and support the delivery of the needed value. BABOK 7.3.1
+
+➤ ĐÁP ÁN ĐÚNG: To verify the requirements
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+"The purpose of Verify Requirements is to ensure that requirements and designs specifications and models meet quality standards and are usable for the purpose they serve." BABOK 7.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+What are the inputs for the verify requirement task?
+
+A. Requirements (signed off)
+   ❌ SAI
+   📝 This is another way to say approved requirements. Verified requirements are an input to approve requirements.
+
+B. Requirements (validated)
+   ❌ SAI
+   📝 According to the BABOK, requirements are verified before they can be validated. Hence not an input to the verify requirements task. BABOK 7.3.3
+
+C. Requirements (specified and modeled)
+   ✅ ĐÚNG
+   📝 BABOK 7.2.3
+
+D. Requirements in transition
+   ❌ SAI
+   📝 This is an invented answer.
+
+➤ ĐÁP ÁN ĐÚNG: Requirements (specified and modeled)
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.2.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+Which of the following subset best describes the characteristics of requirements and designs quality?
+
+A. Atomic, testable, consistent, feasible, complete, understandable
+   ✅ ĐÚNG
+   📝 BABOK 7.2.4.1
+
+B. Testable, verified, unambiguous, concise, prioritized
+   ❌ SAI
+   📝 Verified is not a quality characteristic.
+
+C. Atomic, testable, consistent, defined, complete, understandable
+   ❌ SAI
+   📝 Defined is not a quality characteristic.
+
+D. Unambiguous, complete, feasible, standardized, testable
+   ❌ SAI
+   📝 Standardized is not a quality characteristic.
+
+➤ ĐÁP ÁN ĐÚNG: Atomic, testable, consistent, feasible, complete, understandable
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 158 - 30 câu FULL EXPLAIN

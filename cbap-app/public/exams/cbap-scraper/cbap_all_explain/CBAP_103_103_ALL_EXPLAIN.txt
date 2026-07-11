@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 103 ===
+📚 Tên: TopicSet 103
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+Which of the following statements accurately describes stakeholder attitudes?
+
+A. Knowing how a stakeholder perceives the initiative enables the business analyst to plan for collaboration and engagement with that stakeholder.
+   ✅ ĐÚNG
+   📝 This is a benefit to analyzing stakeholder attitudes as part of the perform stakeholder analysis element. BABOK 3.2.4.1
+
+B. Business analysts perform stakeholder analysis to identify stakeholders with negative attitudes as they pose a risk to the success of business analysis work.
+   ❌ SAI
+   📝 While this is true, performing stakeholder analysis involves identifying all stakeholders who will directly or indirectly be impacted by the change.
+
+C. Stakeholder attitudes are identified within the stakeholder engagement element.
+   ❌ SAI
+   📝 There is no such element. Stakeholder attitudes are identified within the perform stakeholder analysis element.
+
+D. Stakeholder attitudes typically impact a change negatively.
+   ❌ SAI
+   📝 Stakeholder attitudes can positively or negatively impact a change.
+
+➤ ĐÁP ÁN ĐÚNG: Knowing how a stakeholder perceives the initiative enables the business analyst to plan for collaboration and engagement with that stakeholder.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a benefit to analyzing stakeholder attitudes as part of the perform stakeholder analysis element. BABOK 3.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+Which of the following statements accurately describes stakeholders who would be engaged in the plan stakeholder engagement task?
+
+A. Both customers and end-users are sources of external stakeholders.
+   ❌ SAI
+   📝 Customers are a source of external stakeholders, while end users are typically internal stakeholders. BABOK 3.2.7
+
+B. A customer is a source of external stakeholders while an end-user is a source of internal stakeholders.
+   ✅ ĐÚNG
+   📝 End user is a term which typically describes internal stakeholders, while customer typically refers to external stakeholders. BABOK 3.2.7
+
+C. A supplier is a source of internal stakeholders while an end-user is a source of external stakeholders.
+   ❌ SAI
+   📝 Just the opposite. Suppliers are a source for external stakeholders. BABOK 3.2.7
+
+D. A supplier is a source of internal stakeholders while a customer is a source of external stakeholders.
+   ❌ SAI
+   📝 Both suppliers and customers refer to external stakeholders. BABOK 3.2.7
+
+➤ ĐÁP ÁN ĐÚNG: A customer is a source of external stakeholders while an end-user is a source of internal stakeholders.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+End user is a term which typically describes internal stakeholders, while customer typically refers to external stakeholders. BABOK 3.2.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+Paige works in the IT department for a financial institution. She may be needed to provide approval for aspects of the business analysis approach, especially in organizations where the business analysis process is audited. She may also require that specific stakeholder representatives or groups be involved in the business analysis activities. What type of stakeholder is Paige?
+
+A. Executive board
+   ❌ SAI
+   📝 There is no such stakeholder group listed in the BABOK. BABOK 3.1.7 and 3.2.7
+
+B. Sponsor
+   ❌ SAI
+   📝 The sponsor may be one of the approvers of some of the artifacts, but the question has a decided audit aspect, which makes regulator the best answer. BABOK 3.1.7 and 3.2.7
+
+C. Regulator
+   ✅ ĐÚNG
+   📝 When the BA process is audited, a regulator may need to provide approval for the aspects of the BA approach that are tailored. They may also require that certain stakeholders be involved in BA activities. BABOK 3.1.7 and 3.2.7
+
+D. Project manager
+   ❌ SAI
+   📝 The project manager may be one of the approvers of some of the artifacts, but the question has a decided audit aspect, which makes regulator the best answer. BABOK 3.1.7 and 3.2.7
+
+➤ ĐÁP ÁN ĐÚNG: Regulator
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+When the BA process is audited, a regulator may need to provide approval for the aspects of the BA approach that are tailored. They may also require that certain stakeholders be involved in BA activities. BABOK 3.1.7 and 3.2.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+Vasavi has been contracted as the lead business analyst on a new initiative. She wants to create an internal stakeholder list. What would be a good starting point?
+
+A. Project management office
+   ❌ SAI
+   📝 This is a made up answer. Although, if a PMO exists it may have organizational process assets that could be leveraged.
+
+B. Existing business processes
+   ✅ ĐÚNG
+   📝 Business processes and a company's organizational chart are cited as initial sources for identifying internal stakeholders. BABOK 3.2.4.1
+
+C. Existing vendor or supplier contracts that may be in place
+   ❌ SAI
+   📝 These would help identify external stakeholders, not internal. BABOK 3.2.4.1
+
+D. Governing bodies that may influence the project
+   ❌ SAI
+   📝 This would help identify external stakeholders and perhaps some internal stakeholders but is too narrow an answer. BABOK 3.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Existing business processes
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Business processes and a company's organizational chart are cited as initial sources for identifying internal stakeholders. BABOK 3.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+Which of the following would you consider when searching for external stakeholders?
+
+A. Project charter
+   ❌ SAI
+   📝 Project charters can provide information for both internal and external stakeholders; however, remember to avoid responses not in the BABOK if there is a BABOK answer. BABOK 3.2.4.1
+
+B. Shareholders
+   ✅ ĐÚNG
+   📝 Shareholders, along with governing bodies, existing contracts, anticipated vendors, customers, and suppliers will help identify external stakeholders. BABOK 3.2.4.1
+
+C. Stakeholders' influence
+   ❌ SAI
+   📝 Level of influence is analyzed after stakeholders are identified. BABOK 3.2.4.1
+
+D. End users
+   ❌ SAI
+   📝 This is partially true. However, not all end users are external customers. BABOK 3.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Shareholders
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Shareholders, along with governing bodies, existing contracts, anticipated vendors, customers, and suppliers will help identify external stakeholders. BABOK 3.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+For any change, BAs need to create and foster trusting working relationships with stakeholders. How can we best do that?
+
+A. Learn which stakeholders have negative attitudes toward the change.
+   ❌ SAI
+   📝 There are many types of attitudes listed for the element Perform Stakeholder Analysis, but this is not one of them. Besides, this answer is too narrow to be correct. BABOK 3.2.4.1
+
+B. Use organizational modeling to understand the relationships stakeholders have with each other.
+   ❌ SAI
+   📝 Organizational models are used to determine if organizational units or personnel have any unique needs and interests that should be considered. BABOK 3.2.6 and 10.32
+
+C. Identify levels of decision-making authority regarding the processes affected by the change.
+   ❌ SAI
+   📝 The BABOK mentions Decision Making Authority as an element in Stakeholder Analysis, but it is restricted to business analysis activities and work, and would not be focused on creating effective working relationships. BABOK 3.2.4.1
+
+D. Understand the influence structures and channels among stakeholders.
+   ✅ ĐÚNG
+   📝 Understanding the nature of influence and the influence structures and channels within an organization can help build stakeholder relationships and trust, as well as develop strategies for obtaining buy-in and collaboration. BABOK 3.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Understand the influence structures and channels among stakeholders.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Understanding the nature of influence and the influence structures and channels within an organization can help build stakeholder relationships and trust, as well as develop strategies for obtaining buy-in and collaboration. BABOK 3.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+Which deliverable is the main output of the plan stakeholder engagement task?
+
+A. Stakeholder register
+   ❌ SAI
+   📝 The term stakeholder register is not utilized within the BABOK although a list of stakeholders is included within the stakeholder engagement approach. BABOK Figure 3.2.1
+
+B. Stakeholder engagement approach
+   ✅ ĐÚNG
+   📝 Sometimes it is that easy! BABOK Figure 3.2.1
+
+C. Stakeholder analysis
+   ❌ SAI
+   📝 Stakeholder analysis is an element contained within this task. BABOK 3.2.4.1
+
+D. The communication approach to be utilized with identified stakeholders
+   ❌ SAI
+   📝 The communication approach is included within the stakeholder engagement approach. BABOK Figure 3.2.8
+
+➤ ĐÁP ÁN ĐÚNG: Stakeholder engagement approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Sometimes it is that easy! BABOK Figure 3.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+Stakeholders' attitudes can positively or negatively impact a change. It is therefore very important for the business analyst to develop and document a plan on how to effectively engage with each key stakeholder group. Which of the following work products would help document the plans?
+
+A. Stakeholder communications plan
+   ❌ SAI
+   📝 This documents communication considerations such as what needs to be communicated and when. BABOK 3.2.4.3
+
+B. Power/interest grid
+   ❌ SAI
+   📝 A power/interest grid is not covered in the BABOK. BABOK 3.2.4.3
+
+C. Stakeholder collaboration plan
+   ✅ ĐÚNG
+   📝 As factors change during the life cycle of the initiative, the plan can be revisited and modified as appropriate to ensure the ongoing engagement of stakeholders. BABOK 3.2.4.2
+
+D. Online communities and wikis
+   ❌ SAI
+   📝 This is a guideline/tool used for assessment of stakeholder impact, not a work product. BABOK 3.2.5
+
+➤ ĐÁP ÁN ĐÚNG: Stakeholder collaboration plan
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+As factors change during the life cycle of the initiative, the plan can be revisited and modified as appropriate to ensure the ongoing engagement of stakeholders. BABOK 3.2.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Why is it important for a BA to identify and understand stakeholders' attitudes towards the project?
+
+A. To understand stakeholder needs and specifically plan how to collaborate and engage with the stakeholders
+   ✅ ĐÚNG
+   📝 Additionally, understanding a stakeholder's attitude helps a BA understand what may impact that stakeholder's actions. BABOK 3.2.4.1
+
+B. To know how stakeholders will contribute to the initiative
+   ❌ SAI
+   📝 Roles and responsibilities are more helpful in knowing how stakeholders will contribute to the initiative. BABOK 3.2.4.1
+
+C. To know if stakeholders are for or against the initiative
+   ❌ SAI
+   📝 This is true; however, the more correct answer addresses why knowing who is for or against the initiative is important. BABOK 3.2.4.1
+
+D. To categorize stakeholders in the power/interest grid
+   ❌ SAI
+   📝 A power/interest grid is not covered in the BABOK. BABOK 3.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: To understand stakeholder needs and specifically plan how to collaborate and engage with the stakeholders
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Additionally, understanding a stakeholder's attitude helps a BA understand what may impact that stakeholder's actions. BABOK 3.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+What is the purpose of conducting a thorough stakeholder analysis?
+
+A. To create a stakeholder register.
+   ❌ SAI
+   📝 A list of stakeholders is included in the stakeholder engagement approach but it's not the purpose of conducting a thorough stakeholder analysis.
+
+B. To plan, establish, and maintain an effective working relationship with the stakeholders.
+   ✅ ĐÚNG
+   📝 Stakeholder analyses are included in the task of plan stakeholder engagement. This is the stated purpose for that task. BABOK 3.2.1
+
+C. Will be required when documenting stakeholder engagement package.
+   ❌ SAI
+   📝 There is no artifact called a stakeholder engagement package.
+
+D. Stakeholder analysis is an input into stakeholder management.
+   ❌ SAI
+   📝 Business analysts manage stakeholder engagement and not stakeholders.
+
+➤ ĐÁP ÁN ĐÚNG: To plan, establish, and maintain an effective working relationship with the stakeholders.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Stakeholder analyses are included in the task of plan stakeholder engagement. This is the stated purpose for that task. BABOK 3.2.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Which of the following guidelines/tools is used for improved assessment of stakeholder impact and the development of more effective stakeholder engagement strategies?
+
+A. Business analysis performance assessment
+   ❌ SAI
+   📝 This assessment provides results of previous assessments that should be reviewed and incorporated into the business analysis approach, not stakeholder engagement. BABOK 3.1.5
+
+B. Methodologies and frameworks
+   ❌ SAI
+   📝 These provide methods and techniques to shape the business analysis approach, not stakeholder engagement. BABOK 3.1.5
+
+C. Change strategy
+   ✅ ĐÚNG
+   📝 An organizational readiness assessment includes an impact analysis which results in a change strategy. BABOK 3.2.5
+
+D. Business policies
+   ❌ SAI
+   📝 Business policies are not a guideline/tool for the plan stakeholder engagement task which is the focus of this question. They are a guideline/tool for the plan business analysis approach task. 3.1.5
+
+➤ ĐÁP ÁN ĐÚNG: Change strategy
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+An organizational readiness assessment includes an impact analysis which results in a change strategy. BABOK 3.2.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+Why is it important for a business analyst to understand roles and responsibilities of the stakeholders within the organization?
+
+A. To understand how the stakeholders will contribute to the initiative.
+   ✅ ĐÚNG
+   📝 Understanding roles and responsibilities of stakeholders will help the BA understand how stakeholders will contribute to the initiative. BABOK 3.2.4.1
+
+B. To categorize stakeholders in the power/interest grid.
+   ❌ SAI
+   📝 A power/interest grid is not covered in the BABOK. BABOK 3.2.4.1
+
+C. To understand stakeholders' attitudes and manage them.
+   ❌ SAI
+   📝 Understanding stakeholders' roles and responsibilities does not help a BA understand their attitudes. BABOK 3.2.4.1
+
+D. To help with the development of the RACI matrix.
+   ❌ SAI
+   📝 While this could be true, it is not the reason cited in the BABOK. BABOK 3.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: To understand how the stakeholders will contribute to the initiative.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Understanding roles and responsibilities of stakeholders will help the BA understand how stakeholders will contribute to the initiative. BABOK 3.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+When conducting a thorough stakeholder analysis, the following resources may be required to be successful. Which of the following is least likely resource to be used?
+
+A. Change strategy
+   ❌ SAI
+   📝 This is one of the stated guidelines for the plan stakeholder engagement task. BABOK 3.2.5
+
+B. Business policies
+   ✅ ĐÚNG
+   📝 This is not one of the stated guidelines for the plan stakeholder engagement task. The rest are stated guidelines/tools. BABOK 3.2.5
+
+C. Current state description
+   ❌ SAI
+   📝 This is one of the stated guidelines for the plan stakeholder engagement task. BABOK 3.2.5
+
+D. Business analysis performance assessment
+   ❌ SAI
+   📝 This is one of the stated guidelines for the plan stakeholder engagement task. BABOK 3.2.5
+
+➤ ĐÁP ÁN ĐÚNG: Business policies
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is not one of the stated guidelines for the plan stakeholder engagement task. The rest are stated guidelines/tools. BABOK 3.2.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+When conducting a thorough stakeholder analysis, the following resources may be required to be successful. Which of the following is least likely resource to be used?
+
+A. Current state description
+   ❌ SAI
+   📝 This is one of the stated guidelines for the plan stakeholder engagement task. BABOK 3.2.5
+
+B. Business policies
+   ✅ ĐÚNG
+   📝 This is not one of the stated guidelines for the plan stakeholder engagement task. The rest are stated guidelines/tools. BABOK 3.2.5
+
+C. Change strategy
+   ❌ SAI
+   📝 This is one of the stated guidelines for the plan stakeholder engagement task. BABOK 3.2.5
+
+D. Business analysis performance assessment
+   ❌ SAI
+   📝 This is one of the stated guidelines for the plan stakeholder engagement task. BABOK 3.2.5
+
+➤ ĐÁP ÁN ĐÚNG: Business policies
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is not one of the stated guidelines for the plan stakeholder engagement task. The rest are stated guidelines/tools. BABOK 3.2.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+Missy is a business analyst working for InfoTech Company. The organization's standards require that she gives a weekly business analysis status report. Missy is now in the process of determining who will need to receive the weekly status report. Which knowledge area is Missy working within?
+
+A. Communicate business analysis information
+   ❌ SAI
+   📝 This is a task in the elicitation and collaboration knowledge area. Missy is planning communication vs. actually communicating. BABOK Figure 4.0.1
+
+B. Requirement management and communication
+   ❌ SAI
+   📝 This is not a knowledge area in the BABOK. BABOK 1.4.2
+
+C. Business analysis planning and monitoring
+   ✅ ĐÚNG
+   📝 Missy is performing the task of plan stakeholder engagement; specifically, the element of stakeholder communication needs. BABOK 3.2.4.3
+
+D. Requirements life cycle management
+   ❌ SAI
+   📝 RLCM describes tasks that deal with managing and maintaining requirements and designs from inception to retirement. BABOK 5.0
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis planning and monitoring
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Missy is performing the task of plan stakeholder engagement; specifically, the element of stakeholder communication needs. BABOK 3.2.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+The results of stakeholder analysis should be consulted and updated on a regular basis as stakeholders may change or new stakeholders may be identified throughout the project. However, one task should be complete before embarking on this task. Which task should be completed first?
+
+A. Project charter
+   ❌ SAI
+   📝 This is not a task, plus the BABOK does not reference this term.
+
+B. Business case
+   ❌ SAI
+   📝 This is not a task.
+
+C. Needs must be defined
+   ❌ SAI
+   📝 Though this is one of the inputs, the question is asking for a task. This is not a task.
+
+D. Plan business analysis approach
+   ✅ ĐÚNG
+   📝 The plan business analysis approach output is an input to plan stakeholder engagement which includes stakeholder analysis. BABOK 3.2.3
+
+➤ ĐÁP ÁN ĐÚNG: Plan business analysis approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The plan business analysis approach output is an input to plan stakeholder engagement which includes stakeholder analysis. BABOK 3.2.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+Which of the following guidelines/tools is used for improved assessment of stakeholder impact and the development of more effective stakeholder engagement strategies?
+
+A. Business analysis performance assessment
+   ❌ SAI
+   📝 This assessment provides results of previous assessments that should be reviewed and incorporated into the business analysis approach, not stakeholder engagement. BABOK 3.1.5
+
+B. Methodologies and frameworks
+   ❌ SAI
+   📝 These provide methods and techniques to shape the business analysis approach, not stakeholder engagement. BABOK 3.1.5
+
+C. Business policies
+   ❌ SAI
+   📝 Business policies are not a guideline/tool for the plan stakeholder engagement task which is the focus of this question. They are a guideline/tool for the plan business analysis approach task. 3.1.5
+
+D. Change strategy
+   ✅ ĐÚNG
+   📝 An organizational readiness assessment includes an impact analysis which results in a change strategy. BABOK 3.2.5
+
+➤ ĐÁP ÁN ĐÚNG: Change strategy
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+An organizational readiness assessment includes an impact analysis which results in a change strategy. BABOK 3.2.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+You have just completed a thorough stakeholder analysis during which you identified all the stakeholders that will be directly or indirectly impacted by the current initiative you are working on. What would be the output of this analysis?
+
+A. RACI matrix
+   ❌ SAI
+   📝 The question is asking for the output of the plan stakeholder engagement task which is the stakeholder engagement approach. BABOK 3.2.8
+
+B. Stakeholder engagement approach
+   ✅ ĐÚNG
+   📝 This output includes a list of impacted stakeholders, along with their characteristics, and a list of roles and responsibilities. BABOK 3.2.8
+
+C. Stakeholder register
+   ❌ SAI
+   📝 This is not the correct name for the output that is produced in the plan stakeholder engagement task. The correct name is the stakeholder engagement approach. BABOK 3.2.8
+
+D. Stakeholder management plan
+   ❌ SAI
+   📝 There is no such artifact mentioned in the BABOK. BABOK 3.2.8
+
+➤ ĐÁP ÁN ĐÚNG: Stakeholder engagement approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This output includes a list of impacted stakeholders, along with their characteristics, and a list of roles and responsibilities. BABOK 3.2.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+For any change, BAs need to create and foster trusting working relationships with stakeholders. How can we best do that?
+
+A. Use organizational modeling to understand the relationships stakeholders have with each other.
+   ❌ SAI
+   📝 Organizational models are used to determine if organizational units or personnel have any unique needs and interests that should be considered. BABOK 3.2.6 and 10.32
+
+B. Understand the influence structures and channels among stakeholders.
+   ✅ ĐÚNG
+   📝 Understanding the nature of influence and the influence structures and channels within an organization can help build stakeholder relationships and trust, as well as develop strategies for obtaining buy-in and collaboration. BABOK 3.2.4.1
+
+C. Identify levels of decision-making authority regarding the processes affected by the change.
+   ❌ SAI
+   📝 The BABOK mentions Decision Making Authority as an element in Stakeholder Analysis, but it is restricted to business analysis activities and work, and would not be focused on creating effective working relationships. BABOK 3.2.4.1
+
+D. Learn which stakeholders have negative attitudes toward the change.
+   ❌ SAI
+   📝 There are many types of attitudes listed for the element Perform Stakeholder Analysis, but this is not one of them. Besides, this answer is too narrow to be correct. BABOK 3.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Understand the influence structures and channels among stakeholders.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Understanding the nature of influence and the influence structures and channels within an organization can help build stakeholder relationships and trust, as well as develop strategies for obtaining buy-in and collaboration. BABOK 3.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+Regarding the element stakeholder communication needs, the business analyst must consider the __________ of stakeholders.
+
+A. Geographic location
+   ✅ ĐÚNG
+   📝 Information will be communicated differently for stakeholders who are geographically dispersed vs. physically co-located. BABOK 3.2.4.3
+
+B. Primary language
+   ❌ SAI
+   📝 Not listed as a consideration in the BABOK. BABOK 3.2.4.3
+
+C. Multi-location distribution
+   ❌ SAI
+   📝 This is not a BABOK term. Be wary of non-BABOK terms. BABOK 3.2.4.3
+
+D. Elemental attitude
+   ❌ SAI
+   📝 This is not a BABOK term. Be wary of non-BABOK terms. BABOK 3.2.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Geographic location
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Information will be communicated differently for stakeholders who are geographically dispersed vs. physically co-located. BABOK 3.2.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Paige works in the IT department for a financial institution. She may be needed to provide approval for aspects of the business analysis approach, especially in organizations where the business analysis process is audited. She may also require that specific stakeholder representatives or groups be involved in the business analysis activities. What type of stakeholder is Paige?
+
+A. Project manager
+   ❌ SAI
+   📝 The project manager may be one of the approvers of some of the artifacts, but the question has a decided audit aspect, which makes regulator the best answer. BABOK 3.1.7 and 3.2.7
+
+B. Regulator
+   ✅ ĐÚNG
+   📝 When the BA process is audited, a regulator may need to provide approval for the aspects of the BA approach that are tailored. They may also require that certain stakeholders be involved in BA activities. BABOK 3.1.7 and 3.2.7
+
+C. Sponsor
+   ❌ SAI
+   📝 The sponsor may be one of the approvers of some of the artifacts, but the question has a decided audit aspect, which makes regulator the best answer. BABOK 3.1.7 and 3.2.7
+
+D. Executive board
+   ❌ SAI
+   📝 There is no such stakeholder group listed in the BABOK. BABOK 3.1.7 and 3.2.7
+
+➤ ĐÁP ÁN ĐÚNG: Regulator
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+When the BA process is audited, a regulator may need to provide approval for the aspects of the BA approach that are tailored. They may also require that certain stakeholders be involved in BA activities. BABOK 3.1.7 and 3.2.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+Regarding the element stakeholder communication needs, the business analyst must consider the __________ of stakeholders.
+
+A. Elemental attitude
+   ❌ SAI
+   📝 This is not a BABOK term. Be wary of non-BABOK terms. BABOK 3.2.4.3
+
+B. Geographic location
+   ✅ ĐÚNG
+   📝 Information will be communicated differently for stakeholders who are geographically dispersed vs. physically co-located. BABOK 3.2.4.3
+
+C. Multi-location distribution
+   ❌ SAI
+   📝 This is not a BABOK term. Be wary of non-BABOK terms. BABOK 3.2.4.3
+
+D. Primary language
+   ❌ SAI
+   📝 Not listed as a consideration in the BABOK. BABOK 3.2.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Geographic location
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Information will be communicated differently for stakeholders who are geographically dispersed vs. physically co-located. BABOK 3.2.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+Which of the following statements accurately describes stakeholders who would be engaged in the plan stakeholder engagement task?
+
+A. Both customers and end-users are sources of external stakeholders.
+   ❌ SAI
+   📝 Customers are a source of external stakeholders, while end users are typically internal stakeholders. BABOK 3.2.7
+
+B. A supplier is a source of internal stakeholders while a customer is a source of external stakeholders.
+   ❌ SAI
+   📝 Both suppliers and customers refer to external stakeholders. BABOK 3.2.7
+
+C. A customer is a source of external stakeholders while an end-user is a source of internal stakeholders.
+   ✅ ĐÚNG
+   📝 End user is a term which typically describes internal stakeholders, while customer typically refers to external stakeholders. BABOK 3.2.7
+
+D. A supplier is a source of internal stakeholders while an end-user is a source of external stakeholders.
+   ❌ SAI
+   📝 Just the opposite. Suppliers are a source for external stakeholders. BABOK 3.2.7
+
+➤ ĐÁP ÁN ĐÚNG: A customer is a source of external stakeholders while an end-user is a source of internal stakeholders.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+End user is a term which typically describes internal stakeholders, while customer typically refers to external stakeholders. BABOK 3.2.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Guidelines and tools included in the plan stakeholder engagement task include which of the following?
+
+A. Business analysis performance assessment, change strategy, current state description
+   ✅ ĐÚNG
+   📝 These are the three stated guidelines and tools for the plan stakeholder engagement task. BABOK 3.2.5
+
+B. Business analysis performance assessment, change strategy, stakeholder engagement approach
+   ❌ SAI
+   📝 Stakeholder engagement approach is not a stated guideline and tool for this task, and the current state description is missing from the list. BABOK 3.2.5
+
+C. Business analysis performance assessment, business policies, current state description
+   ❌ SAI
+   📝 Business policies are not a stated guideline and tool for this task, and change strategy is missing from the list. BABOK 3.2.5
+
+D. Business analysis performance assessment, expert judgement, methodologies and frameworks
+   ❌ SAI
+   📝 Expert judgement, and methodologies and frameworks are not stated guidelines and tools for this task, and the change strategy and current state description are missing from the list. BABOK 3.2.5
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis performance assessment, change strategy, current state description
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the three stated guidelines and tools for the plan stakeholder engagement task. BABOK 3.2.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+Missy is a business analyst working for InfoTech Company. The organization's standards require that she gives a weekly business analysis status report. Missy is now in the process of determining who will need to receive the weekly status report. Which knowledge area is Missy working within?
+
+A. Requirements life cycle management
+   ❌ SAI
+   📝 RLCM describes tasks that deal with managing and maintaining requirements and designs from inception to retirement. BABOK 5.0
+
+B. Communicate business analysis information
+   ❌ SAI
+   📝 This is a task in the elicitation and collaboration knowledge area. Missy is planning communication vs. actually communicating. BABOK Figure 4.0.1
+
+C. Business analysis planning and monitoring
+   ✅ ĐÚNG
+   📝 Missy is performing the task of plan stakeholder engagement; specifically, the element of stakeholder communication needs. BABOK 3.2.4.3
+
+D. Requirement management and communication
+   ❌ SAI
+   📝 This is not a knowledge area in the BABOK. BABOK 1.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis planning and monitoring
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Missy is performing the task of plan stakeholder engagement; specifically, the element of stakeholder communication needs. BABOK 3.2.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+Assessing stakeholder attitudes about the project is important. Which of the following best describes the factors to consider?
+
+A. Attitude toward the objective of the initiative, their job, and the organization
+   ❌ SAI
+   📝 Attitude toward their job and the organization are not listed factors. BABOK 3.2.4
+
+B. Attitude toward the business goals, objective of the initiative, business analysis in general, project sponsor and other stakeholders
+   ✅ ĐÚNG
+   📝 Not an all inclusive list but all stakeholder attitudes in this response are specifically stated along with their attitude toward any proposed solution and team-based collaboration. BABOK 3.2.4
+
+C. Attitude toward business analysis, project methodology, the sponsor, and project manager
+   ❌ SAI
+   📝 Attitude toward project methodology is not a listed factor. BABOK 3.2.4
+
+D. Attitude towards collaboration, teamwork, and other stakeholders, and their job
+   ❌ SAI
+   📝 Attitude toward their job is not a listed factor. BABOK 3.2.4
+
+➤ ĐÁP ÁN ĐÚNG: Attitude toward the business goals, objective of the initiative, business analysis in general, project sponsor and other stakeholders
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Not an all inclusive list but all stakeholder attitudes in this response are specifically stated along with their attitude toward any proposed solution and team-based collaboration. BABOK 3.2.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+Guidelines and tools included in the plan stakeholder engagement task include which of the following?
+
+A. Business analysis performance assessment, change strategy, stakeholder engagement approach
+   ❌ SAI
+   📝 Stakeholder engagement approach is not a stated guideline and tool for this task, and the current state description is missing from the list. BABOK 3.2.5
+
+B. Business analysis performance assessment, business policies, current state description
+   ❌ SAI
+   📝 Business policies are not a stated guideline and tool for this task, and change strategy is missing from the list. BABOK 3.2.5
+
+C. Business analysis performance assessment, change strategy, current state description
+   ✅ ĐÚNG
+   📝 These are the three stated guidelines and tools for the plan stakeholder engagement task. BABOK 3.2.5
+
+D. Business analysis performance assessment, expert judgement, methodologies and frameworks
+   ❌ SAI
+   📝 Expert judgement, and methodologies and frameworks are not stated guidelines and tools for this task, and the change strategy and current state description are missing from the list. BABOK 3.2.5
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis performance assessment, change strategy, current state description
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the three stated guidelines and tools for the plan stakeholder engagement task. BABOK 3.2.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+For any change, BAs need to create and foster trusting working relationships with stakeholders. How can we best do that?
+
+A. Learn which stakeholders have negative attitudes toward the change.
+   ❌ SAI
+   📝 There are many types of attitudes listed for the element Perform Stakeholder Analysis, but this is not one of them. Besides, this answer is too narrow to be correct. BABOK 3.2.4.1
+
+B. Use organizational modeling to understand the relationships stakeholders have with each other.
+   ❌ SAI
+   📝 Organizational models are used to determine if organizational units or personnel have any unique needs and interests that should be considered. BABOK 3.2.6 and 10.32
+
+C. Identify levels of decision-making authority regarding the processes affected by the change.
+   ❌ SAI
+   📝 The BABOK mentions Decision Making Authority as an element in Stakeholder Analysis, but it is restricted to business analysis activities and work, and would not be focused on creating effective working relationships. BABOK 3.2.4.1
+
+D. Understand the influence structures and channels among stakeholders.
+   ✅ ĐÚNG
+   📝 Understanding the nature of influence and the influence structures and channels within an organization can help build stakeholder relationships and trust, as well as develop strategies for obtaining buy-in and collaboration. BABOK 3.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Understand the influence structures and channels among stakeholders.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Understanding the nature of influence and the influence structures and channels within an organization can help build stakeholder relationships and trust, as well as develop strategies for obtaining buy-in and collaboration. BABOK 3.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+Assessing stakeholder attitudes about the project is important. Which of the following best describes the factors to consider?
+
+A. Attitude toward the objective of the initiative, their job, and the organization
+   ❌ SAI
+   📝 Attitude toward their job and the organization are not listed factors. BABOK 3.2.4
+
+B. Attitude towards collaboration, teamwork, and other stakeholders, and their job
+   ❌ SAI
+   📝 Attitude toward their job is not a listed factor. BABOK 3.2.4
+
+C. Attitude toward business analysis, project methodology, the sponsor, and project manager
+   ❌ SAI
+   📝 Attitude toward project methodology is not a listed factor. BABOK 3.2.4
+
+D. Attitude toward the business goals, objective of the initiative, business analysis in general, project sponsor and other stakeholders
+   ✅ ĐÚNG
+   📝 Not an all inclusive list but all stakeholder attitudes in this response are specifically stated along with their attitude toward any proposed solution and team-based collaboration. BABOK 3.2.4
+
+➤ ĐÁP ÁN ĐÚNG: Attitude toward the business goals, objective of the initiative, business analysis in general, project sponsor and other stakeholders
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Not an all inclusive list but all stakeholder attitudes in this response are specifically stated along with their attitude toward any proposed solution and team-based collaboration. BABOK 3.2.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+Vasavi has been contracted as the lead business analyst on a new initiative. She wants to create an internal stakeholder list. What would be a good starting point?
+
+A. Governing bodies that may influence the project
+   ❌ SAI
+   📝 This would help identify external stakeholders and perhaps some internal stakeholders but is too narrow an answer. BABOK 3.2.4.1
+
+B. Project management office
+   ❌ SAI
+   📝 This is a made up answer. Although, if a PMO exists it may have organizational process assets that could be leveraged.
+
+C. Existing vendor or supplier contracts that may be in place
+   ❌ SAI
+   📝 These would help identify external stakeholders, not internal. BABOK 3.2.4.1
+
+D. Existing business processes
+   ✅ ĐÚNG
+   📝 Business processes and a company's organizational chart are cited as initial sources for identifying internal stakeholders. BABOK 3.2.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Existing business processes
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Business processes and a company's organizational chart are cited as initial sources for identifying internal stakeholders. BABOK 3.2.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 103 - 30 câu FULL EXPLAIN
