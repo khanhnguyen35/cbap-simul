@@ -11,6 +11,9 @@ import {
   BarChartOutlined,
   ExperimentOutlined,
   WarningOutlined,
+  ReadOutlined,
+  BranchesOutlined,
+  OrderedListOutlined,
 } from '@ant-design/icons';
 
 const { Header } = Layout;
@@ -33,6 +36,23 @@ const NAV_ITEMS = [
     icon: <ExperimentOutlined />,
   },
   {
+    key: 'babok-review',
+    label: 'Ôn tập tổng quan',
+    icon: <ReadOutlined />,
+    children: [
+      {
+        key: '/babok-io',
+        label: 'Input / Output',
+        icon: <BranchesOutlined />,
+      },
+      {
+        key: '/babok-elements',
+        label: 'Elements',
+        icon: <OrderedListOutlined />,
+      },
+    ],
+  },
+  {
     key: '/data-quality',
     label: 'Dữ liệu lỗi',
     icon: <WarningOutlined />,
@@ -43,13 +63,24 @@ export default function AppNavbar() {
   const navigate = useNavigate();
   const location = useLocation();
 
+  // Flatten nav items to include children for key matching
+  const allKeys: string[] = [];
+  NAV_ITEMS.forEach(item => {
+    allKeys.push(item.key);
+    if ('children' in item && item.children) {
+      item.children.forEach((c: { key: string }) => allKeys.push(c.key));
+    }
+  });
+
   // Match active key: exact for '/', prefix for others
   const activeKey =
-    NAV_ITEMS.find((item) =>
-      item.key === '/'
-        ? location.pathname === '/'
-        : location.pathname.startsWith(item.key)
-    )?.key ?? '/';
+    allKeys
+      .filter(k => k !== 'babok-review')
+      .find(k =>
+        k === '/'
+          ? location.pathname === '/'
+          : location.pathname.startsWith(k)
+      ) ?? '/';
 
   return (
     <Header

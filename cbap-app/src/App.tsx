@@ -43,6 +43,8 @@ const ExamReview = lazy(() => import('@/pages/exam-review'));
 const FlashcardMode = lazy(() => import('@/pages/flashcard-mode'));
 const Analytics = lazy(() => import('@/pages/analytics'));
 const DataQualityInspector = lazy(() => import('@/pages/data-quality-inspector'));
+const BabokIOReview = lazy(() => import('@/pages/babok-io-review'));
+const BabokElementsReview = lazy(() => import('@/pages/babok-elements-review'));
 
 // ── AppLayout: conditional navbar + page content ───────────────────────────────────
 function AppLayout({ children }: { children: React.ReactNode }) {
@@ -132,6 +134,8 @@ export default function App() {
                     <Route path="/flashcard" element={<FlashcardMode />} />
                     <Route path="/analytics" element={<Analytics />} />
                     <Route path="/data-quality" element={<DataQualityInspector />} />
+                    <Route path="/babok-io" element={<BabokIOReview />} />
+                    <Route path="/babok-elements" element={<BabokElementsReview />} />
                     <Route path="*" element={<Navigate to="/" replace />} />
                   </Routes>
                 </Suspense>

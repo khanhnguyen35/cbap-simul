@@ -1,0 +1,415 @@
+{
+  "knowledge_areas": [
+    {
+      "id": "BAPM",
+      "name": "Business Analysis Planning and Monitoring",
+      "short_name": "BAPM",
+      "chapter": 3,
+      "tasks": [
+        {
+          "id": "3.1",
+          "name": "Plan Business Analysis Approach",
+          "inputs": ["Needs"],
+          "outputs": ["Business Analysis Approach"],
+          "elements": [
+            "Planning Approach",
+            "Formality and Level of Detail of Business Analysis Deliverables",
+            "Business Analysis Activities",
+            "Timing of Business Analysis Work",
+            "Complexity and Risk",
+            "Acceptance"
+          ]
+        },
+        {
+          "id": "3.2",
+          "name": "Plan Stakeholder Engagement",
+          "inputs": ["Needs", "Business Analysis Approach"],
+          "outputs": ["Stakeholder Engagement Approach"],
+          "elements": [
+            "Perform Stakeholder Analysis",
+            "Define Stakeholder Collaboration",
+            "Stakeholder Communication Needs"
+          ]
+        },
+        {
+          "id": "3.3",
+          "name": "Plan Business Analysis Governance",
+          "inputs": ["Business Analysis Approach", "Stakeholder Engagement Approach"],
+          "outputs": ["Governance Approach"],
+          "elements": [
+            "Decision Making",
+            "Change Control Process",
+            "Plan Prioritization Approach",
+            "Plan for Approvals"
+          ]
+        },
+        {
+          "id": "3.4",
+          "name": "Plan Business Analysis Information Management",
+          "inputs": ["Business Analysis Approach", "Governance Approach", "Stakeholder Engagement Approach"],
+          "outputs": ["Information Management Approach"],
+          "elements": [
+            "Organization of Business Analysis Information",
+            "Level of Abstraction",
+            "Plan Traceability Approach",
+            "Plan for Requirements Reuse",
+            "Storage and Access",
+            "Requirements Attributes"
+          ]
+        },
+        {
+          "id": "3.5",
+          "name": "Identify Business Analysis Performance Improvements",
+          "inputs": ["Business Analysis Approach", "Performance Objectives (external)"],
+          "outputs": ["Business Analysis Performance Assessment"],
+          "elements": [
+            "Performance Analysis",
+            "Assessment Measures",
+            "Analyze Results",
+            "Recommend Actions for Improvement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "EC",
+      "name": "Elicitation and Collaboration",
+      "short_name": "EC",
+      "chapter": 4,
+      "tasks": [
+        {
+          "id": "4.1",
+          "name": "Prepare for Elicitation",
+          "inputs": ["Needs", "Stakeholder Engagement Approach"],
+          "outputs": ["Elicitation Activity Plan"],
+          "elements": [
+            "Understand the Scope of Elicitation",
+            "Select Elicitation Techniques",
+            "Set Up Logistics",
+            "Secure Supporting Material",
+            "Prepare Stakeholders"
+          ]
+        },
+        {
+          "id": "4.2",
+          "name": "Conduct Elicitation",
+          "inputs": ["Elicitation Activity Plan"],
+          "outputs": ["Elicitation Results (unconfirmed)"],
+          "elements": [
+            "Guide Elicitation Activity",
+            "Capture Elicitation Outcomes"
+          ]
+        },
+        {
+          "id": "4.3",
+          "name": "Confirm Elicitation Results",
+          "inputs": ["Elicitation Results (unconfirmed)"],
+          "outputs": ["Elicitation Results (confirmed)"],
+          "elements": [
+            "Compare Elicitation Results Against Source Information",
+            "Compare Elicitation Results Against Other Elicitation Results"
+          ]
+        },
+        {
+          "id": "4.4",
+          "name": "Communicate Business Analysis Information",
+          "inputs": ["Business Analysis Information", "Stakeholder Engagement Approach"],
+          "outputs": ["Business Analysis Information (communicated)"],
+          "elements": [
+            "Determine Objectives and Format of Communication",
+            "Communicate Business Analysis Package"
+          ]
+        },
+        {
+          "id": "4.5",
+          "name": "Manage Stakeholder Collaboration",
+          "inputs": ["Stakeholder Engagement Approach", "Business Analysis Performance Assessment"],
+          "outputs": ["Stakeholder Engagement"],
+          "elements": [
+            "Gain Agreement on Commitments",
+            "Monitor Stakeholder Engagement",
+            "Collaboration"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RLCM",
+      "name": "Requirements Life Cycle Management",
+      "short_name": "RLCM",
+      "chapter": 5,
+      "tasks": [
+        {
+          "id": "5.1",
+          "name": "Trace Requirements",
+          "inputs": ["Requirements", "Designs"],
+          "outputs": ["Requirements (traced)", "Designs (traced)"],
+          "elements": [
+            "Level of Formality",
+            "Relationships",
+            "Traceability Repository"
+          ]
+        },
+        {
+          "id": "5.2",
+          "name": "Maintain Requirements",
+          "inputs": ["Requirements", "Designs"],
+          "outputs": ["Requirements (maintained)", "Designs (maintained)"],
+          "elements": [
+            "Maintain Requirements",
+            "Maintain Attributes",
+            "Reusing Requirements"
+          ]
+        },
+        {
+          "id": "5.3",
+          "name": "Prioritize Requirements",
+          "inputs": ["Requirements", "Designs"],
+          "outputs": ["Requirements (prioritized)", "Designs (prioritized)"],
+          "elements": [
+            "Basis for Prioritization",
+            "Challenges of Prioritization",
+            "Continual Prioritization"
+          ]
+        },
+        {
+          "id": "5.4",
+          "name": "Assess Requirements Changes",
+          "inputs": ["Proposed Change", "Requirements", "Designs"],
+          "outputs": ["Requirements Change Assessment", "Designs Change Assessment"],
+          "elements": [
+            "Assess Impact of Proposed Changes",
+            "Investigate the Change",
+            "Requirements Change Assessment",
+            "Impact Assessment"
+          ]
+        },
+        {
+          "id": "5.5",
+          "name": "Approve Requirements",
+          "inputs": ["Requirements (maintained)", "Designs (maintained)"],
+          "outputs": ["Requirements (approved)", "Designs (approved)"],
+          "elements": [
+            "Understand Stakeholder Roles in Approval",
+            "Conflict and Issue Management",
+            "Gain Consensus",
+            "Track and Communicate Approval"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SA",
+      "name": "Strategy Analysis",
+      "short_name": "SA",
+      "chapter": 6,
+      "tasks": [
+        {
+          "id": "6.1",
+          "name": "Analyze Current State",
+          "inputs": ["Elicitation Results (confirmed)", "Needs"],
+          "outputs": ["Current State Description", "Business Requirements"],
+          "elements": [
+            "Business Needs",
+            "Organizational Structure and Culture",
+            "Capabilities and Processes",
+            "Technology and Infrastructure",
+            "Policies",
+            "Business Architecture",
+            "Internal Assets",
+            "External Influencers"
+          ]
+        },
+        {
+          "id": "6.2",
+          "name": "Define Future State",
+          "inputs": ["Business Requirements"],
+          "outputs": ["Business Objectives", "Future State Description", "Potential Value"],
+          "elements": [
+            "Business Goals and Objectives",
+            "Scope of Solution Space",
+            "Constraints",
+            "Organizational Structure and Culture",
+            "Capabilities and Processes",
+            "Technology and Infrastructure",
+            "Policies",
+            "Business Architecture",
+            "Internal Assets",
+            "Identify Assumptions",
+            "Potential Value"
+          ]
+        },
+        {
+          "id": "6.3",
+          "name": "Assess Risks",
+          "inputs": ["Business Objectives", "Elicitation Results (confirmed)", "Influences", "Potential Value", "Requirements (prioritized)"],
+          "outputs": ["Risk Analysis Results"],
+          "elements": [
+            "Unknowns",
+            "Constraints, Assumptions, and Dependencies",
+            "Negative Impact to Value",
+            "Risk Tolerance",
+            "Recommendation"
+          ]
+        },
+        {
+          "id": "6.4",
+          "name": "Define Change Strategy",
+          "inputs": ["Current State Description", "Future State Description", "Risk Analysis Results", "Stakeholder Engagement Approach"],
+          "outputs": ["Change Strategy", "Solution Scope"],
+          "elements": [
+            "Solution Scope",
+            "Gap Analysis",
+            "Enterprise Readiness Assessment",
+            "Change Strategy",
+            "Transition States and Release Planning"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "RADD",
+      "name": "Requirements Analysis and Design Definition",
+      "short_name": "RADD",
+      "chapter": 7,
+      "tasks": [
+        {
+          "id": "7.1",
+          "name": "Specify and Model Requirements",
+          "inputs": ["Elicitation Results (any state)"],
+          "outputs": ["Requirements (specified and modelled)"],
+          "elements": [
+            "Model Requirements",
+            "Analyze Requirements",
+            "Represent Requirements and Attributes",
+            "Implement the Appropriate Levels of Abstraction"
+          ]
+        },
+        {
+          "id": "7.2",
+          "name": "Verify Requirements",
+          "inputs": ["Requirements (specified and modelled)"],
+          "outputs": ["Requirements (verified)"],
+          "elements": [
+            "Characteristics of Requirements and Designs Quality",
+            "Verification Activities",
+            "Checklists"
+          ]
+        },
+        {
+          "id": "7.3",
+          "name": "Validate Requirements",
+          "inputs": ["Requirements (specified and modelled)"],
+          "outputs": ["Requirements (validated)"],
+          "elements": [
+            "Identify Assumptions",
+            "Define Measurable Evaluation Criteria",
+            "Evaluate Alignment with Solution Scope"
+          ]
+        },
+        {
+          "id": "7.4",
+          "name": "Define Requirements Architecture",
+          "inputs": ["Information Management Approach", "Requirements (any state)", "Solution Scope"],
+          "outputs": ["Requirements Architecture"],
+          "elements": [
+            "Requirements Viewpoints and Views",
+            "Template Architectures",
+            "Completeness",
+            "Relate and Verify Requirements Relationships",
+            "Business Analysis Information Architecture"
+          ]
+        },
+        {
+          "id": "7.5",
+          "name": "Define Design Options",
+          "inputs": ["Change Strategy", "Requirements (validated)", "Requirements Architecture"],
+          "outputs": ["Design Options"],
+          "elements": [
+            "Define Solution Approaches",
+            "Identify Improvement Opportunities",
+            "Requirements Allocation",
+            "Describe Design Options"
+          ]
+        },
+        {
+          "id": "7.6",
+          "name": "Analyze Potential Value and Recommend Solution",
+          "inputs": ["Potential Value", "Design Options"],
+          "outputs": ["Solution Recommendation"],
+          "elements": [
+            "Expected Benefits",
+            "Expected Costs",
+            "Determine Value",
+            "Assess Design Options and Recommend Solution"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "SE",
+      "name": "Solution Evaluation",
+      "short_name": "SE",
+      "chapter": 8,
+      "tasks": [
+        {
+          "id": "8.1",
+          "name": "Measure Solution Performance",
+          "inputs": ["Business Objectives", "Implemented Solution (external)"],
+          "outputs": ["Solution Performance Measures"],
+          "elements": [
+            "Define Solution Performance Measures",
+            "Validate Performance Measures",
+            "Collect Performance Measures"
+          ]
+        },
+        {
+          "id": "8.2",
+          "name": "Analyze Performance Measures",
+          "inputs": ["Potential Value", "Solution Performance Measures"],
+          "outputs": ["Solution Performance Analysis"],
+          "elements": [
+            "Solution Performance versus Desired Value",
+            "Risks",
+            "Trends",
+            "Accuracy",
+            "Performance Variances"
+          ]
+        },
+        {
+          "id": "8.3",
+          "name": "Assess Solution Limitations",
+          "inputs": ["Implemented Solution (external)", "Solution Performance Analysis"],
+          "outputs": ["Solution Limitation"],
+          "elements": [
+            "Identify Internal Solution Component Dependencies",
+            "Investigate Solution Problems",
+            "Impact Assessment"
+          ]
+        },
+        {
+          "id": "8.4",
+          "name": "Assess Enterprise Limitations",
+          "inputs": ["Current State Description", "Implemented (or Constructed) Solution (external)", "Solution Performance Analysis"],
+          "outputs": ["Enterprise Limitation"],
+          "elements": [
+            "Enterprise Culture Assessment",
+            "Stakeholder Impact Analysis",
+            "Organizational Structure Changes",
+            "Operational Assessment"
+          ]
+        },
+        {
+          "id": "8.5",
+          "name": "Recommend Actions to Increase Solution Value",
+          "inputs": ["Enterprise Limitation", "Solution Limitation"],
+          "outputs": ["Recommended Actions"],
+          "elements": [
+            "Adjust Solution Performance Measures",
+            "Recommendations"
+          ]
+        }
+      ]
+    }
+  ]
+}
