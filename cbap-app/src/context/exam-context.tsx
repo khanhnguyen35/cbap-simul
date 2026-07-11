@@ -40,6 +40,7 @@ type ExamAction =
   | { type: 'UPDATE_TIMER'; payload: number }
   | { type: 'SUBMIT_SESSION' }
   | { type: 'CLEAR_SESSION' }
+  | { type: 'CLEAR_ALL_DATA' }
   | { type: 'DELETE_HISTORY'; payload: string }; // historyId
 
 // ── Reducer ──────────────────────────────────────────────────
@@ -166,6 +167,14 @@ function reducer(state: ExamState, action: ExamAction): ExamState {
     case 'CLEAR_SESSION':
       return { ...state, ongoingSession: null };
 
+    case 'CLEAR_ALL_DATA':
+      return {
+        ...state,
+        examHistory: [],
+        bookmarks: new Set(),
+        ongoingSession: null,
+      };
+
     default:
       return state;
   }
@@ -193,9 +202,16 @@ export function ExamProvider({ children }: { children: ReactNode }) {
   
   // Flag to prevent writing empty local state to Firestore before fetching
   const [hasFetchedFromCloud, setHasFetchedFromCloud] = React.useState(false);
+  const prevUserRef = React.useRef(currentUser);
 
   // ── Sync from Firestore when user logs in ─────────────────
   useEffect(() => {
+    // Detect logout and clear data
+    if (prevUserRef.current !== null && currentUser === null) {
+      dispatch({ type: 'CLEAR_ALL_DATA' });
+    }
+    prevUserRef.current = currentUser;
+
     if (!currentUser) {
       setHasFetchedFromCloud(false);
       return;
