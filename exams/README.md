@@ -1,5 +1,13 @@
 # Bộ dữ liệu CBAP Practice Questions — Đã chuẩn hóa
 
+> **[CẬP NHẬT v3 — 07/2026]** Dữ liệu đã được thay bằng bản fix trong `../CBAP Case Study Fixes/` (chi tiết: `FIX_REPORT_v3.md`). Khác biệt so với mô tả bên dưới:
+> - **Định dạng TSV mới**: mỗi record đúng 1 dòng vật lý, KHÔNG dùng quoting CSV; ký tự đặc biệt trong ô được escape `\n` / `\t` / `\\` (app tự unescape khi load).
+> - **Bỏ cột** `source_row_index`.
+> - **Cờ `data_quality` mới**: `missing_subquestion` (6 câu — mất câu hỏi con, question_text rỗng), `subquestion_recovered` (8 câu — đã khôi phục từ đề khác, dùng bình thường); cờ có thể ghép bằng `+` (vd `missing_all_answers+missing_subquestion`) → luôn kiểm tra bằng `includes()`. Cờ `missing_image` không còn.
+> - **14 câu** sửa `is_case_study` false→true; số cụm case study 271→273; có case study `group_size=1`.
+> - `quality_report.tsv` giờ có 65 dòng + cột `note`.
+> - **Ảnh sơ đồ**: bộ v3 tham chiếu **17 ảnh** (tên = 16 ký tự đầu SHA-256 nội dung). 11 ảnh không có sẵn đã được trích xuất lại từ dump nguồn `Post from Tung Nguyen.txt` (script tự động, đã kiểm chứng hash khớp 100%). Cột `image_files` đã được vá cho 5 câu có placeholder trong context nhóm nhưng thiếu tên file.
+
 ## 1. Tổng quan
 
 Nguồn: `post.tsv` (2.389 dòng, 4 cột: ID, Question order, Question content, Metadata)
@@ -10,7 +18,7 @@ Kết quả: 3 file TSV chuẩn hóa theo mô hình quan hệ (2NF) + thư mục
 | `questions.tsv` | 1 dòng = 1 câu hỏi | 2.389 |
 | `answers.tsv` | 1 dòng = 1 đáp án (FK: question_id) | 9.357 |
 | `quality_report.tsv` | Danh sách các câu có vấn đề dữ liệu, kèm lý do | 56 |
-| `images/` | Ảnh sơ đồ (PNG) trích xuất từ base64, đặt tên theo hash nội dung | 6 file |
+| `images/` | Ảnh sơ đồ (PNG) trích xuất từ base64, đặt tên theo hash nội dung | 17 file |
 
 Dữ liệu bao trùm **21 đề thi**, mỗi đề chuẩn 120 câu, được đánh số lại theo cột `exam_number` (dựa vào việc `question_order` reset về 1).
 

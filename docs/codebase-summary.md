@@ -21,9 +21,9 @@ Hiện tại dự án mới chỉ chứa bộ dữ liệu đề thi đã chuẩn
 │   │   ├── 0a28f6...png
 │   │   └── ...
 │   ├── README.md              # Tài liệu mô tả cấu trúc dữ liệu và chất lượng dữ liệu TSV
-│   ├── answers.tsv            # Bảng đáp án liên kết khóa ngoại với câu hỏi (9.357 dòng)
-│   ├── questions.tsv          # Bảng câu hỏi chính (2.389 dòng)
-│   └── quality_report.tsv     # Báo cáo các câu hỏi có vấn đề về cấu trúc/dữ liệu (56 dòng)
+│   ├── answers.tsv            # Bảng đáp án liên kết khóa ngoại với câu hỏi (9.357 dòng — TSV v3, escape \n, không quoting)
+│   ├── questions.tsv          # Bảng câu hỏi chính (2.389 dòng — TSV v3, escape \n, không quoting)
+│   └── quality_report.tsv     # Báo cáo các câu hỏi có vấn đề về cấu trúc/dữ liệu (65 dòng, có cột note)
 ├── AGENTS.md                  # Hướng dẫn chính dành cho AI Agent hoạt động trong repository này
 └── docs/                      # Thư mục tài liệu thiết kế hệ thống (Mới khởi tạo)
     ├── project-overview-pdr.md # Tài liệu mô tả yêu cầu sản phẩm
