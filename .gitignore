@@ -1,0 +1,15 @@
+# ── AI assistant / tooling config (không thuộc mã nguồn dự án) ──
+.claude/
+.agent/
+CLAUDE.md
+AGENTS.md
+
+# ── Dữ liệu fix trung gian (đã merge vào exams/, giữ local để đối chiếu) ──
+CBAP Case Study Fixes/
+
+# ── Kế hoạch & báo cáo do agent sinh ra ──
+plans/
+
+# ── OS / editor ──
+.DS_Store
+Thumbs.db
