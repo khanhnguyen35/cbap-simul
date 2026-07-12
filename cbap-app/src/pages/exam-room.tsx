@@ -32,11 +32,9 @@ export default function ExamRoom() {
   const [submitted, setSubmitted] = useState(false);
 
   // ── Prepare question list ─────────────────────────────────
+  // buckets.usable đã loại sẵn câu hỏng (thiếu đáp án / thiếu câu hỏi con)
   const examQuestions = useMemo(
-    () =>
-      filterByExam(state.buckets.usable, examNumber).filter(
-        (q) => q.dataQuality !== 'missing_all_answers'
-      ),
+    () => filterByExam(state.buckets.usable, examNumber),
     [state.buckets.usable, examNumber]
   );
 

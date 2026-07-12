@@ -5,7 +5,14 @@
 
 // ── Raw TSV Records (after PapaParse) ──────────────────────
 
-export type DataQuality = 'ok' | 'missing_all_answers' | 'missing_distractors' | 'missing_image';
+/**
+ * Cờ chất lượng dữ liệu (v3). Các giá trị đơn:
+ * 'ok' | 'missing_all_answers' | 'missing_distractors'
+ * | 'missing_subquestion' | 'subquestion_recovered'
+ * Có thể là cờ ghép nối bằng "+" (vd "missing_all_answers+missing_subquestion")
+ * → luôn kiểm tra bằng .includes(), không so sánh bằng.
+ */
+export type DataQuality = string;
 
 /** Ánh xạ trực tiếp từ 1 dòng trong questions.tsv */
 export interface QuestionRecord {
@@ -22,7 +29,6 @@ export interface QuestionRecord {
   answer_count: string;
   correct_answer_letter: string;
   data_quality: DataQuality;
-  source_row_index: string;
 }
 
 /** Ánh xạ trực tiếp từ 1 dòng trong answers.tsv */

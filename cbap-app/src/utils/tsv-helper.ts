@@ -14,13 +14,35 @@ import type {
 
 // ── Parse raw TSV text → typed records ──────────────────────
 
+// Định dạng TSV mới (v3): mỗi record đúng 1 dòng vật lý, KHÔNG dùng quoting;
+// ký tự đặc biệt trong ô được escape: "\n" (xuống dòng), "\t" (tab), "\\" (backslash).
+// Giải mã 1 lượt duy nhất để "\\n" không bị nhầm thành newline.
+function unescapeCell(value: string): string {
+  if (!value.includes('\\')) return value;
+  return value.replace(/\\(n|t|\\)/g, (_, c: string) =>
+    c === 'n' ? '\n' : c === 't' ? '\t' : '\\'
+  );
+}
+
 export function parseTsvText<T>(tsvText: string): T[] {
-  const result = Papa.parse<T>(tsvText, {
+  const result = Papa.parse<Record<string, string>>(tsvText, {
     delimiter: '\t',
     header: true,
     skipEmptyLines: true,
+    // Dữ liệu không dùng quoting; nội dung có thể bắt đầu bằng dấu " thật.
+    // Dùng ký tự NUL (không bao giờ xuất hiện) để vô hiệu hoá xử lý ngoặc kép của PapaParse.
+    quoteChar: '\u0000',
   });
-  return result.data;
+
+  // Giải mã escape trên mọi ô văn bản
+  for (const row of result.data) {
+    for (const key of Object.keys(row)) {
+      const value = row[key];
+      if (typeof value === 'string') row[key] = unescapeCell(value);
+    }
+  }
+
+  return result.data as T[];
 }
 
 // ── Join questions + answers into enriched Question[] ───────
@@ -69,19 +91,31 @@ export function joinQuestionsAndAnswers(
 
 // ── Classify questions into buckets ─────────────────────────
 
+// data_quality (v3) có thể là cờ ghép, vd "missing_all_answers+missing_subquestion"
+// → luôn kiểm tra bằng includes(), không so sánh bằng.
+export function isBrokenQuestion(q: Question): boolean {
+  // Không có đáp án, hoặc không còn câu hỏi con (question_text rỗng
+  // — gồm cờ missing_subquestion và cả record lỗi nguồn chưa gắn cờ)
+  return (
+    q.dataQuality.includes('missing_all_answers') ||
+    q.dataQuality.includes('missing_subquestion') ||
+    q.questionText.trim() === ''
+  );
+}
+
 export function classifyQuestions(questions: Question[]): QuestionBuckets {
   const usable: Question[] = [];
   const flashcardOnly: Question[] = [];
   const broken: Question[] = [];
 
   for (const q of questions) {
-    if (q.dataQuality === 'missing_all_answers') {
+    if (isBrokenQuestion(q)) {
       broken.push(q);
-    } else if (q.dataQuality === 'missing_distractors') {
+    } else if (q.dataQuality.includes('missing_distractors')) {
       usable.push(q);       // Vẫn dùng được cho thi mô phỏng và luyện tập
       flashcardOnly.push(q); // Đồng thời ưu tiên cho flashcard
     } else {
-      // 'ok' hoặc 'missing_image' — vẫn dùng bình thường
+      // 'ok', 'subquestion_recovered' — dùng bình thường
       usable.push(q);
     }
   }

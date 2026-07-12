@@ -3,12 +3,13 @@
 // ============================================================
 
 import type { Question, ExamHistory, ExamSummary } from '@/types/exam';
+import { isBrokenQuestion } from './tsv-helper';
 
 // Đề thi có chất lượng kém (dựa vào phân tích dữ liệu nguồn)
 const WARNED_EXAMS: Record<number, string> = {
   7: 'Đề 7 chỉ có 5 câu hỏi (bị cắt cụt từ nguồn gốc)',
-  20: 'Đề 20 có 13 câu thiếu đáp án hoàn toàn',
-  21: 'Đề 21 có 18 câu thiếu đáp án hoàn toàn',
+  20: 'Đề 20 có 14 câu lỗi dữ liệu (thiếu đáp án hoặc thiếu câu hỏi)',
+  21: 'Đề 21 có 18 câu lỗi dữ liệu (thiếu đáp án hoặc thiếu câu hỏi)',
 };
 
 // ── Lấy danh sách câu hỏi của 1 đề ─────────────────────────
@@ -27,7 +28,7 @@ export function buildExamSummary(
   examNumber: number
 ): ExamSummary {
   const examQuestions = allQuestions.filter((q) => q.examNumber === examNumber);
-  const usable = examQuestions.filter((q) => q.dataQuality !== 'missing_all_answers');
+  const usable = examQuestions.filter((q) => !isBrokenQuestion(q));
   const examHistory = history.filter((h) => h.examNumber === examNumber);
 
   // Tập hợp tất cả questionId đã từng được trả lời trong các lượt thi
