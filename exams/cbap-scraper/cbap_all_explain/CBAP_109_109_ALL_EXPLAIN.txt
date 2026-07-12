@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 109 ===
+📚 Tên: TopicSet 109
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+You are developing an approach for how business artifacts will be stored, accessed, and shared. Which set of stakeholders would you involve in this task?
+
+A. Project manager, domain subject matter expert, regulator, sponsor.
+   ❌ SAI
+   📝 Project manager is not one of the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+B. Domain subject matter expert, regulator, sponsor.
+   ✅ ĐÚNG
+   📝 These are the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+C. Domain subject matter expert, tester, regulator.
+   ❌ SAI
+   📝 Tester is not one of the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+D. Sponsor, domain subject matter expert, regulator, customer.
+   ❌ SAI
+   📝 Customer is not one of the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+➤ ĐÁP ÁN ĐÚNG: Domain subject matter expert, regulator, sponsor.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the stated stakeholders for the plan business analysis information management task. BABOK 3.4.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+Which of the following statements is accurate about the plan business analysis information management task?
+
+A. The tool that is chosen to manage information only needs to store the requirements and designs.
+   ❌ SAI
+   📝 The tool that is chosen to manage requirements and designs may need to store other information as well. BABOK 3.4.4.5
+
+B. The purpose of this task is to ensure that requirements are accurate and current throughout the life cycle and facilitate reuse where appropriate.
+   ❌ SAI
+   📝 This is the purpose of the maintain requirements task, not the plan business analysis information management task. BABOK 5.2.1
+
+C. Information management entails identifying characteristics about the information that must be reused.
+   ❌ SAI
+   📝 This answer is only partially correct. Information may not necessarily be reused but must be maintained. BABOK 3.4
+
+D. Requirements that are potential candidates for long-term use are those an organization must meet on an ongoing basis.
+   ✅ ĐÚNG
+   📝 Examples of these include regulatory requirements, quality standards, service level agreements and contractual obligations. BABOK 3.4.4.4
+
+➤ ĐÁP ÁN ĐÚNG: Requirements that are potential candidates for long-term use are those an organization must meet on an ongoing basis.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Examples of these include regulatory requirements, quality standards, service level agreements and contractual obligations. BABOK 3.4.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+Which of the following lists represents inputs required in the task charged with developing an approach for how business artifacts will be stored, accessed, and shared?
+
+A. Governance approach, stakeholder engagement approach, business analysis approach.
+   ✅ ĐÚNG
+   📝 These are the three stated inputs for the plan business analysis information management task. BABOK 3.4.3
+
+B. Governance approach, stakeholder engagement approach, needs, business analysis approach.
+   ❌ SAI
+   📝 Needs is not one of the stated inputs for the task of plan business analysis information management. BABOK 3.4.3
+
+C. Performance objectives (external), governance approach, stakeholder engagement approach, business analysis approach.
+   ❌ SAI
+   📝 Performance objectives (external) is not one of the stated inputs for the task of plan business analysis information management. BABOK 3.4.3
+
+D. Governance approach, stakeholder engagement approach, business analysis approach, requirements(Validated).
+   ❌ SAI
+   📝 Requirements (validated) is not one of the stated inputs for the task of plan business analysis information management. BABOK 3.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Governance approach, stakeholder engagement approach, business analysis approach.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the three stated inputs for the plan business analysis information management task. BABOK 3.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+Grant has just completed defining a governance process when a stakeholder who has been declining meeting invitations to define the process voiced some concerns to the sponsor regarding the team's decisions. The raised concerns have resulted in more issues and the stakeholders cannot come to a consensus. What consideration would help resolve this deadlock?
+
+A. Change control process
+   ❌ SAI
+   📝 A change control process is an element in the plan business analysis governance task but would not be appropriate given the scenario. BABOK 3.3.4.2
+
+B. Decision making
+   ✅ ĐÚNG
+   📝 The decision-making process when used in the plan business analysis governance task defines what happens when teams cannot reach consensus by identifying escalation paths and key stakeholders who hold decision-making authority. BABOK 3.3.4.1
+
+C. Plan prioritization approach
+   ❌ SAI
+   📝 Although planning the prioritization approach is an element in the plan business analysis governance task, the issue outlined in the scenario is not about prioritization. BABOK 3.3.4.3
+
+D. Plan for approvals
+   ❌ SAI
+   📝 This element in the plan business analysis governance task refers to the agreement between all stakeholders that requirements and designs are accurate. BABOK 3.3.4.4
+
+➤ ĐÁP ÁN ĐÚNG: Decision making
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The decision-making process when used in the plan business analysis governance task defines what happens when teams cannot reach consensus by identifying escalation paths and key stakeholders who hold decision-making authority. BABOK 3.3.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+All of the following are elements contained within the plan business analysis information management task EXCEPT:
+
+A. Plan prioritization approach
+   ✅ ĐÚNG
+   📝 This is not a statement element for this task. BABOK 3.4.4
+
+B. Plan traceability approach
+   ❌ SAI
+   📝 This is a stated element. BABOK 3.4.4.3
+
+C. Plan for requirements reuse
+   ❌ SAI
+   📝 This is a stated element. BABOK 3.4.4.4
+
+D. Requirements attributes
+   ❌ SAI
+   📝 This is a stated element. BABOK 3.4.4.6
+
+➤ ĐÁP ÁN ĐÚNG: Plan prioritization approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is not a statement element for this task. BABOK 3.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+A business analyst intern wants to be able to make trade-offs between requirements, identify stakeholders affected by potential changes, and understand the effect of a proposed change. Where would you advise the intern to look for this information?
+
+A. Traceability document
+   ❌ SAI
+   📝 Traceability is a useful tool for performing impact analysis on changing requirements, but not the impact on the change itself. BABOK 5.4.4.2
+
+B. Repository
+   ❌ SAI
+   📝 A repository is simply a place to store documentation. BABOK 3.4.4.5
+
+C. Business policies document
+   ❌ SAI
+   📝 Business policies define the limits within which decisions must be made; they do not provide the necessary information for this scenario. BABOK 3.4.5
+
+D. Requirements attributes
+   ✅ ĐÚNG
+   📝 Requirements attributes allow BAs to associate information with individual or related groups of requirements. BABOK 3.4.4.6
+
+➤ ĐÁP ÁN ĐÚNG: Requirements attributes
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Requirements attributes allow BAs to associate information with individual or related groups of requirements. BABOK 3.4.4.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+Defining an approach for how business analysis data will be stored and accessed represents the purpose of which task?
+
+A. Plan business analysis data management process
+   ❌ SAI
+   📝 There is no such task in the BABOK. BABOK 3.4.1
+
+B. Plan business analysis information management
+   ✅ ĐÚNG
+   📝 The primary purpose of this task is to develop an approach for how business analysis information will be stored and accessed. BABOK 3.4.1
+
+C. Plan business analysis approach
+   ❌ SAI
+   📝 The purpose of this task is to define an appropriate method to conduct business analysis activities. BABOK 3.1.1
+
+D. Plan business analysis governance
+   ❌ SAI
+   📝 The primary purpose of this task is to define how decisions are made. BABOK 3.3.2
+
+➤ ĐÁP ÁN ĐÚNG: Plan business analysis information management
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The primary purpose of this task is to develop an approach for how business analysis information will be stored and accessed. BABOK 3.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+Plan for requirements reuse is an element of which of the following tasks?
+
+A. Plan business analysis approach
+   ❌ SAI
+   📝 Plan for requirements reuse is an element of plan business analysis information management. BABOK 3.4.4.4
+
+B. Business analysis planning and monitoring
+   ❌ SAI
+   📝 This is a knowledge area. BABOK 3.0
+
+C. Plan traceability approach
+   ❌ SAI
+   📝 This is another element within the plan business analysis information management task. BABOK 3.4.4.3
+
+D. Plan business analysis information management
+   ✅ ĐÚNG
+   📝 Reusing requirements can save an organization time, effort, and cost if they are easily accessible. BABOK 3.4.4.4
+
+➤ ĐÁP ÁN ĐÚNG: Plan business analysis information management
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Reusing requirements can save an organization time, effort, and cost if they are easily accessible. BABOK 3.4.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Which of the following statements is accurate about the plan business analysis information management task?
+
+A. Requirements that are potential candidates for long-term use are those an organization must meet on an ongoing basis.
+   ✅ ĐÚNG
+   📝 Examples of these include regulatory requirements, quality standards, service level agreements and contractual obligations. BABOK 3.4.4.4
+
+B. The purpose of this task is to ensure that requirements are accurate and current throughout the life cycle and facilitate reuse where appropriate.
+   ❌ SAI
+   📝 This is the purpose of the maintain requirements task, not the plan business analysis information management task. BABOK 5.2.1
+
+C. The tool that is chosen to manage information only needs to store the requirements and designs.
+   ❌ SAI
+   📝 The tool that is chosen to manage requirements and designs may need to store other information as well. BABOK 3.4.4.5
+
+D. Information management entails identifying characteristics about the information that must be reused.
+   ❌ SAI
+   📝 This answer is only partially correct. Information may not necessarily be reused but must be maintained. BABOK 3.4
+
+➤ ĐÁP ÁN ĐÚNG: Requirements that are potential candidates for long-term use are those an organization must meet on an ongoing basis.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Examples of these include regulatory requirements, quality standards, service level agreements and contractual obligations. BABOK 3.4.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+Defining an approach for how business analysis data will be stored and accessed represents the purpose of which task?
+
+A. Plan business analysis information management
+   ✅ ĐÚNG
+   📝 The primary purpose of this task is to develop an approach for how business analysis information will be stored and accessed. BABOK 3.4.1
+
+B. Plan business analysis approach
+   ❌ SAI
+   📝 The purpose of this task is to define an appropriate method to conduct business analysis activities. BABOK 3.1.1
+
+C. Plan business analysis governance
+   ❌ SAI
+   📝 The primary purpose of this task is to define how decisions are made. BABOK 3.3.2
+
+D. Plan business analysis data management process
+   ❌ SAI
+   📝 There is no such task in the BABOK. BABOK 3.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Plan business analysis information management
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The primary purpose of this task is to develop an approach for how business analysis information will be stored and accessed. BABOK 3.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Business analysis performance assessments help identify opportunities for future improvement. For maximum benefit, when should performance analysis occur?
+
+A. Throughout the life cycle of an initiative
+   ✅ ĐÚNG
+   📝 Performance analysis should occur throughout the initiative. BABOK 3.5.2
+
+B. At the beginning of every sprint
+   ❌ SAI
+   📝 Performance analysis should occur throughout the initiative vs. a prescribed point in time. BABOK 3.5.2
+
+C. During retrospectives
+   ❌ SAI
+   📝 While it is helpful to identify opportunities for future improvement during lessons learned meetings, it is more beneficial to conduct performance analysis throughout the initiative for maximum benefit. BABOK 3.5.2
+
+D. When carrying out closing processes
+   ❌ SAI
+   📝 It is more beneficial to apply improvements as soon as possible, and not wait for the initiative to close. BABOK 3.5.2
+
+➤ ĐÁP ÁN ĐÚNG: Throughout the life cycle of an initiative
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Performance analysis should occur throughout the initiative. BABOK 3.5.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+Stakeholder management includes the process required to identify the people, groups, or organizations that could impact or be impacted by the initiative. Which set of stakeholders accurately represents those that would be involved in the business analysis planning and monitoring knowledge area?
+
+A. Domain subject matter expert, project manager, supplier, regulator, sponsor, customer, end user, implementation subject matter expert.
+   ❌ SAI
+   📝 Implementation subject matter expert is not one of the listed stakeholders in this knowledge area. BABOK 3.1.7, 3.2.7, 3.3.7, 3.4.7, 3.5.7
+
+B. Domain subject matter expert, project manager, regulator, sponsor, customer, end user, supplier.
+   ✅ ĐÚNG
+   📝 This list correctly lists all stakeholders identified in all tasks in BAPM knowledge area. BABOK 3.1.7, 3.2.7, 3.3.7, 3.4.7, 3.5.7
+
+C. Domain subject matter expert, tester, project manager, regulator, sponsor, customer, end user, supplier.
+   ❌ SAI
+   📝 Tester is not one of the listed stakeholders in this knowledge area. BABOK 3.1.7, 3.2.7, 3.3.7, 3.4.7, 3.5.7
+
+D. Project manager, regulator, sponsor, customer, end user, supplier, domain subject matter expert, operational support.
+   ❌ SAI
+   📝 Operational support is not one of the listed stakeholders in this knowledge area. BABOK 3.1.7, 3.2.7, 3.3.7, 3.4.7, 3.5.7
+
+➤ ĐÁP ÁN ĐÚNG: Domain subject matter expert, project manager, regulator, sponsor, customer, end user, supplier.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This list correctly lists all stakeholders identified in all tasks in BAPM knowledge area. BABOK 3.1.7, 3.2.7, 3.3.7, 3.4.7, 3.5.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+What would the BA typically do first while conducting the identify business analysis performance improvements task?
+
+A. Conduct interviews and workshops to determine stakeholder requirements.
+   ❌ SAI
+   📝 These are techniques that may be utilized to define the performance measures but is far too narrow and prescriptive a response. BABOK 3.5.6
+
+B. Identify corrective and/or preventive actions to improve BA performance.
+   ❌ SAI
+   📝 This is an element contained within the task but is not the first step. BABOK 3.5.4.4
+
+C. Determine assessment measures.
+   ❌ SAI
+   📝 This is the second step or element associated with the task. BABOK 3.5.4.2
+
+D. Define what constitutes effective business analysis work.
+   ✅ ĐÚNG
+   📝 This is the first element within the task. Consult organizational performance standards if available to understand expectations for BA work the organization may have already defined. BABOK 3.5.4.1 and 3.5.5
+
+➤ ĐÁP ÁN ĐÚNG: Define what constitutes effective business analysis work.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the first element within the task. Consult organizational performance standards if available to understand expectations for BA work the organization may have already defined. BABOK 3.5.4.1 and 3.5.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+Elements included in the identify business analysis performance improvements task include which of the following?
+
+A. Performance reporting, assessment measures, variance analysis, recommend actions for improvement
+   ❌ SAI
+   📝 Performance reporting and variance analysis are not stated elements. This list is missing the performance analysis and analyze results elements. BABOK 3.5.4
+
+B. Performance reporting, assessment measures, analyze results, recommend actions for improvement
+   ❌ SAI
+   📝 Performance "reporting" is not a stated element; "performance analysis" is. BABOK 3.5.4
+
+C. Performance analysis, assessment measures, variance analysis, recommend actions for improvement
+   ❌ SAI
+   📝 Variance analysis is not a stated element. This list is missing the analyze results element. BABOK 3.5.4
+
+D. Performance analysis, assessment measures, analyze results, recommend actions for improvement
+   ✅ ĐÚNG
+   📝 This is a comprehensive list of the elements included in the identify business analysis performance improvements task. BABOK 3.5.4
+
+➤ ĐÁP ÁN ĐÚNG: Performance analysis, assessment measures, analyze results, recommend actions for improvement
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a comprehensive list of the elements included in the identify business analysis performance improvements task. BABOK 3.5.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+A business analyst wants to assess the business analysis work and plan improvement processes where necessary. Which task should be completed before attempting this activity?
+
+A. Plan business analysis information management
+   ❌ SAI
+   📝 The purpose of this task is to develop an approach for how business analysis information will be stored and accessed, with the output being the information management approach. BABOK 3.4.8
+
+B. Plan business analysis governance
+   ❌ SAI
+   📝 The purpose of this task is to define how decisions are made about requirements and designs, with the output being the governance approach. BABOK 3.3.8
+
+C. Plan business analysis approach
+   ✅ ĐÚNG
+   📝 The business analysis approach is an output from the plan business analysis approach task and an input to the identify business analysis performance improvements. BABOK 3.5.3
+
+D. Performance analysis
+   ❌ SAI
+   📝 This is not a stated task in the BABOK. The correct answer is the plan business analysis approach task. BABOK 3.5.3
+
+➤ ĐÁP ÁN ĐÚNG: Plan business analysis approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The business analysis approach is an output from the plan business analysis approach task and an input to the identify business analysis performance improvements. BABOK 3.5.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+Which statement about business analysis performance assessments is NOT true?
+
+A. Assessment reports can be informal and verbal or can include formal documentation.
+   ❌ SAI
+   📝 This is true; assessment reports will vary given the context of an organization or initiative. BABOK 3.5.4.1
+
+B. Performance measurements used in assessments may be both qualitative and quantitative.
+   ❌ SAI
+   📝 This is true; assessments may contain metrics and stakeholder feedback. BABOK 3.5.4.2
+
+C. Assessments should contain standardized performance measurements.
+   ✅ ĐÚNG
+   📝 Performance measurements should be tailored to the needs of business and project stakeholders. BABOK 3.5.4.1 and 3.5.4.2
+
+D. Performance assessments should include the root cause analysis associated with the variance between actual and planned results.
+   ❌ SAI
+   📝 This is true; identifying root cause will allow for more relevant adjustments going forward and will also be included in lessons learned for future reference. BABOK 3.5.8
+
+➤ ĐÁP ÁN ĐÚNG: Assessments should contain standardized performance measurements.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Performance measurements should be tailored to the needs of business and project stakeholders. BABOK 3.5.4.1 and 3.5.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+When identifying business analysis performance improvements, the business analysis process and deliverables are compared against a set of defined measures. Which statement is accurate about these measures?
+
+A. Only stakeholders listed in the BA plan may have input in assessing the value of the business analysis work.
+   ❌ SAI
+   📝 All stakeholders may have input into how to assess the value of BA work. BABOK 3.5.4.3
+
+B. Performance measures may be determined from the point of view of the stakeholders who are recipients of the business analysis work.
+   ✅ ĐÚNG
+   📝 It is an organizational preference as to who has the authority to set the BA performance targets. BABOK 3.5.4.3
+
+C. These measures are defined by organizational standards and therefore they are already in existence and should not be altered.
+   ❌ SAI
+   📝 Even where the standard measures exist, they need to be tailored to the needs of a specific initiative. BABOK 3.5.4.3
+
+D. The center of excellence, not the personnel manager, makes and determines these measures.
+   ❌ SAI
+   📝 Either the center of excellence or personnel manager can determine measures. BABOK 3.5.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Performance measures may be determined from the point of view of the stakeholders who are recipients of the business analysis work.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+It is an organizational preference as to who has the authority to set the BA performance targets. BABOK 3.5.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+Gwen is monitoring and controlling the progress and performance of the business analysis work and planning improvement processes where required. Which of the following guidelines would be beneficial for Gwen in this case?
+
+A. Business policies
+   ❌ SAI
+   📝 This is not one of the listed guidelines for the the identify business analysis performance improvements task which is the task in question. This is a guideline for other tasks in the business analysis planning and monitoring knowledge area. BABOK 3.1.5, 3.3.5, and 3.4.5
+
+B. Organizational performance standards
+   ✅ ĐÚNG
+   📝 This is the only stated guideline or tool for the identify business analysis performance improvements task which is the task in question. These standards may include performance metrics or expectations for business analysis work. BABOK 3.5.5
+
+C. Accuracy and completeness
+   ❌ SAI
+   📝 There is no such guideline in the BABOK. BABOK 3.5.5
+
+D. Legal/regulatory information
+   ❌ SAI
+   📝 This is not one of the listed guidelines for the task in question. This is a guideline in the plan business analysis governance task and plan business analysis information management task. BABOK 3.3.5 and 3.4.5
+
+➤ ĐÁP ÁN ĐÚNG: Organizational performance standards
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the only stated guideline or tool for the identify business analysis performance improvements task which is the task in question. These standards may include performance metrics or expectations for business analysis work. BABOK 3.5.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+While carrying out the identify business analysis performance improvements task, which of the following are some possible assessment measures?
+
+A. Accuracy and completeness, knowledge, efficiency, organizational support, significance, strategic, timeliness.
+   ❌ SAI
+   📝 Efficiency is not one of the stated measures and effectiveness is missing from the list. BABOK 3.5.4.2
+
+B. Accuracy and completeness, knowledge, effectiveness, organizational support, significance, strategic, stability.
+   ❌ SAI
+   📝 Stability is not one of the stated measures, and timeliness is missing from the list. BABOK 3.5.4.2
+
+C. Accuracy and completeness, knowledge, effectiveness, organizational support, significance, strategic, timeliness.
+   ✅ ĐÚNG
+   📝 These are the stated qualitative and quantitative measures. BABOK 3.5.4.2
+
+D. Accuracy and completeness, knowledge, effectiveness, organizational standards, significance, strategic, timeliness.
+   ❌ SAI
+   📝 Organizational standards is not one of the stated measures, and organizational support is missing from the list. BABOK 3.5.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Accuracy and completeness, knowledge, effectiveness, organizational support, significance, strategic, timeliness.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the stated qualitative and quantitative measures. BABOK 3.5.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+In order to assess business analysis work and plan for improvements where required, it is important to consider the benefits obtained and assess whether the cost, time, and resource investments are justifiable. What assessment measure does this describe?
+
+A. Effectiveness
+   ❌ SAI
+   📝 Effectiveness evaluates whether the business analyst work products were easy to use and understand. BABOK 3.5.4.2
+
+B. Strategic
+   ❌ SAI
+   📝 This measure evaluates whether business objectives were met. BABOK 3.5.4.2
+
+C. Timeliness
+   ❌ SAI
+   📝 Timeliness evaluates whether work was delivered on time as per stakeholder expectations and schedule. BABOK 3.5.4.2
+
+D. Significance
+   ✅ ĐÚNG
+   📝 Significance considers whether the investments expended to produce the work products were justified for the value they delivered. BABOK 3.5.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Significance
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Significance considers whether the investments expended to produce the work products were justified for the value they delivered. BABOK 3.5.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Business analysis performance assessments help identify opportunities for future improvement. For maximum benefit, when should performance analysis occur?
+
+A. At the beginning of every sprint
+   ❌ SAI
+   📝 Performance analysis should occur throughout the initiative vs. a prescribed point in time. BABOK 3.5.2
+
+B. During retrospectives
+   ❌ SAI
+   📝 While it is helpful to identify opportunities for future improvement during lessons learned meetings, it is more beneficial to conduct performance analysis throughout the initiative for maximum benefit. BABOK 3.5.2
+
+C. When carrying out closing processes
+   ❌ SAI
+   📝 It is more beneficial to apply improvements as soon as possible, and not wait for the initiative to close. BABOK 3.5.2
+
+D. Throughout the life cycle of an initiative
+   ✅ ĐÚNG
+   📝 Performance analysis should occur throughout the initiative. BABOK 3.5.2
+
+➤ ĐÁP ÁN ĐÚNG: Throughout the life cycle of an initiative
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Performance analysis should occur throughout the initiative. BABOK 3.5.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+As a business analyst, you have just finished assessing the business analysis work and have prepared a performance improvement plan. In which of the following outputs will the details be captured?
+
+A. Business analysis performance strategy
+   ❌ SAI
+   📝 This is not an output in the BABOK. BABOK 3.5.8
+
+B. Assessment measures
+   ❌ SAI
+   📝 This is not an output. It is an element in the identify business analysis performance improvements task being performed. BABOK 3.5.4.2
+
+C. Planning and monitoring
+   ❌ SAI
+   📝 This is not an output. It is an abbreviated name for the business analysis planning and monitoring knowledge area. BABOK 3.0
+
+D. Business analysis performance assessment
+   ✅ ĐÚNG
+   📝 This output includes a comparison of planned vs. actual performance, root causes for the variances, proposed approaches to address issues, along with other findings to help understand the performance of BA processes. BABOK 3.5.8
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis performance assessment
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This output includes a comparison of planned vs. actual performance, root causes for the variances, proposed approaches to address issues, along with other findings to help understand the performance of BA processes. BABOK 3.5.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+Gwen is monitoring and controlling the progress and performance of the business analysis work and planning improvement processes where required. Which of the following guidelines would be beneficial for Gwen in this case?
+
+A. Organizational performance standards
+   ✅ ĐÚNG
+   📝 This is the only stated guideline or tool for the identify business analysis performance improvements task which is the task in question. These standards may include performance metrics or expectations for business analysis work. BABOK 3.5.5
+
+B. Accuracy and completeness
+   ❌ SAI
+   📝 There is no such guideline in the BABOK. BABOK 3.5.5
+
+C. Business policies
+   ❌ SAI
+   📝 This is not one of the listed guidelines for the the identify business analysis performance improvements task which is the task in question. This is a guideline for other tasks in the business analysis planning and monitoring knowledge area. BABOK 3.1.5, 3.3.5, and 3.4.5
+
+D. Legal/regulatory information
+   ❌ SAI
+   📝 This is not one of the listed guidelines for the task in question. This is a guideline in the plan business analysis governance task and plan business analysis information management task. BABOK 3.3.5 and 3.4.5
+
+➤ ĐÁP ÁN ĐÚNG: Organizational performance standards
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the only stated guideline or tool for the identify business analysis performance improvements task which is the task in question. These standards may include performance metrics or expectations for business analysis work. BABOK 3.5.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+As a business analyst, you have just finished assessing the business analysis work and have prepared a performance improvement plan. In which of the following outputs will the details be captured?
+
+A. Planning and monitoring
+   ❌ SAI
+   📝 This is not an output. It is an abbreviated name for the business analysis planning and monitoring knowledge area. BABOK 3.0
+
+B. Business analysis performance assessment
+   ✅ ĐÚNG
+   📝 This output includes a comparison of planned vs. actual performance, root causes for the variances, proposed approaches to address issues, along with other findings to help understand the performance of BA processes. BABOK 3.5.8
+
+C. Business analysis performance strategy
+   ❌ SAI
+   📝 This is not an output in the BABOK. BABOK 3.5.8
+
+D. Assessment measures
+   ❌ SAI
+   📝 This is not an output. It is an element in the identify business analysis performance improvements task being performed. BABOK 3.5.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis performance assessment
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This output includes a comparison of planned vs. actual performance, root causes for the variances, proposed approaches to address issues, along with other findings to help understand the performance of BA processes. BABOK 3.5.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+Which of the following is false regarding the analysis of results as part of the identify business analysis performance improvements task?
+
+A. Data included in performance metrics is always collected by the business analyst.
+   ✅ ĐÚNG
+   📝 This is false. Performance metrics may be collected by personnel managers or a Center of Excellence (if the organization has one). BABOK 3.5.4.3
+
+B. Performance may be determined from the point of view of the stakeholders who are the recipients of the business analysis work.
+   ❌ SAI
+   📝 This is true. Performance may also be assessed by a Center of Excellence or a personnel manager. BABOK 3.5.4.3
+
+C. The business analysis process is compared against the set of defined measures.
+   ❌ SAI
+   📝 This is true. The analysis may be performed on the business analysis process, resources involved, and the deliverables. BABOK 3.5.4.3
+
+D. The business analysis deliverables are compared against the set of defined measures.
+   ❌ SAI
+   📝 This is true. The analysis may be performed on the business analysis process, resources involved, and the deliverables. BABOK 3.5.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Data included in performance metrics is always collected by the business analyst.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is false. Performance metrics may be collected by personnel managers or a Center of Excellence (if the organization has one). BABOK 3.5.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+The purpose of the task identify business analysis performance improvements is to assess business analysis work and plan process improvements. Appropriate performance measures will help the business analyst determine when problems are occurring. These measures may be both quantitative and qualitative. Which of the following best describes why a business analyst may prefer quantitative over qualitative measures?
+
+A. Quantitative measures save on time compared to qualitative measures.
+   ❌ SAI
+   📝 This is not necessarily true. BABOK 3.5.4.2
+
+B. Qualitative measures are subjective and can be heavily influenced by the stakeholder's attitudes, perceptions, and other subjective criteria.
+   ✅ ĐÚNG
+   📝 Qualitative measures can be heavily influenced by stakeholder's attitudes and other subjective criteria over which the BA may have little control. BABOK 3.5.4.2
+
+C. Quantitative measures are more dependable than qualitative measures.
+   ❌ SAI
+   📝 Quantitative measures are more objective but not necessarily more dependable than qualitative measures. BABOK 3.5.4.2
+
+D. Quantitative measures are easier to determine than qualitative measures.
+   ❌ SAI
+   📝 This is not necessarily true. BABOK 3.5.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Qualitative measures are subjective and can be heavily influenced by the stakeholder's attitudes, perceptions, and other subjective criteria.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Qualitative measures can be heavily influenced by stakeholder's attitudes and other subjective criteria over which the BA may have little control. BABOK 3.5.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+At what point in the project timeline would the BA typically modify the business analysis plans?
+
+A. When requested to do so by the project manager
+   ❌ SAI
+   📝 This is too broad and nebulous to be the correct answer. BABOK 3.5.4
+
+B. After each stakeholder interview
+   ❌ SAI
+   📝 Plans should not be modified after each singular interview but may be modified after analysis of all interviews if warranted to meet stakeholder requirements. BABOK 3.5.4
+
+C. After performance metrics have been collected and analyzed
+   ✅ ĐÚNG
+   📝 At this point variances are recognized and plans may need to change to incorporate preventive or corrective actions. It can happen anytime throughout the life cycle of a project. BABOK 3.5.4.4
+
+D. After the initial risk assessment but before the division of work strategy
+   ❌ SAI
+   📝 There is no trigger for modifying plans at this point. BABOK 3.5.4
+
+➤ ĐÁP ÁN ĐÚNG: After performance metrics have been collected and analyzed
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+At this point variances are recognized and plans may need to change to incorporate preventive or corrective actions. It can happen anytime throughout the life cycle of a project. BABOK 3.5.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+Which statement about business analysis performance assessments is NOT true?
+
+A. Assessment reports can be informal and verbal or can include formal documentation.
+   ❌ SAI
+   📝 This is true; assessment reports will vary given the context of an organization or initiative. BABOK 3.5.4.1
+
+B. Performance measurements used in assessments may be both qualitative and quantitative.
+   ❌ SAI
+   📝 This is true; assessments may contain metrics and stakeholder feedback. BABOK 3.5.4.2
+
+C. Assessments should contain standardized performance measurements.
+   ✅ ĐÚNG
+   📝 Performance measurements should be tailored to the needs of business and project stakeholders. BABOK 3.5.4.1 and 3.5.4.2
+
+D. Performance assessments should include the root cause analysis associated with the variance between actual and planned results.
+   ❌ SAI
+   📝 This is true; identifying root cause will allow for more relevant adjustments going forward and will also be included in lessons learned for future reference. BABOK 3.5.8
+
+➤ ĐÁP ÁN ĐÚNG: Assessments should contain standardized performance measurements.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Performance measurements should be tailored to the needs of business and project stakeholders. BABOK 3.5.4.1 and 3.5.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+The purpose of the task identify business analysis performance improvements is to assess business analysis work and plan process improvements. Appropriate performance measures will help the business analyst determine when problems are occurring. These measures may be both quantitative and qualitative. Which of the following best describes why a business analyst may prefer quantitative over qualitative measures?
+
+A. Qualitative measures are subjective and can be heavily influenced by the stakeholder's attitudes, perceptions, and other subjective criteria.
+   ✅ ĐÚNG
+   📝 Qualitative measures can be heavily influenced by stakeholder's attitudes and other subjective criteria over which the BA may have little control. BABOK 3.5.4.2
+
+B. Quantitative measures are more dependable than qualitative measures.
+   ❌ SAI
+   📝 Quantitative measures are more objective but not necessarily more dependable than qualitative measures. BABOK 3.5.4.2
+
+C. Quantitative measures save on time compared to qualitative measures.
+   ❌ SAI
+   📝 This is not necessarily true. BABOK 3.5.4.2
+
+D. Quantitative measures are easier to determine than qualitative measures.
+   ❌ SAI
+   📝 This is not necessarily true. BABOK 3.5.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Qualitative measures are subjective and can be heavily influenced by the stakeholder's attitudes, perceptions, and other subjective criteria.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Qualitative measures can be heavily influenced by stakeholder's attitudes and other subjective criteria over which the BA may have little control. BABOK 3.5.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+Nick reported on the results of the analysis and identified any necessary preventive, corrective, and developmental actions. Why is that important?
+
+A. Once potential performance improvements are identified, they become guidelines for the next time a task is executed.
+   ✅ ĐÚNG
+   📝 Identifying improvements for future consideration serves as a continuous improvement loop. BABOK 3.5.2
+
+B. The potential improvements will form part of organizational process assets (OPAs).
+   ❌ SAI
+   📝 The organization would benefit more from application of the improvements as soon as possible. BABOK 3.5.2
+
+C. The potential improvements will be used in the post implementation review.
+   ❌ SAI
+   📝 The post implementation review should result in identification of potential improvements, not the other way around. BABOK 3.5.2
+
+D. To keep a record for reference as inputs into the next performance review.
+   ❌ SAI
+   📝 While Nick may incorporate these into his next performance review, the primary reason is to facilitate continuous improvement. BABOK 3.5.2
+
+➤ ĐÁP ÁN ĐÚNG: Once potential performance improvements are identified, they become guidelines for the next time a task is executed.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Identifying improvements for future consideration serves as a continuous improvement loop. BABOK 3.5.2
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 109 - 30 câu FULL EXPLAIN

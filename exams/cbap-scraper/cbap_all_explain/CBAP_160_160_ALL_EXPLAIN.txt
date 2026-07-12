@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 160 ===
+📚 Tên: TopicSet 160
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+The project team is currently working on validating requirements. The following are the names of the stakeholders on the team: Business analyst - Giewel and Gieson; Implementation SME - Cheryl; Project Manager - George; End Users - Jane and Juliet; Customer - Jeremy; Sponsor - Jean. Which stakeholders have the primary responsibility for ensuring the requirements are valid?
+
+A. Giewel, Gieson, Jeremy, Cheryl, George, Jean
+   ❌ SAI
+   📝 The PM and Implementation SME may be included but the BABOK doesn't list them as the group primary responsible for validating requirements. BABOK 7.3.7
+
+B. Giewel, Gieson, George, Jane, Juliet, Jean
+   ❌ SAI
+   📝 The Project Manager may be included but the BABOK doesn't list them as the group primary responsible for validating requirements. BABOK 7.3.7
+
+C. Giewel, Gieson, Jeremy, Cheryl, Jean
+   ❌ SAI
+   📝 The Implementation SME may be included but the BABOK doesn't list them as the group primary responsible for validating requirements.BABOK 7.3.7
+
+D. Giewel, Gieson, Jeremy, Jane, Juliet, Jean.
+   ✅ ĐÚNG
+   📝 The business analyst, in conjunction with the customer, end users, and sponsors, has the primary responsibility for determining whether or not requirements are validated. BABOK 7.3.7
+
+➤ ĐÁP ÁN ĐÚNG: Giewel, Gieson, Jeremy, Jane, Juliet, Jean.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The business analyst, in conjunction with the customer, end users, and sponsors, has the primary responsibility for determining whether or not requirements are validated. BABOK 7.3.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+Susan thinks she is done with her requirements analysis on a project. Her project manager sent her a terse email telling her she is not done yet. He also sent her the business objectives and potential value for the project, and asked her to complete one more important task to ensure the requirements support the business case. What activity does Susan need to complete?
+
+A. Identify any missing or incorrect requirements.
+   ❌ SAI
+   📝 An invented answer, and the closest task is requirements verification which does not use the business objectives and potential value as guidelines.
+
+B. Requirements verification.
+   ❌ SAI
+   📝 Requirements verification ensures requirements are of sufficient quality to be able to begin construction. BABOK 7.2.1
+
+C. Obtain approval of the requirements.
+   ❌ SAI
+   📝 Obtaining requirements approval is concerned with management and maintenance of requirements and design. The question is concerned with business value. Further, it does not use the business objectives and potential value as guidelines.
+
+D. Requirements validation.
+   ✅ ĐÚNG
+   📝 Requirements validation helps ensure that requirements provide business value and meet business needs. BABOK 7.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Requirements validation.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Requirements validation helps ensure that requirements provide business value and meet business needs. BABOK 7.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+You have interviewed key stakeholders to uncover their business needs. You become aware of many factors that the stakeholders think are true, but which have not been verified. You decide to document which of the following:
+
+A. To-be processes
+   ❌ SAI
+   📝 These are not factors believed to be true, these are desired future processes.
+
+B. Assumptions
+   ✅ ĐÚNG
+   📝 Assumptions are factors that are believed to be true but has not been confirmed to be accurate, or that could be true now but may not be in the future. BABOK 7.3.4.1 and Glossary
+
+C. Requirements
+   ❌ SAI
+   📝 Per the BABOK, a requirement is are "a usable representation of a need that is known and true at the time of the request. BABOK Glossary.
+
+D. Constraints
+   ❌ SAI
+   📝 Constraints limit what a project or solution can do.
+
+➤ ĐÁP ÁN ĐÚNG: Assumptions
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Assumptions are factors that are believed to be true but has not been confirmed to be accurate, or that could be true now but may not be in the future. BABOK 7.3.4.1 and Glossary
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+What is the purpose of the information management approach in defining requirements architecture?
+
+A. Defines how the business analysis information will be stored and accessed.
+   ✅ ĐÚNG
+   📝 BABOK 7.4.3
+
+B. It defines the level of detail at which information should be captured.
+   ❌ SAI
+   📝 This is just one aspect of it. There is a better answer.
+
+C. To trace business rules to requirements that they support.
+   ❌ SAI
+   📝 This is a made up answer.
+
+D. Defines the relationships between requirements, designs, and solution components.
+   ❌ SAI
+   📝 This is tracing requirements.
+
+➤ ĐÁP ÁN ĐÚNG: Defines how the business analysis information will be stored and accessed.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+Which of the following is NOT a stated technique for the Define Requirements Architecture task?
+
+A. Scope modeling
+   ❌ SAI
+   📝 This is a stated technique for this task.
+
+B. Interviews
+   ❌ SAI
+   📝 This is a stated technique for this task.
+
+C. Functional decomposition
+   ❌ SAI
+   📝 This is a stated technique for this task.
+
+D. Process modeling
+   ✅ ĐÚNG
+   📝 BABOK 7.4.6
+
+➤ ĐÁP ÁN ĐÚNG: Process modeling
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.4.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+A viewpoint is a set of conventions that define how requirements will be represented, how these representations will be organized, and how they will be related. Which of the following is NOT an example of a viewpoint?
+
+A. Views.
+   ✅ ĐÚNG
+   📝 This is the actual requirements and designs for a particular solution from a chosen viewpoint.
+
+B. Business process models.
+   ❌ SAI
+   📝 This is a valid example. BABOK 7.4.4.1
+
+C. Audit and security.
+   ❌ SAI
+   📝 This is a valid example. BABOK 7.4.4.1
+
+D. Data models and information.
+   ❌ SAI
+   📝 This is a valid example. BABOK 7.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Views.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the actual requirements and designs for a particular solution from a chosen viewpoint.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+Requirements may be related to each other in several ways when defining the requirements architecture. BAs examine each of these relationships to ensure they satisfy quality criteria. Which of the following is NOT a criterion?
+
+A. Correct
+   ❌ SAI
+   📝 This is a stated quality criterion.
+
+B. Necessary
+   ❌ SAI
+   📝 This is a stated quality criterion.
+
+C. Unambiguous
+   ❌ SAI
+   📝 This is a stated quality criterion.
+
+D. Testable
+   ✅ ĐÚNG
+   📝 BABOK 7.4.4.4
+
+➤ ĐÁP ÁN ĐÚNG: Testable
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.4.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+What is the purpose of the information management approach in defining requirements architecture?
+
+A. It defines the level of detail at which information should be captured.
+   ❌ SAI
+   📝 This is just one aspect of it. There is a better answer.
+
+B. Defines how the business analysis information will be stored and accessed.
+   ✅ ĐÚNG
+   📝 BABOK 7.4.3
+
+C. To trace business rules to requirements that they support.
+   ❌ SAI
+   📝 This is a made up answer.
+
+D. Defines the relationships between requirements, designs, and solution components.
+   ❌ SAI
+   📝 This is tracing requirements.
+
+➤ ĐÁP ÁN ĐÚNG: Defines how the business analysis information will be stored and accessed.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Sandy has been hired as the lead business analyst in an ongoing project. The outgoing lead handed her a set of requirements for the initiative that were already documented and modeled. What task might Sandy do next?
+
+A. Verify requirements
+   ✅ ĐÚNG
+   📝 According to the scenario, the requirements have already been documented (specified) and modeled. Specified and modeled requirements are inputs into verify, validate, and defining requirement architecture, so one of these should be your next task. BABOK 7.2.3, 7.3.3, and 7.4.3
+
+B. Define design options
+   ❌ SAI
+   📝 Defining design options requires requirements architecture to be complete. From the provided information, this has not been done. BABOK 7.5.3
+
+C. Define solution scope
+   ❌ SAI
+   📝 Solution scope is an input into define requirements architecture and is a output from Define Future State from the strategy analysis knowledge area. It does not depend on having requirements documented. BABOK 7.4.3
+
+D. Accept requirements
+   ❌ SAI
+   📝 There is no such task as Accept Requirements.
+
+➤ ĐÁP ÁN ĐÚNG: Verify requirements
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+According to the scenario, the requirements have already been documented (specified) and modeled. Specified and modeled requirements are inputs into verify, validate, and defining requirement architecture, so one of these should be your next task. BABOK 7.2.3, 7.3.3, and 7.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+A viewpoint is a set of conventions that define how requirements will be represented, how these representations will be organized, and how they will be related. Which of the following is NOT an example of a viewpoint?
+
+A. Business process models.
+   ❌ SAI
+   📝 This is a valid example. BABOK 7.4.4.1
+
+B. Audit and security.
+   ❌ SAI
+   📝 This is a valid example. BABOK 7.4.4.1
+
+C. Data models and information.
+   ❌ SAI
+   📝 This is a valid example. BABOK 7.4.4.1
+
+D. Views.
+   ✅ ĐÚNG
+   📝 This is the actual requirements and designs for a particular solution from a chosen viewpoint.
+
+➤ ĐÁP ÁN ĐÚNG: Views.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the actual requirements and designs for a particular solution from a chosen viewpoint.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Requirements may be related to each other in several ways when defining the requirements architecture. BAs examine each of these relationships to ensure they satisfy quality criteria. Which of the following is NOT a criterion?
+
+A. Necessary
+   ❌ SAI
+   📝 This is a stated quality criterion.
+
+B. Testable
+   ✅ ĐÚNG
+   📝 BABOK 7.4.4.4
+
+C. Correct
+   ❌ SAI
+   📝 This is a stated quality criterion.
+
+D. Unambiguous
+   ❌ SAI
+   📝 This is a stated quality criterion.
+
+➤ ĐÁP ÁN ĐÚNG: Testable
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.4.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+The following statements describe how business analysts use requirements architecture. Which one is NOT a correct description?
+
+A. Business analysts use requirements architecture to ensure the requirements work together to achieve the overall objectives.
+   ❌ SAI
+   📝 Requirements architecture is used to ensure the requirements work together to achieve the overall objectives. BABOK 7.4.2
+
+B. Business analysts use requirements architecture to ensure every requirement links back to an objective and shows how an objective was met.
+   ✅ ĐÚNG
+   📝 This answer describes the purpose of "traceability". Traceability ensures that every requirement links back to an objective and shows how an objective was met. Requirements architecture ensure that the requirements collectively support one another to fully achieve the objectives. BABOK 7.4.2
+
+C. Business analysts use requirements architecture to make trade-off decisions about requirements while considering the overall objectives.
+   ❌ SAI
+   📝 Requirements architecture is used to make trade-off decisions about requirements while considering the overall objectives. BABOK 7.4.2
+
+D. Business analysts use a requirements architecture to understand which models are appropriate for the domain, solution scope, and audience.
+   ❌ SAI
+   📝 Requirements architecture is used to understand which models are appropriate for the domain, solution scope, and audience. BABOK 7.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Business analysts use requirements architecture to ensure every requirement links back to an objective and shows how an objective was met.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This answer describes the purpose of "traceability". Traceability ensures that every requirement links back to an objective and shows how an objective was met. Requirements architecture ensure that the requirements collectively support one another to fully achieve the objectives. BABOK 7.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+What is the purpose of the information management approach in defining requirements architecture?
+
+A. Defines the relationships between requirements, designs, and solution components.
+   ❌ SAI
+   📝 This is tracing requirements.
+
+B. Defines how the business analysis information will be stored and accessed.
+   ✅ ĐÚNG
+   📝 BABOK 7.4.3
+
+C. To trace business rules to requirements that they support.
+   ❌ SAI
+   📝 This is a made up answer.
+
+D. It defines the level of detail at which information should be captured.
+   ❌ SAI
+   📝 This is just one aspect of it. There is a better answer.
+
+➤ ĐÁP ÁN ĐÚNG: Defines how the business analysis information will be stored and accessed.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+Which of the following is NOT a stated technique for the Define Requirements Architecture task?
+
+A. Scope modeling
+   ❌ SAI
+   📝 This is a stated technique for this task.
+
+B. Process modeling
+   ✅ ĐÚNG
+   📝 BABOK 7.4.6
+
+C. Functional decomposition
+   ❌ SAI
+   📝 This is a stated technique for this task.
+
+D. Interviews
+   ❌ SAI
+   📝 This is a stated technique for this task.
+
+➤ ĐÁP ÁN ĐÚNG: Process modeling
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.4.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+What state or status should the requirements be in to serve as an input to the Define Requirements Architecture task?
+
+A. Verified.
+   ❌ SAI
+   📝 Requirements do not need to be verified as an input into this task.
+
+B. Approved.
+   ❌ SAI
+   📝 Requirements do not need to be approved as an input into this task.
+
+C. Confirmed.
+   ❌ SAI
+   📝 Requirements do not need to be confirmed as an input into this task.
+
+D. They can be in any state or status.
+   ✅ ĐÚNG
+   📝 BABOK 7.4.3 and Figure 7.4.1
+
+➤ ĐÁP ÁN ĐÚNG: They can be in any state or status.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.4.3 and Figure 7.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+Padma and her team are ensuring all requirements work in harmony as a single whole that supports overall business objectives and produces meaningful outcome for the stakeholders. What is the purpose of this exercise?
+
+A. To harmonize requirements
+   ❌ SAI
+   📝 This is an invented answer. BABOK 7.4.1
+
+B. To define requirements architecture
+   ✅ ĐÚNG
+   📝 This is the purpose of the define requirements architecture task. BABOK 7.4.1
+
+C. To define design options
+   ❌ SAI
+   📝 The team is not defining the solution approach which is the purpose of the define design options task. BABOK 7.5.1
+
+D. To manage requirements relationships
+   ❌ SAI
+   📝 This defines traceability, and traceability does not prove the solution cohesiveness. BABOK 5.1.1
+
+➤ ĐÁP ÁN ĐÚNG: To define requirements architecture
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the purpose of the define requirements architecture task. BABOK 7.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+What are all the inputs to the define requirements architecture task?
+
+A. Information management approach, requirements (traced), solution scope
+   ❌ SAI
+   📝 Requirements can be in any state, not just traced. BABOK 7.4.3
+
+B. Information management system, requirements (traced), solution scope
+   ❌ SAI
+   📝 Requirements can be in any state and information management system is a made up answer. BABOK 7.4.3
+
+C. Information management system, requirements (any state), solution scope
+   ❌ SAI
+   📝 Information management system is a made up answer. Answer C has the correct inputs. BABOk 7.4.3
+
+D. Information management approach, requirements (any state), solution scope
+   ✅ ĐÚNG
+   📝 These are the inputs for this task. BABOK 7.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Information management approach, requirements (any state), solution scope
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the inputs for this task. BABOK 7.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+A viewpoint is a set of conventions that define how requirements will be represented, how these representations will be organized, and how they will be related. Which of the following is NOT an example of a viewpoint?
+
+A. Audit and security.
+   ❌ SAI
+   📝 This is a valid example. BABOK 7.4.4.1
+
+B. Data models and information.
+   ❌ SAI
+   📝 This is a valid example. BABOK 7.4.4.1
+
+C. Business process models.
+   ❌ SAI
+   📝 This is a valid example. BABOK 7.4.4.1
+
+D. Views.
+   ✅ ĐÚNG
+   📝 This is the actual requirements and designs for a particular solution from a chosen viewpoint.
+
+➤ ĐÁP ÁN ĐÚNG: Views.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the actual requirements and designs for a particular solution from a chosen viewpoint.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+Requirements may be related to each other in several ways when defining the requirements architecture. BAs examine each of these relationships to ensure they satisfy quality criteria. Which of the following is NOT a criterion?
+
+A. Unambiguous
+   ❌ SAI
+   📝 This is a stated quality criterion.
+
+B. Testable
+   ✅ ĐÚNG
+   📝 BABOK 7.4.4.4
+
+C. Necessary
+   ❌ SAI
+   📝 This is a stated quality criterion.
+
+D. Correct
+   ❌ SAI
+   📝 This is a stated quality criterion.
+
+➤ ĐÁP ÁN ĐÚNG: Testable
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.4.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+Requirements may be related to each other in several ways when defining the requirements architecture. BAs examine each of these relationships to ensure they satisfy quality criteria. Which of the following is NOT a criterion?
+
+A. Correct
+   ❌ SAI
+   📝 This is a stated quality criterion.
+
+B. Unambiguous
+   ❌ SAI
+   📝 This is a stated quality criterion.
+
+C. Necessary
+   ❌ SAI
+   📝 This is a stated quality criterion.
+
+D. Testable
+   ✅ ĐÚNG
+   📝 BABOK 7.4.4.4
+
+➤ ĐÁP ÁN ĐÚNG: Testable
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.4.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Padma and her team are ensuring all requirements work in harmony as a single whole that supports overall business objectives and produces meaningful outcome for the stakeholders. What is the purpose of this exercise?
+
+A. To define requirements architecture
+   ✅ ĐÚNG
+   📝 This is the purpose of the define requirements architecture task. BABOK 7.4.1
+
+B. To harmonize requirements
+   ❌ SAI
+   📝 This is an invented answer. BABOK 7.4.1
+
+C. To define design options
+   ❌ SAI
+   📝 The team is not defining the solution approach which is the purpose of the define design options task. BABOK 7.5.1
+
+D. To manage requirements relationships
+   ❌ SAI
+   📝 This defines traceability, and traceability does not prove the solution cohesiveness. BABOK 5.1.1
+
+➤ ĐÁP ÁN ĐÚNG: To define requirements architecture
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the purpose of the define requirements architecture task. BABOK 7.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+Sandy has been hired as the lead business analyst in an ongoing project. The outgoing lead handed her a set of requirements for the initiative that were already documented and modeled. What task might Sandy do next?
+
+A. Define design options
+   ❌ SAI
+   📝 Defining design options requires requirements architecture to be complete. From the provided information, this has not been done. BABOK 7.5.3
+
+B. Verify requirements
+   ✅ ĐÚNG
+   📝 According to the scenario, the requirements have already been documented (specified) and modeled. Specified and modeled requirements are inputs into verify, validate, and defining requirement architecture, so one of these should be your next task. BABOK 7.2.3, 7.3.3, and 7.4.3
+
+C. Define solution scope
+   ❌ SAI
+   📝 Solution scope is an input into define requirements architecture and is a output from Define Future State from the strategy analysis knowledge area. It does not depend on having requirements documented. BABOK 7.4.3
+
+D. Accept requirements
+   ❌ SAI
+   📝 There is no such task as Accept Requirements.
+
+➤ ĐÁP ÁN ĐÚNG: Verify requirements
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+According to the scenario, the requirements have already been documented (specified) and modeled. Specified and modeled requirements are inputs into verify, validate, and defining requirement architecture, so one of these should be your next task. BABOK 7.2.3, 7.3.3, and 7.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+What state or status should the requirements be in to serve as an input to the Define Requirements Architecture task?
+
+A. Confirmed.
+   ❌ SAI
+   📝 Requirements do not need to be confirmed as an input into this task.
+
+B. Approved.
+   ❌ SAI
+   📝 Requirements do not need to be approved as an input into this task.
+
+C. They can be in any state or status.
+   ✅ ĐÚNG
+   📝 BABOK 7.4.3 and Figure 7.4.1
+
+D. Verified.
+   ❌ SAI
+   📝 Requirements do not need to be verified as an input into this task.
+
+➤ ĐÁP ÁN ĐÚNG: They can be in any state or status.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.4.3 and Figure 7.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Marie is required to show how elements work in harmony with one another to support the business requirements, and to structure the elements in various ways to align the viewpoints of different stakeholders. What techniques would be useful?
+
+A. Workshops, interviews, organizational modeling, functional decomposition, interface analysis, data modeling.
+   ❌ SAI
+   📝 Interface analysis is not a technique in the Define Requirements Architecture task. BABOK 7.4.6
+
+B. Interface analysis, workshops, interviews, organizational modeling, functional decomposition, acceptance criteria.
+   ❌ SAI
+   📝 Interface analysis and acceptance criteria are not techniques in the Define Requirements Architecture task. BABOK 7.4.6
+
+C. Workshops, scope modeling, interviews, organizational modeling, functional decomposition, data modeling.
+   ✅ ĐÚNG
+   📝 These are all Define Requirements Architecture techniques. BABOK 7.4.6
+
+D. Workshops, scope modeling, interviews, organizational modeling, functional decomposition, SWOT analysis, data modeling.
+   ❌ SAI
+   📝 SWOT analysis is not a technique in the Define Requirements Architecture task. BABOK 7.4.6
+
+➤ ĐÁP ÁN ĐÚNG: Workshops, scope modeling, interviews, organizational modeling, functional decomposition, data modeling.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are all Define Requirements Architecture techniques. BABOK 7.4.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+What is the purpose of the information management approach in defining requirements architecture?
+
+A. It defines the level of detail at which information should be captured.
+   ❌ SAI
+   📝 This is just one aspect of it. There is a better answer.
+
+B. Defines the relationships between requirements, designs, and solution components.
+   ❌ SAI
+   📝 This is tracing requirements.
+
+C. To trace business rules to requirements that they support.
+   ❌ SAI
+   📝 This is a made up answer.
+
+D. Defines how the business analysis information will be stored and accessed.
+   ✅ ĐÚNG
+   📝 BABOK 7.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Defines how the business analysis information will be stored and accessed.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+What are all the inputs to the define requirements architecture task?
+
+A. Information management system, requirements (any state), solution scope
+   ❌ SAI
+   📝 Information management system is a made up answer. Answer C has the correct inputs. BABOk 7.4.3
+
+B. Information management approach, requirements (traced), solution scope
+   ❌ SAI
+   📝 Requirements can be in any state, not just traced. BABOK 7.4.3
+
+C. Information management approach, requirements (any state), solution scope
+   ✅ ĐÚNG
+   📝 These are the inputs for this task. BABOK 7.4.3
+
+D. Information management system, requirements (traced), solution scope
+   ❌ SAI
+   📝 Requirements can be in any state and information management system is a made up answer. BABOK 7.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Information management approach, requirements (any state), solution scope
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the inputs for this task. BABOK 7.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+The following statements describe how business analysts use requirements architecture. Which one is NOT a correct description?
+
+A. Business analysts use requirements architecture to ensure every requirement links back to an objective and shows how an objective was met.
+   ✅ ĐÚNG
+   📝 This answer describes the purpose of "traceability". Traceability ensures that every requirement links back to an objective and shows how an objective was met. Requirements architecture ensure that the requirements collectively support one another to fully achieve the objectives. BABOK 7.4.2
+
+B. Business analysts use a requirements architecture to understand which models are appropriate for the domain, solution scope, and audience.
+   ❌ SAI
+   📝 Requirements architecture is used to understand which models are appropriate for the domain, solution scope, and audience. BABOK 7.4.2
+
+C. Business analysts use requirements architecture to ensure the requirements work together to achieve the overall objectives.
+   ❌ SAI
+   📝 Requirements architecture is used to ensure the requirements work together to achieve the overall objectives. BABOK 7.4.2
+
+D. Business analysts use requirements architecture to make trade-off decisions about requirements while considering the overall objectives.
+   ❌ SAI
+   📝 Requirements architecture is used to make trade-off decisions about requirements while considering the overall objectives. BABOK 7.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Business analysts use requirements architecture to ensure every requirement links back to an objective and shows how an objective was met.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This answer describes the purpose of "traceability". Traceability ensures that every requirement links back to an objective and shows how an objective was met. Requirements architecture ensure that the requirements collectively support one another to fully achieve the objectives. BABOK 7.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+Marie is required to show how elements work in harmony with one another to support the business requirements, and to structure the elements in various ways to align the viewpoints of different stakeholders. What techniques would be useful?
+
+A. Workshops, scope modeling, interviews, organizational modeling, functional decomposition, data modeling.
+   ✅ ĐÚNG
+   📝 These are all Define Requirements Architecture techniques. BABOK 7.4.6
+
+B. Interface analysis, workshops, interviews, organizational modeling, functional decomposition, acceptance criteria.
+   ❌ SAI
+   📝 Interface analysis and acceptance criteria are not techniques in the Define Requirements Architecture task. BABOK 7.4.6
+
+C. Workshops, interviews, organizational modeling, functional decomposition, interface analysis, data modeling.
+   ❌ SAI
+   📝 Interface analysis is not a technique in the Define Requirements Architecture task. BABOK 7.4.6
+
+D. Workshops, scope modeling, interviews, organizational modeling, functional decomposition, SWOT analysis, data modeling.
+   ❌ SAI
+   📝 SWOT analysis is not a technique in the Define Requirements Architecture task. BABOK 7.4.6
+
+➤ ĐÁP ÁN ĐÚNG: Workshops, scope modeling, interviews, organizational modeling, functional decomposition, data modeling.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are all Define Requirements Architecture techniques. BABOK 7.4.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+Sandy has been hired as the lead business analyst in an ongoing project. The outgoing lead handed her a set of requirements for the initiative that were already documented and modeled. What task might Sandy do next?
+
+A. Define design options
+   ❌ SAI
+   📝 Defining design options requires requirements architecture to be complete. From the provided information, this has not been done. BABOK 7.5.3
+
+B. Accept requirements
+   ❌ SAI
+   📝 There is no such task as Accept Requirements.
+
+C. Verify requirements
+   ✅ ĐÚNG
+   📝 According to the scenario, the requirements have already been documented (specified) and modeled. Specified and modeled requirements are inputs into verify, validate, and defining requirement architecture, so one of these should be your next task. BABOK 7.2.3, 7.3.3, and 7.4.3
+
+D. Define solution scope
+   ❌ SAI
+   📝 Solution scope is an input into define requirements architecture and is a output from Define Future State from the strategy analysis knowledge area. It does not depend on having requirements documented. BABOK 7.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Verify requirements
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+According to the scenario, the requirements have already been documented (specified) and modeled. Specified and modeled requirements are inputs into verify, validate, and defining requirement architecture, so one of these should be your next task. BABOK 7.2.3, 7.3.3, and 7.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+What state or status should the requirements be in to serve as an input to the Define Requirements Architecture task?
+
+A. They can be in any state or status.
+   ✅ ĐÚNG
+   📝 BABOK 7.4.3 and Figure 7.4.1
+
+B. Verified.
+   ❌ SAI
+   📝 Requirements do not need to be verified as an input into this task.
+
+C. Confirmed.
+   ❌ SAI
+   📝 Requirements do not need to be confirmed as an input into this task.
+
+D. Approved.
+   ❌ SAI
+   📝 Requirements do not need to be approved as an input into this task.
+
+➤ ĐÁP ÁN ĐÚNG: They can be in any state or status.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 7.4.3 and Figure 7.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 160 - 30 câu FULL EXPLAIN

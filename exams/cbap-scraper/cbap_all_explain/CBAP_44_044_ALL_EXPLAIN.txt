@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 44 ===
+📚 Tên: TopicSet 44
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+Which of the following best qualify as a "value attribute" for acceptance criteria?
+
+A. Pass or Fail.
+   ❌ SAI
+   📝 Represents a general way of expressing test results for acceptance criteria. BABOK Figure 10.1.1
+
+B. Value.
+   ❌ SAI
+   📝 Made up answer!
+
+C. Performance.
+   ✅ ĐÚNG
+   📝 BABOK Figure 10.1.1
+
+D. Solution Value ranking.
+   ❌ SAI
+   📝 A way of expressing the results when measuring several solutions utilizing evaluation criteria. BABOK Figure 10.1.1
+
+➤ ĐÁP ÁN ĐÚNG: Performance.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK Figure 10.1.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+Joni is preparing a document that justifies why the organization should invest in a proposed solution. In her documentation she includes the evaluation criteria for the solution. What is the benefit of including the evaluation criteria?
+
+A. Evaluation criteria may express contractual obligations and as such may be difficult to change for legal or political reasons.
+   ❌ SAI
+   📝 This answer describes acceptance criteria. BABOK 10.1.4.1
+
+B. Evaluation criteria provides guidance for ongoing decision making throughout the initiative.
+   ❌ SAI
+   📝 This answer better describes a business case. BABOK 10.7
+
+C. Evaluation criteria will better help the organization define its priorities.
+   ❌ SAI
+   📝 This is a strength of evaluation criteria but doesn't speak to the biggest reason that Joni would include evaluation criteria with her recommendation.
+
+D. Evaluation criteria refers more to expected return-on-investment, which would support the recommendation.
+   ✅ ĐÚNG
+   📝 BABOK 10.1.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Evaluation criteria refers more to expected return-on-investment, which would support the recommendation.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.1.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+Defining measures of value attributes to be used for assessing and comparing solutions and alternative designs, can be applied at all levels of a project, from high-level to a more detailed level. Which of the following statements is accurate about this method?
+
+A. All solution attributes can be directly measured.
+   ❌ SAI
+   📝 Some attributes that cannot be measured directly are evaluated using expert judgment or various scoring techniques. BABOK 10.1.2
+
+B. Acceptance criteria define a set of measurements which allow for ranking of solutions and alternative designs according to their value for stakeholders.
+   ❌ SAI
+   📝 Evaluation Criteria defines these set of measurements. BABOK 10.1.2
+
+C. Evaluation criteria describe the minimum set of requirements that must be met in order for a particular solution to be worth implementing.
+   ❌ SAI
+   📝 Acceptance criteria describe these minimum set of requirements. BABOK 10.1.2
+
+D. Evaluation criteria assist in the delivery of expected return on investment (ROI) or otherwise specified potential value.
+   ✅ ĐÚNG
+   📝 BABOK 10.1.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Evaluation criteria assist in the delivery of expected return on investment (ROI) or otherwise specified potential value.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.1.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+Joni is preparing a document that justifies why the organization should invest in a proposed solution. In her documentation she includes the evaluation criteria for the solution. What is the benefit of including the evaluation criteria?
+
+A. Evaluation criteria may express contractual obligations and as such may be difficult to change for legal or political reasons.
+   ❌ SAI
+   📝 This answer describes acceptance criteria. BABOK 10.1.4.1
+
+B. Evaluation criteria provides guidance for ongoing decision making throughout the initiative.
+   ❌ SAI
+   📝 This answer better describes a business case. BABOK 10.7
+
+C. Evaluation criteria refers more to expected return-on-investment, which would support the recommendation.
+   ✅ ĐÚNG
+   📝 BABOK 10.1.4.1
+
+D. Evaluation criteria will better help the organization define its priorities.
+   ❌ SAI
+   📝 This is a strength of evaluation criteria but doesn't speak to the biggest reason that Joni would include evaluation criteria with her recommendation.
+
+➤ ĐÁP ÁN ĐÚNG: Evaluation criteria refers more to expected return-on-investment, which would support the recommendation.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.1.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+Medix International has hired you to work on a project to choose an Electronic Health Record (EHR) system. You are preparing an artifact to define measures of value attributes to be used for assessing and comparing solutions and alternative designs. Which of the following is NOT a consideration in creating this artifact?
+
+A. Logistics.
+   ✅ ĐÚNG
+   📝 This not a consideration for acceptance and evaluation criteria. BABOK 10.1.3
+
+B. Testability.
+   ❌ SAI
+   📝 This is a listed consideration for assessment of a solution.
+
+C. Measures.
+   ❌ SAI
+   📝 This is a listed consideration for assessment of a solution.
+
+D. Value proposition.
+   ❌ SAI
+   📝 This refers to the value attributes the system should possess and maps directly into the evaluation of alternative solutions.
+
+➤ ĐÁP ÁN ĐÚNG: Logistics.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This not a consideration for acceptance and evaluation criteria. BABOK 10.1.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+During the course of eliciting the business process flow, the business analyst encountered internal and external policies which govern the use of business data across multiple processes. In this situation, the business analyst should do which of the following?
+
+A. Develop business rule statements that do not constrain how the business operates so as to avoid being prescriptive.
+   ❌ SAI
+   📝 Business rules are constraints.
+
+B. Attempt to capture all relevant business rules as part of the user and functional requirements documentation.
+   ❌ SAI
+   📝 Potentially redundant.
+
+C. Defer the discussion to the "business rule management team" as an external resource and outside the scope of the project team.
+   ❌ SAI
+   📝 There may not be such a team.
+
+D. Document business rules in some form of business rules catalog since a single rule may impact a number of processes.
+   ✅ ĐÚNG
+   📝 This is what business rules are for, namely to reflect policies about how business is performed across all projects. BABOK 10.9.2
+
+➤ ĐÁP ÁN ĐÚNG: Document business rules in some form of business rules catalog since a single rule may impact a number of processes.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is what business rules are for, namely to reflect policies about how business is performed across all projects. BABOK 10.9.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+Your organization has chosen to enforce two new rules as a matter of policy in order to enhance productivity. What type of rule has your organization enforced?
+
+A. Definitional rules.
+   ❌ SAI
+   📝 In contrast to behavioral rules, which are about the behavior of people, definitional rules represent operational knowledge of the organization. BABOK 10.9.3.1
+
+B. Employee rules.
+   ❌ SAI
+   📝 This is a made up answer. Refer to BABOK 10.9.3.1 and 10.9.3.2
+
+C. Behavioral rules.
+   ✅ ĐÚNG
+   📝 Behavioral rules (also known as an Operative rules; see Glossary page 441) are rules the organization chooses to enforce as a matter of policy, often to reduce risk or enhance productivity. BABOK 10.9.3.2
+
+D. Guidelines.
+   ❌ SAI
+   📝 This is behavioral rule for which there is no active enforcement. Not the best answer. BABOK 10.9.3.2
+
+➤ ĐÁP ÁN ĐÚNG: Behavioral rules.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Behavioral rules (also known as an Operative rules; see Glossary page 441) are rules the organization chooses to enforce as a matter of policy, often to reduce risk or enhance productivity. BABOK 10.9.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+Which of the following is NOT a basic principle of business rules?
+
+A. Separate them from the processes the rule supports.
+   ❌ SAI
+   📝 This is a basic principle of business rules.
+
+B. May not occur in the instance of a data element.
+   ✅ ĐÚNG
+   📝 Business rules might be expressed through data. BABOK 10.9.3
+
+C. Document them independently of how they will be enforced.
+   ❌ SAI
+   📝 This is a basic principle of business rules.
+
+D. Stated at the atomic level in a declarative format.
+   ❌ SAI
+   📝 This is a basic principle of business rules.
+
+➤ ĐÁP ÁN ĐÚNG: May not occur in the instance of a data element.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Business rules might be expressed through data. BABOK 10.9.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+What is the name for a behavioral (business) rule for which there is no active enforcement?
+
+A. Optional.
+   ❌ SAI
+   📝 Users may view this type of rule as "optional" but the BABOK does not use this term.
+
+B. Organizational guidance.
+   ❌ SAI
+   📝 This is a fabricated term.
+
+C. Definitional rule.
+   ❌ SAI
+   📝 A definitional rule does not describe behavior. Definitional rules often prescribe how information may be derived, inferred, or calculated. BABOK 10.9.3.1
+
+D. Guideline.
+   ✅ ĐÚNG
+   📝 Guidelines "suggest" preferred or optimal business behavior. BABOK 10.9.3.2
+
+➤ ĐÁP ÁN ĐÚNG: Guideline.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Guidelines "suggest" preferred or optimal business behavior. BABOK 10.9.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+Leo has just discovered a business policy that applies universally across the organization, and not just to his project. What has Leo uncovered?
+
+A. A structural rule.
+   ❌ SAI
+   📝 Structural rules are intended to help determine when something is or is not true, or when things fall into a specific category.
+
+B. A detectable rule.
+   ❌ SAI
+   📝 No such rule is identified in the BABOK.
+
+C. A constraint.
+   ❌ SAI
+   📝 Constraints may be based on business rules, but may also be based on many other factors.
+
+D. An operative rule.
+   ✅ ĐÚNG
+   📝 Operative rules are rules that the organization chooses to enforce as a matter of policy. BABOK 10.9.3.2
+
+➤ ĐÁP ÁN ĐÚNG: An operative rule.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Operative rules are rules that the organization chooses to enforce as a matter of policy. BABOK 10.9.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Which of the following serve to shape (govern) day-to-day business activity?
+
+A. Definitional business rules
+   ❌ SAI
+   📝 Definitional rules shape concepts, or produce knowledge or information. They represent knowledge of the organization. 10.9.3.1
+
+B. Organizational culture
+   ❌ SAI
+   📝 This is true; however, the question is describing behavioral business rules. BABOK 10.9.3.2
+
+C. Business policies
+   ❌ SAI
+   📝 Policies contain behavioral and definitional business rules. The question is describing behavioral rules which serve to shape (govern) day-to-day business activity. BABOK 10.9.3.2
+
+D. Behavioral business rules
+   ✅ ĐÚNG
+   📝 This is the correct definition of behavioral rules which are people rules even if the behavior is automated. Behavioral rules serve to shape (govern) day-to-day business activity. BABOK 10.9.3.2
+
+➤ ĐÁP ÁN ĐÚNG: Behavioral business rules
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the correct definition of behavioral rules which are people rules even if the behavior is automated. Behavioral rules serve to shape (govern) day-to-day business activity. BABOK 10.9.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+How does the BABOK define a business rule?
+
+A. Expressed as a relationship between one entity/business object and another.
+   ❌ SAI
+   📝 This is one of the ways a business rule can be expressed. There are other methods.
+
+B. A capability or condition needed on a particular project to solve a problem or achieve an objective.
+   ❌ SAI
+   📝 This is a definition of a requirement.
+
+C. A business rule is a specific, testable directive that serves as a criterion for guiding behavior, shaping judgments, or making decisions.
+   ✅ ĐÚNG
+   📝 BABOK 10.9.2
+
+D. A regulation that an organization must adhere to.
+   ❌ SAI
+   📝 This is too narrow of a definition.
+
+➤ ĐÁP ÁN ĐÚNG: A business rule is a specific, testable directive that serves as a criterion for guiding behavior, shaping judgments, or making decisions.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.9.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+Which of the following is NOT a basic principle of business rules?
+
+A. Document them independently of how they will be enforced.
+   ❌ SAI
+   📝 This is a basic principle of business rules.
+
+B. Stated at the atomic level in a declarative format.
+   ❌ SAI
+   📝 This is a basic principle of business rules.
+
+C. May not occur in the instance of a data element.
+   ✅ ĐÚNG
+   📝 Business rules might be expressed through data. BABOK 10.9.3
+
+D. Separate them from the processes the rule supports.
+   ❌ SAI
+   📝 This is a basic principle of business rules.
+
+➤ ĐÁP ÁN ĐÚNG: May not occur in the instance of a data element.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Business rules might be expressed through data. BABOK 10.9.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+What is the name for a behavioral (business) rule for which there is no active enforcement?
+
+A. Definitional rule.
+   ❌ SAI
+   📝 A definitional rule does not describe behavior. Definitional rules often prescribe how information may be derived, inferred, or calculated. BABOK 10.9.3.1
+
+B. Guideline.
+   ✅ ĐÚNG
+   📝 Guidelines "suggest" preferred or optimal business behavior. BABOK 10.9.3.2
+
+C. Organizational guidance.
+   ❌ SAI
+   📝 This is a fabricated term.
+
+D. Optional.
+   ❌ SAI
+   📝 Users may view this type of rule as "optional" but the BABOK does not use this term.
+
+➤ ĐÁP ÁN ĐÚNG: Guideline.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Guidelines "suggest" preferred or optimal business behavior. BABOK 10.9.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+Your organization has chosen to enforce two new rules as a matter of policy in order to enhance productivity. What type of rule has your organization enforced?
+
+A. Employee rules.
+   ❌ SAI
+   📝 This is a made up answer. Refer to BABOK 10.9.3.1 and 10.9.3.2
+
+B. Behavioral rules.
+   ✅ ĐÚNG
+   📝 Behavioral rules (also known as an Operative rules; see Glossary page 441) are rules the organization chooses to enforce as a matter of policy, often to reduce risk or enhance productivity. BABOK 10.9.3.2
+
+C. Guidelines.
+   ❌ SAI
+   📝 This is behavioral rule for which there is no active enforcement. Not the best answer. BABOK 10.9.3.2
+
+D. Definitional rules.
+   ❌ SAI
+   📝 In contrast to behavioral rules, which are about the behavior of people, definitional rules represent operational knowledge of the organization. BABOK 10.9.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Behavioral rules.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Behavioral rules (also known as an Operative rules; see Glossary page 441) are rules the organization chooses to enforce as a matter of policy, often to reduce risk or enhance productivity. BABOK 10.9.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+You are in the process of assessing source documents that would be helpful in gathering background information, in order to understand the context of a business need. Which of the following would you NOT consider?
+
+A. The definition of both the data to be mined and the data clusters that provide items grouped by logical relationships.
+   ❌ SAI
+   📝 This is a listed consideration. 10.18.3.1
+
+B. Whether or not the source's content is relevant, current, genuine, and credible.
+   ❌ SAI
+   📝 This is a listed consideration. 10.18.3.1
+
+C. Whether or not to conduct a detailed review of each document's content and recording relevant notes associated with each topic.
+   ✅ ĐÚNG
+   📝 This is a description of document analysis vs. assessing source documents for analysis. BABOK 10.18.2
+
+D. Whether or not the content is understandable and can be easily conveyed to stakeholders as needed.
+   ❌ SAI
+   📝 This is a listed consideration. 10.18.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Whether or not to conduct a detailed review of each document's content and recording relevant notes associated with each topic.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a description of document analysis vs. assessing source documents for analysis. BABOK 10.18.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+Leah is using document analysis technique for her elicitation process. Which of the following is NOT a consideration when performing document review and analysis?
+
+A. Noting any gaps in knowledge in which the findings about certain topics are limited.
+   ❌ SAI
+   📝 This is a listed consideration for document review and analysis. BABOK 10.18.3.2
+
+B. Identifying domain and business subject matter experts(SMEs).
+   ✅ ĐÚNG
+   📝 This is not a consideration. This technique does not involve consulting an individual but examining available materials. BABOK 10.18.2
+
+C. Identifying if any notes conflict or are duplicates.
+   ❌ SAI
+   📝 This is a listed consideration for document review and analysis. BABOK 10.18.3.2
+
+D. Conducting a detailed review of each document's content and recording relevant notes associated with each topic.
+   ❌ SAI
+   📝 This is a listed consideration for document review and analysis. BABOK 10.18.3.2
+
+➤ ĐÁP ÁN ĐÚNG: Identifying domain and business subject matter experts(SMEs).
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is not a consideration. This technique does not involve consulting an individual but examining available materials. BABOK 10.18.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+Which of the following is a limitation for using document analysis technique?
+
+A. Documentation can be used as a point of reference to determine what is current and what has changed.
+   ❌ SAI
+   📝 This is a strength. BABOK 10.18.4.1
+
+B. Can be used to validate the results of other requirements elicitation techniques.
+   ❌ SAI
+   📝 This is a strength. BABOK 10.18.4.1
+
+C. Document analysis is primarily helpful only for evaluating the current state.
+   ✅ ĐÚNG
+   📝 This is a listed limitation of document analysis. BABOK 10.18.4.2
+
+D. Findings can be presented in formats that permit ease of review and reuse.
+   ❌ SAI
+   📝 This is a strength. BABOK 10.18.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Document analysis is primarily helpful only for evaluating the current state.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a listed limitation of document analysis. BABOK 10.18.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+Leah is using document analysis technique for her elicitation process. Which of the following is NOT a consideration when performing document review and analysis?
+
+A. Identifying if any notes conflict or are duplicates.
+   ❌ SAI
+   📝 This is a listed consideration for document review and analysis. BABOK 10.18.3.2
+
+B. Identifying domain and business subject matter experts(SMEs).
+   ✅ ĐÚNG
+   📝 This is not a consideration. This technique does not involve consulting an individual but examining available materials. BABOK 10.18.2
+
+C. Conducting a detailed review of each document's content and recording relevant notes associated with each topic.
+   ❌ SAI
+   📝 This is a listed consideration for document review and analysis. BABOK 10.18.3.2
+
+D. Noting any gaps in knowledge in which the findings about certain topics are limited.
+   ❌ SAI
+   📝 This is a listed consideration for document review and analysis. BABOK 10.18.3.2
+
+➤ ĐÁP ÁN ĐÚNG: Identifying domain and business subject matter experts(SMEs).
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is not a consideration. This technique does not involve consulting an individual but examining available materials. BABOK 10.18.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+You are in the process of assessing source documents that would be helpful in gathering background information, in order to understand the context of a business need. Which of the following would you NOT consider?
+
+A. Whether or not the source's content is relevant, current, genuine, and credible.
+   ❌ SAI
+   📝 This is a listed consideration. 10.18.3.1
+
+B. Whether or not to conduct a detailed review of each document's content and recording relevant notes associated with each topic.
+   ✅ ĐÚNG
+   📝 This is a description of document analysis vs. assessing source documents for analysis. BABOK 10.18.2
+
+C. The definition of both the data to be mined and the data clusters that provide items grouped by logical relationships.
+   ❌ SAI
+   📝 This is a listed consideration. 10.18.3.1
+
+D. Whether or not the content is understandable and can be easily conveyed to stakeholders as needed.
+   ❌ SAI
+   📝 This is a listed consideration. 10.18.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Whether or not to conduct a detailed review of each document's content and recording relevant notes associated with each topic.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a description of document analysis vs. assessing source documents for analysis. BABOK 10.18.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+As a business analyst consultant, a client has approached you with a business idea to take advantage of a new opportunity. You are to carry out a feasibility study to determine the viability of the idea. What technique would you LEAST use to gather background information?
+
+A. Interviews.
+   ❌ SAI
+   📝 The business analyst may interview people to get needed information.
+
+B. Focus groups.
+   ❌ SAI
+   📝 This would help the business analyst learn people's attitudes, experiences and desires about the new opportunity.
+
+C. Brainstorming.
+   ❌ SAI
+   📝 A good way to generate numerous ideas.
+
+D. Document Analysis.
+   ✅ ĐÚNG
+   📝 Primarily helpful only for evaluating the current state, via review of as-is documentation. This is a new opportunity and current state does not exist. BABOK 10.18.2
+
+➤ ĐÁP ÁN ĐÚNG: Document Analysis.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Primarily helpful only for evaluating the current state, via review of as-is documentation. This is a new opportunity and current state does not exist. BABOK 10.18.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+Carole is about to start the requirements elicitation process for a new project. The domain subject matter experts (SMEs) will not be available for the duration of the elicitation process. Which technique below would best help Carole in the elicitation process?
+
+A. Document analysis
+   ✅ ĐÚNG
+   📝 This technique does not involve consulting an individual but examining available materials. BABOK 10.18.2
+
+B. Organization modeling
+   ❌ SAI
+   📝 Partially true. Document analysis may include organization models. Hence document analysis is a better answer.
+
+C. Brainstorming
+   ❌ SAI
+   📝 The domain SMEs will not be present so this technique will not be helpful.
+
+D. Requirements workshops
+   ❌ SAI
+   📝 The domain SMEs will not be present so this technique will not be helpful.
+
+➤ ĐÁP ÁN ĐÚNG: Document analysis
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This technique does not involve consulting an individual but examining available materials. BABOK 10.18.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+Which of the following is a weakness when using interface analysis as a technique for eliciting requirements?
+
+A. The elicitation of an interface's functional requirements early in the project will provide valuable details for project planning.
+   ❌ SAI
+   📝 This is a strength of interface analysis. BABOK 10.24.4.1
+
+B. It does not provide an understanding of the business process.
+   ✅ ĐÚNG
+   📝 This is a weakness of interface analysis. Interface analysis only identifies inputs and outputs related to user or system interfaces. BABOK 10.24.4.2 and 10.24.3.3
+
+C. It helps avoid "analysis paralysis."
+   ❌ SAI
+   📝 This is a strength of interface analysis. BABOK 10.24.4.1
+
+D. The documentation detailing "as built" systems may be outdated.
+   ❌ SAI
+   📝 This may be true but the answer is more descriptive of a weakness of document analysis. BABOK 10.18.4.2
+
+➤ ĐÁP ÁN ĐÚNG: It does not provide an understanding of the business process.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a weakness of interface analysis. Interface analysis only identifies inputs and outputs related to user or system interfaces. BABOK 10.24.4.2 and 10.24.3.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Which of the following is an example of a user interface?
+
+A. Interactions between two systems that a user uses
+   ❌ SAI
+   📝 This is describing the interaction between two systems; human users are not directly interacting with the system. BABOK 10.24.2
+
+B. Error messaging
+   ❌ SAI
+   📝 This is an not example of a user interface. Messages are delivered through an interface, but are not interfaces. BABOK 10.24.2
+
+C. Data files that are generated in the system
+   ❌ SAI
+   📝 This is an not example of a user interface. This is an example of an output. BABOK 10.24
+
+D. Reports that are provided to the user
+   ✅ ĐÚNG
+   📝 Interfaces include human users directly interacting with the solution within the organization. This type of interface is called a "user interface." BABOK 10.24.2
+
+➤ ĐÁP ÁN ĐÚNG: Reports that are provided to the user
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Interfaces include human users directly interacting with the solution within the organization. This type of interface is called a "user interface." BABOK 10.24.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+The early identification of interfaces provides context for the BA to elicit more detailed requirements. Which classification of requirement is the BABOK describing?
+
+A. Functional
+   ❌ SAI
+   📝 Identification of interfaces provides context for the BA to elicit more detailed stakeholder requirements which determines adequate functional coverage of the solution. BABOK 10.24.2
+
+B. Non-functional
+   ❌ SAI
+   📝 Identification of interfaces provides context for the BA to elicit more detailed stakeholder requirements which determines adequate functional coverage of the solution. BABOK 10.24.2
+
+C. Transition
+   ❌ SAI
+   📝 Identification of interfaces provides context for the BA to elicit more detailed stakeholder requirements which determines adequate functional coverage of the solution. BABOK 10.24.2
+
+D. Stakeholder
+   ✅ ĐÚNG
+   📝 Identification of interfaces provides context for the BA to elicit more detailed stakeholder requirements which determines adequate functional coverage of the solution. BABOK 10.24.2
+
+➤ ĐÁP ÁN ĐÚNG: Stakeholder
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Identification of interfaces provides context for the BA to elicit more detailed stakeholder requirements which determines adequate functional coverage of the solution. BABOK 10.24.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+Robin is a BA working to identify interfaces. Which of the following techniques could she use to assist with this task?
+
+A. Document analysis, observation, functional decomposition.
+   ❌ SAI
+   📝 Functional decomposition breaks down processes, systems, functional areas, or deliverables into their simpler parts. Functional decomposition is not a listed technique for this task. BABOK 10.24.3.1
+
+B. Document analysis, observation, scope modeling, organizational modeling.
+   ❌ SAI
+   📝 An organizational model defines how an organization or organizational unit is structured and does not look at the interfaces. BABOK 10.32
+
+C. Document analysis, observation, scope modeling, interviews.
+   ✅ ĐÚNG
+   📝 The business analyst can use other techniques, such as document analysis,observation, scope modeling, and interviews in order to understand which interfaces need to be identified for analysis. BABOK 10.24.3.1
+
+D. Document analysis, observation, scope modeling, workshops.
+   ❌ SAI
+   📝 Although it would seem you could use a workshop to identify interfaces, a workshop is not a listed technique for this task in the BABOK 10.24.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Document analysis, observation, scope modeling, interviews.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The business analyst can use other techniques, such as document analysis,observation, scope modeling, and interviews in order to understand which interfaces need to be identified for analysis. BABOK 10.24.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+Which of the following describes a limitation of interface analysis?
+
+A. Interface analysis does not contribute to the allocation of requirements.
+   ❌ SAI
+   📝 Clear specification of interfaces does provided a structured means of allocating requirements, business rules, and constraints to the solution. BABOK 10.24.4.1
+
+B. Interface analysis does not directly elicit functional requirements.
+   ❌ SAI
+   📝 A listed strength of interface analysis is that it provides the context for eliciting more detailed stakeholder requirements, thus determining adequate functional coverage of the solution to meet stakeholder needs. BABOK 10.24.2 and 10.24.4.1
+
+C. Interface analysis is too broad; it does not provide the detail needed.
+   ❌ SAI
+   📝 The broad application of interface analysis is considered a strength. BABOK 10.24.4.1
+
+D. Interface analysis does not provide insight into other aspects of the solution since the analysis does not assess the internal components.
+   ✅ ĐÚNG
+   📝 This is a listed limitation of interface analysis. BABOK 10.24.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Interface analysis does not provide insight into other aspects of the solution since the analysis does not assess the internal components.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a listed limitation of interface analysis. BABOK 10.24.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+Which of the following is an example of a user interface?
+
+A. Error messaging
+   ❌ SAI
+   📝 This is an not example of a user interface. Messages are delivered through an interface, but are not interfaces. BABOK 10.24.2
+
+B. Data files that are generated in the system
+   ❌ SAI
+   📝 This is an not example of a user interface. This is an example of an output. BABOK 10.24
+
+C. Interactions between two systems that a user uses
+   ❌ SAI
+   📝 This is describing the interaction between two systems; human users are not directly interacting with the system. BABOK 10.24.2
+
+D. Reports that are provided to the user
+   ✅ ĐÚNG
+   📝 Interfaces include human users directly interacting with the solution within the organization. This type of interface is called a "user interface." BABOK 10.24.2
+
+➤ ĐÁP ÁN ĐÚNG: Reports that are provided to the user
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Interfaces include human users directly interacting with the solution within the organization. This type of interface is called a "user interface." BABOK 10.24.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+You are focusing your elicitation activities on transition requirements. Which technique may provide the best requirements for this activity?
+
+A. Focus group
+   ❌ SAI
+   📝 Not the best answer for this question. Focus groups develops ideas and attitudes about a specific product, service or opportunity. BABOK 10.21.3 Of the options presented, interface analysis will be most helpful. BABOK 10.24.3
+
+B. Interface analysis
+   ✅ ĐÚNG
+   📝 This is the best answer for this question given the options. Interface analysis may yield implementation requirements that help facilitate transition from current state to future state. System interface analysis will help define data-mapping and transition operational requirements. BABOK 10.24.3
+
+C. Observation
+   ❌ SAI
+   📝 Though observation will help understand the current state, it's not the best technique to elicit transition requirements. BABOK 10.31 Of the options presented, interface analysis will be most helpful. BABOK 10.24.3
+
+D. Prototype
+   ❌ SAI
+   📝 Prototyping focuses on product design. Therefore, it will be of little help in eliciting transition requirements. BABOK 10.36.2 Of the options presented, interface analysis will be most helpful. BABOK 10.24.3
+
+➤ ĐÁP ÁN ĐÚNG: Interface analysis
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the best answer for this question given the options. Interface analysis may yield implementation requirements that help facilitate transition from current state to future state. System interface analysis will help define data-mapping and transition operational requirements. BABOK 10.24.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+The technique of interface analysis is best suited for which of the following?
+
+A. Conducting an online focus group to include members located remotely to participate.
+   ❌ SAI
+   📝 This answer describes a focus group which is a different elicitation technique with the primary goal of eliciting qualitative data from a targeted participants. BABOK 10.21
+
+B. Understanding the various states of an entity within a system and how that entity moves from one state to another.
+   ❌ SAI
+   📝 This answer describes state modeling which is a different technique to understand a set of possible states for an entity, possible sequence of states, and what causes the entity to change from one state to another. BABOK 10.44.2
+
+C. Reaching agreements with stakeholders on how they will directly interact with the solution.
+   ✅ ĐÚNG
+   📝 This describes a user interface in which human users directly interact with the solution within the organization; therefore, interface analysis is best suited to this situation. BABOK 10.24.2.2
+
+D. Coordinating the activities used to elicit interface requirements.
+   ❌ SAI
+   📝 This answer pertains more to planning for an elicitation event focused upon interface analysis and so is related to the technique but not the best answer. BABOK 4.1
+
+➤ ĐÁP ÁN ĐÚNG: Reaching agreements with stakeholders on how they will directly interact with the solution.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This describes a user interface in which human users directly interact with the solution within the organization; therefore, interface analysis is best suited to this situation. BABOK 10.24.2.2
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 44 - 30 câu FULL EXPLAIN

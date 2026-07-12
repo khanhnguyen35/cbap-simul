@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 170 ===
+📚 Tên: TopicSet 170
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+Three of the following statements are inaccurate about prioritization. Which one is accurate?
+
+A. Stakeholders may intentionally indicate priority to influence the result to their desired outcome.
+   ✅ ĐÚNG
+   📝 This is one of the challenges of prioritization which is an element of the prioritize requirements task. BABOK 5.3.4.2
+
+B. Once the implementation team has provided the cost of each requirement, requirements are baselined and prioritization is complete.
+   ❌ SAI
+   📝 Stakeholders may reprioritize yet again as a result of learning the costs. Requirements are baselined once they're detailed and approved vs. costed. BABOK 5.3.4.3
+
+C. Prioritization is an assessment of absolute value. Each stakeholder may value something different.
+   ❌ SAI
+   📝 Prioritization is an assessment of relative value as each stakeholder may have different values. BABOK 5.3.4.2
+
+D. Stakeholders are sometimes rigid, and priorities are unlikely to shift as the context evolves and as more information becomes available.
+   ❌ SAI
+   📝 Priorities may shift as context evolves. BABOK 5.3.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Stakeholders may intentionally indicate priority to influence the result to their desired outcome.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is one of the challenges of prioritization which is an element of the prioritize requirements task. BABOK 5.3.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+After prioritizing some requirements, Amanda provides a stakeholder with a list of those prioritized requirements. This stakeholder verifies that the prioritized requirements will provide value from an organizational perspective. Who is this stakeholder?
+
+A. Customer
+   ❌ SAI
+   📝 The Customer verifies the prioritized requirements from a customer perspective for value. BABOK 5.3.7
+
+B. Sponsor
+   ✅ ĐÚNG
+   📝 The Sponsor verifies the prioritized requirements from an organizational perspective for value. BABOK 5.3.7
+
+C. Implementation Subject Matter Expert
+   ❌ SAI
+   📝 The Implementation SME verifies the prioritized requirements from a technical and interface perspective for value. BABOK 5.3.7
+
+D. End User
+   ❌ SAI
+   📝 The End User verifies the prioritized requirements from an end-user perspective for value. BABOK 5.3.7
+
+➤ ĐÁP ÁN ĐÚNG: Sponsor
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The Sponsor verifies the prioritized requirements from an organizational perspective for value. BABOK 5.3.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+Which of the following guidelines provides information on costs, timelines, and value realization which are used to determine the priority of requirements?
+
+A. Change strategy
+   ✅ ĐÚNG
+   📝 This is the stated definition for this guideline in the prioritize requirements task. BABOK 5.3.5
+
+B. Domain knowledge
+   ❌ SAI
+   📝 This guideline refers to the knowledge and expertise of the business domain needed to support prioritization. BABOK 5.3.5
+
+C. Business objectives
+   ❌ SAI
+   📝 This is not a guideline or tool for the prioritize requirements task. BABOK 5.3.5
+
+D. Business constraints
+   ❌ SAI
+   📝 This guideline refers to regulatory statutes, contractual obligations and business policies that may define requirements. BABOK 5.3.5
+
+➤ ĐÁP ÁN ĐÚNG: Change strategy
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the stated definition for this guideline in the prioritize requirements task. BABOK 5.3.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+Three of the following statements are inaccurate about prioritization. Which one is accurate?
+
+A. Once the implementation team has provided the cost of each requirement, requirements are baselined and prioritization is complete.
+   ❌ SAI
+   📝 Stakeholders may reprioritize yet again as a result of learning the costs. Requirements are baselined once they're detailed and approved vs. costed. BABOK 5.3.4.3
+
+B. Prioritization is an assessment of absolute value. Each stakeholder may value something different.
+   ❌ SAI
+   📝 Prioritization is an assessment of relative value as each stakeholder may have different values. BABOK 5.3.4.2
+
+C. Stakeholders may intentionally indicate priority to influence the result to their desired outcome.
+   ✅ ĐÚNG
+   📝 This is one of the challenges of prioritization which is an element of the prioritize requirements task. BABOK 5.3.4.2
+
+D. Stakeholders are sometimes rigid, and priorities are unlikely to shift as the context evolves and as more information becomes available.
+   ❌ SAI
+   📝 Priorities may shift as context evolves. BABOK 5.3.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Stakeholders may intentionally indicate priority to influence the result to their desired outcome.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is one of the challenges of prioritization which is an element of the prioritize requirements task. BABOK 5.3.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+When prioritizing requirements, different stakeholders focus on different areas of the prepared requirements package. What does the Implementation SME focus on?
+
+A. Uses the prioritization as input into the project plan and into the allocation of requirements to releases.
+   ❌ SAI
+   📝 The Project Manager, not Implementation SME, uses the prioritization as input into the project plan and into the allocation of requirements to releases. BABOK 5.3.7
+
+B. Verifies that the prioritization is consistent with legal and regulatory constraints.
+   ❌ SAI
+   📝 A Regulator, not Implementation SME, verifies that the prioritization is consistent with legal and regulatory constraints. BABOK 5.3.7
+
+C. Determines the technical dependencies of the project. They may also negotiate to have requirement prioritizations changed based on technical constraints.
+   ✅ ĐÚNG
+   📝 An Implementation Subject Matter Expert "provides input relating to technical dependencies and can negotiate to have the prioritization changed based on technical constraints." BABOK 5.3.7
+
+D. Verifies that the prioritized requirements will deliver value from a customer or end-user perspective. The customer can also negotiate to have the prioritization changed based on relative value.
+   ❌ SAI
+   📝 The Customer, not Implementation SME, verifies that the prioritized requirements will deliver value from a customer or end-user perspective. The customer can also negotiate to have the prioritization changed based on relative value. BABOK 5.3.7
+
+➤ ĐÁP ÁN ĐÚNG: Determines the technical dependencies of the project. They may also negotiate to have requirement prioritizations changed based on technical constraints.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+An Implementation Subject Matter Expert "provides input relating to technical dependencies and can negotiate to have the prioritization changed based on technical constraints." BABOK 5.3.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+Which statement best describes why the stakeholder list is important to prioritizing requirements?
+
+A. It ensures all stakeholders have been involved in the requirements management plan, which provides the process for prioritization of requirements.
+   ❌ SAI
+   📝 A tempting answer, but the list itself may be incomplete and it won't ensure all stakeholders are involved.
+
+B. It indicates levels of power to determine which stakeholders are needed for prioritization.
+   ✅ ĐÚNG
+   📝 The list of requirements approval stakeholders verifies that the prioritized requirements will deliver value; facilitates negotiations to have the prioritization changed based on relative value; provides input relating to technical dependencies; verifies that the prioritization is consistent with legal; and more. BABOK 5.3.7
+
+C. It helps the project manager create the meeting invitation for the requirements prioritization meeting.
+   ❌ SAI
+   📝 This may be a practical use, but not the best answer.
+
+D. It provides the organizational structure that will be impacted by the solution.
+   ❌ SAI
+   📝 This is a true statement, but is not specific enough to prioritization.
+
+➤ ĐÁP ÁN ĐÚNG: It indicates levels of power to determine which stakeholders are needed for prioritization.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The list of requirements approval stakeholders verifies that the prioritized requirements will deliver value; facilitates negotiations to have the prioritization changed based on relative value; provides input relating to technical dependencies; verifies that the prioritization is consistent with legal; and more. BABOK 5.3.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+You are a business analyst working on a regulatory project. The lead business analyst asks you to prioritize requirements in order to meet the regulatory demands imposed on the organization over other stakeholder interests. What factor is influencing this prioritization?
+
+A. Governance
+   ❌ SAI
+   📝 Governance is not a stated prioritization factor. BABOK 5.3.4.1
+
+B. Penalty
+   ✅ ĐÚNG
+   📝 Penalty is a prioritization factor that speaks to the consequences from not implementing a given requirement (e.g., regulatory fines). BABOK 5.3.4.1
+
+C. Risk
+   ❌ SAI
+   📝 This is a possible answer considering there could be a risk of non-compliance. However, there is a better answer. BABOK 5.3.4.1
+
+D. Time sensitivity
+   ❌ SAI
+   📝 This refers to the 'best before' date of the requirement, after which the implementation of the requirement loses significant value. Hence not the right answer. BABOK 5.3.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Penalty
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Penalty is a prioritization factor that speaks to the consequences from not implementing a given requirement (e.g., regulatory fines). BABOK 5.3.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+Which of the following is NOT a consideration in the prioritize requirements task?
+
+A. Basis for prioritization
+   ❌ SAI
+   📝 Factors that can be used as basis for prioritization include benefit, penalty, cost, risk, dependencies, time sensitivity, stability, regulatory or policy compliance. BABOK 5.3.4.1
+
+B. Challenges of prioritization
+   ❌ SAI
+   📝 Each stakeholder may value something different and so this is a consideration of prioritizing requirements. BABOK 5.3.4.2
+
+C. Benefits of prioritization
+   ✅ ĐÚNG
+   📝 This is technically correct, but it falls under "basis for prioritization" instead of being its own element. The question is essentially asking which answer is not an element of prioritizing requirements and this is the one. BABOK 5.3.4.1
+
+D. Continual prioritization
+   ❌ SAI
+   📝 Priorities may shift throughout the project life cycle and so this is a consideration of prioritizing requirements. This is a consideration of prioritizing requirements and not the correct answer. BABOK 5.3.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Benefits of prioritization
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is technically correct, but it falls under "basis for prioritization" instead of being its own element. The question is essentially asking which answer is not an element of prioritizing requirements and this is the one. BABOK 5.3.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Bill is a BA for DuSheune Enterprises, a highly competitive marketing and research firm. He is starting to prioritize the requirements of his project. What are the inputs of the prioritization process?
+
+A. Maintained requirements and designs
+   ❌ SAI
+   📝 The Maintain Requirements task comes before Prioritize Requirements in the BABOK. While it may appear that maintained requirements and designs would be the input into prioritize requirements, this is not the case. Any requirements and designs in the form of text, matrices or diagrams are ready to prioritize. BABOK Figure 5.3.1 and 5.3.3
+
+B. Approved requirements and designs
+   ❌ SAI
+   📝 Approved requirements and designs are not inputs into the Prioritize Requirements task. BABOK Figure 5.3.1 and 5.3.3
+
+C. Requirements and designs
+   ✅ ĐÚNG
+   📝 Any requirements and design in the form of text, matrices or diagrams are ready to prioritize. BABOK Figure 5.3.1 and 5.3.3
+
+D. Verified requirements and designs
+   ❌ SAI
+   📝 Verified requirements and designs are not inputs into the Prioritize Requirements task. BABOK Figure 5.3.1 and 5.3.3
+
+➤ ĐÁP ÁN ĐÚNG: Requirements and designs
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Any requirements and design in the form of text, matrices or diagrams are ready to prioritize. BABOK Figure 5.3.1 and 5.3.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+Three of the following statements are inaccurate about prioritization. Which one is accurate?
+
+A. Stakeholders may intentionally indicate priority to influence the result to their desired outcome.
+   ✅ ĐÚNG
+   📝 This is one of the challenges of prioritization which is an element of the prioritize requirements task. BABOK 5.3.4.2
+
+B. Stakeholders are sometimes rigid, and priorities are unlikely to shift as the context evolves and as more information becomes available.
+   ❌ SAI
+   📝 Priorities may shift as context evolves. BABOK 5.3.4.3
+
+C. Prioritization is an assessment of absolute value. Each stakeholder may value something different.
+   ❌ SAI
+   📝 Prioritization is an assessment of relative value as each stakeholder may have different values. BABOK 5.3.4.2
+
+D. Once the implementation team has provided the cost of each requirement, requirements are baselined and prioritization is complete.
+   ❌ SAI
+   📝 Stakeholders may reprioritize yet again as a result of learning the costs. Requirements are baselined once they're detailed and approved vs. costed. BABOK 5.3.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Stakeholders may intentionally indicate priority to influence the result to their desired outcome.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is one of the challenges of prioritization which is an element of the prioritize requirements task. BABOK 5.3.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Nate is the senior business analyst for the NRO Company. He is working with Rod on completing the requirements prioritization of all the identified requirements. Why would Rod and Nate complete requirements prioritization?
+
+A. To determine which requirements carry the most risk.
+   ❌ SAI
+   📝 While risk may be a factor to be considered in prioritizing the requirement, it is not, by itself, a justification for completing the prioritization task. BABOK 5.3.4
+
+B. To determine which requirements could be changed.
+   ❌ SAI
+   📝 This is not a justification for completing the prioritization task. BABOK 5.3.2
+
+C. To determine which requirements should be completed first.
+   ✅ ĐÚNG
+   📝 This is a justification for completing the prioritization task. BABOK 5.3.2
+
+D. To determine who created what requirement based on their position in the organization.
+   ❌ SAI
+   📝 This is not a justification for completing the prioritization task. BABOK 5.3.2
+
+➤ ĐÁP ÁN ĐÚNG: To determine which requirements should be completed first.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a justification for completing the prioritization task. BABOK 5.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+Bill is a BA for DuSheune Enterprises, a highly competitive marketing and research firm. He is starting to prioritize the requirements of his project. What are the inputs of the prioritization process?
+
+A. Maintained requirements and designs
+   ❌ SAI
+   📝 The Maintain Requirements task comes before Prioritize Requirements in the BABOK. While it may appear that maintained requirements and designs would be the input into prioritize requirements, this is not the case. Any requirements and designs in the form of text, matrices or diagrams are ready to prioritize. BABOK Figure 5.3.1 and 5.3.3
+
+B. Approved requirements and designs
+   ❌ SAI
+   📝 Approved requirements and designs are not inputs into the Prioritize Requirements task. BABOK Figure 5.3.1 and 5.3.3
+
+C. Requirements and designs
+   ✅ ĐÚNG
+   📝 Any requirements and design in the form of text, matrices or diagrams are ready to prioritize. BABOK Figure 5.3.1 and 5.3.3
+
+D. Verified requirements and designs
+   ❌ SAI
+   📝 Verified requirements and designs are not inputs into the Prioritize Requirements task. BABOK Figure 5.3.1 and 5.3.3
+
+➤ ĐÁP ÁN ĐÚNG: Requirements and designs
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Any requirements and design in the form of text, matrices or diagrams are ready to prioritize. BABOK Figure 5.3.1 and 5.3.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+Which of the following is NOT a guideline or tool for the task of prioritize requirements?
+
+A. Change strategy
+   ❌ SAI
+   📝 Provides information on costs, timelines, and value realization which are used to determine priority of requirements. BABOK 5.3.5
+
+B. System architecture
+   ✅ ĐÚNG
+   📝 System architecture is not listed as a guideline or tool. System architecture defines the structure, behavior, and views of a system. However, requirements architecture is listed as a guideline or tool for prioritize requirements task. Requirements architecture is utilized to understand the relationship with other requirements and the work products. BABOK 5.3.5
+
+C. Business constraints
+   ❌ SAI
+   📝 Regulatory statutes, contractual obligations, and business policies may define priorities. BABOK 5.3.5
+
+D. Domain knowledge
+   ❌ SAI
+   📝 Knowledge and expertise of the business domain needed to support prioritization. BABOK 5.3.5
+
+➤ ĐÁP ÁN ĐÚNG: System architecture
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+System architecture is not listed as a guideline or tool. System architecture defines the structure, behavior, and views of a system. However, requirements architecture is listed as a guideline or tool for prioritize requirements task. Requirements architecture is utilized to understand the relationship with other requirements and the work products. BABOK 5.3.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+Which of the following stakeholders participate in the prioritization of requirements:
+
+A. Customer, implementation subject matter expert, sponsor, and project manager
+   ✅ ĐÚNG
+   📝 This is a subset of the stakeholders involved in requirements prioritization. BABOK 5.3.7
+
+B. Domain subject matter expert, implementation subject matter expert, and project team
+   ❌ SAI
+   📝 The Domain SME and Project team is not involved in prioritization. BABOK 5.3.7
+
+C. Quality assurance subject matter expert, Implementation subject matter expert, and project manager
+   ❌ SAI
+   📝 QA SME is an invented stakeholder type (and not involved in prioritization). BABOK 5.3.7
+
+D. Customer, end user, tester, and Project manager
+   ❌ SAI
+   📝 Testers are not involved in prioritization. BABOK 5.3.7
+
+➤ ĐÁP ÁN ĐÚNG: Customer, implementation subject matter expert, sponsor, and project manager
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is a subset of the stakeholders involved in requirements prioritization. BABOK 5.3.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+Which factor influences the requirements prioritization process?
+
+A. Legality
+   ❌ SAI
+   📝 Legality per se is not listed as a factor that influences requirements prioritization. Regulatory compliance is listed as one, but that is a subset of legality. BABOK 5.3.4.1
+
+B. Project personnel
+   ❌ SAI
+   📝 Project personnel is not listed as an influence in requirements prioritization. BABOK 5.3.4.1
+
+C. System development
+   ❌ SAI
+   📝 System Development does not influence requirements prioritization. BABOK 5.3.4.1
+
+D. Penalty
+   ✅ ĐÚNG
+   📝 One of eight factors, Penalty in prioritization is about understanding the consequences (i.e., penalty) of not implementing that requirement. BABOK 5.3.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Penalty
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+One of eight factors, Penalty in prioritization is about understanding the consequences (i.e., penalty) of not implementing that requirement. BABOK 5.3.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+What is the purpose of prioritizing requirements?
+
+A. To determine which requirements carry the most risk.
+   ❌ SAI
+   📝 This is one of the factors that influences prioritization, but it is not the purpose of prioritization. BABOK 5.3.4.1
+
+B. To ensure requirements align to one another and manage the effects of any proposed change.
+   ❌ SAI
+   📝 This is the purpose of tracing requirements. BABOK 5.1.1
+
+C. To rank requirements in the order of relative importance.
+   ✅ ĐÚNG
+   📝 Prioritization is a critical exercise that seeks to ensure the maximum value is achieved. BABOK 5.3.1 and 5.3.2
+
+D. To determine which requirements should be completed first.
+   ❌ SAI
+   📝 This is an outcome of prioritizing requirements, but it is not the purpose of prioritization. BABOK 5.3.1 and 5.3.2
+
+➤ ĐÁP ÁN ĐÚNG: To rank requirements in the order of relative importance.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Prioritization is a critical exercise that seeks to ensure the maximum value is achieved. BABOK 5.3.1 and 5.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+Which of the following stakeholders will be more focused on prioritization being consistent with legal and regulatory constraints?
+
+A. Project manager
+   ❌ SAI
+   📝 The project manager uses prioritization as input into the project plan and into the allocation of of requirements to releases. BABOK 5.3.7
+
+B. Sponsor
+   ❌ SAI
+   📝 The sponsor verifies that the prioritized requirements will deliver value from an organization perspective. BABOK 5.3.7
+
+C. Regulator
+   ✅ ĐÚNG
+   📝 A regulator verifies that the prioritization is consistent with legal and regulatory constraints. BABOK 5.3.7
+
+D. Implementation SME
+   ❌ SAI
+   📝 An Implementation SME provides input relating to technical dependencies. BABOK 5.3.7
+
+➤ ĐÁP ÁN ĐÚNG: Regulator
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A regulator verifies that the prioritization is consistent with legal and regulatory constraints. BABOK 5.3.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+Which of the following guidelines provides information on costs, timelines, and value realization which are used to determine the priority of requirements?
+
+A. Change strategy
+   ✅ ĐÚNG
+   📝 This is the stated definition for this guideline in the prioritize requirements task. BABOK 5.3.5
+
+B. Domain knowledge
+   ❌ SAI
+   📝 This guideline refers to the knowledge and expertise of the business domain needed to support prioritization. BABOK 5.3.5
+
+C. Business objectives
+   ❌ SAI
+   📝 This is not a guideline or tool for the prioritize requirements task. BABOK 5.3.5
+
+D. Business constraints
+   ❌ SAI
+   📝 This guideline refers to regulatory statutes, contractual obligations and business policies that may define requirements. BABOK 5.3.5
+
+➤ ĐÁP ÁN ĐÚNG: Change strategy
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the stated definition for this guideline in the prioritize requirements task. BABOK 5.3.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+McKenna is working with stakeholders to prioritize requirements. Initially stakeholders prioritized requirements based upon the perceived benefits. Then, technical personnel re-prioritized them due to technical dependencies and constraints. Business stakeholders then re-prioritized them again once they received the cost of implementation per requirement. What element is this describing?
+
+A. Basis for prioritization
+   ❌ SAI
+   📝 This element in the prioritize requirements task refers to factors that influence prioritization such as benefit, penalty, cost, risk, dependencies, time sensitivity, stability, regulatory or policy compliance. BABOK 5.3.4.1
+
+B. Rationale for prioritization
+   ❌ SAI
+   📝 The scenario does speak to the rationale for the multiple re-prioritization efforts; however, it is not a stated element. BABOK 5.3.4.3
+
+C. Challenges of prioritization
+   ❌ SAI
+   📝 This element in the prioritize requirements task speaks more to stakeholders wanting to further their own agendas. BABOK 5.3.4.2
+
+D. Continual prioritization
+   ✅ ĐÚNG
+   📝 Continual prioritization is done when prioritizing requirements because priorities may shift as the context evolves and as more information becomes available. BABOK 5.3.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Continual prioritization
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Continual prioritization is done when prioritizing requirements because priorities may shift as the context evolves and as more information becomes available. BABOK 5.3.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+Which of the following is NOT a guideline or tool for the task of prioritize requirements?
+
+A. Domain knowledge
+   ❌ SAI
+   📝 Knowledge and expertise of the business domain needed to support prioritization. BABOK 5.3.5
+
+B. System architecture
+   ✅ ĐÚNG
+   📝 System architecture is not listed as a guideline or tool. System architecture defines the structure, behavior, and views of a system. However, requirements architecture is listed as a guideline or tool for prioritize requirements task. Requirements architecture is utilized to understand the relationship with other requirements and the work products. BABOK 5.3.5
+
+C. Business constraints
+   ❌ SAI
+   📝 Regulatory statutes, contractual obligations, and business policies may define priorities. BABOK 5.3.5
+
+D. Change strategy
+   ❌ SAI
+   📝 Provides information on costs, timelines, and value realization which are used to determine priority of requirements. BABOK 5.3.5
+
+➤ ĐÁP ÁN ĐÚNG: System architecture
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+System architecture is not listed as a guideline or tool. System architecture defines the structure, behavior, and views of a system. However, requirements architecture is listed as a guideline or tool for prioritize requirements task. Requirements architecture is utilized to understand the relationship with other requirements and the work products. BABOK 5.3.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+When prioritizing requirements, different stakeholders focus on different areas of the prepared requirements package. What does the Implementation SME focus on?
+
+A. Verifies that the prioritization is consistent with legal and regulatory constraints.
+   ❌ SAI
+   📝 A Regulator, not Implementation SME, verifies that the prioritization is consistent with legal and regulatory constraints. BABOK 5.3.7
+
+B. Uses the prioritization as input into the project plan and into the allocation of requirements to releases.
+   ❌ SAI
+   📝 The Project Manager, not Implementation SME, uses the prioritization as input into the project plan and into the allocation of requirements to releases. BABOK 5.3.7
+
+C. Verifies that the prioritized requirements will deliver value from a customer or end-user perspective. The customer can also negotiate to have the prioritization changed based on relative value.
+   ❌ SAI
+   📝 The Customer, not Implementation SME, verifies that the prioritized requirements will deliver value from a customer or end-user perspective. The customer can also negotiate to have the prioritization changed based on relative value. BABOK 5.3.7
+
+D. Determines the technical dependencies of the project. They may also negotiate to have requirement prioritizations changed based on technical constraints.
+   ✅ ĐÚNG
+   📝 An Implementation Subject Matter Expert "provides input relating to technical dependencies and can negotiate to have the prioritization changed based on technical constraints." BABOK 5.3.7
+
+➤ ĐÁP ÁN ĐÚNG: Determines the technical dependencies of the project. They may also negotiate to have requirement prioritizations changed based on technical constraints.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+An Implementation Subject Matter Expert "provides input relating to technical dependencies and can negotiate to have the prioritization changed based on technical constraints." BABOK 5.3.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+After prioritizing some requirements, Amanda provides a stakeholder with a list of those prioritized requirements. This stakeholder verifies that the prioritized requirements will provide value from an organizational perspective. Who is this stakeholder?
+
+A. Customer
+   ❌ SAI
+   📝 The Customer verifies the prioritized requirements from a customer perspective for value. BABOK 5.3.7
+
+B. Sponsor
+   ✅ ĐÚNG
+   📝 The Sponsor verifies the prioritized requirements from an organizational perspective for value. BABOK 5.3.7
+
+C. Implementation Subject Matter Expert
+   ❌ SAI
+   📝 The Implementation SME verifies the prioritized requirements from a technical and interface perspective for value. BABOK 5.3.7
+
+D. End User
+   ❌ SAI
+   📝 The End User verifies the prioritized requirements from an end-user perspective for value. BABOK 5.3.7
+
+➤ ĐÁP ÁN ĐÚNG: Sponsor
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The Sponsor verifies the prioritized requirements from an organizational perspective for value. BABOK 5.3.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+As the business analysis activity advances during an initiative, major budgetary constraints suddenly arise. The sponsor asks the team to focus their effort only on the most critical requirements. What should the Business Analyst do?
+
+A. Prioritize Requirements
+   ✅ ĐÚNG
+   📝 The purpose of Prioritize Requirements is to rank requirements in the order of relative importance. BABOK 5.3.2
+
+B. Verify Requirements
+   ❌ SAI
+   📝 Verify Requirements ensures that a set of requirements or designs has been developed in enough detail to be usable by a particular stakeholder, is internally consistent, and is of high quality. BABOK 7.2.1
+
+C. Organize Requirements
+   ❌ SAI
+   📝 Organize Requirements is a task name from BABOK 2.0. The 3.0 task is Define Requirements Architecture, and it is the process of placing requirements into structures relevant to different stakeholders. BABOK 7.4.2
+
+D. Validate Requirements
+   ❌ SAI
+   📝 Validate Requirements ensures that a set of requirements or designs delivers business value and supports the organization's goals and objectives. BABOK 7.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Prioritize Requirements
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The purpose of Prioritize Requirements is to rank requirements in the order of relative importance. BABOK 5.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+You are the business analyst for your organization. The executive team has asked you to prioritize requirements based on the advantage that accrues to stakeholders as a result of requirement implementation, as measured against the goals and objectives for the change. Which of the following would you use as the basis for the executive team prioritization?
+
+A. Stability
+   ❌ SAI
+   📝 This is the likelihood that the requirement will change, which may result in the requirement having a lower priority. BABOK 5.3.4.1
+
+B. Cost
+   ❌ SAI
+   📝 This is the effort and resources needed to implement the requirement and not the advantage that accrues. BABOK 5.3.4.1
+
+C. Benefit
+   ✅ ĐÚNG
+   📝 The benefit provided can refer to a specific functionality, desired quality, or strategic goal or business objective. BABOK 5.3.4.1
+
+D. Potential value
+   ❌ SAI
+   📝 Potential value is not listed as a basis of prioritization in the BABOK. BABOK 5.3.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Benefit
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The benefit provided can refer to a specific functionality, desired quality, or strategic goal or business objective. BABOK 5.3.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+Continual prioritization is best described by which of the following statements:
+
+A. Requirements are prioritized and agreed upon by relevant stakeholders as defined in the business analysis planning and monitoring knowledge area.
+   ❌ SAI
+   📝 This is the definition for Basis for Prioritization. BABOK 5.3.4.1
+
+B. Stakeholders may also have difficulty characterizing any requirement as a lower priority, and this may impact the ability to make necessary trade-offs.
+   ❌ SAI
+   📝 This is the definition for Challenge of Prioritization. BABOK 5.3.4.2
+
+C. The chance that the requirement cannot deliver the potential value, or cannot be met at all. This may include many factors such as the difficulty of implementing a requirement, or the chance that stakeholders will not accept a solution component.
+   ❌ SAI
+   📝 This is the definition for Basis of Prioritization, the factor of Risk. BABOK 5.3.4.1
+
+D. Initially, prioritization is done at a higher level of abstraction. As the requirements are further refined, prioritization is done at a more granular level and will incorporate additional bases for prioritization as they become appropriate.
+   ✅ ĐÚNG
+   📝 This is the definition for Continual Prioritization. BABOK 5.3.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Initially, prioritization is done at a higher level of abstraction. As the requirements are further refined, prioritization is done at a more granular level and will incorporate additional bases for prioritization as they become appropriate.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the definition for Continual Prioritization. BABOK 5.3.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+What are the outputs that you are looking to achieve by prioritizing requirements?
+
+A. Requirements (Approved), Design (Prioritized)
+   ❌ SAI
+   📝 Both requirements and designs should be prioritized. BABOK Figure 5.3.1 and Section 5.3.8
+
+B. Requirements (Prioritized), Design (Prioritized)
+   ✅ ĐÚNG
+   📝 As depicted in BABOK Figure 5.3.1 and Section 5.3.8
+
+C. Requirements (Prioritized), Design (Approved)
+   ❌ SAI
+   📝 Both requirements and designs should be prioritized. BABOK Figure 5.3.1 and Section 5.3.8
+
+D. Requirements (Designed), Design (Prioritized)
+   ❌ SAI
+   📝 Both requirements and designs should be prioritized. BABOK Figure 5.3.1 and Section 5.3.8
+
+➤ ĐÁP ÁN ĐÚNG: Requirements (Prioritized), Design (Prioritized)
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+As depicted in BABOK Figure 5.3.1 and Section 5.3.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+McKenna is working with stakeholders to prioritize requirements. Initially stakeholders prioritized requirements based upon the perceived benefits. Then, technical personnel re-prioritized them due to technical dependencies and constraints. Business stakeholders then re-prioritized them again once they received the cost of implementation per requirement. What element is this describing?
+
+A. Challenges of prioritization
+   ❌ SAI
+   📝 This element in the prioritize requirements task speaks more to stakeholders wanting to further their own agendas. BABOK 5.3.4.2
+
+B. Rationale for prioritization
+   ❌ SAI
+   📝 The scenario does speak to the rationale for the multiple re-prioritization efforts; however, it is not a stated element. BABOK 5.3.4.3
+
+C. Basis for prioritization
+   ❌ SAI
+   📝 This element in the prioritize requirements task refers to factors that influence prioritization such as benefit, penalty, cost, risk, dependencies, time sensitivity, stability, regulatory or policy compliance. BABOK 5.3.4.1
+
+D. Continual prioritization
+   ✅ ĐÚNG
+   📝 Continual prioritization is done when prioritizing requirements because priorities may shift as the context evolves and as more information becomes available. BABOK 5.3.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Continual prioritization
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Continual prioritization is done when prioritizing requirements because priorities may shift as the context evolves and as more information becomes available. BABOK 5.3.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+Which of the following sets include typical factors that influence requirements prioritization?
+
+A. Urgency, penalty, cost, risk, dependencies, time sensitivity, impact, regulatory or policy compliance
+   ❌ SAI
+   📝 Urgency and impact are not factors influencing prioritization, and benefit and stability are missing. BABOK 5.3.4.1
+
+B. Urgency, penalty, cost, risk, dependencies, time sensitivity, stability, regulatory or policy compliance
+   ❌ SAI
+   📝 Urgency in not one of the factors and benefit is missing. BABOK 5.3.4.1
+
+C. Benefit, penalty, cost, risk, dependencies, time sensitivity, stability, regulatory or policy compliance
+   ✅ ĐÚNG
+   📝 These are the stated factors which influence prioritization efforts. BABOK 5.3.4.1
+
+D. Benefit, penalty, cost, risk, dependencies, time sensitivity, regulatory or policy compliance
+   ❌ SAI
+   📝 Stability is missing. BABOK 5.3.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Benefit, penalty, cost, risk, dependencies, time sensitivity, stability, regulatory or policy compliance
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the stated factors which influence prioritization efforts. BABOK 5.3.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+Which of the following sets include typical factors that influence requirements prioritization?
+
+A. Benefit, penalty, cost, risk, dependencies, time sensitivity, regulatory or policy compliance
+   ❌ SAI
+   📝 Stability is missing. BABOK 5.3.4.1
+
+B. Urgency, penalty, cost, risk, dependencies, time sensitivity, stability, regulatory or policy compliance
+   ❌ SAI
+   📝 Urgency in not one of the factors and benefit is missing. BABOK 5.3.4.1
+
+C. Urgency, penalty, cost, risk, dependencies, time sensitivity, impact, regulatory or policy compliance
+   ❌ SAI
+   📝 Urgency and impact are not factors influencing prioritization, and benefit and stability are missing. BABOK 5.3.4.1
+
+D. Benefit, penalty, cost, risk, dependencies, time sensitivity, stability, regulatory or policy compliance
+   ✅ ĐÚNG
+   📝 These are the stated factors which influence prioritization efforts. BABOK 5.3.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Benefit, penalty, cost, risk, dependencies, time sensitivity, stability, regulatory or policy compliance
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the stated factors which influence prioritization efforts. BABOK 5.3.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+What are the outputs that you are looking to achieve by prioritizing requirements?
+
+A. Requirements (Approved), Design (Prioritized)
+   ❌ SAI
+   📝 Both requirements and designs should be prioritized. BABOK Figure 5.3.1 and Section 5.3.8
+
+B. Requirements (Designed), Design (Prioritized)
+   ❌ SAI
+   📝 Both requirements and designs should be prioritized. BABOK Figure 5.3.1 and Section 5.3.8
+
+C. Requirements (Prioritized), Design (Prioritized)
+   ✅ ĐÚNG
+   📝 As depicted in BABOK Figure 5.3.1 and Section 5.3.8
+
+D. Requirements (Prioritized), Design (Approved)
+   ❌ SAI
+   📝 Both requirements and designs should be prioritized. BABOK Figure 5.3.1 and Section 5.3.8
+
+➤ ĐÁP ÁN ĐÚNG: Requirements (Prioritized), Design (Prioritized)
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+As depicted in BABOK Figure 5.3.1 and Section 5.3.8
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 170 - 30 câu FULL EXPLAIN

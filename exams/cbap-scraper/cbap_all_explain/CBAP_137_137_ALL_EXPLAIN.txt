@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 137 ===
+📚 Tên: TopicSet 137
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+Which techniques would work best to confirm your elicitation results?
+
+A. Document analysis, interviews, reviews, workshops
+   ✅ ĐÚNG
+   📝 These are the stated techniques for confirming elicitation results. BABOK 4.3.6
+
+B. Document analysis, interviews, reviews, process modeling
+   ❌ SAI
+   📝 Process modeling is not a listed technique for this task. BABOK 4.3.6
+
+C. Document analysis, interviews, reviews, requirements model
+   ❌ SAI
+   📝 A requirements model is an artifact vs. a technique. BABOK 4.3.6
+
+D. Document analysis, interviews, process modeling, workshops
+   ❌ SAI
+   📝 Process modeling is not a listed technique for this task. BABOK 4.3.6
+
+➤ ĐÁP ÁN ĐÚNG: Document analysis, interviews, reviews, workshops
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the stated techniques for confirming elicitation results. BABOK 4.3.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+Which techniques would work best to confirm your elicitation results?
+
+A. Document analysis, interviews, reviews, workshops
+   ✅ ĐÚNG
+   📝 These are the stated techniques for confirming elicitation results. BABOK 4.3.6
+
+B. Document analysis, interviews, process modeling, workshops
+   ❌ SAI
+   📝 Process modeling is not a listed technique for this task. BABOK 4.3.6
+
+C. Document analysis, interviews, reviews, process modeling
+   ❌ SAI
+   📝 Process modeling is not a listed technique for this task. BABOK 4.3.6
+
+D. Document analysis, interviews, reviews, requirements model
+   ❌ SAI
+   📝 A requirements model is an artifact vs. a technique. BABOK 4.3.6
+
+➤ ĐÁP ÁN ĐÚNG: Document analysis, interviews, reviews, workshops
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the stated techniques for confirming elicitation results. BABOK 4.3.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+When is the best time for a business analyst to specify and model requirements during the elicitation and collaboration knowledge area?
+
+A. While preparing the business analysis information package as an input to communicate business analysis information.
+   ❌ SAI
+   📝 This is too narrow an answer. Requirements can be specified and modeled whenever they would add value to elicitation and collaboration tasks. BABOK 4.3.4.2
+
+B. While executing confirm elicitation results.
+   ❌ SAI
+   📝 This is too narrow an answer. Requirements can be specified and modeled whenever they would add value to elicitation and collaboration tasks. BABOK 4.3.4.2
+
+C. Requirements should not be specified and modeled until after they are confirmed.
+   ❌ SAI
+   📝 According to the BABOK, this isn't true. Requirements can be specified and modeled whenever they would add value to elicitation and collaboration tasks. BABOK 4.3.4.2
+
+D. Whenever it would add value to elicitation and collaboration tasks.
+   ✅ ĐÚNG
+   📝 The BABOK states specifically that models may improve collaboration. BABOK 4.3.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Whenever it would add value to elicitation and collaboration tasks.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The BABOK states specifically that models may improve collaboration. BABOK 4.3.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+Which stakeholders participate in confirming elicitation results?
+
+A. The project team
+   ❌ SAI
+   📝 The project team would only participate if its members are categorized as "domain subject matter experts"; that is, they need substantial experience and knowledge bout the information elicited. There is no evidence in the question that this is so. BABOK 4.3.7
+
+B. The BA
+   ❌ SAI
+   📝 No, the BA collaborates and documents elicitation results, but relevant stakeholders need to confirm them. BABOK 4.3.7
+
+C. Stakeholders with enough authority to approve requirements
+   ❌ SAI
+   📝 The question is asking about "confirming" rather than "approving" elicited requirements. Stakeholders with approval authority may not be knowledgeable enough about the domain to approve requirements. BABOK 4.3.7
+
+D. Stakeholders who have participated in elicitation tasks
+   ✅ ĐÚNG
+   📝 Of the four responses, this is the best choice as they could be considered "domain subject matter experts." BABOK 4.3.7
+
+➤ ĐÁP ÁN ĐÚNG: Stakeholders who have participated in elicitation tasks
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Of the four responses, this is the best choice as they could be considered "domain subject matter experts." BABOK 4.3.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+When is the best time for a business analyst to specify and model requirements during the elicitation and collaboration knowledge area?
+
+A. While preparing the business analysis information package as an input to communicate business analysis information.
+   ❌ SAI
+   📝 This is too narrow an answer. Requirements can be specified and modeled whenever they would add value to elicitation and collaboration tasks. BABOK 4.3.4.2
+
+B. Whenever it would add value to elicitation and collaboration tasks.
+   ✅ ĐÚNG
+   📝 The BABOK states specifically that models may improve collaboration. BABOK 4.3.4.2
+
+C. Requirements should not be specified and modeled until after they are confirmed.
+   ❌ SAI
+   📝 According to the BABOK, this isn't true. Requirements can be specified and modeled whenever they would add value to elicitation and collaboration tasks. BABOK 4.3.4.2
+
+D. While executing confirm elicitation results.
+   ❌ SAI
+   📝 This is too narrow an answer. Requirements can be specified and modeled whenever they would add value to elicitation and collaboration tasks. BABOK 4.3.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Whenever it would add value to elicitation and collaboration tasks.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The BABOK states specifically that models may improve collaboration. BABOK 4.3.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+Which techniques would work best to confirm your elicitation results?
+
+A. Document analysis, interviews, reviews, workshops
+   ✅ ĐÚNG
+   📝 These are the stated techniques for confirming elicitation results. BABOK 4.3.6
+
+B. Document analysis, interviews, reviews, requirements model
+   ❌ SAI
+   📝 A requirements model is an artifact vs. a technique. BABOK 4.3.6
+
+C. Document analysis, interviews, process modeling, workshops
+   ❌ SAI
+   📝 Process modeling is not a listed technique for this task. BABOK 4.3.6
+
+D. Document analysis, interviews, reviews, process modeling
+   ❌ SAI
+   📝 Process modeling is not a listed technique for this task. BABOK 4.3.6
+
+➤ ĐÁP ÁN ĐÚNG: Document analysis, interviews, reviews, workshops
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the stated techniques for confirming elicitation results. BABOK 4.3.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+Which of the following statements best describes the confirm elicitation results task?
+
+A. To document stated information along with stakeholder concerns.
+   ❌ SAI
+   📝 Documenting information specific to the elicitation activity is a part of the conduct elicitation task. BABOK 4.2.4.2
+
+B. To check the information gathered during an elicitation session for accuracy and consistency with other information.
+   ✅ ĐÚNG
+   📝 This is the description of confirm elicitation results from the BABOK. It includes going back to the source of the information for review to ensure accuracy and comparing results against other elicitation results to ensure consistency. BABOK 4.3.1 and 4.3.4
+
+C. To compare elicitation results against other elicitation results to ensure consistency.
+   ❌ SAI
+   📝 This is a great second choice answer as it is correct but only part of the task description. The BA must also go back to the source to review documented information for accuracy. BABOK 4.3.4.1
+
+D. To ask stakeholders involved in the elicitation session to review the documented information for accuracy.
+   ❌ SAI
+   📝 This is a great second choice answer as it is correct but only part of the task description. The BA must also compare elicitation results against other elicitation results to ensure consistency. BABOK 4.3.4.2
+
+➤ ĐÁP ÁN ĐÚNG: To check the information gathered during an elicitation session for accuracy and consistency with other information.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the description of confirm elicitation results from the BABOK. It includes going back to the source of the information for review to ensure accuracy and comparing results against other elicitation results to ensure consistency. BABOK 4.3.1 and 4.3.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+Which stakeholders participate in confirming elicitation results?
+
+A. Stakeholders with enough authority to approve requirements
+   ❌ SAI
+   📝 The question is asking about "confirming" rather than "approving" elicited requirements. Stakeholders with approval authority may not be knowledgeable enough about the domain to approve requirements. BABOK 4.3.7
+
+B. Stakeholders who have participated in elicitation tasks
+   ✅ ĐÚNG
+   📝 Of the four responses, this is the best choice as they could be considered "domain subject matter experts." BABOK 4.3.7
+
+C. The BA
+   ❌ SAI
+   📝 No, the BA collaborates and documents elicitation results, but relevant stakeholders need to confirm them. BABOK 4.3.7
+
+D. The project team
+   ❌ SAI
+   📝 The project team would only participate if its members are categorized as "domain subject matter experts"; that is, they need substantial experience and knowledge bout the information elicited. There is no evidence in the question that this is so. BABOK 4.3.7
+
+➤ ĐÁP ÁN ĐÚNG: Stakeholders who have participated in elicitation tasks
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Of the four responses, this is the best choice as they could be considered "domain subject matter experts." BABOK 4.3.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Which techniques would work best to confirm your elicitation results?
+
+A. Document analysis, interviews, reviews, requirements model
+   ❌ SAI
+   📝 A requirements model is an artifact vs. a technique. BABOK 4.3.6
+
+B. Document analysis, interviews, reviews, process modeling
+   ❌ SAI
+   📝 Process modeling is not a listed technique for this task. BABOK 4.3.6
+
+C. Document analysis, interviews, reviews, workshops
+   ✅ ĐÚNG
+   📝 These are the stated techniques for confirming elicitation results. BABOK 4.3.6
+
+D. Document analysis, interviews, process modeling, workshops
+   ❌ SAI
+   📝 Process modeling is not a listed technique for this task. BABOK 4.3.6
+
+➤ ĐÁP ÁN ĐÚNG: Document analysis, interviews, reviews, workshops
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are the stated techniques for confirming elicitation results. BABOK 4.3.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+You have been asked to confirm your results after a requirements workshop. Why is that important?
+
+A. To ensure the requirements are accurate and consistent with other information.
+   ✅ ĐÚNG
+   📝 This is the stated purpose of confirming elicitation results. BABOK 4.3.1
+
+B. To ensure the WBS is created in time for risk identification and assessment.
+   ❌ SAI
+   📝 No such need for this. Besides, it would be a project manager task. Confirming requirements ensures they are accurate and consistent with other information. BABOK 4.3.1
+
+C. To ensure the project manager understands the requirements for project planning.
+   ❌ SAI
+   📝 Although necessary, this is secondary to ensuring the requirements are accurate and consistent with other information. BABOK 4.3.1
+
+D. To ensure the requirements are ready to be specified and modeled.
+   ❌ SAI
+   📝 The requirements can be specified and modeled at any time during the elicitation process. Confirming requirements ensure they are accurate and consistent with other information. BABOK 4.3.1
+
+➤ ĐÁP ÁN ĐÚNG: To ensure the requirements are accurate and consistent with other information.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the stated purpose of confirming elicitation results. BABOK 4.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Which stakeholders participate in confirming elicitation results?
+
+A. The BA
+   ❌ SAI
+   📝 No, the BA collaborates and documents elicitation results, but relevant stakeholders need to confirm them. BABOK 4.3.7
+
+B. The project team
+   ❌ SAI
+   📝 The project team would only participate if its members are categorized as "domain subject matter experts"; that is, they need substantial experience and knowledge bout the information elicited. There is no evidence in the question that this is so. BABOK 4.3.7
+
+C. Stakeholders who have participated in elicitation tasks
+   ✅ ĐÚNG
+   📝 Of the four responses, this is the best choice as they could be considered "domain subject matter experts." BABOK 4.3.7
+
+D. Stakeholders with enough authority to approve requirements
+   ❌ SAI
+   📝 The question is asking about "confirming" rather than "approving" elicited requirements. Stakeholders with approval authority may not be knowledgeable enough about the domain to approve requirements. BABOK 4.3.7
+
+➤ ĐÁP ÁN ĐÚNG: Stakeholders who have participated in elicitation tasks
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Of the four responses, this is the best choice as they could be considered "domain subject matter experts." BABOK 4.3.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+What is the primary difference between formal and informal documentation as possible forms for business analysis (information) packages?
+
+A. Formal documentation is always presented in the form of a presentation.
+   ❌ SAI
+   📝 Presentations are a third type of form that business analysis (information) packages may take. BABOK 4.4.4.1
+
+B. Formal documentation is always approved and signed off on by the sponsor.
+   ❌ SAI
+   📝 The BABOK makes no mention of sponsor approvals. BABOK 4.4.4.1
+
+C. Formal documentation always includes texts, matrices, and/or diagrams.
+   ❌ SAI
+   📝 Both formal and informal documentation may include texts, matrices, and/or diagrams and so this answer doesn't speak to any differences between the two. BABOK 4.4.4.1
+
+D. Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.
+   ✅ ĐÚNG
+   📝 This is the correct description of formal documentation. In addition, informal documentation may include text, diagrams, or matrices (just like formal documentation) but they are not part of a formal organizational process. BABOK 4.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the correct description of formal documentation. In addition, informal documentation may include text, diagrams, or matrices (just like formal documentation) but they are not part of a formal organizational process. BABOK 4.4.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+What does a business analyst deliver when communicating business analysis information?
+
+A. Business analysis information (planned)
+   ❌ SAI
+   📝 This is an invented answer; the question is asking for the output of the process which is business analysis information (communicated). BABOK 4.4.8
+
+B. Functional and non-functional (stated) requirements
+   ❌ SAI
+   📝 Solution requirements may be part of the information communicated but the question is asking for the output of the process which is business analysis information (communicated). BABOK 4.4.8
+
+C. Business analysis information (communicated)
+   ✅ ĐÚNG
+   📝 This is the stated output for the task, communicate business analysis information. BABOK 4.4.8
+
+D. Unstated and stated requirements
+   ❌ SAI
+   📝 Stated requirements may be part of the information communicated but the question is asking for the output of the process which is business analysis information (communicated). BABOK 4.4.8
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis information (communicated)
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the stated output for the task, communicate business analysis information. BABOK 4.4.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+What are the possible forms that a business analysis (information) package could include?
+
+A. Informal documentation
+   ❌ SAI
+   📝 This answer is missing formal documentation and presentations. BABOK 4.4.4.1
+
+B. Formal documentation
+   ❌ SAI
+   📝 This answer is missing informal documentation and presentations. BABOK 4.4.4.1
+
+C. Text, matrices, diagrams, and presentations
+   ✅ ĐÚNG
+   📝 Text, matrices, and diagrams can be considered formal or informal documentation; presentations are a separate "form." BABOK 4.4.4.1
+
+D. Formal and informal documentation
+   ❌ SAI
+   📝 This answer is missing presentations. BABOK 4.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Text, matrices, diagrams, and presentations
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Text, matrices, and diagrams can be considered formal or informal documentation; presentations are a separate "form." BABOK 4.4.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+What is the primary difference between formal and informal documentation as possible forms for business analysis (information) packages?
+
+A. Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.
+   ✅ ĐÚNG
+   📝 This is the correct description of formal documentation. In addition, informal documentation may include text, diagrams, or matrices (just like formal documentation) but they are not part of a formal organizational process. BABOK 4.4.4.1
+
+B. Formal documentation is always presented in the form of a presentation.
+   ❌ SAI
+   📝 Presentations are a third type of form that business analysis (information) packages may take. BABOK 4.4.4.1
+
+C. Formal documentation always includes texts, matrices, and/or diagrams.
+   ❌ SAI
+   📝 Both formal and informal documentation may include texts, matrices, and/or diagrams and so this answer doesn't speak to any differences between the two. BABOK 4.4.4.1
+
+D. Formal documentation is always approved and signed off on by the sponsor.
+   ❌ SAI
+   📝 The BABOK makes no mention of sponsor approvals. BABOK 4.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the correct description of formal documentation. In addition, informal documentation may include text, diagrams, or matrices (just like formal documentation) but they are not part of a formal organizational process. BABOK 4.4.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+You are mentoring a new business analyst in the communications arena. They are preparing for their role as facilitator for a workshop that will review requirements elicited to date for purposes of confirmation from source stakeholders. They are using the BABOK as reference for their prep. They come to you asking about "business analysis information" since the BABOK says they need it as an input but they have no idea as to what it includes. How you do explain the term to them?
+
+A. You explain to them that "business analysis information" means all of the stated requirements documented to date from that group of stakeholders for review at the workshop.
+   ❌ SAI
+   📝 This explanation may represent the bulk of the business analysis information needed for that particular meeting, but it does not adequately define the term "business analysis information" which means, any kind of information at any level of detail that is used as an input for or output of business analysis work. BABOK 4.4.3
+
+B. You explain to them that "business analysis information" means all of the stated requirements documented to date from that group of stakeholders along with their stated and documented concerns for review at the workshop.
+   ❌ SAI
+   📝 This explanation may represent the bulk of the business analysis information needed for that particular meeting, but it does not adequately define the term "business analysis information" which means, any kind of information at any level of detail that is used as an input for or output of business analysis work. BABOK 4.4.3
+
+C. Instead of giving them the answer, you try to help them be more resourceful by advising them to check the glossary and get back to you with any further questions.
+   ❌ SAI
+   📝 Tempting but the question asks how you will explain the term to them. The BABOK definition is, any kind of information at any level of detail that is used as an input for or output of business analysis work. BABOK 4.4.3
+
+D. You tell them that "business analysis information" is a "catch-all" phrase that basically means any kind of information at any level of detail that is used as an input for or output of business analysis work.
+   ✅ ĐÚNG
+   📝 This is the exact definition of business analysis information. BABOK 4.4.3
+
+➤ ĐÁP ÁN ĐÚNG: You tell them that "business analysis information" is a "catch-all" phrase that basically means any kind of information at any level of detail that is used as an input for or output of business analysis work.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the exact definition of business analysis information. BABOK 4.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+What is the primary difference between formal and informal documentation as possible forms for business analysis (information) packages?
+
+A. Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.
+   ✅ ĐÚNG
+   📝 This is the correct description of formal documentation. In addition, informal documentation may include text, diagrams, or matrices (just like formal documentation) but they are not part of a formal organizational process. BABOK 4.4.4.1
+
+B. Formal documentation always includes texts, matrices, and/or diagrams.
+   ❌ SAI
+   📝 Both formal and informal documentation may include texts, matrices, and/or diagrams and so this answer doesn't speak to any differences between the two. BABOK 4.4.4.1
+
+C. Formal documentation is always approved and signed off on by the sponsor.
+   ❌ SAI
+   📝 The BABOK makes no mention of sponsor approvals. BABOK 4.4.4.1
+
+D. Formal documentation is always presented in the form of a presentation.
+   ❌ SAI
+   📝 Presentations are a third type of form that business analysis (information) packages may take. BABOK 4.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the correct description of formal documentation. In addition, informal documentation may include text, diagrams, or matrices (just like formal documentation) but they are not part of a formal organizational process. BABOK 4.4.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+What does a business analyst deliver when communicating business analysis information?
+
+A. Unstated and stated requirements
+   ❌ SAI
+   📝 Stated requirements may be part of the information communicated but the question is asking for the output of the process which is business analysis information (communicated). BABOK 4.4.8
+
+B. Business analysis information (communicated)
+   ✅ ĐÚNG
+   📝 This is the stated output for the task, communicate business analysis information. BABOK 4.4.8
+
+C. Functional and non-functional (stated) requirements
+   ❌ SAI
+   📝 Solution requirements may be part of the information communicated but the question is asking for the output of the process which is business analysis information (communicated). BABOK 4.4.8
+
+D. Business analysis information (planned)
+   ❌ SAI
+   📝 This is an invented answer; the question is asking for the output of the process which is business analysis information (communicated). BABOK 4.4.8
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis information (communicated)
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the stated output for the task, communicate business analysis information. BABOK 4.4.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+What is the primary difference between formal and informal documentation as possible forms for business analysis (information) packages?
+
+A. Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.
+   ✅ ĐÚNG
+   📝 This is the correct description of formal documentation. In addition, informal documentation may include text, diagrams, or matrices (just like formal documentation) but they are not part of a formal organizational process. BABOK 4.4.4.1
+
+B. Formal documentation always includes texts, matrices, and/or diagrams.
+   ❌ SAI
+   📝 Both formal and informal documentation may include texts, matrices, and/or diagrams and so this answer doesn't speak to any differences between the two. BABOK 4.4.4.1
+
+C. Formal documentation is always presented in the form of a presentation.
+   ❌ SAI
+   📝 Presentations are a third type of form that business analysis (information) packages may take. BABOK 4.4.4.1
+
+D. Formal documentation is always approved and signed off on by the sponsor.
+   ❌ SAI
+   📝 The BABOK makes no mention of sponsor approvals. BABOK 4.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the correct description of formal documentation. In addition, informal documentation may include text, diagrams, or matrices (just like formal documentation) but they are not part of a formal organizational process. BABOK 4.4.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+What does a business analyst deliver when communicating business analysis information?
+
+A. Business analysis information (planned)
+   ❌ SAI
+   📝 This is an invented answer; the question is asking for the output of the process which is business analysis information (communicated). BABOK 4.4.8
+
+B. Unstated and stated requirements
+   ❌ SAI
+   📝 Stated requirements may be part of the information communicated but the question is asking for the output of the process which is business analysis information (communicated). BABOK 4.4.8
+
+C. Functional and non-functional (stated) requirements
+   ❌ SAI
+   📝 Solution requirements may be part of the information communicated but the question is asking for the output of the process which is business analysis information (communicated). BABOK 4.4.8
+
+D. Business analysis information (communicated)
+   ✅ ĐÚNG
+   📝 This is the stated output for the task, communicate business analysis information. BABOK 4.4.8
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis information (communicated)
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the stated output for the task, communicate business analysis information. BABOK 4.4.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+What are the possible forms that a business analysis (information) package could include?
+
+A. Formal documentation
+   ❌ SAI
+   📝 This answer is missing informal documentation and presentations. BABOK 4.4.4.1
+
+B. Informal documentation
+   ❌ SAI
+   📝 This answer is missing formal documentation and presentations. BABOK 4.4.4.1
+
+C. Formal and informal documentation
+   ❌ SAI
+   📝 This answer is missing presentations. BABOK 4.4.4.1
+
+D. Text, matrices, diagrams, and presentations
+   ✅ ĐÚNG
+   📝 Text, matrices, and diagrams can be considered formal or informal documentation; presentations are a separate "form." BABOK 4.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Text, matrices, diagrams, and presentations
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Text, matrices, and diagrams can be considered formal or informal documentation; presentations are a separate "form." BABOK 4.4.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+What are the possible forms that a business analysis (information) package could include?
+
+A. Formal and informal documentation
+   ❌ SAI
+   📝 This answer is missing presentations. BABOK 4.4.4.1
+
+B. Informal documentation
+   ❌ SAI
+   📝 This answer is missing formal documentation and presentations. BABOK 4.4.4.1
+
+C. Text, matrices, diagrams, and presentations
+   ✅ ĐÚNG
+   📝 Text, matrices, and diagrams can be considered formal or informal documentation; presentations are a separate "form." BABOK 4.4.4.1
+
+D. Formal documentation
+   ❌ SAI
+   📝 This answer is missing informal documentation and presentations. BABOK 4.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Text, matrices, diagrams, and presentations
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Text, matrices, and diagrams can be considered formal or informal documentation; presentations are a separate "form." BABOK 4.4.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+You are mentoring a new business analyst in the communications arena. They are preparing for their role as facilitator for a workshop that will review requirements elicited to date for purposes of confirmation from source stakeholders. They are using the BABOK as reference for their prep. They come to you asking about "business analysis information" since the BABOK says they need it as an input but they have no idea as to what it includes. How you do explain the term to them?
+
+A. You explain to them that "business analysis information" means all of the stated requirements documented to date from that group of stakeholders along with their stated and documented concerns for review at the workshop.
+   ❌ SAI
+   📝 This explanation may represent the bulk of the business analysis information needed for that particular meeting, but it does not adequately define the term "business analysis information" which means, any kind of information at any level of detail that is used as an input for or output of business analysis work. BABOK 4.4.3
+
+B. Instead of giving them the answer, you try to help them be more resourceful by advising them to check the glossary and get back to you with any further questions.
+   ❌ SAI
+   📝 Tempting but the question asks how you will explain the term to them. The BABOK definition is, any kind of information at any level of detail that is used as an input for or output of business analysis work. BABOK 4.4.3
+
+C. You tell them that "business analysis information" is a "catch-all" phrase that basically means any kind of information at any level of detail that is used as an input for or output of business analysis work.
+   ✅ ĐÚNG
+   📝 This is the exact definition of business analysis information. BABOK 4.4.3
+
+D. You explain to them that "business analysis information" means all of the stated requirements documented to date from that group of stakeholders for review at the workshop.
+   ❌ SAI
+   📝 This explanation may represent the bulk of the business analysis information needed for that particular meeting, but it does not adequately define the term "business analysis information" which means, any kind of information at any level of detail that is used as an input for or output of business analysis work. BABOK 4.4.3
+
+➤ ĐÁP ÁN ĐÚNG: You tell them that "business analysis information" is a "catch-all" phrase that basically means any kind of information at any level of detail that is used as an input for or output of business analysis work.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the exact definition of business analysis information. BABOK 4.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+You are mentoring a new business analyst in the communications arena. They are preparing for their role as facilitator for a workshop that will review requirements elicited to date for purposes of confirmation from source stakeholders. They are using the BABOK as reference for their prep. They come to you asking about "business analysis information" since the BABOK says they need it as an input but they have no idea as to what it includes. How you do explain the term to them?
+
+A. You explain to them that "business analysis information" means all of the stated requirements documented to date from that group of stakeholders along with their stated and documented concerns for review at the workshop.
+   ❌ SAI
+   📝 This explanation may represent the bulk of the business analysis information needed for that particular meeting, but it does not adequately define the term "business analysis information" which means, any kind of information at any level of detail that is used as an input for or output of business analysis work. BABOK 4.4.3
+
+B. You explain to them that "business analysis information" means all of the stated requirements documented to date from that group of stakeholders for review at the workshop.
+   ❌ SAI
+   📝 This explanation may represent the bulk of the business analysis information needed for that particular meeting, but it does not adequately define the term "business analysis information" which means, any kind of information at any level of detail that is used as an input for or output of business analysis work. BABOK 4.4.3
+
+C. You tell them that "business analysis information" is a "catch-all" phrase that basically means any kind of information at any level of detail that is used as an input for or output of business analysis work.
+   ✅ ĐÚNG
+   📝 This is the exact definition of business analysis information. BABOK 4.4.3
+
+D. Instead of giving them the answer, you try to help them be more resourceful by advising them to check the glossary and get back to you with any further questions.
+   ❌ SAI
+   📝 Tempting but the question asks how you will explain the term to them. The BABOK definition is, any kind of information at any level of detail that is used as an input for or output of business analysis work. BABOK 4.4.3
+
+➤ ĐÁP ÁN ĐÚNG: You tell them that "business analysis information" is a "catch-all" phrase that basically means any kind of information at any level of detail that is used as an input for or output of business analysis work.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the exact definition of business analysis information. BABOK 4.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+What is the primary difference between formal and informal documentation as possible forms for business analysis (information) packages?
+
+A. Formal documentation is always presented in the form of a presentation.
+   ❌ SAI
+   📝 Presentations are a third type of form that business analysis (information) packages may take. BABOK 4.4.4.1
+
+B. Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.
+   ✅ ĐÚNG
+   📝 This is the correct description of formal documentation. In addition, informal documentation may include text, diagrams, or matrices (just like formal documentation) but they are not part of a formal organizational process. BABOK 4.4.4.1
+
+C. Formal documentation is always approved and signed off on by the sponsor.
+   ❌ SAI
+   📝 The BABOK makes no mention of sponsor approvals. BABOK 4.4.4.1
+
+D. Formal documentation always includes texts, matrices, and/or diagrams.
+   ❌ SAI
+   📝 Both formal and informal documentation may include texts, matrices, and/or diagrams and so this answer doesn't speak to any differences between the two. BABOK 4.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the correct description of formal documentation. In addition, informal documentation may include text, diagrams, or matrices (just like formal documentation) but they are not part of a formal organizational process. BABOK 4.4.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+You are mentoring a new business analyst in the communications arena. They are preparing for their role as facilitator for a workshop that will review requirements elicited to date for purposes of confirmation from source stakeholders. They are using the BABOK as reference for their prep. They come to you asking about "business analysis information" since the BABOK says they need it as an input but they have no idea as to what it includes. How you do explain the term to them?
+
+A. You tell them that "business analysis information" is a "catch-all" phrase that basically means any kind of information at any level of detail that is used as an input for or output of business analysis work.
+   ✅ ĐÚNG
+   📝 This is the exact definition of business analysis information. BABOK 4.4.3
+
+B. You explain to them that "business analysis information" means all of the stated requirements documented to date from that group of stakeholders for review at the workshop.
+   ❌ SAI
+   📝 This explanation may represent the bulk of the business analysis information needed for that particular meeting, but it does not adequately define the term "business analysis information" which means, any kind of information at any level of detail that is used as an input for or output of business analysis work. BABOK 4.4.3
+
+C. You explain to them that "business analysis information" means all of the stated requirements documented to date from that group of stakeholders along with their stated and documented concerns for review at the workshop.
+   ❌ SAI
+   📝 This explanation may represent the bulk of the business analysis information needed for that particular meeting, but it does not adequately define the term "business analysis information" which means, any kind of information at any level of detail that is used as an input for or output of business analysis work. BABOK 4.4.3
+
+D. Instead of giving them the answer, you try to help them be more resourceful by advising them to check the glossary and get back to you with any further questions.
+   ❌ SAI
+   📝 Tempting but the question asks how you will explain the term to them. The BABOK definition is, any kind of information at any level of detail that is used as an input for or output of business analysis work. BABOK 4.4.3
+
+➤ ĐÁP ÁN ĐÚNG: You tell them that "business analysis information" is a "catch-all" phrase that basically means any kind of information at any level of detail that is used as an input for or output of business analysis work.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the exact definition of business analysis information. BABOK 4.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+What does a business analyst deliver when communicating business analysis information?
+
+A. Functional and non-functional (stated) requirements
+   ❌ SAI
+   📝 Solution requirements may be part of the information communicated but the question is asking for the output of the process which is business analysis information (communicated). BABOK 4.4.8
+
+B. Unstated and stated requirements
+   ❌ SAI
+   📝 Stated requirements may be part of the information communicated but the question is asking for the output of the process which is business analysis information (communicated). BABOK 4.4.8
+
+C. Business analysis information (communicated)
+   ✅ ĐÚNG
+   📝 This is the stated output for the task, communicate business analysis information. BABOK 4.4.8
+
+D. Business analysis information (planned)
+   ❌ SAI
+   📝 This is an invented answer; the question is asking for the output of the process which is business analysis information (communicated). BABOK 4.4.8
+
+➤ ĐÁP ÁN ĐÚNG: Business analysis information (communicated)
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the stated output for the task, communicate business analysis information. BABOK 4.4.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+What are the possible forms that a business analysis (information) package could include?
+
+A. Formal and informal documentation
+   ❌ SAI
+   📝 This answer is missing presentations. BABOK 4.4.4.1
+
+B. Formal documentation
+   ❌ SAI
+   📝 This answer is missing informal documentation and presentations. BABOK 4.4.4.1
+
+C. Text, matrices, diagrams, and presentations
+   ✅ ĐÚNG
+   📝 Text, matrices, and diagrams can be considered formal or informal documentation; presentations are a separate "form." BABOK 4.4.4.1
+
+D. Informal documentation
+   ❌ SAI
+   📝 This answer is missing formal documentation and presentations. BABOK 4.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Text, matrices, diagrams, and presentations
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Text, matrices, and diagrams can be considered formal or informal documentation; presentations are a separate "form." BABOK 4.4.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+What is the primary difference between formal and informal documentation as possible forms for business analysis (information) packages?
+
+A. Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.
+   ✅ ĐÚNG
+   📝 This is the correct description of formal documentation. In addition, informal documentation may include text, diagrams, or matrices (just like formal documentation) but they are not part of a formal organizational process. BABOK 4.4.4.1
+
+B. Formal documentation is always approved and signed off on by the sponsor.
+   ❌ SAI
+   📝 The BABOK makes no mention of sponsor approvals. BABOK 4.4.4.1
+
+C. Formal documentation always includes texts, matrices, and/or diagrams.
+   ❌ SAI
+   📝 Both formal and informal documentation may include texts, matrices, and/or diagrams and so this answer doesn't speak to any differences between the two. BABOK 4.4.4.1
+
+D. Formal documentation is always presented in the form of a presentation.
+   ❌ SAI
+   📝 Presentations are a third type of form that business analysis (information) packages may take. BABOK 4.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Formal documentation is usually based on a template used by the organization and provides a stable, easy to use, long-term record of the information.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the correct description of formal documentation. In addition, informal documentation may include text, diagrams, or matrices (just like formal documentation) but they are not part of a formal organizational process. BABOK 4.4.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+What are the possible forms that a business analysis (information) package could include?
+
+A. Formal documentation
+   ❌ SAI
+   📝 This answer is missing informal documentation and presentations. BABOK 4.4.4.1
+
+B. Informal documentation
+   ❌ SAI
+   📝 This answer is missing formal documentation and presentations. BABOK 4.4.4.1
+
+C. Text, matrices, diagrams, and presentations
+   ✅ ĐÚNG
+   📝 Text, matrices, and diagrams can be considered formal or informal documentation; presentations are a separate "form." BABOK 4.4.4.1
+
+D. Formal and informal documentation
+   ❌ SAI
+   📝 This answer is missing presentations. BABOK 4.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Text, matrices, diagrams, and presentations
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Text, matrices, and diagrams can be considered formal or informal documentation; presentations are a separate "form." BABOK 4.4.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 137 - 30 câu FULL EXPLAIN

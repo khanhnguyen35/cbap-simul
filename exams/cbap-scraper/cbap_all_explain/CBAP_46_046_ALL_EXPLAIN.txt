@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 46 ===
+📚 Tên: TopicSet 46
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+You have been assigned to write user stories on your next effort. Which of the following approaches is your next effort likely using?
+
+A. Incremental
+   ❌ SAI
+   📝 This is partially true, because the term applies to both adaptive and predictive approaches. There is another answer that is more accurate.
+
+B. Predictive approach
+   ❌ SAI
+   📝 Predictive (waterfall) approaches rarely utilize user stories; rather, stakeholder requirements are elicited.
+
+C. Waterfall
+   ❌ SAI
+   📝 Waterfall (predictive) approaches rarely utilize user stories; rather, stakeholder requirements are elicited.
+
+D. Adaptive approach
+   ✅ ĐÚNG
+   📝 User stories represent small, implementable, and testable slices of functionality and help facilitate rapid delivery and frequent customer feedback. User stories are generally the preferred way to capture requirements for agile (adaptive) projects. BABOK 10.48.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Adaptive approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+User stories represent small, implementable, and testable slices of functionality and help facilitate rapid delivery and frequent customer feedback. User stories are generally the preferred way to capture requirements for agile (adaptive) projects. BABOK 10.48.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+Which technique is likely to have the LEAST amount of detail regarding requirements?
+
+A. Prototyping
+   ❌ SAI
+   📝 Prototypes may include several screens, with considerable detail on each screen mock-up. BABOK 10.36
+
+B. User story
+   ✅ ĐÚNG
+   📝 User stories contain a short, concise statement of functionality. This brevity helps promote additional conversations between stakeholders to ensure understanding of the needed functionality. BABOK 10.48.2
+
+C. Use cases
+   ❌ SAI
+   📝 Use cases contain considerable detail regarding the functionality of a system for any given number of scenarios related to the use case. BABOK 10.47.2
+
+D. Scenarios
+   ❌ SAI
+   📝 Scenarios are a series of steps that enable an actor to achieve a goal. There can be several scenarios in a use case. BABOK 10.47.2
+
+➤ ĐÁP ÁN ĐÚNG: User story
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+User stories contain a short, concise statement of functionality. This brevity helps promote additional conversations between stakeholders to ensure understanding of the needed functionality. BABOK 10.48.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+You have been assigned to write user stories on your next effort. Which of the following approaches is your next effort likely using?
+
+A. Predictive approach
+   ❌ SAI
+   📝 Predictive (waterfall) approaches rarely utilize user stories; rather, stakeholder requirements are elicited.
+
+B. Adaptive approach
+   ✅ ĐÚNG
+   📝 User stories represent small, implementable, and testable slices of functionality and help facilitate rapid delivery and frequent customer feedback. User stories are generally the preferred way to capture requirements for agile (adaptive) projects. BABOK 10.48.4.1
+
+C. Waterfall
+   ❌ SAI
+   📝 Waterfall (predictive) approaches rarely utilize user stories; rather, stakeholder requirements are elicited.
+
+D. Incremental
+   ❌ SAI
+   📝 This is partially true, because the term applies to both adaptive and predictive approaches. There is another answer that is more accurate.
+
+➤ ĐÁP ÁN ĐÚNG: Adaptive approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+User stories represent small, implementable, and testable slices of functionality and help facilitate rapid delivery and frequent customer feedback. User stories are generally the preferred way to capture requirements for agile (adaptive) projects. BABOK 10.48.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+Which of the following best describes the role of acceptance criteria related to a user story?
+
+A. Acceptance criteria support the development of user stories to help determine what the solution needs in order to provide value.
+   ✅ ĐÚNG
+   📝 BABOK 10.48.3.4, 10.1.2
+
+B. Acceptance criteria are exactly the same as non-functional requirements and are documented at the same time that user stories are refined and approved.
+   ❌ SAI
+   📝 Invented answer
+
+C. Acceptance criteria relate directly to the entire body of functional requirements vs. just a user story. They are written primarily to speed up the process of writing test scenarios.
+   ❌ SAI
+   📝 Acceptance criteria may or may not relate directly to all functional requirements, so this answer cannot be correct. In addition, their main function is not to speed up the writing of test scenarios.
+
+D. Acceptance criteria are not elicited for user stories but are documented as a way to determine values to be included in test scenarios.
+   ❌ SAI
+   📝 Invented answer
+
+➤ ĐÁP ÁN ĐÚNG: Acceptance criteria support the development of user stories to help determine what the solution needs in order to provide value.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.48.3.4, 10.1.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+Which of the following best describes the role of acceptance criteria related to a user story?
+
+A. Acceptance criteria support the development of user stories to help determine what the solution needs in order to provide value.
+   ✅ ĐÚNG
+   📝 BABOK 10.48.3.4, 10.1.2
+
+B. Acceptance criteria are not elicited for user stories but are documented as a way to determine values to be included in test scenarios.
+   ❌ SAI
+   📝 Invented answer
+
+C. Acceptance criteria relate directly to the entire body of functional requirements vs. just a user story. They are written primarily to speed up the process of writing test scenarios.
+   ❌ SAI
+   📝 Acceptance criteria may or may not relate directly to all functional requirements, so this answer cannot be correct. In addition, their main function is not to speed up the writing of test scenarios.
+
+D. Acceptance criteria are exactly the same as non-functional requirements and are documented at the same time that user stories are refined and approved.
+   ❌ SAI
+   📝 Invented answer
+
+➤ ĐÁP ÁN ĐÚNG: Acceptance criteria support the development of user stories to help determine what the solution needs in order to provide value.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.48.3.4, 10.1.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+Which of the following statements is NOT true about root cause analysis technique?
+
+A. Helps to maintain an objective perspective when performing cause-and-effect analysis.
+   ❌ SAI
+   📝 This is true. BABOK 10.40.4.1
+
+B. The technique works optimally with complex and difficult problems.
+   ✅ ĐÚNG
+   📝 This technique may lead to a false trail and/or dead-end conclusion when dealing with complex issues. BABOK 10.40.4.2
+
+C. Enables stakeholders to specify an effective solution at the appropriate points for corrective action.
+   ❌ SAI
+   📝 This is true.. BABOK 10.40.4.2
+
+D. The business analyst may require formal training to ensure the root causes, not just symptoms of the problem, are identified.
+   ❌ SAI
+   📝 This is true. BABOK 10.40.4.1
+
+➤ ĐÁP ÁN ĐÚNG: The technique works optimally with complex and difficult problems.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This technique may lead to a false trail and/or dead-end conclusion when dealing with complex issues. BABOK 10.40.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+'The five whys" is a question-asking process to explore the nature and cause of a problem. Why is the technique called "the five whys?"
+
+A. Because the business analyst has to interview at least five stakeholders.
+   ❌ SAI
+   📝 Not true. Made up answer!
+
+B. Because it can be used alone or as part of the fishbone diagram technique.
+   ❌ SAI
+   📝 This is irrelevant to the question asked.
+
+C. Because it often takes five times of asking "why?" to reach the root cause.
+   ✅ ĐÚNG
+   📝 BABOK 10.40.3.2
+
+D. Because the question must be asked five times.
+   ❌ SAI
+   📝 The question does not have to be asked five times. It may take less than five questions.
+
+➤ ĐÁP ÁN ĐÚNG: Because it often takes five times of asking "why?" to reach the root cause.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.40.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+What is the other name for a fishbone diagram?
+
+A. Effect-and-cause diagram.
+   ❌ SAI
+   📝 Cause-and-effect diagram is the other name for a fishbone diagram.
+
+B. Ishikawa diagram.
+   ✅ ĐÚNG
+   📝 BABOK 10.40.3.1
+
+C. Spine bone.
+   ❌ SAI
+   📝 Made up answer!
+
+D. Five whys.
+   ❌ SAI
+   📝 Five whys is another method that can be used independently or in conjunction with a fishbone diagram to identify root causes.
+
+➤ ĐÁP ÁN ĐÚNG: Ishikawa diagram.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.40.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Maggie is interviewing a group of personnel from the call center help desk. She wants to know why the service level agreement (SLA) is not being met. Since the problem includes a great amount of human interaction, which facilitation tool would be most suitable?
+
+A. Mind maps.
+   ❌ SAI
+   📝 Mind map is used to articulate and capture thoughts, ideas, and not necessarily the root cause of a problem.
+
+B. Fault tree analysis.
+   ❌ SAI
+   📝 This is an analysis tool but it is not represented in the BABOK.
+
+C. Observation.
+   ❌ SAI
+   📝 Observing cannot help get to the root cause of a problem.
+
+D. Five whys.
+   ✅ ĐÚNG
+   📝 The human interaction element is a key to using Five Whys which is "...one of the simplest facilitation tools to use when problems have a human interaction component." BABOK 10.40.3.2
+
+➤ ĐÁP ÁN ĐÚNG: Five whys.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The human interaction element is a key to using Five Whys which is "...one of the simplest facilitation tools to use when problems have a human interaction component." BABOK 10.40.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+You are performing root cause analysis in order to identify performance improvements. Reactive analysis is used for identifying the root cause(s) of an occurring problem for ___________ action; proactive analysis is useful for identifying potential problem areas for ___________ action.
+
+A. Long term; short term
+   ❌ SAI
+   📝 These are invented terms. The correct terms are corrective and preventive. BABOK 10.40.2
+
+B. Preventive; corrective
+   ❌ SAI
+   📝 Reactive analysis is used for corrective action; proactive analysis is used for preventive action. BABOK 10.40.2
+
+C. Corrective; preventive
+   ✅ ĐÚNG
+   📝 Reactive analysis is used for corrective action; proactive analysis is used for preventive action. BABOK 10.40.2
+
+D. Short term; long term
+   ❌ SAI
+   📝 These are invented terms. The correct terms are corrective and preventive. BABOK 10.40.2
+
+➤ ĐÁP ÁN ĐÚNG: Corrective; preventive
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Reactive analysis is used for corrective action; proactive analysis is used for preventive action. BABOK 10.40.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Sherry is carrying out analysis activities to identify potential problem areas for preventive action. She has described the issue to be addressed, collected data, and investigated the specific actions that contribute to the problem. She is now defining the corrective action that will prevent or minimize recurrence. What technique is Sherry applying?
+
+A. Risk analysis and management
+   ❌ SAI
+   📝 Risk deals with areas of uncertainty as opposed to underlying causes of a problem.
+
+B. Primary cause analysis
+   ❌ SAI
+   📝 Made up answer!
+
+C. Fishbone analysis
+   ❌ SAI
+   📝 There no fishbone analysis technique. However, a fishbone diagram is an element in root cause analysis, used to identify and organize the possible causes of a problem. BABOK 10.40.3.1
+
+D. Root cause analysis
+   ✅ ĐÚNG
+   📝 The question describes the main activities in root cause analysis. BABOK 10.40.2
+
+➤ ĐÁP ÁN ĐÚNG: Root cause analysis
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The question describes the main activities in root cause analysis. BABOK 10.40.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+Maggie is interviewing a group of personnel from the call center help desk. She wants to know why the service level agreement (SLA) is not being met. Since the problem includes a great amount of human interaction, which facilitation tool would be most suitable?
+
+A. Fault tree analysis.
+   ❌ SAI
+   📝 This is an analysis tool but it is not represented in the BABOK.
+
+B. Mind maps.
+   ❌ SAI
+   📝 Mind map is used to articulate and capture thoughts, ideas, and not necessarily the root cause of a problem.
+
+C. Five whys.
+   ✅ ĐÚNG
+   📝 The human interaction element is a key to using Five Whys which is "...one of the simplest facilitation tools to use when problems have a human interaction component." BABOK 10.40.3.2
+
+D. Observation.
+   ❌ SAI
+   📝 Observing cannot help get to the root cause of a problem.
+
+➤ ĐÁP ÁN ĐÚNG: Five whys.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The human interaction element is a key to using Five Whys which is "...one of the simplest facilitation tools to use when problems have a human interaction component." BABOK 10.40.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+'The five whys" is a question-asking process to explore the nature and cause of a problem. Why is the technique called "the five whys?"
+
+A. Because it often takes five times of asking "why?" to reach the root cause.
+   ✅ ĐÚNG
+   📝 BABOK 10.40.3.2
+
+B. Because the question must be asked five times.
+   ❌ SAI
+   📝 The question does not have to be asked five times. It may take less than five questions.
+
+C. Because it can be used alone or as part of the fishbone diagram technique.
+   ❌ SAI
+   📝 This is irrelevant to the question asked.
+
+D. Because the business analyst has to interview at least five stakeholders.
+   ❌ SAI
+   📝 Not true. Made up answer!
+
+➤ ĐÁP ÁN ĐÚNG: Because it often takes five times of asking "why?" to reach the root cause.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.40.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+Maggie is interviewing a group of personnel from the call center help desk. She wants to know why the service level agreement (SLA) is not being met. Since the problem includes a great amount of human interaction, which facilitation tool would be most suitable?
+
+A. Five whys.
+   ✅ ĐÚNG
+   📝 The human interaction element is a key to using Five Whys which is "...one of the simplest facilitation tools to use when problems have a human interaction component." BABOK 10.40.3.2
+
+B. Observation.
+   ❌ SAI
+   📝 Observing cannot help get to the root cause of a problem.
+
+C. Fault tree analysis.
+   ❌ SAI
+   📝 This is an analysis tool but it is not represented in the BABOK.
+
+D. Mind maps.
+   ❌ SAI
+   📝 Mind map is used to articulate and capture thoughts, ideas, and not necessarily the root cause of a problem.
+
+➤ ĐÁP ÁN ĐÚNG: Five whys.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The human interaction element is a key to using Five Whys which is "...one of the simplest facilitation tools to use when problems have a human interaction component." BABOK 10.40.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+Ralph is a BA highly skilled in data mining. He utilizes a wide variety of statistical measures, mathematical models, algorithms, and equations. When presenting his work to the governance team, he encounters a high level of distrust with his conclusions. Ralph assures his executive stakeholders that the data is reliable, as he has replicated the results using data not initially used. What is the best explanation for the governance team's seeming resistance?
+
+A. The governance team members may be concerned that Rafael utilized "old" and therefore irrelevant data.
+   ❌ SAI
+   📝 There is no evidence in the scenario that this is the case.
+
+B. Rafael didn't sample the data correctly leading to skewed results.
+   ❌ SAI
+   📝 There is no evidence in the scenario that this is the case.
+
+C. Rafael's formulas revealed hidden patterns that cannot be integrated into the current technical architecture.
+   ❌ SAI
+   📝 This is a nonsense answer comprised of two strengths of this technique, not its limitations. BABOK 10.14.4.1
+
+D. The governance team members may not understand the mathematical models.
+   ✅ ĐÚNG
+   📝 Not understanding the math can result in a perceived lack of transparency and distrust of the results. BABOK 10.14.4.2
+
+➤ ĐÁP ÁN ĐÚNG: The governance team members may not understand the mathematical models.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Not understanding the math can result in a perceived lack of transparency and distrust of the results. BABOK 10.14.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+Christopher is analyzing large amounts of data representing varying perspectives in order to identify underlying patterns and relationships that emerge. What technique is Christopher using?
+
+A. Data canvassing in a supervised investigation
+   ❌ SAI
+   📝 Data canvassing is not a technique.
+
+B. Data mining in an unsupervised investigation
+   ✅ ĐÚNG
+   📝 Since patterns and relationships are allowed to emerge from the data, the investigation is "unsupervised." BABOK 10.14.2
+
+C. Data canvassing in an unsupervised investigation
+   ❌ SAI
+   📝 Data canvassing is not a technique.
+
+D. Data mining in a supervised investigation
+   ❌ SAI
+   📝 Data mining is correct but in a supervised investigation, the analyst begins with a question and looks for an answer that drives decision-making. 10.14.2
+
+➤ ĐÁP ÁN ĐÚNG: Data mining in an unsupervised investigation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Since patterns and relationships are allowed to emerge from the data, the investigation is "unsupervised." BABOK 10.14.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+Marc is completing a neural network. What data mining technique is Marc utilizing?
+
+A. Diagnostic
+   ❌ SAI
+   📝 Diagnostic techniques would typically use decision trees or segmentation models to show why a pattern exists. Although listed, this response does not answer the question. BABOK 10.14.2
+
+B. Descriptive
+   ❌ SAI
+   📝 This technique includes "clustering", which makes it easier to see patterns from the data. Although listed, this response does not answer the question. BABOK 10.14.2
+
+C. Predictive
+   ✅ ĐÚNG
+   📝 Marc is showing how likely something is to be true in the future. BABOK 10.14.2
+
+D. Adaptive
+   ❌ SAI
+   📝 Adaptive is not a data mining technique. BABOK 10.14.2
+
+➤ ĐÁP ÁN ĐÚNG: Predictive
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Marc is showing how likely something is to be true in the future. BABOK 10.14.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+Christopher is analyzing large amounts of data representing varying perspectives in order to identify underlying patterns and relationships that emerge. What technique is Christopher using?
+
+A. Data mining in a supervised investigation
+   ❌ SAI
+   📝 Data mining is correct but in a supervised investigation, the analyst begins with a question and looks for an answer that drives decision-making. 10.14.2
+
+B. Data canvassing in an unsupervised investigation
+   ❌ SAI
+   📝 Data canvassing is not a technique.
+
+C. Data mining in an unsupervised investigation
+   ✅ ĐÚNG
+   📝 Since patterns and relationships are allowed to emerge from the data, the investigation is "unsupervised." BABOK 10.14.2
+
+D. Data canvassing in a supervised investigation
+   ❌ SAI
+   📝 Data canvassing is not a technique.
+
+➤ ĐÁP ÁN ĐÚNG: Data mining in an unsupervised investigation
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Since patterns and relationships are allowed to emerge from the data, the investigation is "unsupervised." BABOK 10.14.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+Ralph is a BA highly skilled in data mining. He utilizes a wide variety of statistical measures, mathematical models, algorithms, and equations. When presenting his work to the governance team, he encounters a high level of distrust with his conclusions. Ralph assures his executive stakeholders that the data is reliable, as he has replicated the results using data not initially used. What is the best explanation for the governance team's seeming resistance?
+
+A. The governance team members may not understand the mathematical models.
+   ✅ ĐÚNG
+   📝 Not understanding the math can result in a perceived lack of transparency and distrust of the results. BABOK 10.14.4.2
+
+B. Rafael didn't sample the data correctly leading to skewed results.
+   ❌ SAI
+   📝 There is no evidence in the scenario that this is the case.
+
+C. The governance team members may be concerned that Rafael utilized "old" and therefore irrelevant data.
+   ❌ SAI
+   📝 There is no evidence in the scenario that this is the case.
+
+D. Rafael's formulas revealed hidden patterns that cannot be integrated into the current technical architecture.
+   ❌ SAI
+   📝 This is a nonsense answer comprised of two strengths of this technique, not its limitations. BABOK 10.14.4.1
+
+➤ ĐÁP ÁN ĐÚNG: The governance team members may not understand the mathematical models.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Not understanding the math can result in a perceived lack of transparency and distrust of the results. BABOK 10.14.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+The project team has identified several design options. They need to evaluate and compare these options to one another to recommend one option for the solution. The team is using criteria to score each option. Which method is the team employing?
+
+A. Decision indicator
+   ❌ SAI
+   📝 Made up answer!
+
+B. Trade-offs
+   ❌ SAI
+   📝 Trade-offs become relevant whenever a decision problem involves multiple, possibly conflicting, objectives. In this case we are not told the options have conflicting objectives. BABOK 10.16.3.4
+
+C. Decision trees
+   ❌ SAI
+   📝 The decision tree method assesses the preferred outcome where multiple sources of uncertainty may exist. BABOK 10.16.3.3
+
+D. Decision matrices
+   ✅ ĐÚNG
+   📝 Since each option is being scored, the team is most likely using a weighted decision matrix. BABOK 10.16.3.2
+
+➤ ĐÁP ÁN ĐÚNG: Decision matrices
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Since each option is being scored, the team is most likely using a weighted decision matrix. BABOK 10.16.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Which of the following set is inclusive of all the general components of decision analysis?
+
+A. Decision to be made, decision metric, decision maker, alternative, decision criteria.
+   ❌ SAI
+   📝 "Decision metric" is made up term and not one of the components of decision analysis.
+
+B. Decision to be made, decision maker, terminator, decision criteria.
+   ❌ SAI
+   📝 "Alternative" is missing; "terminator" is not one of the listed components.
+
+C. Decision to be made, decision maker, alternative, trade-offs, decision criteria.
+   ❌ SAI
+   📝 "Trade-offs" is not one of the listed components.
+
+D. Alternative, decision to be made, decision maker, decision criteria.
+   ✅ ĐÚNG
+   📝 BABOK 10.16.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Alternative, decision to be made, decision maker, decision criteria.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.16.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+Which of the following set is inclusive of all the general components of decision analysis?
+
+A. Decision to be made, decision maker, alternative, trade-offs, decision criteria.
+   ❌ SAI
+   📝 "Trade-offs" is not one of the listed components.
+
+B. Decision to be made, decision metric, decision maker, alternative, decision criteria.
+   ❌ SAI
+   📝 "Decision metric" is made up term and not one of the components of decision analysis.
+
+C. Decision to be made, decision maker, terminator, decision criteria.
+   ❌ SAI
+   📝 "Alternative" is missing; "terminator" is not one of the listed components.
+
+D. Alternative, decision to be made, decision maker, decision criteria.
+   ✅ ĐÚNG
+   📝 BABOK 10.16.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Alternative, decision to be made, decision maker, decision criteria.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.16.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+A decision is the act of choosing a single course of action from several uncertain outcomes with different values. The outcome value may take different forms depending on the domain, but commonly include the following outcomes. Which one is the LEAST likely outcome?
+
+A. Scoring.
+   ❌ SAI
+   📝 This is one of the listed outcomes.
+
+B. Relative ranking.
+   ❌ SAI
+   📝 This is one of the listed outcomes.
+
+C. Metrics.
+   ✅ ĐÚNG
+   📝 Metrics is not one of the listed outcomes. BABOK 10.16.2
+
+D. Financial value.
+   ❌ SAI
+   📝 This is one of the listed outcomes.
+
+➤ ĐÁP ÁN ĐÚNG: Metrics.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Metrics is not one of the listed outcomes. BABOK 10.16.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Which of the following are NOT a financial analysis technique element?
+
+A. Total cost of ownership, net present value
+   ❌ SAI
+   📝 These are financial analysis technique elements. BABOK 10.20.3
+
+B. Payback period, value realization
+   ❌ SAI
+   📝 These are financial analysis technique elements. BABOK 10.20.3
+
+C. Internal rate of return, cost-benefit analysis
+   ❌ SAI
+   📝 These are financial analysis technique elements. BABOK 10.20.3
+
+D. Dollar rate adjustment, decision analysis
+   ✅ ĐÚNG
+   📝 Dollar rate adjustment is invented and decision analysis is a decision-making technique. BABOK 10.16
+
+➤ ĐÁP ÁN ĐÚNG: Dollar rate adjustment, decision analysis
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Dollar rate adjustment is invented and decision analysis is a decision-making technique. BABOK 10.16
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+The project team has identified several design options. They need to evaluate and compare these options to one another to recommend one option for the solution. The team is using criteria to score each option. Which method is the team employing?
+
+A. Trade-offs
+   ❌ SAI
+   📝 Trade-offs become relevant whenever a decision problem involves multiple, possibly conflicting, objectives. In this case we are not told the options have conflicting objectives. BABOK 10.16.3.4
+
+B. Decision matrices
+   ✅ ĐÚNG
+   📝 Since each option is being scored, the team is most likely using a weighted decision matrix. BABOK 10.16.3.2
+
+C. Decision indicator
+   ❌ SAI
+   📝 Made up answer!
+
+D. Decision trees
+   ❌ SAI
+   📝 The decision tree method assesses the preferred outcome where multiple sources of uncertainty may exist. BABOK 10.16.3.3
+
+➤ ĐÁP ÁN ĐÚNG: Decision matrices
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Since each option is being scored, the team is most likely using a weighted decision matrix. BABOK 10.16.3.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+A business analyst evaluating different outcome values under conditions of uncertainty or in highly complex situations would find which of the following helpful?
+
+A. Decision analysis.
+   ✅ ĐÚNG
+   📝 BABOK 10.16.2
+
+B. Financial analysis.
+   ❌ SAI
+   📝 Financial analysis is the assessment of the expected financial viability, stability, and benefit realization of an investment option. BABOK 10.20
+
+C. Decision modeling.
+   ❌ SAI
+   📝 Decision modeling shows how repeated decisions are made. BABOK 10.17
+
+D. User stories.
+   ❌ SAI
+   📝 User stories capture the needs of a specific stakeholder and enable teams to define features of value to a stakeholder. It does not deal with evaluating different outcomes. BABOK 10.48
+
+➤ ĐÁP ÁN ĐÚNG: Decision analysis.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.16.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+Which decision model is used for more complex decisions?
+
+A. Decision tables
+   ❌ SAI
+   📝 Decision tables are compact, tabular representations of rules, not complex decisions. BABOK 10.17.3.1
+
+B. Decision trees
+   ❌ SAI
+   📝 Decision trees represent a set of business rules, are not used for complex decisions. BABOK 10.17.3.1
+
+C. Decision analysis
+   ❌ SAI
+   📝 Decision analysis is a technique vs. a model. BABOK 10.17.
+
+D. Decision requirements diagrams
+   ✅ ĐÚNG
+   📝 BABOK 10.17.3.1
+
+➤ ĐÁP ÁN ĐÚNG: Decision requirements diagrams
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.17.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+Jax is a BA interviewing a client regarding business rules related to discounts for car insurance. The customer started relating several "If, then" scenarios. For example, "If their age is 16-25, no discount. If their age is 26-35 and they have been accident free for a minimum of 3 years, they will receive a 5% discount. But, if they have other policies with us, they will receive an 8% discount. If they are from 36-50 years old and...." Jax was writing furiously trying to keep up! What would be an effective way to document this set of business rules?
+
+A. Decision requirements diagram
+   ❌ SAI
+   📝 This would not be an effective decision model given the scenario as this diagram is best used for complex decisions requiring knowledge sources.
+
+B. Decision model
+   ❌ SAI
+   📝 This is partially correct but there is another response that describes the type of decision model that would answer the question and is a better answer.
+
+C. Decision table
+   ✅ ĐÚNG
+   📝 A decision table would be the perfect way to capture the set of business rules. A decision tree would also be effective. BABOK Figure 10.17.3.1
+
+D. Decision analysis
+   ❌ SAI
+   📝 Decision analysis is a technique which models the possible consequences of possible decisions about a given problem, so it does not address the question.
+
+➤ ĐÁP ÁN ĐÚNG: Decision table
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A decision table would be the perfect way to capture the set of business rules. A decision tree would also be effective. BABOK Figure 10.17.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+What are the three key elements involved in all decision modeling approaches?
+
+A. Inputs, information, knowledge
+   ❌ SAI
+   📝 Inputs is not a key element.
+
+B. Decision, information, knowledge
+   ✅ ĐÚNG
+   📝 BABOK 10.17.3.1
+
+C. Inputs, information, outputs
+   ❌ SAI
+   📝 Inputs and outputs are not key elements.
+
+D. Outputs, information, knowledge
+   ❌ SAI
+   📝 Outputs is not a key element.
+
+➤ ĐÁP ÁN ĐÚNG: Decision, information, knowledge
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 10.17.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+Jax is a BA interviewing a client regarding business rules related to discounts for car insurance. The customer started relating several "If, then" scenarios. For example, "If their age is 16-25, no discount. If their age is 26-35 and they have been accident free for a minimum of 3 years, they will receive a 5% discount. But, if they have other policies with us, they will receive an 8% discount. If they are from 36-50 years old and...." Jax was writing furiously trying to keep up! What would be an effective way to document this set of business rules?
+
+A. Decision table
+   ✅ ĐÚNG
+   📝 A decision table would be the perfect way to capture the set of business rules. A decision tree would also be effective. BABOK Figure 10.17.3.1
+
+B. Decision requirements diagram
+   ❌ SAI
+   📝 This would not be an effective decision model given the scenario as this diagram is best used for complex decisions requiring knowledge sources.
+
+C. Decision model
+   ❌ SAI
+   📝 This is partially correct but there is another response that describes the type of decision model that would answer the question and is a better answer.
+
+D. Decision analysis
+   ❌ SAI
+   📝 Decision analysis is a technique which models the possible consequences of possible decisions about a given problem, so it does not address the question.
+
+➤ ĐÁP ÁN ĐÚNG: Decision table
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A decision table would be the perfect way to capture the set of business rules. A decision tree would also be effective. BABOK Figure 10.17.3.1
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 46 - 30 câu FULL EXPLAIN

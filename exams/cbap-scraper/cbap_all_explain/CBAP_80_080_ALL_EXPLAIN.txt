@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 80 ===
+📚 Tên: TopicSet 80
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+Functional decomposition can be used by a BA to analyze which type of scope?
+
+A. Product scope.
+   ✅ ĐÚNG
+   📝 A BA would use functional decomposition to help break down the product or solution scope. BABOK 6.4.6 and 10.22
+
+B. Organizational scope.
+   ❌ SAI
+   📝 This type of scope isn't mentioned in the BABOK, and if it was, it would not be within a BA role to decompose it.
+
+C. Process scope.
+   ❌ SAI
+   📝 The BABOK mentions that functional decomposition can apply to processes, but it does not refer to process scope.
+
+D. Project scope.
+   ❌ SAI
+   📝 Functional decomposition can help break down project scope, but that would be a project management activity.
+
+➤ ĐÁP ÁN ĐÚNG: Product scope.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A BA would use functional decomposition to help break down the product or solution scope. BABOK 6.4.6 and 10.22
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+Clara is a new BA on an initiative. Tomas, the BA who defined the business need and the future state, was transferred to the company's headquarters. The instructions he left Clara were to look at the existing capabilities related to the business need and desired outcomes, and figure out what was needed to realize the future state. Clara was unsure of what capabilities meant, thinking that they were system features. Tomas coached her that capabilities could include:
+
+A. Functions, processes, locations
+   ✅ ĐÚNG
+   📝 These are three of multiple capabilities. BABOK 6.4.4.2
+
+B. Functions, processes, products
+   ❌ SAI
+   📝 Products are not capabilities. BABOK 6.4.4.2
+
+C. Functions, processes, and solution scope
+   ❌ SAI
+   📝 Solution scope is not a capability. BABOK 6.4.4.2
+
+D. Lines of service, processes, products
+   ❌ SAI
+   📝 Products are not capabilities. BABOK 6.4.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Functions, processes, locations
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+These are three of multiple capabilities. BABOK 6.4.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+Which document provides stakeholders with an understanding of what new capabilities will be delivered in the change initiative?
+
+A. Project vision
+   ❌ SAI
+   📝 The vision describes the business need and long-term direction of the project. BABOK 6.4.4.1
+
+B. Solution option
+   ❌ SAI
+   📝 The BABOK seemingly uses this term synonymously with "solution approach" which are alternative ways the BA identifies to create or acquire new capabilities. BABOK 6.4.4.1
+
+C. Solution scope
+   ✅ ĐÚNG
+   📝 The solution scope defines the boundaries of the solution, and is described in enough detail to enable stakeholders to understand which new capabilities the change will deliver. BABOK 6.4.4.1
+
+D. Solution approach
+   ❌ SAI
+   📝 The BABOK seemingly uses this term synonymously with "solution option" which are alternative ways the BA identifies to create or acquire new capabilities. BABOK 6.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Solution scope
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The solution scope defines the boundaries of the solution, and is described in enough detail to enable stakeholders to understand which new capabilities the change will deliver. BABOK 6.4.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+Which of the following best identifies the method and life cycle by which a solution may be delivered?
+
+A. Change strategy
+   ❌ SAI
+   📝 This answer is too broad given the question. BABOK 6.4.4.5
+
+B. Transition states and release planning
+   ✅ ĐÚNG
+   📝 Transition states and release planning is an element in the define change strategy task that speaks to the method and life cycle by which the solution could be delivered. BABOK 6.4.4.5
+
+C. Solution scope
+   ❌ SAI
+   📝 Solution scope does not define HOW the solution may be delivered; it focuses on WHAT will be delivered. BABOK 6.4.4.5
+
+D. Enterprise architecture
+   ❌ SAI
+   📝 This defines the current capabilities of an organization and may be used to help determine how the solution could most successfully be delivered. BABOK 6.4.4.5
+
+➤ ĐÁP ÁN ĐÚNG: Transition states and release planning
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Transition states and release planning is an element in the define change strategy task that speaks to the method and life cycle by which the solution could be delivered. BABOK 6.4.4.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+Which of the following is an output of the define change strategy task?
+
+A. Potential value
+   ❌ SAI
+   📝 This is an intuitive and logical response but the BABOK associates this output to the define future state task. BABOK Figure 6.2.1
+
+B. Risk analysis results
+   ❌ SAI
+   📝 This is an intuitive and logical response but the BABOK associates this output to the assess risks task. BABOK Figure 6.3.1
+
+C. Alternatives analysis
+   ❌ SAI
+   📝 This is an activity within the decision analysis technique and may have been completed to support the solution scope. BABOK 10.16
+
+D. Solution scope
+   ✅ ĐÚNG
+   📝 Solution scope and change strategy are the two outputs for this task. BABOK Figure 6.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Solution scope
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Solution scope and change strategy are the two outputs for this task. BABOK Figure 6.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+Marc and his team are working to complete a gap analysis in order to write a business case to obtain funding for an initiative. The future state is defined and risks have been identified and assessed. Before long, the team realizes they are missing a key input to complete the analysis. What is it?
+
+A. A comparison of requirements from key stakeholders
+   ❌ SAI
+   📝 This is not a component of a gap analysis. ABOK 6.4.4.2
+
+B. Transition requirements
+   ❌ SAI
+   📝 Transition requirements are not a component of a gap analysis. BABOK 6.4.4.2
+
+C. The change strategy
+   ❌ SAI
+   📝 Defining the change strategy is a task, and gap analysis is an element in that task. BABOK 6.4.4.2
+
+D. The definition of the current state
+   ✅ ĐÚNG
+   📝 The current state capabilities are needed to determine the gap between today and what will be needed in the future state. BABOK 6.4.4.2
+
+➤ ĐÁP ÁN ĐÚNG: The definition of the current state
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The current state capabilities are needed to determine the gap between today and what will be needed in the future state. BABOK 6.4.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+Which of the following is NOT a direct input in the define change strategy task?
+
+A. Future state description
+   ❌ SAI
+   📝 This is a direct input. BABOK Figure 6.4.1
+
+B. Solution recommendations
+   ✅ ĐÚNG
+   📝 This is not an input; rather, a guideline and tool along with business analysis approach and design options. BABOK Figure 6.4.1
+
+C. Risk analysis results
+   ❌ SAI
+   📝 This is a direct input. BABOK Figure 6.4.1
+
+D. Stakeholder engagement approach
+   ❌ SAI
+   📝 This is a direct input. BABOK Figure 6.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Solution recommendations
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is not an input; rather, a guideline and tool along with business analysis approach and design options. BABOK Figure 6.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+Which of the following techniques can be used to help define the solution scope?
+
+A. Root cause analysis
+   ❌ SAI
+   📝 This used to define the problem. BABOK 6.1.6 and 10.40
+
+B. Functional decomposition
+   ✅ ĐÚNG
+   📝 Functional decomposition is used to break down the components of the solution into parts when developing a change strategy. BABOK 6.4.6 and 10.22
+
+C. Work breakdown structure
+   ❌ SAI
+   📝 WBS is not a technique; it is a document or artifact. BABOK Glossary
+
+D. Cost-benefit analysis
+   ❌ SAI
+   📝 This is done as part of a business case and is an element of financial analysis. BABOK 10.20.3.4
+
+➤ ĐÁP ÁN ĐÚNG: Functional decomposition
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Functional decomposition is used to break down the components of the solution into parts when developing a change strategy. BABOK 6.4.6 and 10.22
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Moira is a BA facilitating a discussion with stakeholders regarding the implementation strategy for a solution. The sponsor is pressuring the team to implement the solution by year end; their busiest time of year with the holidays. She ensures the conversation takes into consideration which of the following critical factors?
+
+A. Ability to train end-users by year end given the fact that it is their busiest time of the year.
+   ❌ SAI
+   📝 This may be true, but training is too specific an activity; another answer is more encompassing. BABOK 6.4.4.5
+
+B. Key stakeholder requirements.
+   ❌ SAI
+   📝 This response is too high level. BABOK 6.4.4.5
+
+C. Minimal disruption to business activities and related organizational impacts.
+   ✅ ĐÚNG
+   📝 Given the information in the scenario, you can infer this is the most critical factor of those listed given the business activity at the end of the year. BABOK 6.4.4.5
+
+D. Availability of the delivery team due to the holidays and resources' vacation schedules.
+   ❌ SAI
+   📝 Resource availability is always a consideration but is not the most critical given the scenario. BABOK 6.4.4.5
+
+➤ ĐÁP ÁN ĐÚNG: Minimal disruption to business activities and related organizational impacts.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Given the information in the scenario, you can infer this is the most critical factor of those listed given the business activity at the end of the year. BABOK 6.4.4.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+Sonja is formulating a proposed change approach for her bank which wants to enable customers to apply for new accounts using a web site. The bank currently has limited web functionality and only permits new accounts to be opened at a branch. She is deciding which factors to include in her analysis. Which of the following factors should Sonja consider?
+
+A. Alternative strategies for delivering the needed capabilities.
+   ❌ SAI
+   📝 Considering alternatives is valid regarding the overall strategy; however, the question is hinting at a gap analysis by mentioning the current state. BABOK 6.4.4.2
+
+B. Risks involved with allowing new account applications through a web site.
+   ❌ SAI
+   📝 Risks are part of the overall change strategy, but the BABOK does not list them as a capability category within a gap analysis. BABOK 6.4.4.2
+
+C. Business rules that apply to the opening of new accounts.
+   ❌ SAI
+   📝 Business rules are a part of the solution scope, but the BABOK does not list them as a capability category within a gap analysis. BABOK 6.4.4.2
+
+D. Knowledge and skills of developers who could build new web pages.
+   ✅ ĐÚNG
+   📝 Knowledge and skills is one capability category to consider while performing a gap analysis. This question is tricky with more than one possible answer. The limited web functionality in the current state suggests they may lack the skills required in the future state. BABOK 6.4.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Knowledge and skills of developers who could build new web pages.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Knowledge and skills is one capability category to consider while performing a gap analysis. This question is tricky with more than one possible answer. The limited web functionality in the current state suggests they may lack the skills required in the future state. BABOK 6.4.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Business analysts assist in planning the timing of the implementation to ensure all parties understand the impact on the organization and to ensure minimal disruption. Which of the following factors do NOT guide implementation?
+
+A. Training schedules
+   ❌ SAI
+   📝 This is a stated factor in transition states and release planning. BABOK 6.4.4.5
+
+B. Resource constraints
+   ❌ SAI
+   📝 This is a stated factor in transition states and release planning. BABOK 6.4.4.5
+
+C. Ability of the organization to absorb the change
+   ❌ SAI
+   📝 This is a stated factor in transition states and release planning. BABOK 6.4.4.5
+
+D. Project approach
+   ✅ ĐÚNG
+   📝 This is not a stated factor in transition states and release planning. BABOK 6.4.4.5
+
+➤ ĐÁP ÁN ĐÚNG: Project approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is not a stated factor in transition states and release planning. BABOK 6.4.4.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+Business analysts analyze the enterprise to assess its capacity to make the change and to sustain the change in the future state. What is this element called?
+
+A. Organizational readiness assessment
+   ❌ SAI
+   📝 Though you may be familiar with this term, it is not the term used in the BABOK. BABOK 6.4.4.3
+
+B. Enterprise capacity assessment
+   ❌ SAI
+   📝 This is an invented term. BABOK 6.4.4.3
+
+C. Enterprise readiness assessment
+   ✅ ĐÚNG
+   📝 The readiness assessment considers the enterprise's capacity to make and sustain the change, but also realize value from the solution. BABOK 6.4.4.3
+
+D. Organizational capacity assessment
+   ❌ SAI
+   📝 This is an invented term. BABOK 6.4.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Enterprise readiness assessment
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The readiness assessment considers the enterprise's capacity to make and sustain the change, but also realize value from the solution. BABOK 6.4.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+Which of the following is an output of the define change strategy task?
+
+A. Solution scope
+   ✅ ĐÚNG
+   📝 Solution scope and change strategy are the two outputs for this task. BABOK Figure 6.4.1
+
+B. Risk analysis results
+   ❌ SAI
+   📝 This is an intuitive and logical response but the BABOK associates this output to the assess risks task. BABOK Figure 6.3.1
+
+C. Alternatives analysis
+   ❌ SAI
+   📝 This is an activity within the decision analysis technique and may have been completed to support the solution scope. BABOK 10.16
+
+D. Potential value
+   ❌ SAI
+   📝 This is an intuitive and logical response but the BABOK associates this output to the define future state task. BABOK Figure 6.2.1
+
+➤ ĐÁP ÁN ĐÚNG: Solution scope
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Solution scope and change strategy are the two outputs for this task. BABOK Figure 6.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+Which document provides stakeholders with an understanding of what new capabilities will be delivered in the change initiative?
+
+A. Solution scope
+   ✅ ĐÚNG
+   📝 The solution scope defines the boundaries of the solution, and is described in enough detail to enable stakeholders to understand which new capabilities the change will deliver. BABOK 6.4.4.1
+
+B. Solution option
+   ❌ SAI
+   📝 The BABOK seemingly uses this term synonymously with "solution approach" which are alternative ways the BA identifies to create or acquire new capabilities. BABOK 6.4.4.1
+
+C. Solution approach
+   ❌ SAI
+   📝 The BABOK seemingly uses this term synonymously with "solution option" which are alternative ways the BA identifies to create or acquire new capabilities. BABOK 6.4.4.1
+
+D. Project vision
+   ❌ SAI
+   📝 The vision describes the business need and long-term direction of the project. BABOK 6.4.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Solution scope
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The solution scope defines the boundaries of the solution, and is described in enough detail to enable stakeholders to understand which new capabilities the change will deliver. BABOK 6.4.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+Sonja is formulating a proposed change approach for her bank which wants to enable customers to apply for new accounts using a web site. The bank currently has limited web functionality and only permits new accounts to be opened at a branch. She is deciding which factors to include in her analysis. Which of the following factors should Sonja consider?
+
+A. Knowledge and skills of developers who could build new web pages.
+   ✅ ĐÚNG
+   📝 Knowledge and skills is one capability category to consider while performing a gap analysis. This question is tricky with more than one possible answer. The limited web functionality in the current state suggests they may lack the skills required in the future state. BABOK 6.4.4.2
+
+B. Alternative strategies for delivering the needed capabilities.
+   ❌ SAI
+   📝 Considering alternatives is valid regarding the overall strategy; however, the question is hinting at a gap analysis by mentioning the current state. BABOK 6.4.4.2
+
+C. Business rules that apply to the opening of new accounts.
+   ❌ SAI
+   📝 Business rules are a part of the solution scope, but the BABOK does not list them as a capability category within a gap analysis. BABOK 6.4.4.2
+
+D. Risks involved with allowing new account applications through a web site.
+   ❌ SAI
+   📝 Risks are part of the overall change strategy, but the BABOK does not list them as a capability category within a gap analysis. BABOK 6.4.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Knowledge and skills of developers who could build new web pages.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Knowledge and skills is one capability category to consider while performing a gap analysis. This question is tricky with more than one possible answer. The limited web functionality in the current state suggests they may lack the skills required in the future state. BABOK 6.4.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+For which of the following tasks or elements would it be most appropriate to generate alternative approaches during strategy analysis?
+
+A. Scope of the solution space
+   ❌ SAI
+   📝 The scope of the solution space defines which kinds of options will be considered when investigating possible solutions. As such, it happens before generating alternative approaches (aka solutions). BABOK 6.2.4.2
+
+B. Acceptance and evaluation criteria
+   ❌ SAI
+   📝 Acceptance and evaluation criteria is a technique and is used to identify what may make the future state acceptable and/or how options may be evaluated. BABOK 6.2.6
+
+C. Determine implementation approach
+   ❌ SAI
+   📝 There is no such task, element, or technique in the BABOK. BABOK 6.4.1
+
+D. Define change strategy
+   ✅ ĐÚNG
+   📝 The purpose of the define change strategy task is to develop and assess alternative approaches to the change, and then select the recommended approach. BABOK 6.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Define change strategy
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The purpose of the define change strategy task is to develop and assess alternative approaches to the change, and then select the recommended approach. BABOK 6.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+Which of the following best identifies the method and life cycle by which a solution may be delivered?
+
+A. Change strategy
+   ❌ SAI
+   📝 This answer is too broad given the question. BABOK 6.4.4.5
+
+B. Solution scope
+   ❌ SAI
+   📝 Solution scope does not define HOW the solution may be delivered; it focuses on WHAT will be delivered. BABOK 6.4.4.5
+
+C. Transition states and release planning
+   ✅ ĐÚNG
+   📝 Transition states and release planning is an element in the define change strategy task that speaks to the method and life cycle by which the solution could be delivered. BABOK 6.4.4.5
+
+D. Enterprise architecture
+   ❌ SAI
+   📝 This defines the current capabilities of an organization and may be used to help determine how the solution could most successfully be delivered. BABOK 6.4.4.5
+
+➤ ĐÁP ÁN ĐÚNG: Transition states and release planning
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Transition states and release planning is an element in the define change strategy task that speaks to the method and life cycle by which the solution could be delivered. BABOK 6.4.4.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+Which of the following techniques can be used to help define the solution scope?
+
+A. Work breakdown structure
+   ❌ SAI
+   📝 WBS is not a technique; it is a document or artifact. BABOK Glossary
+
+B. Cost-benefit analysis
+   ❌ SAI
+   📝 This is done as part of a business case and is an element of financial analysis. BABOK 10.20.3.4
+
+C. Root cause analysis
+   ❌ SAI
+   📝 This used to define the problem. BABOK 6.1.6 and 10.40
+
+D. Functional decomposition
+   ✅ ĐÚNG
+   📝 Functional decomposition is used to break down the components of the solution into parts when developing a change strategy. BABOK 6.4.6 and 10.22
+
+➤ ĐÁP ÁN ĐÚNG: Functional decomposition
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Functional decomposition is used to break down the components of the solution into parts when developing a change strategy. BABOK 6.4.6 and 10.22
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+James is exploring various strategies to transform the enterprise from the current to their desired future state. How many business cases might James develop in support of his final recommendation?
+
+A. One business case that includes financial analysis for each alternative change strategy.
+   ❌ SAI
+   📝 You may have experience with this response but it is not stated in the BABOK. BABOK 6.4.4.4
+
+B. One business case per change strategy.
+   ✅ ĐÚNG
+   📝 Business analysts may develop a business case for each potential change strategy to support decision making. BABOK 6.4.4.4
+
+C. It depends upon the culture of the organization.
+   ❌ SAI
+   📝 This may be a true response but it is not stated in the BABOK. BABOK 6.4.4.4
+
+D. One business case for the final recommendation.
+   ❌ SAI
+   📝 The BABOK states that a business case may be developed for each potential change strategy. BABOK 6.4.4.4
+
+➤ ĐÁP ÁN ĐÚNG: One business case per change strategy.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Business analysts may develop a business case for each potential change strategy to support decision making. BABOK 6.4.4.4
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+How does a business analyst decide if a change strategy is needed?
+
+A. When the organization needs to create missing or improve existing capabilities in order to achieve the future state.
+   ✅ ĐÚNG
+   📝 If the enterprise can meet the need with the current state capabilities, then the change may be relatively small or not needed. A change strategy will be needed if there are missing capabilities or ones that must be improved to meet the business need. BABOK 6.4.4.2
+
+B. When the business analyst determines a change strategy would help the enterprise transition to its future state.
+   ❌ SAI
+   📝 This is too broad an answer. BABOK 6.4.4.2
+
+C. When the organization needs to create missing capabilities to achieve the future state.
+   ❌ SAI
+   📝 This is partially true but another answer is more comprehensive. BABOK 6.4.4.2
+
+D. When an organization is moving from a current to future state.
+   ❌ SAI
+   📝 If the enterprise can meet the future state need with current state capabilities, a change strategy is not needed. BABOK 6.4.4.2
+
+➤ ĐÁP ÁN ĐÚNG: When the organization needs to create missing or improve existing capabilities in order to achieve the future state.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+If the enterprise can meet the need with the current state capabilities, then the change may be relatively small or not needed. A change strategy will be needed if there are missing capabilities or ones that must be improved to meet the business need. BABOK 6.4.4.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+How would utilizing decision analysis in the development of a business case prove beneficial?
+
+A. Compares the costs of implementing a solution against the benefits to be gained given identified risks.
+   ✅ ĐÚNG
+   📝 BABOK 6.4.6 and 10.16.1
+
+B. Assists in estimating cost projections for the technology and new processes required to support the new solution.
+   ❌ SAI
+   📝 Decision analysis is about costs of implementing against benefits. This statement is partially true.
+
+C. Used to assess potential risks that may impact the solution and the costs and benefits associated with it.
+   ❌ SAI
+   📝 Decision analysis doesn't directly address risks.
+
+D. The decision models included would prevent the team from having to recreate the wheel.
+   ❌ SAI
+   📝 This better describes decision modeling vs. decision analysis.
+
+➤ ĐÁP ÁN ĐÚNG: Compares the costs of implementing a solution against the benefits to be gained given identified risks.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 6.4.6 and 10.16.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+The business analyst is working with stakeholders and the project team to evaluate and rule out options not believed viable. What is the ultimate output that the business analyst is trying to produce?
+
+A. Change strategy
+   ❌ SAI
+   📝 Change strategy is the approach that the organization will follow to guide the change BABOK Figure 6.4.1 and 6.4.8
+
+B. Future state description
+   ❌ SAI
+   📝 This is an input into the define change strategy task which results in an output the business analyst is trying to produce. BABOK BABOK Figure 6.4.1
+
+C. Solution scope
+   ✅ ĐÚNG
+   📝 The solution scope identifies the new capabilities the change will deliver. BABOK Figure 6.4.1 and BABOK 6.4.8
+
+D. Gap analysis
+   ❌ SAI
+   📝 Gap analysis is an element of the define change strategy task. BABOK 6.4.4.2
+
+➤ ĐÁP ÁN ĐÚNG: Solution scope
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The solution scope identifies the new capabilities the change will deliver. BABOK Figure 6.4.1 and BABOK 6.4.8
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+Which of the following techniques can be used to help define the solution scope?
+
+A. Root cause analysis
+   ❌ SAI
+   📝 This used to define the problem. BABOK 6.1.6 and 10.40
+
+B. Functional decomposition
+   ✅ ĐÚNG
+   📝 Functional decomposition is used to break down the components of the solution into parts when developing a change strategy. BABOK 6.4.6 and 10.22
+
+C. Work breakdown structure
+   ❌ SAI
+   📝 WBS is not a technique; it is a document or artifact. BABOK Glossary
+
+D. Cost-benefit analysis
+   ❌ SAI
+   📝 This is done as part of a business case and is an element of financial analysis. BABOK 10.20.3.4
+
+➤ ĐÁP ÁN ĐÚNG: Functional decomposition
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Functional decomposition is used to break down the components of the solution into parts when developing a change strategy. BABOK 6.4.6 and 10.22
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Derek and his team are brainstorming alternative approaches to a defined change. What task is Derek performing?
+
+A. Define future state
+   ❌ SAI
+   📝 Defining future state involves determining the set of necessary conditions to meet the business need. BABOK 6.2.1
+
+B. Concept modeling
+   ❌ SAI
+   📝 Concept modeling is a technique, not a task. BABOK 6.4.1
+
+C. Define change strategy
+   ✅ ĐÚNG
+   📝 This is the purpose of the define change strategy task. BABOK 6.4.1
+
+D. Develop recommendation
+   ❌ SAI
+   📝 This is not a BABOK task. BABOK 6.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Define change strategy
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the purpose of the define change strategy task. BABOK 6.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+Business analysts assist in planning the timing of the implementation to ensure all parties understand the impact on the organization and to ensure minimal disruption. Which of the following factors do NOT guide implementation?
+
+A. Resource constraints
+   ❌ SAI
+   📝 This is a stated factor in transition states and release planning. BABOK 6.4.4.5
+
+B. Project approach
+   ✅ ĐÚNG
+   📝 This is not a stated factor in transition states and release planning. BABOK 6.4.4.5
+
+C. Ability of the organization to absorb the change
+   ❌ SAI
+   📝 This is a stated factor in transition states and release planning. BABOK 6.4.4.5
+
+D. Training schedules
+   ❌ SAI
+   📝 This is a stated factor in transition states and release planning. BABOK 6.4.4.5
+
+➤ ĐÁP ÁN ĐÚNG: Project approach
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is not a stated factor in transition states and release planning. BABOK 6.4.4.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+Functional decomposition can be used by a BA to analyze which type of scope?
+
+A. Product scope.
+   ✅ ĐÚNG
+   📝 A BA would use functional decomposition to help break down the product or solution scope. BABOK 6.4.6 and 10.22
+
+B. Project scope.
+   ❌ SAI
+   📝 Functional decomposition can help break down project scope, but that would be a project management activity.
+
+C. Process scope.
+   ❌ SAI
+   📝 The BABOK mentions that functional decomposition can apply to processes, but it does not refer to process scope.
+
+D. Organizational scope.
+   ❌ SAI
+   📝 This type of scope isn't mentioned in the BABOK, and if it was, it would not be within a BA role to decompose it.
+
+➤ ĐÁP ÁN ĐÚNG: Product scope.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+A BA would use functional decomposition to help break down the product or solution scope. BABOK 6.4.6 and 10.22
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+Which of the following best identifies the method and life cycle by which a solution may be delivered?
+
+A. Change strategy
+   ❌ SAI
+   📝 This answer is too broad given the question. BABOK 6.4.4.5
+
+B. Transition states and release planning
+   ✅ ĐÚNG
+   📝 Transition states and release planning is an element in the define change strategy task that speaks to the method and life cycle by which the solution could be delivered. BABOK 6.4.4.5
+
+C. Solution scope
+   ❌ SAI
+   📝 Solution scope does not define HOW the solution may be delivered; it focuses on WHAT will be delivered. BABOK 6.4.4.5
+
+D. Enterprise architecture
+   ❌ SAI
+   📝 This defines the current capabilities of an organization and may be used to help determine how the solution could most successfully be delivered. BABOK 6.4.4.5
+
+➤ ĐÁP ÁN ĐÚNG: Transition states and release planning
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Transition states and release planning is an element in the define change strategy task that speaks to the method and life cycle by which the solution could be delivered. BABOK 6.4.4.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+Derek and his team are brainstorming alternative approaches to a defined change. What task is Derek performing?
+
+A. Define future state
+   ❌ SAI
+   📝 Defining future state involves determining the set of necessary conditions to meet the business need. BABOK 6.2.1
+
+B. Concept modeling
+   ❌ SAI
+   📝 Concept modeling is a technique, not a task. BABOK 6.4.1
+
+C. Define change strategy
+   ✅ ĐÚNG
+   📝 This is the purpose of the define change strategy task. BABOK 6.4.1
+
+D. Develop recommendation
+   ❌ SAI
+   📝 This is not a BABOK task. BABOK 6.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Define change strategy
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the purpose of the define change strategy task. BABOK 6.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+The business analyst has completed the identification and definition of why a change to a system is required. The business analyst has also identified new capabilities that the current system cannot perform and are required by the enterprise to achieve the business need. Risks have been identified and assessed. What is the business analyst's next step?
+
+A. Determine architectural gaps.
+   ❌ SAI
+   📝 Gaps have been determined.
+
+B. Determine the business process gaps.
+   ❌ SAI
+   📝 Gaps have been determined.
+
+C. Determine the change strategy.
+   ✅ ĐÚNG
+   📝 The current state has been analyzed, the future state has been defined, and risks have been assessed. The next step is to perform the task of "Define Change Strategy." BABOK Figure 6.4.3
+
+D. Determine the organizational impacts.
+   ❌ SAI
+   📝 Impacts have been determined.
+
+➤ ĐÁP ÁN ĐÚNG: Determine the change strategy.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The current state has been analyzed, the future state has been defined, and risks have been assessed. The next step is to perform the task of "Define Change Strategy." BABOK Figure 6.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+How would utilizing decision analysis in the development of a business case prove beneficial?
+
+A. Used to assess potential risks that may impact the solution and the costs and benefits associated with it.
+   ❌ SAI
+   📝 Decision analysis doesn't directly address risks.
+
+B. Compares the costs of implementing a solution against the benefits to be gained given identified risks.
+   ✅ ĐÚNG
+   📝 BABOK 6.4.6 and 10.16.1
+
+C. Assists in estimating cost projections for the technology and new processes required to support the new solution.
+   ❌ SAI
+   📝 Decision analysis is about costs of implementing against benefits. This statement is partially true.
+
+D. The decision models included would prevent the team from having to recreate the wheel.
+   ❌ SAI
+   📝 This better describes decision modeling vs. decision analysis.
+
+➤ ĐÁP ÁN ĐÚNG: Compares the costs of implementing a solution against the benefits to be gained given identified risks.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 6.4.6 and 10.16.1
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 80 - 30 câu FULL EXPLAIN

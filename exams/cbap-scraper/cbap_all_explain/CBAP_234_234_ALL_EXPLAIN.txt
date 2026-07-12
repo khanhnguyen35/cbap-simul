@@ -1,0 +1,760 @@
+=== CBAP - TOPIC SET 234 ===
+📚 Tên: TopicSet 234
+📊 Tổng câu hỏi: 30
+✅ Lấy được: 30 câu
+🎓 FULL EXPLAIN tất cả 4 đáp án + BABOK references
+
+==========================================================================================
+
+Câu 1:
+Hutchinson Flooring set a goal to become ISO certified within two years. Todd is a BA tasked with assessing the performance of a set of IT processes to determine if this goal is "doable." The scope is defined. What should Todd do next?
+
+A. Do research on ISO to understand the certifying organization and the process of certification.
+   ❌ SAI
+   📝 This would be extremely helpful but Todd needs to understand exactly what is being measured in the processes and to what standard first.
+
+B. Benchmark against other certified organizations.
+   ❌ SAI
+   📝 This might be helpful a little later in the process.
+
+C. Visit other certified organizations to observe their processes firsthand.
+   ❌ SAI
+   📝 This would be extremely helpful but Todd needs to understand exactly what is being measured in the processes and to what standard first.
+
+D. Obtain the imposed measurements from ISO for the targeted processes.
+   ✅ ĐÚNG
+   📝 Since the certifying body is external to Hutchinson, Todd needs the standards they will be assessed against. BABOK 8.1.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Obtain the imposed measurements from ISO for the targeted processes.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Since the certifying body is external to Hutchinson, Todd needs the standards they will be assessed against. BABOK 8.1.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 2:
+Maurice is defining performance measures for a new solution with his team. They are reviewing the change strategy, future state description, solution scope, and requirements. What state do the requirements have to be in for the team to consider them viable inputs to the process?
+
+A. Validated
+   ✅ ĐÚNG
+   📝 Maurice and his team need requirements that have been analyzed and appraised to deliver business value and support the goals and objectives. BABOK 8.1.5
+
+B. Traced
+   ❌ SAI
+   📝 This is a close second; they may be traced but traced to what exactly? Maurice and his team need requirements that have been traced to the goals and objectives.
+
+C. Unconfirmed
+   ❌ SAI
+   📝 Unconfirmed is not a requirements state.
+
+D. Confirmed
+   ❌ SAI
+   📝 Confirmed is not a requirements state.
+
+➤ ĐÁP ÁN ĐÚNG: Validated
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Maurice and his team need requirements that have been analyzed and appraised to deliver business value and support the goals and objectives. BABOK 8.1.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 3:
+Peter and his team have defined desired performance measures to assess the performance of a solution. Many of these measures are new to the organization. What is Peter's next step?
+
+A. Trace the performance measures to business objectives.
+   ❌ SAI
+   📝 This should already have been done when defining the measures.
+
+B. Assign ownership of, and determine the frequency of, measurements.
+   ❌ SAI
+   📝 This does have to happen but this step is premature.
+
+C. Gain approval for the new measures.
+   ❌ SAI
+   📝 This does have to happen but this step is premature.
+
+D. Ensure that the enterprise has methods in place to capture the measurements.
+   ✅ ĐÚNG
+   📝 BABOK 8.1.4.1
+
+➤ ĐÁP ÁN ĐÚNG: Ensure that the enterprise has methods in place to capture the measurements.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.1.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 4:
+Who are the stakeholders that contribute to measuring solution performance?
+
+A. UI expert, developer, regulator, documentation subject matter expert, supervisor, tester.
+   ❌ SAI
+   📝 Only regulator is listed as a stakeholders. BABOK 8.1.7
+
+B. Domain subject matter expert, documentation subject matter expert, regulator, sponsor, user experience expert
+   ❌ SAI
+   📝 Documentation subject matter expert and user experience expert do not apply. BABOK 8.1.7
+
+C. Supervisor, director, end user, domain subject matter expert, customer, sponsor, developer.
+   ❌ SAI
+   📝 Only end user, customer, domain subject matter expert, and sponsor are listed as stakeholders. BABOK 8.1.7
+
+D. Customer, domain subject matter expert, project manager, sponsor, regulator.
+   ✅ ĐÚNG
+   📝 BABOK 8.1.7
+
+➤ ĐÁP ÁN ĐÚNG: Customer, domain subject matter expert, project manager, sponsor, regulator.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.1.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 5:
+Hutchinson Flooring set a goal to become ISO certified within two years. Todd is a BA tasked with assessing the performance of a set of IT processes to determine if this goal is "doable." The scope is defined. What should Todd do next?
+
+A. Obtain the imposed measurements from ISO for the targeted processes.
+   ✅ ĐÚNG
+   📝 Since the certifying body is external to Hutchinson, Todd needs the standards they will be assessed against. BABOK 8.1.4.1
+
+B. Do research on ISO to understand the certifying organization and the process of certification.
+   ❌ SAI
+   📝 This would be extremely helpful but Todd needs to understand exactly what is being measured in the processes and to what standard first.
+
+C. Visit other certified organizations to observe their processes firsthand.
+   ❌ SAI
+   📝 This would be extremely helpful but Todd needs to understand exactly what is being measured in the processes and to what standard first.
+
+D. Benchmark against other certified organizations.
+   ❌ SAI
+   📝 This might be helpful a little later in the process.
+
+➤ ĐÁP ÁN ĐÚNG: Obtain the imposed measurements from ISO for the targeted processes.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Since the certifying body is external to Hutchinson, Todd needs the standards they will be assessed against. BABOK 8.1.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 6:
+Brenda is developing a plan to measure solution performance. In addition to the measures themselves, what other considerations are part of the plan?
+
+A. Frequency and timing, currency, data collection tool.
+   ❌ SAI
+   📝 Data collection tool is not a cited consideration in the BABOK.
+
+B. Volume or sample size, frequency and timing, data collection tool.
+   ❌ SAI
+   📝 Data collection tool is not a cited consideration in the BABOK.
+
+C. Volume or sample size, frequency and timing, currency.
+   ✅ ĐÚNG
+   📝 BABOK 8.1.4.3
+
+D. Volume or sample size, currency.
+   ❌ SAI
+   📝 Frequency and timing is missing.
+
+➤ ĐÁP ÁN ĐÚNG: Volume or sample size, frequency and timing, currency.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.1.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 7:
+What are the inputs to the Solution Evaluation knowledge area?
+
+A. Implemented solution (external), recommend actions, potential value, solution performance analysis
+   ❌ SAI
+   📝 These are a combination of inputs and outputs from this knowledge area. BABOK Figure 8.0.2
+
+B. Implemented solution (external), future state description, business objectives, realized value.
+   ❌ SAI
+   📝 It's the "current state" description, not the "future state", and it's the "potential value", not the "realized value." BABOK Figure 8.0.2
+
+C. Solution performance measures, enterprise limitations, solution limitations, recommended actions
+   ❌ SAI
+   📝 These are outputs of the tasks. BABOK Figure 8.0.2
+
+D. Implemented solution (external), current state description, business objectives, potential value.
+   ✅ ĐÚNG
+   📝 BABOK Figure 8.0.2
+
+➤ ĐÁP ÁN ĐÚNG: Implemented solution (external), current state description, business objectives, potential value.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK Figure 8.0.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 8:
+Maurice is defining performance measures for a new solution with his team. They are reviewing the change strategy, future state description, solution scope, and requirements. What state do the requirements have to be in for the team to consider them viable inputs to the process?
+
+A. Validated
+   ✅ ĐÚNG
+   📝 Maurice and his team need requirements that have been analyzed and appraised to deliver business value and support the goals and objectives. BABOK 8.1.5
+
+B. Confirmed
+   ❌ SAI
+   📝 Confirmed is not a requirements state.
+
+C. Unconfirmed
+   ❌ SAI
+   📝 Unconfirmed is not a requirements state.
+
+D. Traced
+   ❌ SAI
+   📝 This is a close second; they may be traced but traced to what exactly? Maurice and his team need requirements that have been traced to the goals and objectives.
+
+➤ ĐÁP ÁN ĐÚNG: Validated
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Maurice and his team need requirements that have been analyzed and appraised to deliver business value and support the goals and objectives. BABOK 8.1.5
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 9:
+Jenna is defining performance measures for a solution. The sponsor can define business goals but Jenna is insistent upon understanding business objectives. Why are business objectives that important when defining performance measures?
+
+A. It is important for the BA to understand what the organization is trying to achieve.
+   ❌ SAI
+   📝 This is true but another answer is more specific given Jenna's task.
+
+B. Objectives provide a benchmark against which solution performance can be assessed.
+   ✅ ĐÚNG
+   📝 BABOK 8.1.3
+
+C. Jenna doesn't need business objectives to define performance measures; business goals will suffice.
+   ❌ SAI
+   📝 It is imperative that Jenna has objectives so that performance measures can align to them. Key performance indicators must align to enterprise measures.
+
+D. Business objectives are important for a BA to understand so they have context.
+   ❌ SAI
+   📝 This is true but another answer is more specific given Jenna's task.
+
+➤ ĐÁP ÁN ĐÚNG: Objectives provide a benchmark against which solution performance can be assessed.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.1.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 10:
+Sierra discovered that an internal audit team performed audits the last calendar week of each month. The organization operates at a frenetic pace the last week of the month to meet production goals. What might Sierra further investigate as a concern?
+
+A. Perhaps the fact that audits are completed each month is too often; perhaps bi-monthly or quarterly makes more sense.
+   ❌ SAI
+   📝 There is no evidence that frequency of the measurement activity is an issue.
+
+B. Perhaps the entire facility doesn't need to be audited each month and that a sample of departments would be sufficient.
+   ❌ SAI
+   📝 There is no evidence that volume or sample size related to the measurement activity is an issue.
+
+C. Why the "frenetic" pace can't be spaced out across the month given the production goal.
+   ❌ SAI
+   📝 Good question but not the best answer of those provided.
+
+D. Perhaps the timing of the audits may have a negative impact on the outcome.
+   ✅ ĐÚNG
+   📝 The timing of the audits appears to be the most problematic given the information in the scenario. BABOK 8.1.4.3
+
+➤ ĐÁP ÁN ĐÚNG: Perhaps the timing of the audits may have a negative impact on the outcome.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The timing of the audits appears to be the most problematic given the information in the scenario. BABOK 8.1.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 11:
+Which inputs would be leveraged by the business analyst to support measuring solution performance ?
+
+A. Budget and timeline.
+   ❌ SAI
+   📝 These are used to measure project performance, not solution performance. BABOK 8.1.3
+
+B. Implemented solution (internal), business objectives.
+   ❌ SAI
+   📝 Internal is the key that makes this incorrect. BABOK 8.1.3
+
+C. Implemented solution (external), business objectives.
+   ✅ ĐÚNG
+   📝 BABOK 8.1.3
+
+D. Current state description.
+   ❌ SAI
+   📝 This is not an input to the Measure Solution Performance task. BABOK 8.1.3
+
+➤ ĐÁP ÁN ĐÚNG: Implemented solution (external), business objectives.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.1.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 12:
+Carl is a new BA who is anxious to align his activities to best practices and is trying to decide if the tasks in Strategy Analysis or Solution Evaluation knowledge area should be used for his current assignment. They appear to be so similar. He asks his BA coach how to discern which to use. Which of the following pieces of guidance is the most straightforward?
+
+A. Take a look at the tasks, and then score your current assignment against those tasks. Use decision analysis.
+   ❌ SAI
+   📝 This might work but is a long and laborious process.
+
+B. Well, that depends. Is your focus on a business problem or opportunity or on a solution that is either deployed, about to be deployed, or deployed as a pilot?
+   ❌ SAI
+   📝 This is a close second but isn't the most straightforward.
+
+C. If an actual solution exists, Solution Evaluation is probably more pertinent.
+   ✅ ĐÚNG
+   📝 BABOK 8.0
+
+D. Use whatever you believe will provide the most value to your current assignment.
+   ❌ SAI
+   📝 Not straightforward and somewhat erroneous guidance.
+
+➤ ĐÁP ÁN ĐÚNG: If an actual solution exists, Solution Evaluation is probably more pertinent.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.0
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 13:
+Who are the stakeholders that contribute to measuring solution performance?
+
+A. Customer, domain subject matter expert, project manager, sponsor, regulator.
+   ✅ ĐÚNG
+   📝 BABOK 8.1.7
+
+B. Supervisor, director, end user, domain subject matter expert, customer, sponsor, developer.
+   ❌ SAI
+   📝 Only end user, customer, domain subject matter expert, and sponsor are listed as stakeholders. BABOK 8.1.7
+
+C. Domain subject matter expert, documentation subject matter expert, regulator, sponsor, user experience expert
+   ❌ SAI
+   📝 Documentation subject matter expert and user experience expert do not apply. BABOK 8.1.7
+
+D. UI expert, developer, regulator, documentation subject matter expert, supervisor, tester.
+   ❌ SAI
+   📝 Only regulator is listed as a stakeholders. BABOK 8.1.7
+
+➤ ĐÁP ÁN ĐÚNG: Customer, domain subject matter expert, project manager, sponsor, regulator.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.1.7
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 14:
+What are ALL of the core concepts used in Solution Evaluation?
+
+A. Change, need, solution, context, value, stakeholders.
+   ✅ ĐÚNG
+   📝 BABOK Table 8.0.1. All the core concepts are used in each knowledge area.
+
+B. Comparison, analysis, evaluation context, stakeholders, validation, need.
+   ❌ SAI
+   📝 BABOK Table 8.0.1. All the core concepts are used in each knowledge area. Comparison, analysis, evaluation context are not core concepts.
+
+C. Change, need, solution, context, validation, stakeholders.
+   ❌ SAI
+   📝 BABOK Table 8.0.1. All the core concepts are used in each knowledge area. Validation is not a core concept.
+
+D. Evaluation context, change, solution, stakeholders, value, need, validation, analysis.
+   ❌ SAI
+   📝 BABOK Table 8.0.1. All the core concepts are used in each knowledge area. Evaluation context, validation, and analysis are not core concepts.
+
+➤ ĐÁP ÁN ĐÚNG: Change, need, solution, context, value, stakeholders.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK Table 8.0.1. All the core concepts are used in each knowledge area.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 15:
+Which of the following are the inputs for the Measure Solution Performance task?
+
+A. Validation of implemented solution
+   ❌ SAI
+   📝 Made up answer.Figure 8.1.1, BABOK 8.1.3
+
+B. Current state description, business objectives, potential value
+   ❌ SAI
+   📝 Only "business objectives" is an input for this task. Figure 8.1.1, BABOK 8.1.3
+
+C. Solution performance measures
+   ❌ SAI
+   📝 This is the output of this task. Figure 8.1.1, BABOK 8.1.3
+
+D. Business objectives, implemented solution
+   ✅ ĐÚNG
+   📝 Figure 8.1.1, BABOK 8.1.3
+
+➤ ĐÁP ÁN ĐÚNG: Business objectives, implemented solution
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Figure 8.1.1, BABOK 8.1.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 16:
+Which inputs would be leveraged by the business analyst to support measuring solution performance ?
+
+A. Implemented solution (external), business objectives.
+   ✅ ĐÚNG
+   📝 BABOK 8.1.3
+
+B. Implemented solution (internal), business objectives.
+   ❌ SAI
+   📝 Internal is the key that makes this incorrect. BABOK 8.1.3
+
+C. Current state description.
+   ❌ SAI
+   📝 This is not an input to the Measure Solution Performance task. BABOK 8.1.3
+
+D. Budget and timeline.
+   ❌ SAI
+   📝 These are used to measure project performance, not solution performance. BABOK 8.1.3
+
+➤ ĐÁP ÁN ĐÚNG: Implemented solution (external), business objectives.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.1.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 17:
+Jenna is defining performance measures for a solution. The sponsor can define business goals but Jenna is insistent upon understanding business objectives. Why are business objectives that important when defining performance measures?
+
+A. Business objectives are important for a BA to understand so they have context.
+   ❌ SAI
+   📝 This is true but another answer is more specific given Jenna's task.
+
+B. Objectives provide a benchmark against which solution performance can be assessed.
+   ✅ ĐÚNG
+   📝 BABOK 8.1.3
+
+C. Jenna doesn't need business objectives to define performance measures; business goals will suffice.
+   ❌ SAI
+   📝 It is imperative that Jenna has objectives so that performance measures can align to them. Key performance indicators must align to enterprise measures.
+
+D. It is important for the BA to understand what the organization is trying to achieve.
+   ❌ SAI
+   📝 This is true but another answer is more specific given Jenna's task.
+
+➤ ĐÁP ÁN ĐÚNG: Objectives provide a benchmark against which solution performance can be assessed.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.1.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 18:
+Hutchinson Flooring set a goal to become ISO certified within two years. Todd is a BA tasked with assessing the performance of a set of IT processes to determine if this goal is "doable." The scope is defined. What should Todd do next?
+
+A. Benchmark against other certified organizations.
+   ❌ SAI
+   📝 This might be helpful a little later in the process.
+
+B. Do research on ISO to understand the certifying organization and the process of certification.
+   ❌ SAI
+   📝 This would be extremely helpful but Todd needs to understand exactly what is being measured in the processes and to what standard first.
+
+C. Obtain the imposed measurements from ISO for the targeted processes.
+   ✅ ĐÚNG
+   📝 Since the certifying body is external to Hutchinson, Todd needs the standards they will be assessed against. BABOK 8.1.4.1
+
+D. Visit other certified organizations to observe their processes firsthand.
+   ❌ SAI
+   📝 This would be extremely helpful but Todd needs to understand exactly what is being measured in the processes and to what standard first.
+
+➤ ĐÁP ÁN ĐÚNG: Obtain the imposed measurements from ISO for the targeted processes.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Since the certifying body is external to Hutchinson, Todd needs the standards they will be assessed against. BABOK 8.1.4.1
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 19:
+Sierra discovered that an internal audit team performed audits the last calendar week of each month. The organization operates at a frenetic pace the last week of the month to meet production goals. What might Sierra further investigate as a concern?
+
+A. Perhaps the fact that audits are completed each month is too often; perhaps bi-monthly or quarterly makes more sense.
+   ❌ SAI
+   📝 There is no evidence that frequency of the measurement activity is an issue.
+
+B. Perhaps the timing of the audits may have a negative impact on the outcome.
+   ✅ ĐÚNG
+   📝 The timing of the audits appears to be the most problematic given the information in the scenario. BABOK 8.1.4.3
+
+C. Why the "frenetic" pace can't be spaced out across the month given the production goal.
+   ❌ SAI
+   📝 Good question but not the best answer of those provided.
+
+D. Perhaps the entire facility doesn't need to be audited each month and that a sample of departments would be sufficient.
+   ❌ SAI
+   📝 There is no evidence that volume or sample size related to the measurement activity is an issue.
+
+➤ ĐÁP ÁN ĐÚNG: Perhaps the timing of the audits may have a negative impact on the outcome.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+The timing of the audits appears to be the most problematic given the information in the scenario. BABOK 8.1.4.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 20:
+Phil is a BA on a project and is planning activities to evaluate the solution. The project is planned to have a total of four releases approximately four to six months apart. Each release builds upon the functionality in the prior release. When should Phil plan the assessments?
+
+A. During each proof of concept, before delivery, and after deployment.
+   ❌ SAI
+   📝 There is no evidence of a proof of concept for Phil's project. This would be the most correct answer if it was a general vs. scenario-specific question.
+
+B. When it would add value but minimally after each release.
+   ✅ ĐÚNG
+   📝 Evaluations may be needed prior to deployment especially from an enterprise perspective. BABOK 8.0
+
+C. It depends; whenever warranted or Phil believes evaluation would lend value.
+   ❌ SAI
+   📝 No; far too general a response.
+
+D. When there is indication that the solution isn't delivering expected value once deployed.
+   ❌ SAI
+   📝 This is also true but when associated with a project, the solution must be evaluated to determine whether expected value is being achieved.
+
+➤ ĐÁP ÁN ĐÚNG: When it would add value but minimally after each release.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Evaluations may be needed prior to deployment especially from an enterprise perspective. BABOK 8.0
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 21:
+Kay is a BA measuring the performance of a solution. Complaints about the solution have been increasing from end-users. She went into the project archives to obtain how the original stakeholders defined acceptable performance. Those criteria didn't seem to be the cause of the complaints however. Among other things, stakeholders weren't happy with the overall maintainability of the solution. What else could assist Kay in her analysis?
+
+A. Stakeholder requirements.
+   ❌ SAI
+   📝 This would be useful if specific stakeholder groups were complaining specifically about the solution in relationship to their unique responsibilities but there is no evidence of that in the scenario.
+
+B. Functional requirements.
+   ❌ SAI
+   📝 These requirements are defined by the "definition of acceptable performance" listed in the scenario.
+
+C. Understanding how the original project objectives mapped to the business objectives at the time. Perhaps the business changed and the solution is no longer viable.
+   ❌ SAI
+   📝 This is a fabricated answer and no evidence of that in the scenario.
+
+D. Understanding how the original stakeholders defined the expected characteristics of the solution.
+   ✅ ĐÚNG
+   📝 This is the definition for the non-functional requirements analysis technique. The availability, capacity, maintainability, speed, etc. of the solution. BABOK 8.1.6
+
+➤ ĐÁP ÁN ĐÚNG: Understanding how the original stakeholders defined the expected characteristics of the solution.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the definition for the non-functional requirements analysis technique. The availability, capacity, maintainability, speed, etc. of the solution. BABOK 8.1.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 22:
+Which of the following are the inputs for the Measure Solution Performance task?
+
+A. Business objectives, implemented solution
+   ✅ ĐÚNG
+   📝 Figure 8.1.1, BABOK 8.1.3
+
+B. Validation of implemented solution
+   ❌ SAI
+   📝 Made up answer.Figure 8.1.1, BABOK 8.1.3
+
+C. Current state description, business objectives, potential value
+   ❌ SAI
+   📝 Only "business objectives" is an input for this task. Figure 8.1.1, BABOK 8.1.3
+
+D. Solution performance measures
+   ❌ SAI
+   📝 This is the output of this task. Figure 8.1.1, BABOK 8.1.3
+
+➤ ĐÁP ÁN ĐÚNG: Business objectives, implemented solution
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Figure 8.1.1, BABOK 8.1.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 23:
+What are the inputs to the Solution Evaluation knowledge area?
+
+A. Implemented solution (external), recommend actions, potential value, solution performance analysis
+   ❌ SAI
+   📝 These are a combination of inputs and outputs from this knowledge area. BABOK Figure 8.0.2
+
+B. Implemented solution (external), future state description, business objectives, realized value.
+   ❌ SAI
+   📝 It's the "current state" description, not the "future state", and it's the "potential value", not the "realized value." BABOK Figure 8.0.2
+
+C. Solution performance measures, enterprise limitations, solution limitations, recommended actions
+   ❌ SAI
+   📝 These are outputs of the tasks. BABOK Figure 8.0.2
+
+D. Implemented solution (external), current state description, business objectives, potential value.
+   ✅ ĐÚNG
+   📝 BABOK Figure 8.0.2
+
+➤ ĐÁP ÁN ĐÚNG: Implemented solution (external), current state description, business objectives, potential value.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK Figure 8.0.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 24:
+Jenna is defining performance measures for a solution. The sponsor can define business goals but Jenna is insistent upon understanding business objectives. Why are business objectives that important when defining performance measures?
+
+A. Objectives provide a benchmark against which solution performance can be assessed.
+   ✅ ĐÚNG
+   📝 BABOK 8.1.3
+
+B. It is important for the BA to understand what the organization is trying to achieve.
+   ❌ SAI
+   📝 This is true but another answer is more specific given Jenna's task.
+
+C. Business objectives are important for a BA to understand so they have context.
+   ❌ SAI
+   📝 This is true but another answer is more specific given Jenna's task.
+
+D. Jenna doesn't need business objectives to define performance measures; business goals will suffice.
+   ❌ SAI
+   📝 It is imperative that Jenna has objectives so that performance measures can align to them. Key performance indicators must align to enterprise measures.
+
+➤ ĐÁP ÁN ĐÚNG: Objectives provide a benchmark against which solution performance can be assessed.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.1.3
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 25:
+What are ALL of the core concepts used in Solution Evaluation?
+
+A. Evaluation context, change, solution, stakeholders, value, need, validation, analysis.
+   ❌ SAI
+   📝 BABOK Table 8.0.1. All the core concepts are used in each knowledge area. Evaluation context, validation, and analysis are not core concepts.
+
+B. Change, need, solution, context, value, stakeholders.
+   ✅ ĐÚNG
+   📝 BABOK Table 8.0.1. All the core concepts are used in each knowledge area.
+
+C. Comparison, analysis, evaluation context, stakeholders, validation, need.
+   ❌ SAI
+   📝 BABOK Table 8.0.1. All the core concepts are used in each knowledge area. Comparison, analysis, evaluation context are not core concepts.
+
+D. Change, need, solution, context, validation, stakeholders.
+   ❌ SAI
+   📝 BABOK Table 8.0.1. All the core concepts are used in each knowledge area. Validation is not a core concept.
+
+➤ ĐÁP ÁN ĐÚNG: Change, need, solution, context, value, stakeholders.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK Table 8.0.1. All the core concepts are used in each knowledge area.
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 26:
+Phil is a BA on a project and is planning activities to evaluate the solution. The project is planned to have a total of four releases approximately four to six months apart. Each release builds upon the functionality in the prior release. When should Phil plan the assessments?
+
+A. It depends; whenever warranted or Phil believes evaluation would lend value.
+   ❌ SAI
+   📝 No; far too general a response.
+
+B. When there is indication that the solution isn't delivering expected value once deployed.
+   ❌ SAI
+   📝 This is also true but when associated with a project, the solution must be evaluated to determine whether expected value is being achieved.
+
+C. During each proof of concept, before delivery, and after deployment.
+   ❌ SAI
+   📝 There is no evidence of a proof of concept for Phil's project. This would be the most correct answer if it was a general vs. scenario-specific question.
+
+D. When it would add value but minimally after each release.
+   ✅ ĐÚNG
+   📝 Evaluations may be needed prior to deployment especially from an enterprise perspective. BABOK 8.0
+
+➤ ĐÁP ÁN ĐÚNG: When it would add value but minimally after each release.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Evaluations may be needed prior to deployment especially from an enterprise perspective. BABOK 8.0
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 27:
+What factor can be assessed through key performance indicators (KPIs) aligned with enterprise measures, goals, and objectives for a project, process performance targets, or tests for a software application?
+
+A. Solution implementation
+   ❌ SAI
+   📝 Made up answer. BABOK 8.1.2
+
+B. Context
+   ❌ SAI
+   📝 Made up answer. BABOK 8.1.2
+
+C. Performance
+   ✅ ĐÚNG
+   📝 BABOK 8.1.2
+
+D. Solution acceptance
+   ❌ SAI
+   📝 KPIs measure performance, not acceptance. BABOK 8.1.2
+
+➤ ĐÁP ÁN ĐÚNG: Performance
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+BABOK 8.1.2
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 28:
+Kay is a BA measuring the performance of a solution. Complaints about the solution have been increasing from end-users. She went into the project archives to obtain how the original stakeholders defined acceptable performance. Those criteria didn't seem to be the cause of the complaints however. Among other things, stakeholders weren't happy with the overall maintainability of the solution. What else could assist Kay in her analysis?
+
+A. Understanding how the original project objectives mapped to the business objectives at the time. Perhaps the business changed and the solution is no longer viable.
+   ❌ SAI
+   📝 This is a fabricated answer and no evidence of that in the scenario.
+
+B. Understanding how the original stakeholders defined the expected characteristics of the solution.
+   ✅ ĐÚNG
+   📝 This is the definition for the non-functional requirements analysis technique. The availability, capacity, maintainability, speed, etc. of the solution. BABOK 8.1.6
+
+C. Stakeholder requirements.
+   ❌ SAI
+   📝 This would be useful if specific stakeholder groups were complaining specifically about the solution in relationship to their unique responsibilities but there is no evidence of that in the scenario.
+
+D. Functional requirements.
+   ❌ SAI
+   📝 These requirements are defined by the "definition of acceptable performance" listed in the scenario.
+
+➤ ĐÁP ÁN ĐÚNG: Understanding how the original stakeholders defined the expected characteristics of the solution.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+This is the definition for the non-functional requirements analysis technique. The availability, capacity, maintainability, speed, etc. of the solution. BABOK 8.1.6
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 29:
+Phil is a BA on a project and is planning activities to evaluate the solution. The project is planned to have a total of four releases approximately four to six months apart. Each release builds upon the functionality in the prior release. When should Phil plan the assessments?
+
+A. When there is indication that the solution isn't delivering expected value once deployed.
+   ❌ SAI
+   📝 This is also true but when associated with a project, the solution must be evaluated to determine whether expected value is being achieved.
+
+B. When it would add value but minimally after each release.
+   ✅ ĐÚNG
+   📝 Evaluations may be needed prior to deployment especially from an enterprise perspective. BABOK 8.0
+
+C. It depends; whenever warranted or Phil believes evaluation would lend value.
+   ❌ SAI
+   📝 No; far too general a response.
+
+D. During each proof of concept, before delivery, and after deployment.
+   ❌ SAI
+   📝 There is no evidence of a proof of concept for Phil's project. This would be the most correct answer if it was a general vs. scenario-specific question.
+
+➤ ĐÁP ÁN ĐÚNG: When it would add value but minimally after each release.
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Evaluations may be needed prior to deployment especially from an enterprise perspective. BABOK 8.0
+
+────────────────────────────────────────────────────────────────────────────────
+Câu 30:
+Which of the following are the inputs for the Measure Solution Performance task?
+
+A. Current state description, business objectives, potential value
+   ❌ SAI
+   📝 Only "business objectives" is an input for this task. Figure 8.1.1, BABOK 8.1.3
+
+B. Solution performance measures
+   ❌ SAI
+   📝 This is the output of this task. Figure 8.1.1, BABOK 8.1.3
+
+C. Business objectives, implemented solution
+   ✅ ĐÚNG
+   📝 Figure 8.1.1, BABOK 8.1.3
+
+D. Validation of implemented solution
+   ❌ SAI
+   📝 Made up answer.Figure 8.1.1, BABOK 8.1.3
+
+➤ ĐÁP ÁN ĐÚNG: Business objectives, implemented solution
+
+🔥 GIẢI THÍCH CHI TIẾT (BABOK):
+Figure 8.1.1, BABOK 8.1.3
+
+────────────────────────────────────────────────────────────────────────────────
+==========================================================================================
+🎓 Hoàn thành TopicSet 234 - 30 câu FULL EXPLAIN
