@@ -1,57 +1,66 @@
-question_id	exam_number	question_order	issue	answer_count
-019f4117-e47c-7153-b210-7b590fa49b34	1	26	missing_distractors	1
-019f411c-8e29-7fe1-8181-1bb5e6e0df90	1	42	missing_distractors	1
-019f411f-3778-7033-adba-65f3389f82bb	1	43	missing_distractors	1
-019f4135-7199-7f62-a9ab-e95dff337476	1	100	missing_distractors	2
-019f4150-1574-7bb2-9a54-bf5d347d5057	2	11	missing_distractors	2
-019f4150-b03d-74f2-9bbd-c6e9635d4f1f	2	13	missing_distractors	1
-019f4156-7766-72e3-83be-b8fa04b745be	2	15	missing_distractors	1
-019f4156-fbbd-7540-9ce4-044f0e5cc341	2	16	missing_distractors	1
-019f415b-0a8f-7cf0-86eb-d5ee9bfb2d19	2	18	missing_distractors	2
-019f4161-08f9-7f11-95fd-546dd3aae52b	2	81	missing_distractors	1
-019f43f6-a562-7f80-9460-4c97537364f9	4	98	missing_image	4
-019f4498-d47d-7c70-9135-0ae54b2583f9	7	5	missing_all_answers	0
-019f449b-ad50-78a0-8a91-58880ee02f40	8	12	missing_all_answers	0
-019f44d3-392f-7e42-96e4-05e3a32f6e49	11	88	missing_all_answers	0
-019f44d8-421a-78c1-854d-7db5ac186f7d	11	92	missing_image	4
-019f44d8-c78b-7612-8bd3-121161dc9679	11	97	missing_all_answers	0
-019f44f7-cee4-7252-a0ba-43f767985937	14	21	missing_all_answers	0
-019f44fa-72de-7a20-86ec-6dea77644df1	14	22	missing_all_answers	0
-019f4500-a214-70e1-aefe-00b9c6e9e66a	14	91	missing_all_answers	0
-019f4526-a53f-71b3-87c4-cb92f573fad0	17	60	missing_image	4
-019f4529-3b48-7882-a7e5-33fb46414d2f	17	89	missing_all_answers	0
-019f4540-28f3-7392-9039-93e3ef990594	18	45	missing_all_answers	0
-019f4542-d137-7263-a6d1-cc09ea5c1be9	18	46	missing_all_answers	0
-019f4548-7934-7ae0-8b15-15fec746f110	18	47	missing_all_answers	0
-019f454f-0677-7b00-8d39-28f13890b311	18	104	missing_all_answers	0
-019f45af-8e8e-7cb3-ac97-d1855c08d8f3	20	7	missing_all_answers	0
-019f45b0-7f69-7071-83de-fdee55f235bc	20	9	missing_all_answers	0
-019f45b2-7715-78f1-a71a-428e82fe0e9e	20	14	missing_all_answers	0
-019f45b3-3bd8-71a3-a489-c5b071c1978c	20	15	missing_all_answers	0
-019f45b4-164a-7fe0-a1c4-0cb8e057b5a8	20	16	missing_all_answers	0
-019f45ba-c34f-7c83-9d52-de4fd8914991	20	21	missing_all_answers	0
-019f45cc-10ee-7fe0-b473-38837fa04c38	20	26	missing_all_answers	0
-019f45df-06d8-7310-9539-a91fcee77865	20	39	missing_all_answers	0
-019f45e0-2855-7cb2-8ecc-56006d157dae	20	47	missing_all_answers	0
-019f45e6-4f7b-7572-ab26-4e2c6f003b4d	20	57	missing_all_answers	0
-019f45ed-0c37-7af0-b19f-5398191f49b2	20	60	missing_all_answers	0
-019f45f3-d1a8-7b10-8293-e2c375efa9bc	20	93	missing_all_answers	0
-019f45f5-c7bb-7413-a54d-b6251fb5651b	20	96	missing_all_answers	0
-019f4606-05ca-74f1-b58c-95695176a0e0	21	3	missing_all_answers	0
-019f4610-1cec-7d92-8a3d-7b9869abf5ce	21	5	missing_all_answers	0
-019f4617-d621-70b1-80bc-76e2b02ea355	21	7	missing_all_answers	0
-019f4618-db65-7bb2-bc02-a5465777aba9	21	8	missing_all_answers	0
-019f461a-93a1-7df0-af7a-516a45286501	21	10	missing_all_answers	0
-019f461d-7578-7742-aae3-7cc82065aeeb	21	11	missing_all_answers	0
-019f4625-ef6b-79f1-88e7-62def2526fcf	21	55	missing_all_answers	0
-019f4628-228f-79b3-a7c2-068273f9ddb5	21	56	missing_all_answers	0
-019f462e-9027-7980-a552-de82bab9e6c5	21	58	missing_all_answers	0
-019f4635-2929-7be2-9804-09f217e95be2	21	60	missing_all_answers	0
-019f4635-6ac5-7822-b1a8-ed38e747965b	21	62	missing_all_answers	0
-019f4635-d8c1-7203-9f63-d9f281b6f9e5	21	64	missing_all_answers	0
-019f4636-86db-72c2-9c56-c26910705f8b	21	65	missing_all_answers	0
-019f4637-f742-7351-a0e6-f121d90ef52b	21	66	missing_all_answers	0
-019f463a-c23f-7a02-ab0d-5310bc68c621	21	67	missing_all_answers	0
-019f4661-8203-7852-9278-63b54e65bb68	21	83	missing_all_answers	0
-019f4661-984d-7113-a07a-796207f5d41c	21	84	missing_all_answers	0
-019f4663-55af-7010-a8d6-3c3ed975f241	21	104	missing_all_answers	0
+question_id	exam_number	question_order	issue	answer_count	note
+019f4117-e47c-7153-b210-7b590fa49b34	1	26	missing_distractors	1	Chỉ còn 1-2/4 đáp án; đáp án đúng + giải thích vẫn còn. Dùng được ở chế độ flashcard.
+019f411c-8e29-7fe1-8181-1bb5e6e0df90	1	42	missing_distractors	1	Chỉ còn 1-2/4 đáp án; đáp án đúng + giải thích vẫn còn. Dùng được ở chế độ flashcard.
+019f411f-3778-7033-adba-65f3389f82bb	1	43	distractors_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_160_160_ALL_EXPLAIN.txt, câu 9).
+019f4135-7199-7f62-a9ab-e95dff337476	1	100	distractors_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_45_045_ALL_EXPLAIN.txt, câu 23).
+019f413a-4a42-7bf3-81e4-c8f1e3f9ea31	1	103	missing_subquestion	4	Câu con của case study bị thiếu ở nguồn và không có bản sao ở đề khác để phục hồi.
+019f4150-1574-7bb2-9a54-bf5d347d5057	2	11	missing_distractors	2	Chỉ còn 1-2/4 đáp án; đáp án đúng + giải thích vẫn còn. Dùng được ở chế độ flashcard.
+019f4150-b03d-74f2-9bbd-c6e9635d4f1f	2	13	distractors_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_261_261_ALL_EXPLAIN.txt, câu 109).
+019f4156-7766-72e3-83be-b8fa04b745be	2	15	missing_distractors	1	Chỉ còn 1-2/4 đáp án; đáp án đúng + giải thích vẫn còn. Dùng được ở chế độ flashcard.
+019f4156-fbbd-7540-9ce4-044f0e5cc341	2	16	distractors_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_170_170_ALL_EXPLAIN.txt, câu 25).
+019f415b-0a8f-7cf0-86eb-d5ee9bfb2d19	2	18	distractors_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_158_158_ALL_EXPLAIN.txt, câu 13).
+019f4161-08f9-7f11-95fd-546dd3aae52b	2	81	missing_distractors	1	Chỉ còn 1-2/4 đáp án; đáp án đúng + giải thích vẫn còn. Dùng được ở chế độ flashcard.
+019f416c-9a9e-7b63-acee-16e5979c9df0	3	45	subquestion_recovered	4	Câu con bị thiếu ở nguồn nhưng ĐÃ phục hồi từ đề khác trùng context + trùng đáp án đúng.
+019f416c-b151-7823-a3e6-db7fb1166dcb	3	46	subquestion_recovered	4	Câu con bị thiếu ở nguồn nhưng ĐÃ phục hồi từ đề khác trùng context + trùng đáp án đúng.
+019f416c-deb7-7d23-9585-8a462c8aad70	3	48	subquestion_recovered	4	Câu con bị thiếu ở nguồn nhưng ĐÃ phục hồi từ đề khác trùng context + trùng đáp án đúng.
+019f4401-cb10-7a03-8e6b-dbbca2b54220	5	82	subquestion_recovered	4	Câu con bị thiếu ở nguồn nhưng ĐÃ phục hồi từ đề khác trùng context + trùng đáp án đúng.
+019f4401-e232-7452-80f1-f4c828815bbf	5	83	missing_subquestion	4	Câu con của case study bị thiếu ở nguồn và không có bản sao ở đề khác để phục hồi.
+019f4498-d47d-7c70-9135-0ae54b2583f9	7	5	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f449b-ad50-78a0-8a91-58880ee02f40	8	12	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_18_018_ALL_EXPLAIN.txt, câu 7).
+019f44d3-392f-7e42-96e4-05e3a32f6e49	11	88	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_162_162_ALL_EXPLAIN.txt, câu 17).
+019f44d8-c78b-7612-8bd3-121161dc9679	11	97	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f44dc-7289-7961-96b9-fe56b204ba08	11	111	subquestion_recovered	4	Câu con bị thiếu ở nguồn nhưng ĐÃ phục hồi từ đề khác trùng context + trùng đáp án đúng.
+019f44dc-89ef-7cc2-90bd-c6a2cff3ba91	11	112	missing_subquestion	4	Câu con của case study bị thiếu ở nguồn và không có bản sao ở đề khác để phục hồi.
+019f44f7-cee4-7252-a0ba-43f767985937	14	21	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_156_156_ALL_EXPLAIN.txt, câu 11).
+019f44fa-72de-7a20-86ec-6dea77644df1	14	22	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_152_152_ALL_EXPLAIN.txt, câu 30).
+019f4500-a214-70e1-aefe-00b9c6e9e66a	14	91	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f4511-cae9-7352-9d7b-3989d574371d	16	2	subquestion_recovered	4	Câu con bị thiếu ở nguồn nhưng ĐÃ phục hồi từ đề khác trùng context + trùng đáp án đúng.
+019f4511-e241-7a82-b720-e491766425b7	16	3	missing_subquestion	4	Câu con của case study bị thiếu ở nguồn và không có bản sao ở đề khác để phục hồi.
+019f4528-95da-75d2-960e-aa672c8864a4	17	82	subquestion_recovered	4	Câu con bị thiếu ở nguồn nhưng ĐÃ phục hồi từ đề khác trùng context + trùng đáp án đúng.
+019f4529-3b48-7882-a7e5-33fb46414d2f	17	89	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f4540-28f3-7392-9039-93e3ef990594	18	45	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f4542-d137-7263-a6d1-cc09ea5c1be9	18	46	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f4548-7934-7ae0-8b15-15fec746f110	18	47	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f454f-0677-7b00-8d39-28f13890b311	18	104	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f45af-8e8e-7cb3-ac97-d1855c08d8f3	20	7	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f45b0-7f69-7071-83de-fdee55f235bc	20	9	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_20_020_ALL_EXPLAIN.txt, câu 2).
+019f45b2-7715-78f1-a71a-428e82fe0e9e	20	14	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f45b3-3bd8-71a3-a489-c5b071c1978c	20	15	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_79_079_ALL_EXPLAIN.txt, câu 29).
+019f45b4-164a-7fe0-a1c4-0cb8e057b5a8	20	16	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_106_106_ALL_EXPLAIN.txt, câu 4).
+019f45ba-c34f-7c83-9d52-de4fd8914991	20	21	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f45cc-10ee-7fe0-b473-38837fa04c38	20	26	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_20_020_ALL_EXPLAIN.txt, câu 21).
+019f45df-06d8-7310-9539-a91fcee77865	20	39	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f45e0-2855-7cb2-8ecc-56006d157dae	20	47	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f45e6-4f7b-7572-ab26-4e2c6f003b4d	20	57	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f45ed-0c37-7af0-b19f-5398191f49b2	20	60	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_156_156_ALL_EXPLAIN.txt, câu 3).
+019f45f3-d1a8-7b10-8293-e2c375efa9bc	20	93	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f45f5-c7bb-7413-a54d-b6251fb5651b	20	96	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f4606-05ca-74f1-b58c-95695176a0e0	21	3	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f4610-1cec-7d92-8a3d-7b9869abf5ce	21	5	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f4617-d621-70b1-80bc-76e2b02ea355	21	7	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_160_160_ALL_EXPLAIN.txt, câu 16).
+019f4618-db65-7bb2-bc02-a5465777aba9	21	8	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_152_152_ALL_EXPLAIN.txt, câu 14).
+019f461a-93a1-7df0-af7a-516a45286501	21	10	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f461d-7578-7742-aae3-7cc82065aeeb	21	11	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f4624-a6a1-7243-970f-bbd9431614a6	21	52	subquestion_recovered	4	Câu con bị thiếu ở nguồn nhưng ĐÃ phục hồi từ đề khác trùng context + trùng đáp án đúng.
+019f4625-ef6b-79f1-88e7-62def2526fcf	21	55	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_234_234_ALL_EXPLAIN.txt, câu 9).
+019f4628-228f-79b3-a7c2-068273f9ddb5	21	56	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_160_160_ALL_EXPLAIN.txt, câu 17).
+019f462e-9027-7980-a552-de82bab9e6c5	21	58	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f4635-2929-7be2-9804-09f217e95be2	21	60	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f4635-6ac5-7822-b1a8-ed38e747965b	21	62	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f4635-d8c1-7203-9f63-d9f281b6f9e5	21	64	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f4636-86db-72c2-9c56-c26910705f8b	21	65	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_235_235_ALL_EXPLAIN.txt, câu 29).
+019f4637-f742-7351-a0e6-f121d90ef52b	21	66	answers_recovered	4	ĐÃ khôi phục đủ 4 đáp án + giải thích từ cbap-scraper (CBAP_177_177_ALL_EXPLAIN.txt, câu 2).
+019f463a-c23f-7a02-ab0d-5310bc68c621	21	67	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+019f4661-8203-7852-9278-63b54e65bb68	21	83	missing_all_answers+missing_subquestion	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi). | Câu con của case study bị thiếu ở nguồn và không có bản sao ở đề khác để phục hồi.
+019f4661-984d-7113-a07a-796207f5d41c	21	84	missing_all_answers+missing_subquestion	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi). | Câu con của case study bị thiếu ở nguồn và không có bản sao ở đề khác để phục hồi.
+019f4663-55af-7010-a8d6-3c3ed975f241	21	104	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
