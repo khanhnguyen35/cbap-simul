@@ -55,7 +55,7 @@ Toàn bộ dữ liệu sau khi parse và trạng thái học tập sẽ được
 
 ### 2.3. Tầng Giao diện (Presentation Layer - Ant Design)
 Giao diện ứng dụng được chia thành các phân vùng trực quan chính:
-- **Dashboard**: Màn hình chính nơi hiển thị 21 đề thi. Sử dụng `Card` và `Progress` của Ant Design để biểu diễn phần trăm đề thi đã hoàn thành và số điểm cao nhất.
+- **Dashboard**: Màn hình chính nơi hiển thị 25 đề thi (động theo dữ liệu). Sử dụng `Card` và `Progress` của Ant Design để biểu diễn phần trăm đề thi đã hoàn thành và số điểm cao nhất.
 - **Phòng thi (Exam Room)**:
   - **Thiết kế Chia đôi màn hình (Split-Screen)**: Đối với câu hỏi Case Study (`is_case_study = true`), giao diện sử dụng `Row` và `Col` của Ant Design để chia màn hình thành 2 nửa bằng nhau:
     - Nửa bên trái: Panel hiển thị đoạn văn cảnh (`context`) có thể cuộn độc lập.

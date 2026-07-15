@@ -5,7 +5,7 @@ Hệ thống ôn tập thi chứng chỉ CBAP (Certified Business Analysis Profe
 ---
 
 ## 1. Mục tiêu dự án
-Xây dựng một ứng dụng web (SPA) chạy local giúp cá nhân ôn luyện thi chứng chỉ CBAP một cách hiệu quả nhất. Ứng dụng tận dụng bộ dữ liệu gồm **21 đề thi (gần 2.400 câu hỏi)** để cung cấp các chế độ học tập khác nhau, giao diện trực quan và các công cụ hỗ trợ phân tích kết quả.
+Xây dựng một ứng dụng web (SPA) chạy local giúp cá nhân ôn luyện thi chứng chỉ CBAP một cách hiệu quả nhất. Ứng dụng tận dụng bộ dữ liệu gồm **25 đề thi (2.869 câu hỏi — 21 đề gốc + 4 đề dump bổ sung 07/2026)** để cung cấp các chế độ học tập khác nhau, giao diện trực quan và các công cụ hỗ trợ phân tích kết quả.
 
 ---
 
@@ -18,7 +18,7 @@ Xây dựng một ứng dụng web (SPA) chạy local giúp cá nhân ôn luyệ
 ## 3. Các Tính năng Chính (Features)
 
 ### 3.1. Quản lý & Lựa chọn Đề thi (Exam Dashboard)
-- Hiển thị danh sách 21 đề thi.
+- Hiển thị danh sách 25 đề thi (số đề lấy động từ dữ liệu).
 - Trình bày thông tin tổng quan của mỗi đề: số câu hỏi thực tế (ví dụ: đề chuẩn 120 câu, đề bị thiếu như Đề 7), trạng thái hoàn thành (chưa làm, đang làm dở, đã hoàn thành), và điểm số cao nhất đạt được.
 - Phân loại nhanh các câu hỏi theo chất lượng (`data_quality`): câu hỏi OK, câu hỏi thiếu đáp án (`missing_all_answers`), câu hỏi thiếu đáp án nhiễu (`missing_distractors`).
 
@@ -50,7 +50,7 @@ Hỗ trợ 3 chế độ ôn luyện chính:
 
 ### 3.5. Báo cáo & Lịch sử học tập (Analytics & History)
 - Ghi lại lịch sử làm bài thi: đề số mấy, ngày làm, thời gian làm, số câu đúng/sai/bỏ qua, danh sách chi tiết các câu đã trả lời sai.
-- Biểu đồ thống kê tiến độ học tập (ví dụ: Tỷ lệ hoàn thành tổng số 2.389 câu, điểm số trung bình qua các đề thi).
+- Biểu đồ thống kê tiến độ học tập (ví dụ: Tỷ lệ hoàn thành tổng số 2.869 câu, điểm số trung bình qua các đề thi).
 
 ---
 
