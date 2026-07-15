@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "4c9660d1-694f-53f0-a63d-f84ec22e487a",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "BABOK v3, 3.3 Plan Business Analysis Information Management, explicitly addresses planning for requirements reuse: organizations that run many similar initiatives benefit from maintaining requirements in a repository so they can be reused on future projects. A requirements re-use repository directly streamlines gathering by letting analysts start from proven, previously approved requirements.",
+  "wrong_reasons": {
+   "b": "A project template standardizes project documents, not the requirements content itself.",
+   "c": "A gathering form standardizes intake but does not leverage previously developed requirements across similar projects.",
+   "d": "'Scope solution models' is not a BABOK mechanism for streamlining requirements gathering."
+  }
+ },
+ {
+  "question_id": "9f7eb045-e366-58d1-8f35-9a4d632a957f",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per the requirements classification schema in BABOK v3 (2.3 BACCM / 1.3 Key Terms), transition requirements describe temporary capabilities needed only to move from the current state to the future state, such as data access or conversion needs during a system decommission. The ability to view legacy policies for only 6 months is a temporary, transition-period capability.",
+  "wrong_reasons": {
+   "a": "A functional requirement describes permanent solution behavior, not a temporary 6-month capability.",
+   "c": "Non-functional requirements describe quality-of-service conditions, not temporary migration capabilities.",
+   "d": "Business requirements state high-level goals and objectives of the enterprise, not specific temporary capabilities."
+  }
+ },
+ {
+  "question_id": "69f697a0-6e32-574a-9fff-d5bfa7929392",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "In a plan-driven (predictive) approach, BABOK v3 (3.1 Plan Business Analysis Approach; 3.3 Information Management) emphasizes formal documentation and long-term storage of business analysis information. Formal communications are archived and become part of the organization's process assets so they can be referenced and reused later.",
+  "wrong_reasons": {
+   "a": "Destroying formal communication contradicts the formality and record-keeping of plan-driven approaches.",
+   "b": "Communications are not simply handed to the project manager for analysis; they are retained as organizational records.",
+   "c": "The communications management plan is a project management artifact and does not govern archival of business analysis records in BABOK."
+  }
+ },
+ {
+  "question_id": "b5aaf71f-02a4-5989-9702-8ddffb53dfdc",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.25 Lessons Learned, describes lessons learned sessions as usable at any point during an initiative, including at milestones, after releases, or when issues occur. The lessons learned documentation is therefore updated throughout the project lifecycle, not only at a single phase.",
+  "wrong_reasons": {
+   "a": "Limiting lessons learned to planning misses learning captured during execution and closure.",
+   "b": "Execution-only capture misses insights from planning and closing.",
+   "c": "Closing-only capture is a common misconception; lessons should be recorded continuously while fresh."
+  }
+ },
+ {
+  "question_id": "484a3d3b-ca8d-5c39-97d6-170eb896d280",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3 (6.4 Define Change Strategy and the glossary), solution scope is the set of capabilities a solution must deliver in order to meet the business need. Option A is the direct definition.",
+  "wrong_reasons": {
+   "b": "That describes assumptions, not solution scope.",
+   "c": "That describes the business case, which justifies the investment.",
+   "d": "That describes contents of a business case / business need definition, not solution scope."
+  }
+ },
+ {
+  "question_id": "29cfe53d-42b2-51f9-9d40-e0f6b264d15e",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.22 Functional Decomposition, describes breaking down a complex system, product, or process into its component parts to understand each part and its purpose. Disassembling the printer and documenting each component's purpose is functional decomposition.",
+  "wrong_reasons": {
+   "a": "Process modeling depicts sequential flows of activities, not physical component breakdown.",
+   "b": "Data modeling describes entities, attributes, and relationships of information, not product components.",
+   "d": "Scope modeling defines boundaries of a solution or organization, not internal component breakdown."
+  }
+ },
+ {
+  "question_id": "21dd037b-c884-5062-b0e8-81a3ae2dd086",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "In BABOK v3, 3.1 Plan Business Analysis Approach and 10.40 Risk Analysis and Management, stakeholder unavailability is treated as a business analysis risk to be identified and managed, and the planned approach can be tailored (e.g., more adaptive/iterative) to accommodate constraints. Recording the missing SME as a risk and recommending an adaptive approach lets analysis proceed and the SME's input be incorporated in later iterations.",
+  "wrong_reasons": {
+   "a": "Removing scope that is contractually committed is not within the BA's authority and doesn't address the constraint.",
+   "b": "Compressing the schedule and lowering formality jeopardizes quality and contract compliance without managing the risk.",
+   "c": "Adjusting contract costs is a commercial decision outside the BA's role and does not solve the availability problem."
+  }
+ },
+ {
+  "question_id": "41d3b337-d32a-5321-9fb9-a6c3f68affd4",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "Structured walkthroughs (reviews), decision analysis, and process modeling are all techniques usable within Business Analysis Planning and Monitoring (BABOK v3 Chapter 3 lists techniques such as 10.30 Process Modelling, 10.14 Decision Analysis, 10.44 Reviews). Requirements elicitation is not a planning technique; it is a separate knowledge area activity (Chapter 4, Elicitation and Collaboration).",
+  "wrong_reasons": {
+   "a": "Structured walkthroughs/reviews are a valid technique used in planning and monitoring.",
+   "b": "Decision analysis is listed as a technique for planning tasks such as selecting the approach.",
+   "d": "Process modeling can be used to document and plan the business analysis process itself."
+  }
+ },
+ {
+  "question_id": "7f18cbc7-d4e3-5930-8d09-898485d458e4",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.5 Brainstorming, stresses generating as many ideas as possible without limiting or evaluating them during the session; quantity breeds quality and evaluation comes afterward. Capping the goal at ten ideas artificially limits creative production.",
+  "wrong_reasons": {
+   "b": "A time limit is a valid brainstorming practice, but the flaw here is the numeric cap, not the absence of a timebox.",
+   "c": "Selecting the best solution happens after idea generation; brainstorming itself targets volume of ideas.",
+   "d": "Inclusive participation is desirable but is not the specific problem with setting a ten-idea goal."
+  }
+ },
+ {
+  "question_id": "5958000d-4252-5666-9793-054a41ac8bf1",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "BABOK v3, 9.5 Interaction Skills, covers facilitation, negotiation, conflict resolution, and 9.4 Communication Skills. The scenario involves a non-responder, an angry stakeholder in conflict, and stakeholders who misunderstood the request — precisely the situations addressed by negotiation, conflict resolution, and effective communication to reach agreement.",
+  "wrong_reasons": {
+   "a": "Personal accountability and time management (9.1 Analytical Thinking/9.2 Behavioural Characteristics) do not directly resolve stakeholder conflict or confusion.",
+   "c": "Knowledge competencies (9.3) inform analysis content but do not secure stakeholder agreement.",
+   "d": "Learning and creative thinking address problem analysis, not interpersonal agreement."
+  }
+ },
+ {
+  "question_id": "7d299653-2ca1-557b-a86d-b7ba7f8bf497",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "In Herzberg's two-factor theory (general management knowledge referenced in BA competency questions), hygiene factors are job-context items whose absence causes dissatisfaction: pay, job security, working conditions, policies. 'The chance to excel' is a motivator (achievement/growth), not a hygiene agent.",
+  "wrong_reasons": {
+   "b": "Job security is a classic hygiene factor.",
+   "c": "Salary/paycheck is a hygiene factor.",
+   "d": "Safe and clean working conditions are hygiene factors."
+  }
+ },
+ {
+  "question_id": "df369471-2f02-5ab0-84c3-9d9d78ef95ec",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Before committing to any COTS module, the BA must understand current-state capabilities versus needed future-state capabilities. BABOK v3, 6.1 Analyze Current State and 6.2 Define Future State, with 10.41 (gap analysis reasoning in Strategy Analysis), make gap analysis the first step to identify missing capabilities the COTS module must cover.",
+  "wrong_reasons": {
+   "b": "Implementing modules before analysis skips requirements and risks a poor fit.",
+   "c": "Modifying the tool presumes a solution before the gaps are understood.",
+   "d": "A change strategy (6.4) is defined after current and future states — and their gaps — are analyzed."
+  }
+ },
+ {
+  "question_id": "9c4bb1f4-2e2e-5377-a238-9fefd3faed81",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.18 Document Analysis, is the technique of examining existing information, documentation, records, and historical material to elicit or confirm information relevant to the business analysis effort.",
+  "wrong_reasons": {
+   "a": "Benchmarking (10.4) compares practices against peer organizations, not internal document review.",
+   "b": "Data flow diagrams (10.13) model movement of data, they are not an elicitation-from-records technique.",
+   "d": "Requirements elicitation is the overall activity, not the specific technique described."
+  }
+ },
+ {
+  "question_id": "6b76b3f8-a20d-5fb5-ad93-fdd120117d28",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In BABOK v3 stakeholder roles (2.4 Stakeholders; 4.2 Conduct Elicitation), the regulator is the stakeholder who may impose or dictate that specific processes, standards, or techniques be followed, including during elicitation (e.g., mandated audit or compliance procedures).",
+  "wrong_reasons": {
+   "a": "The project manager coordinates schedule and resources but does not mandate elicitation techniques by authority of rules.",
+   "c": "Functional management supplies resources and domain input, not mandated processes.",
+   "d": "The sponsor authorizes and funds the initiative but does not dictate elicitation technique compliance."
+  }
+ },
+ {
+  "question_id": "4a238cd8-6b12-5a09-a842-f6bb9d9d2774",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "BABOK v3, 3.3 Plan Business Analysis Governance, defines how decisions are made and identifies who has the authority to approve — including approvals needed from stakeholders in other areas of the organization. The governance approach is where the stakeholder authorized to approve database access would be identified.",
+  "wrong_reasons": {
+   "a": "Solution scope defines what capabilities are delivered, not who holds approval authority.",
+   "b": "Requirements architecture (7.4) shows how requirements relate to each other, not approval authorities.",
+   "c": "Change strategy (6.4) describes how the organization will transition to the future state, not specific approvers."
+  }
+ },
+ {
+  "question_id": "bd7173ba-7a21-538a-8487-0d74df928e50",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "The classic characteristics of requirements quality used in Verify Requirements (BABOK v3, 7.2 Verify Requirements, 7.2.4.1) are: atomic/cohesive, complete, consistent, concise/correct, feasible, unambiguous, testable, prioritized/modifiable. 'Functional' is a requirement classification type, not a quality characteristic.",
+  "wrong_reasons": {
+   "b": "Modifiable is one of the recognized quality characteristics of well-written requirements.",
+   "c": "Unambiguous is a required quality characteristic (7.2.4.1).",
+   "d": "Testable/verifiable is a required quality characteristic (7.2.4.1)."
+  }
+ },
+ {
+  "question_id": "ecc4b518-f9e2-5d6f-a1d3-fcb9dffacf83",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Comparing a customized COTS package against a fully bespoke build is analyzing which design option delivers the most value — BABOK v3, 7.6 Analyze Potential Value and Recommend Solution, whose inputs are Potential Value and Design Options. The BA needs the identified design options and their expected potential value to perform this comparison.",
+  "wrong_reasons": {
+   "a": "Requirements and business policies inform design definition but are not the inputs to comparing solution options for value.",
+   "b": "Needs and the BA approach are inputs to earlier strategy/planning tasks, not to option value analysis.",
+   "c": "Change strategy and performance objectives relate to transition planning and solution evaluation, not comparing design options."
+  }
+ },
+ {
+  "question_id": "6b559645-51e6-584c-a5b2-f8cfd0bc21d7",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "BABOK v3, 3.3 Plan Business Analysis Governance, defines the change control process, including who reviews and approves changes and how the workload of approvals is structured (e.g., delegating authority, defining decision-making processes). When the change approval process is bottlenecked, the BA should propose revisiting the governance approach.",
+  "wrong_reasons": {
+   "a": "The BA has no authority to approve change requests on the PM's behalf.",
+   "b": "Unilaterally transferring approval responsibility to the sponsor bypasses the agreed governance process.",
+   "d": "Declining valid change requests because of the chosen approach ignores legitimate business needs."
+  }
+ },
+ {
+  "question_id": "39dd56f3-0815-5288-b3f7-cfa448a876a3",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "When defining the business need (BABOK v3, 6.1 Analyze Current State / Strategy Analysis guidance on business needs), the BA must ensure stated requirements express the actual underlying business need or problem rather than pre-supposed solutions, since defining the need in terms of a solution constrains options and may address symptoms rather than the real problem.",
+  "wrong_reasons": {
+   "b": "Risk content is assessed later; it is not the confirmation required before defining the business need.",
+   "c": "Requirements should not embed proposed solutions; alternatives are generated after the need is defined.",
+   "d": "Goals and objectives are refined into the business need, but the key check on stated requirements is that they are not solution descriptions."
+  }
+ },
+ {
+  "question_id": "313edbb6-1347-5be1-b9c1-3f6f3e7b38fc",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "BABOK v3, 5.1 Trace Requirements (5.1.4.2), defines relationship types: derive, depends (necessity and effort), satisfy, validate. 'Create a role' and 'Find a role' have a dependency of necessity — finding a role only makes sense if roles can be created, so one requirement is only useful when the related one is also implemented.",
+  "wrong_reasons": {
+   "a": "Validate links a requirement to a test case that confirms it, not two use cases.",
+   "b": "Derive links a detailed requirement to the higher-level requirement it was derived from.",
+   "d": "Satisfy links an implementation element (solution component) to the requirement it fulfills."
+  }
+ },
+ {
+  "question_id": "1fb7c21c-d3ab-5544-9d49-c17c7565edbe",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "BABOK v3, 5.5 Approve Requirements (5.5.4.2 Conflict and Issue Management), states that conflicts among stakeholders must be resolved before approval can be given, typically through facilitated discussion, further research/analysis, or escalation to a third party for resolution or mediation.",
+  "wrong_reasons": {
+   "b": "Seniority is not the BABOK mechanism for resolving requirement conflicts.",
+   "c": "Removing the conflicted item from scope avoids rather than resolves the conflict and may harm the solution.",
+   "d": "The BA facilitates resolution but does not unilaterally decide between stakeholders' requirements."
+  }
+ },
+ {
+  "question_id": "086af5b1-31c3-5042-b06b-a196edaff2ad",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.25 Interviews, notes the most common form of interview is one interviewer asking questions of one interviewee (one-to-one). Group interviews exist but are less common and harder to manage.",
+  "wrong_reasons": {
+   "a": "Many-to-one (panel interviews) are used occasionally but are not the most common.",
+   "b": "Many-to-many sessions are workshops/focus groups rather than typical interviews.",
+   "d": "One-to-many describes group interviews, which BABOK notes are less common than one-to-one."
+  }
+ },
+ {
+  "question_id": "45c7e3ae-73cb-58e8-9255-50fb2cdacf14",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.9 Business Rules Analysis, is used to define, analyze, and manage the rules and policies that shape day-to-day organizational behavior; changing organizational policies to support goals and objectives is precisely the domain of business rules analysis.",
+  "wrong_reasons": {
+   "a": "Focus groups (10.21) elicit attitudes and opinions, they do not analyze or change policies.",
+   "c": "Brainstorming (10.5) generates ideas, it does not analyze organizational policies.",
+   "d": "Root cause analysis (10.40 in v2 numbering / 10.44 area) identifies underlying causes of problems, not policy definition."
+  }
+ },
+ {
+  "question_id": "379fd0ab-56be-5b2a-9767-6308e655dd5f",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "The solution scope definition describes the capabilities to be delivered, the major features and functions, and the dependencies — including technical and implementation dependencies — that bound the solution (BABOK v3 solution scope concept, Strategy Analysis / 6.2 Define Future State). Technical dependencies are part of describing solution scope.",
+  "wrong_reasons": {
+   "a": "The business case justifies the investment; it references solution scope but is a separate deliverable.",
+   "c": "Elicitation techniques belong to the business analysis plan/approach, not the solution scope.",
+   "d": "Organizational readiness assessment supports change strategy, not the scope definition itself."
+  }
+ },
+ {
+  "question_id": "05b0fa21-ea44-51e8-b4c7-e473c2da075e",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "BABOK v3, 7.3 Prioritize Requirements (7.3.4.2), lists dependencies as a valid basis for prioritization: a requirement may be prioritized higher because other, more valuable requirements depend on it being implemented first. Ranking solely by difficulty is not a BABOK prioritization basis, so the BA who sequenced by dependency is correct.",
+  "wrong_reasons": {
+   "a": "Value is one basis, but BABOK explicitly allows prioritizing by dependency, cost, risk, urgency, and other factors — not 'always' by value.",
+   "c": "Seniority is irrelevant to which prioritization basis is correct.",
+   "d": "Requirement prioritization by dependency is a business analysis activity, not something deferred to the project activity list."
+  }
+ },
+ {
+  "question_id": "d2b6478f-a21b-5a84-b94b-d78d18c29783",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Quantitative risk analysis numerically estimates the probability of adverse events and measures the likely magnitude of loss or impact (cf. BABOK v3, 10.38 Risk Analysis and Management, which distinguishes qualitative from quantitative assessment of likelihood and impact). Assigning numeric probabilities and loss values is the quantitative approach.",
+  "wrong_reasons": {
+   "a": "Risk analysis is the umbrella activity; the numeric probability/loss measurement described is specifically quantitative.",
+   "b": "Qualitative analysis uses relative ratings (high/medium/low), not numerical probability and loss measurement.",
+   "c": "Risk assessment is a general term covering identification and analysis, not the specific numeric technique described."
+  }
+ },
+ {
+  "question_id": "d2d6c09a-4fd3-5ad6-b4e8-409915dfe407",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "In BABOK v3 stakeholder role definitions (2.4 Stakeholders), the project manager is responsible for defining and managing the project scope (the work to deliver the solution), while the business analyst defines the solution scope. So the PM writes the project scope based on the solution scope the BA provides.",
+  "wrong_reasons": {
+   "a": "The domain SME provides business knowledge and requirements input, not project scope authorship.",
+   "b": "The BA defines the solution scope, which is an input to — but distinct from — the project scope.",
+   "d": "The sponsor authorizes and approves scope but does not write the project scope document."
+  }
+ },
+ {
+  "question_id": "6d1882bf-5406-5c92-a1dc-afb51fe523c9",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "BABOK v3, 7.3 Prioritize Requirements, warns of challenges where implementation SMEs may attempt to influence prioritization by overstating the difficulty or complexity of implementing certain requirements. The team's inflated difficulty claims are an attempt to alter the requirements' priority based on overstated complexity.",
+  "wrong_reasons": {
+   "a": "The team is denying the past project's similarity, not using it as the basis of reprioritization.",
+   "c": "They are influencing priority via difficulty claims, not formally requesting scope removal.",
+   "d": "Having the BA report difficulty to the customer is not what the team's behavior indicates."
+  }
+ },
+ {
+  "question_id": "28b0481d-186d-5e02-b4b4-43ef6372cd43",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "A bidders conference (also called a vendor or contractor conference) is the meeting where all prospective vendors convene to review and ask questions about the statement of work and request for proposal, ensuring every bidder receives the same information. This is standard procurement practice referenced in BA/PM vendor assessment contexts (cf. BABOK v3, 10.49 Vendor Assessment).",
+  "wrong_reasons": {
+   "a": "'Contract bidding meeting' is not a recognized procurement term.",
+   "b": "A status meeting reports progress on ongoing work, not RFP clarification.",
+   "c": "'Qualified vendors meeting' is not a standard term; qualification lists are separate from the conference."
+  }
+ },
+ {
+  "question_id": "77343860-45ff-5569-be5d-9b286d1fba60",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "BABOK v3, 3.1 Plan Business Analysis Approach, directs the BA to tailor the level of formality to the initiative and its stakeholders and to review the approach with them to reach agreement. With one highly formal and one informal stakeholder group, the BA should facilitate consensus on a tailored level of formality that satisfies both parties' needs.",
+  "wrong_reasons": {
+   "b": "Simply adopting full formality to appease one party ignores the other stakeholder's needs and adds unnecessary overhead.",
+   "c": "Applying an unmodified standard approach ignores BABOK's guidance to tailor the approach to the initiative.",
+   "d": "Pressuring the regulated agency to abandon required formality risks non-compliance with its regulatory obligations."
+  }
+ }
+]

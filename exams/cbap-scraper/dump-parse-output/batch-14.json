@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "4694da4a-bf55-5449-865b-6d5cc7abb9b9",
+  "context": "",
+  "question": "A company is about to embark upon a large organizational change initiative that involves restructuring its service offerings. A senior business analyst (BA) is assigned the work of establishing performance measures for the business analysis work to be performed by the 6A ream. Which of the following performance measures is appropriate to assess the value delivered by the work products against the cost time, and resource investments expended to create them?",
+  "options": {
+   "a": "Strategy",
+   "b": "Effectiveness",
+   "c": "Significance",
+   "d": "Knowledge"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "a13a28a5-2e35-5422-881d-8d5ad8e79e12",
+  "context": "",
+  "question": "What part of defining the business needs process will evaluate the ends that the organization is seeking to achieve?",
+  "options": {
+   "a": "Business goals and objectives",
+   "b": "Alternative identification",
+   "c": "Solution assessment",
+   "d": "Requirements"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4bcbb852-6d23-5d99-9b77-44b686b792c1",
+  "context": "",
+  "question": "You are the business analyst for a solution that has 435 stakeholders. How many communication channels exist in this project?",
+  "options": {
+   "a": "188,790",
+   "b": "189,225",
+   "c": "94,395",
+   "d": "435"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5845c3f2-cd37-5c9e-bcdf-64291ce713cb",
+  "context": "",
+  "question": "A health insurance provider undertakes enhancements to its mobile application platform and finalizes the following capabilities as part of the scope of the next release: I. Ability to integrate online maps and global positioning system (GPS) technology with the mobile application In real time to display location of service providers in the subscriber's vicinity that participate in the subscriber's plan network.\nII. Ability for the subscriber to lookup the service providers by specifying either a postal code or a search area radius in miles.\nIII. Ability for the subscriber to initiate the download of fee information for one or more service providers in a single request.\nThrough requirements workshops the business analyst elicits the following detailed business requirements:\n1. The company's mobile application platform must support real time integrate with the following third party systems:\nA GPS System\nB Postal Code Validation\nWhat kind of relationship is used to describe the traceability between requirement 8 and the solutes artifacts that implement it?",
+  "options": {
+   "a": "Satisfy",
+   "b": "Validate",
+   "c": "Depends",
+   "d": "Derive"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "8a8ce268-1175-5baf-8b4e-6d0e78ef124f",
+  "context": "",
+  "question": "A business analyst (BA) is in the process of allocating requirements to various releases of a solution. On what should the BA base requirements to maximize the value of the solution?",
+  "options": {
+   "a": "Priority set by stakeholders",
+   "b": "Available resources",
+   "c": "Timing of the release and its impact on business",
+   "d": "Components in scope for that release"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "3ca4b9cd-c1b8-5b12-aa16-8b1429b9d2ad",
+  "context": "",
+  "question": "The RGQ Organization utilizes a change log. What is a change log?",
+  "options": {
+   "a": "It is a document that records all change requests for the project.",
+   "b": "It is a document that tracks all unauthorized changes to the project solution.",
+   "c": "It is a document that tracks all characteristics and status of changes that have been received.",
+   "d": "It is a document that tracks the changes that have been received, including their implementation to the project solution."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "1e74dd0e-52d6-5bbb-b5b3-c500b73056eb",
+  "context": "",
+  "question": "Fred's organization is using a plan-driven approach for the business analysis deliverables. In this approach how will the requirements be captured?",
+  "options": {
+   "a": "Fred will use the appropriate documentation at the discretion of the business analysis team.",
+   "b": "Fred will use the project management information system.",
+   "c": "Fred will use whatever business analysis forms are most appropriate.",
+   "d": "Fred will use standardized templates."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "11c77d7b-9a41-588d-b348-e0e07ddbbb78",
+  "context": "",
+  "question": "The BA is working on the design options for the future state at the martial arts organization. There are several design elements that need to be considered for the future state. Which of the following design elements does the Activity Diagram address?",
+  "options": {
+   "a": "People who operate and maintain the solution",
+   "b": "Operational business decisions to be made",
+   "c": "Business processes to be performed and managed",
+   "d": "Business policies and business rules"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "9d11d54d-5331-5c8b-8bc9-807d37f0bde1",
+  "context": "",
+  "question": "After the implementation of a new financial solution the business analyst (BA) observes that the performance of a solution does not meet the anticipated benefits detailed in the original business case. What is a technique the BA can use to understand the reason for that?",
+  "options": {
+   "a": "Data flow diagram",
+   "b": "Fishbone diagram",
+   "c": "Business capability analysis",
+   "d": "interface analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "624ed525-6ed9-51a6-8867-85b5179bf227",
+  "context": "",
+  "question": "Henry is the business analyst for his organization and is completing the conduct elicitation activity. Part of this activity is to record the results of the requirements elicitation process.\nAll of the following are acceptable elements for requirements documentation except for which one?",
+  "options": {
+   "a": "Text message sent via a secured mobile phone",
+   "b": "Written documents describing the outcomes",
+   "c": "Visual or audio recordings",
+   "d": "Whiteboards"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e1b256f3-acfd-55d7-a910-75a94fea37cf",
+  "context": "",
+  "question": "You are the business analyst for your organization and are working with Jennifer to conduct stakeholder analysis. You would like to create a RACI chart to help with the roles of the people involved in the stakeholder analysis process. Jennifer is not familiar with this chart and asks what does RACI mean.\nWhich one of the following best describes the RACI chart in the conduct stakeholder analysis process?",
+  "options": {
+   "a": "It's a matrix that uses the Responsible, Accountable, Consult, and Inform tasks as part of the stakeholder analysis process.",
+   "b": "It's a role and responsibility chart that identifies when stakeholders are needed in the business analyst duties.",
+   "c": "It's a matrix that uses Role, Action, Consult, and Inform as part of the conduct stakeholder analysis process.",
+   "d": "It's a rule that the business analyst can use to identify all of the needed stakeholders: roles, actions, communications, and interest."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "0b221e2e-a27a-5341-995b-9d2d792a020a",
+  "context": "",
+  "question": "A business analyst (BA) has been coordinating several meetings with stakeholders to reach consensus regarding the solution design to implement a global currency exchange system for an international bank. Consensus has not been reached yet, although BA has great communication skills and is trusted by all stakeholders. The stakeholders formally approved the business need initially. Why is there disagreement?",
+  "options": {
+   "a": "The requirements are interpreted differently by each stakeholder.",
+   "b": "The requirements are incorrectly traced.",
+   "c": "The approval authority for the solution is unclear.",
+   "d": "More solution alternatives need to be generated."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "35d9aebc-a805-54c6-b781-b31610bbf3aa",
+  "context": "",
+  "question": "You are coaching Marcy, a new business analyst for your organization, on business analysis processes. Marcy is concerned about the define solution scope process, especially the implementation approach element.\nWhich of the following statements best defines the implementation approach element for Marcy?",
+  "options": {
+   "a": "The implementation approach is described in terms of the major features and functions that are to be included.",
+   "b": "The implementation approach defines major business and technical dependencies that impose constraints to the effort to deploy the solution.",
+   "c": "The implementation approach describes the new capabilities required to meet the business need.",
+   "d": "The implementation approach describes how the chosen solution approach will deliver the solution scope."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "cf9c7d01-92ba-5e53-a7b7-3e964ea3e6e7",
+  "context": "",
+  "question": "What requirements elicitation involves carefully selected stakeholders and subject matter experts for a short, intensive period (usually for one to a few days) to define and document the requirements for a solution?",
+  "options": {
+   "a": "Many-to-many interviews",
+   "b": "Requirements workshop",
+   "c": "Focus group",
+   "d": "Prototyping"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5c983283-f324-527b-bdec-e3b0a2c2bb16",
+  "context": "",
+  "question": "Which conduct stakeholder analysis technique identifies stakeholder roles that may serve as a useful starting point for identifying actors and roles?",
+  "options": {
+   "a": "Scope modeling",
+   "b": "Requirements workshops",
+   "c": "Scenario and uses cases and user stories",
+   "d": "Interviews"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "6962a21c-893f-5513-aa3d-3994e16935e0",
+  "context": "",
+  "question": "Which of the following techniques is used to test customer acceptance of the solution and to measure marketplace demand?",
+  "options": {
+   "a": "Interviews",
+   "b": "Market Survey",
+   "c": "Technology Assessment",
+   "d": "Prototyping"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "cd398777-ea53-5635-a6ec-2e758c5eb207",
+  "context": "",
+  "question": "Contracts are currently managed by more than 20 contract owners across the organization, each happily managing in their own way. A business analyst (BA) is tasked to elicit requirements for centrally managing software maintenance and license contracts. Which of the following does the BA need to carry out first?",
+  "options": {
+   "a": "Identify business requirements",
+   "b": "Identify future state conditions",
+   "c": "Recommend an off the shelf product",
+   "d": "Complete an enterprise readiness assessment"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "1091433d-fe7a-515b-a228-e19dafcfc5ae",
+  "context": "",
+  "question": "Which of the following compares two or more systems, states, services, products, or things to determine the best viable choice?",
+  "options": {
+   "a": "Benchmarking",
+   "b": "Risk Identification",
+   "c": "Risk analysis",
+   "d": "Cost-benefit analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "61dad3ad-4d21-5e62-82cc-8629bb2f0371",
+  "context": "",
+  "question": "What document defines the business needs, identifies key stakeholders, and describes the positive impact the solution will provide on the key stakeholders?",
+  "options": {
+   "a": "Project charter",
+   "b": "Project scope statement",
+   "c": "Solution scope",
+   "d": "Vision statement"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5577e3d8-0676-5bd9-9da7-b4aae89c4db8",
+  "context": "",
+  "question": "You have completed the requirements documentation and the stakeholders have signed off on the requirements. Now the requirements are advancing into a project as your organization has chartered a project based on the identified requirements. What stakeholder is now responsible for assessing the solution scope to determine the project scope?",
+  "options": {
+   "a": "Project sponsor",
+   "b": "Project manager",
+   "c": "Business analyst",
+   "d": "Key stakeholders"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "ae865e75-386f-536f-bb80-8eb595e34fe4",
+  "context": "",
+  "question": "Which of the following tasks does not rely on other activities, and no other activities rely on this task completing?",
+  "options": {
+   "a": "Analysis task",
+   "b": "Independent task",
+   "c": "Predecessor task",
+   "d": "Dependent task"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5086c169-ed6d-5624-970f-fb2c32a2ebf2",
+  "context": "",
+  "question": "What does the T in SWOT analysis mean?",
+  "options": {
+   "a": "Trial",
+   "b": "Threats",
+   "c": "Test",
+   "d": "Time"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "54acfe06-df3b-5b64-abe8-0aa84938aac6",
+  "context": "",
+  "question": "A big construction company has grown into a group of 17 companies spread across the country. The rationale behind forming the group was to become more competitive in bidding for federal and regional government contracts. Another reason was to increase consolidated profitability by lowering the cost of materials and using combined assets more efficiently. Disjointed technological capabilities of the individual companies impede gathering the data needed to make decisions on both handling materials and allocating the resources. What improvement opportunity does this represent?",
+  "options": {
+   "a": "Create a business model canvas to outline business needs",
+   "b": "Deploy a new system across the companies",
+   "c": "Enhance access to the relevant information",
+   "d": "Develop a repository of information from each company"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "554032e1-ca27-5044-9544-19f1360a034b",
+  "context": "",
+  "question": "A business analyst (BA) facilitated elicitation activities with subject matter experts and end users using observation, workshops, and interviews. After comparing the results, how should the BA resolve the variations?",
+  "options": {
+   "a": "Identify a few key stakeholders to resolve the conflicts",
+   "b": "Set up additional activities to collaboratively resolve the issues",
+   "c": "Remove requirements that cause differences",
+   "d": "Weight the results from the observation because it is more reliable"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "86dbaea3-5a96-5ad3-badb-193d27c41d75",
+  "context": "",
+  "question": "A company wants to develop a product roadmap to guide future development efforts. The product owner asks a business analyst IBA) to lead the analysis effort. Feature suggestions have been compiled from customer support calls.\nWhich of the following should the BA do first?",
+  "options": {
+   "a": "Compare the Implementation costs of each feature",
+   "b": "Determine the value of each feature",
+   "c": "Prioritize the features in the backlog",
+   "d": "Confirm the feature requests"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "04294ee1-f1da-55fe-aaa5-63556a39e0cc",
+  "context": "",
+  "question": "A company with a big information technology (IT) department has hired a lead business analyst (BA) to enhance its business analysis practices. The lead BA discovers that sponsors are not satisfied with project outcomes. Developers complain about incomplete, ambiguous, and changing requirements. All stakeholders, including project managers, are blaming long cycles of analysis for the delays. The business analysts, in turn, feel overwhelmed with the number of projects and frustrated by the lack of collaboration from reviewers of their deliverables. All of the evidence is anecdotal and none of the groups could strongly substantiate their opinions.\nThe lead BA wants the BAs to report anticipated and actual completion dates for their deliverables, as well as the time spent on planned and unplanned activities.\nWhat is the lead BA trying to do by analyzing the results of such measurements?",
+  "options": {
+   "a": "Identify typical missing or wasteful activities",
+   "b": "Ensure even workloads of the BA",
+   "c": "Establish an equitable compensation system",
+   "d": "Motivate the BA to work belter"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "0a7f11e0-0e7c-5782-a782-a1bce2656148",
+  "context": "",
+  "question": "What is the time difference in days between the shortest and longest implementation?",
+  "options": {
+   "a": "19",
+   "b": "51",
+   "c": "39",
+   "d": "60"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "91cab7cc-d397-58bc-9aab-1cc4f67673d3",
+  "context": "",
+  "question": "Manufacturer 0 has received a merger proposal from Manufacturer K There is concern among the senior management of Manufacturer O that regulations could shift in the future, prompting Manufacturer K to move headquarters elsewhere and close operations at the current Manufacturer O site. In assessing the proposal limitations and as part of identifying enterprise limitations, a culture assessment is completed. As part of this work, what else would the BA perform?",
+  "options": {
+   "a": "Scope and requirements prioritization",
+   "b": "Financial and risk analysis",
+   "c": "Organization and functional modelling",
+   "d": "Stakeholder impact and operational analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d76470a1-7ca0-5f77-826a-d091fd53550d",
+  "context": "",
+  "question": "Gina has been asked to provide decision analysis for her solution scope. Which one of the following best describes the decision analysis technique?",
+  "options": {
+   "a": "Assessed to support benefit management, measurement, and reporting.",
+   "b": "Used to assess potential risks that may impact the solution and the cost and benefits associated with it.",
+   "c": "Forecasts the size of the investment required to deploy and operate the proposed solution.",
+   "d": "Cost-benefit analysis compares the cost of implementing a solution against the benefits gained. Financial analysis includes the use of financial models that estimate the market value of an organizational asset."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f8eceaf6-0a19-5afa-86d2-7844ce8892f9",
+  "context": "",
+  "question": "Company A has been engaged to provided solution software to Company B as part of a combined service offering to Company C.\nThe initiative requires a sub project for Companies A and B learn Company Cs statutory requirements, a sub project for Company A to write custom functionality for the solution, and a sub project for Company B to develop infrastructure and support for the solution as well as the main project of implementation and cutover from Company Cs current data processing solution to the service from Company B.\nHow does the business analyst (BA) assign requirements to the various solution components to ensure all objectives are met?",
+  "options": {
+   "a": "Described Design Options",
+   "b": "Allocate Requirements",
+   "c": "Identify Improvement Opportunities",
+   "d": "Define Solution Approaches"
+  },
+  "image_paths": []
+ }
+]

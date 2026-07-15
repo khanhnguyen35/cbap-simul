@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "2c015733-d73a-5ec3-aa75-6bd25d366501",
+  "context": "",
+  "question": "The business analyst (BA) is facilitating a requirements workshop with a large group of diverse stakeholders, some of whom are not entirely familiar with the goals and objectives of the project. The BA must understand the business domain, corporate culture, group dynamics, and expected outputs to adequately communicate the:",
+  "options": {
+   "a": "change strategy.",
+   "b": "requirements prioritization.",
+   "c": "elicitation scope.",
+   "d": "enterprise architecture."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e8beb6f5-da95-56b8-9547-a7beb98e2a80",
+  "context": "",
+  "question": "Which of the following is responsible for preparing the business architecture, feasibility studies, and business cases?",
+  "options": {
+   "a": "Security Administrator",
+   "b": "Developer",
+   "c": "Business analyst",
+   "d": "Project leader"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "dd2554d7-3b82-5691-8cb6-9854aa888dec",
+  "context": "",
+  "question": "UESTION NO: 310\nA large health care provider has recently purchased and installed a solution that automates some of the activities that coordinate patient recovery activities. A business analyst (BA) is in the process of evaluating this solution and analyzing the performance measures against the value it brings. At this juncture, the BA has uncovered some threats in the solution which could hamper its performance and erode the value it brings.\nWhich technique will enable the BA to record and handle these on an ongoing basis?",
+  "options": {
+   "a": "Risk Analysis and Management",
+   "b": "Root Cause Analysis",
+   "c": "Solution Performance Analysis",
+   "d": "Solution Scope"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b5f0362a-9354-5170-8993-dc416a587826",
+  "context": "",
+  "question": "You are the business analyst for your organization and are preparing to complete the allocate requirements process. This process assigns stakeholder and solution requirements to solution components and to releases. One of the elements of this process is solution components. All of the following are solution components except for which one?",
+  "options": {
+   "a": "Assessment of proposed solution",
+   "b": "Business processes to be performed and managed",
+   "c": "Business policies and business rules",
+   "d": "Software applications and application components used in the solution"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b78856d8-5017-587c-a06b-b0fd4a8df34e",
+  "context": "",
+  "question": "A business analyst (BA) conducts a process analysis on the business analysis practices that were used on the previous major implementation. From this the BA identifies and documents that there are three improvement areas which would make the business analysis process more efficient. In which business analysis artifact does the BA document these measures of improvement for the next piece of analysis work?",
+  "options": {
+   "a": "Skills assessment",
+   "b": "Performance assessment",
+   "c": "Engagement approach",
+   "d": "Governance approach"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "2aa8102f-3234-529b-8a65-34966d025f82",
+  "context": "",
+  "question": "As a milestone is reached, the project is funded for enough capital to reach the next milestone. This approach is called.",
+  "options": {
+   "a": "Step funding",
+   "b": "Phase funding",
+   "c": "Stakeholders funding",
+   "d": "Milestone funding"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "0e503517-5302-5884-9f2f-7224792d5290",
+  "context": "",
+  "question": "You are the business analyst for the YGT Organization. You have just completed a capabilities gap assessment and have determined that your organization does not have the necessary resources and technology to seize a business opportunity. What is the most likely course of action for the organization?",
+  "options": {
+   "a": "Hire additional resources.",
+   "b": "Launch a new project.",
+   "c": "Hire contractors to complete the project work.",
+   "d": "Move onto the next opportunity."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "3cb59384-3174-576e-9f44-79dd3f6e8eab",
+  "context": "",
+  "question": "A business analyst (BA) has completed requirements elicitation and modeling on a project to implement a new case management system. During analysis of the requirements, the BA notices that one of the requirements appears to be in conflict with the company's case management policies. What should the BA do?",
+  "options": {
+   "a": "Request modification to the polices and identify the changes as an assumption and a dependency",
+   "b": "Create a requirement to indicate the change to the current policies and update the information in the models",
+   "c": "Modify the requirements to adhere to the existing policies and note the change m the models",
+   "d": "Identify the policies as a potential constraint and review with management"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "94e7801a-1c03-5b3e-b4b8-b9e3c21d0bfc",
+  "context": "",
+  "question": "Which of the following techniques involves determining and documenting the variance between business requirements and current capabilities?",
+  "options": {
+   "a": "Risk analysis",
+   "b": "Schedule analysis",
+   "c": "GAP analysis",
+   "d": "Cost benefit analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e90525df-7f10-5cd1-a9f1-b359cdfc318a",
+  "context": "",
+  "question": "A multi-domain project has stakeholders with different technical backgrounds. The presentation prepared by the business analyst (BA) for domain 1 was also used for domain 2 but the presentation was not clear and caused concerns for stakeholders in domain 2. What can the BA do to alleviate the concerns of the stakeholders in domain 2?",
+  "options": {
+   "a": "Create a survey applicable for the stakeholders in domain 2.",
+   "b": "Produce an estimation applicable for the stakeholders in domain 2.",
+   "c": "Present a model applicable for the stakeholders in domain 2.",
+   "d": "Develop a backlog applicable for the stakeholders in domain 2."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "83351526-c9de-505f-8995-3cbe1e674889",
+  "context": "",
+  "question": "A business analyst (BA) elicits requirements for the sales order processing of multiple product lines. Elicitation reveals that the business processes for the sales orders of most products follow similar activity patterns that have been established over a number of years. Some of the new proposed seasonal products, however, will necessitate major variations in the process flow of some departments. The seasonal products are likely to be different every year. The business needs to carefully adapt its business practices so that the significant but seasonal variations in some of the business processes for the new products are handled adequately without disrupting the processes for the other established products. Which of the following approaches must the BA take to manage the requirements for sales order processing in the long term?",
+  "options": {
+   "a": "Reference specific departments in the requirements for the seasonal products",
+   "b": "Reference specific departments in the requirements for the established products",
+   "c": "Use a high level of abstraction for the seasonal products to make them less subject to revision during a change",
+   "d": "Use a high level of abstraction for the established products to make them less subject to revision during a change"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e65393c1-626f-58cb-9848-7438507a971b",
+  "context": "",
+  "question": "Which of the following is the process of defining and analyzing the dangers to individuals, businesses, and government agencies posed by potential natural and human-caused adverse events?",
+  "options": {
+   "a": "Risk analysis",
+   "b": "Risk identification",
+   "c": "Risk management",
+   "d": "Risk communication"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "1838c981-e7c8-5ca1-b861-f695a86c3d08",
+  "context": "",
+  "question": "The seminar administrator reviewed these three diagrams and asked the BA to create a fourth diagram to model the various levels that a trainee goes through (e.g., white belt to yellow belt yellow belt to green belt etc). What modeling technique will the BA use to create this diagram?",
+  "options": {
+   "a": "Decision modeling",
+   "b": "State modeling",
+   "c": "Concept modeling",
+   "d": "Organizational modeling"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "ebd5cd52-e072-543c-8c27-0505b91dee46",
+  "context": "",
+  "question": "A business analyst (BA) has engaged various groups from across the organization to define the business opportunity a potential project will address. The BA must consolidate the information collected from the groups.\nThe BA should ensure the business needs.",
+  "options": {
+   "a": "are traceable to their source stakeholders.",
+   "b": "are articulated from the enterprise perspective.",
+   "c": "describe the potential solutions that they will satisfy.",
+   "d": "have minimal risk associated with them."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b86da515-9126-5a22-a6fa-25b367769fb6",
+  "context": "",
+  "question": "Which of the following phases is the first step towards creating a business continuity plan?",
+  "options": {
+   "a": "Business Continuity Plan Development",
+   "b": "Scope and Plan Initiation",
+   "c": "Business Impact Assessment",
+   "d": "Plan Approval and Implementation"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "61eb3b75-4b09-5c31-8366-abdd9ce28e15",
+  "context": "",
+  "question": "When do change requests generally increase in a project?",
+  "options": {
+   "a": "During the project's launch.",
+   "b": "Towards the beginning of the project.",
+   "c": "During the project scope management processes.",
+   "d": "Towards the end of the project."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b723e9ac-2b84-513e-bd2f-a110ea83674f",
+  "context": "",
+  "question": "Before investing further in the project, a customer and the stakeholder of the project wants to be able to visualize the final product. Which elicitation technique should the business analyst (BA) select?",
+  "options": {
+   "a": "Interface Analysis",
+   "b": "Prototyping",
+   "c": "Reverse gineering",
+   "d": "Observation"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "828eaebd-7fc6-5f48-8e97-45472cd75ca4",
+  "context": "",
+  "question": "You have identified several problems that you need to track as the business analysis duties progress. You want to make certain that the identified activities are resolved. What document elicitation technique can help in this scenario?",
+  "options": {
+   "a": "Brainstorming",
+   "b": "Observation",
+   "c": "Interviews",
+   "d": "Problem tracking"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "7e50366f-8dff-537b-9de7-7da877f32317",
+  "context": "",
+  "question": "A business analyst (BA) is reviewing the performance results from a recent change initiative. One of the results stated, \"The planned schedule expected 50% of the project to be done at milestone 6. The schedule performance index (SPI) was .87. Three project team members worked overtime to ensure that the actual schedule would align with the planned schedule.\"\nThis is an example of what type of action?",
+  "options": {
+   "a": "Engagement",
+   "b": "Preventive",
+   "c": "Corrective",
+   "d": "Improvement"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b4e4cc0d-18dd-5ae2-8ff5-5834834e6f21",
+  "context": "",
+  "question": "You are the business analyst for your organization and are working on organizing the identified requirements for a new solution. Nancy, your assistant in this process, says that these requirements aren't very complex. You agree but add that it's this thing that makes the overall solution complex. What thing adds to the level of complexity among requirements?",
+  "options": {
+   "a": "Relationships among the requirements",
+   "b": "Management in the project",
+   "c": "Stakeholders in the project",
+   "d": "Cost and schedule constraints"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "24f71e0e-6bf4-531d-9b12-d29cc0bfb90a",
+  "context": "",
+  "question": "Some of the requirements in the solution must be completed because of laws and regulations in your industry. Management would like you, the business analyst, to rank the requirements according to the relevant laws. What type of requirements prioritization is management having you complete?",
+  "options": {
+   "a": "Regulatory ranking",
+   "b": "Business value ranking",
+   "c": "Constraint ranking",
+   "d": "Risk ranking"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "cc95e25f-2136-5d48-8fb3-02416815b63e",
+  "context": "",
+  "question": "A business analyst (BA) was developing an outline of the timing of business analysis activities with the project manager. What factors may impact the Timing of the activities the BA is performing?",
+  "options": {
+   "a": "Solution design",
+   "b": "Project manager's experience",
+   "c": "Project sponsor Interest",
+   "d": "Contract Terms"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5373f418-e1b9-5915-8142-8545b0d38678",
+  "context": "",
+  "question": "You are preparing a business case for your organization to determine the justification of the costs of the solution in relation to benefits the solutions will bring the organization. You need four inputs to complete this process. Which one of the following is not an input that will help you write the business case?",
+  "options": {
+   "a": "Feasibility study",
+   "b": "Stakeholder concerns",
+   "c": "Assumptions and constraints",
+   "d": "Business need"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "9f35ba0a-00e0-543f-8d31-f93875bd431e",
+  "context": "A company that specialized in manufacturing vending machines for books has been in business for 10 years. As the e-book and online retailing grow, the company perceived that a change is required to respond to the new emerging market forces. However, the change should focus on reusability as much as possible to reduce expenses. After analyzing the current state with the business subject matter experts, the business analyst (BA) proposed investing in a new business line of vending machines that sell pay per use mobile device phone fast charging stations.\nDue to the urgency of this change, the BA was asked to finalize requirements elicitation in the shortest possible time.",
+  "question": "The BA was able to complete requirements elicitation activities in a short period of time. Which type of elicitation approach did the BA use?",
+  "options": {
+   "a": "Experiment",
+   "b": "Collaborative",
+   "c": "Estimation",
+   "d": "Research"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "6e71197e-56d9-5c46-9cc2-f09d46a474a4",
+  "context": "A company that specialized in manufacturing vending machines for books has been in business for 10 years. As the e-book and online retailing grow, the company perceived that a change is required to respond to the new emerging market forces. However, the change should focus on reusability as much as possible to reduce expenses. After analyzing the current state with the business subject matter experts, the business analyst (BA) proposed investing in a new business line of vending machines that sell pay per use mobile device phone fast charging stations.\nDue to the urgency of this change, the BA was asked to finalize requirements elicitation in the shortest possible time.",
+  "question": "Customers who want to utilize the pay per use mobile device fast charging stations may choose one of two features: fully charged (F1) or partially charged (F2). If partially charged is selected, the customer needs to specify their charging needs.\nWhat is the relationship between F1 and F2?",
+  "options": {
+   "a": "Validate",
+   "b": "Derive",
+   "c": "Depends",
+   "d": "Satisfy"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f21ebf9a-8a94-56a8-b25c-bcce94164c99",
+  "context": "",
+  "question": "You are the business analyst for a large project in your organization. You are working with Ben to create requirements packages to present to the stakeholders, the business analyst team, and to the project manager. Ben wants to know why you're creating requirements packages. What's the primary goal of developing a requirements package?",
+  "options": {
+   "a": "To convey the cost, schedule, and risk information clearly",
+   "b": "To convey information clearly and in an understandable fashion",
+   "c": "To present the requirements in packages that are easy for the project team to accomplish in their project execution",
+   "d": "To help the project manager create the work breakdown structure"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c6711a83-50e7-5052-b202-ef95c23d4ada",
+  "context": "",
+  "question": "The objective of a solution implemented was to increase the number of customer calls resolved per hour. When using basic statistical sampling concepts, what does the business analyst (BA) need to consider?",
+  "options": {
+   "a": "Metrics and Key Performance Indicators (KPIs)",
+   "b": "Frequency and Timing",
+   "c": "Financial Analysis",
+   "d": "Benchmarking and Market Analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "a85c84e1-c4b5-56f1-b7a1-7ec40d509478",
+  "context": "",
+  "question": "A Business Analyst (BA) is tasked with presenting the requirements for an auto insurance product to domain and implementation subject matter experts (SMEs). What requirements viewpoints should be used by the BA?",
+  "options": {
+   "a": "Business Process Model",
+   "b": "Organization Model",
+   "c": "Logical Data Model",
+   "d": "Scope Model"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "811a06f0-5710-559b-be89-1446c44eb483",
+  "context": "",
+  "question": "You are the business analyst for your organization and working with the stakeholders to prioritize the requirements. The stakeholders are concerned about the financial impact of the requirements should some of them fail during the implementation. You would like to rank the risk tolerance of the stakeholders based on their comments about the solution and the requirements. The following are the three categories of risk tolerance associated with the stakeholders except for which one?",
+  "options": {
+   "a": "Mitigation",
+   "b": "Risk-aversion",
+   "c": "Risk-seeking",
+   "d": "Neutrality"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "2096c58d-30b7-541e-88dd-cb0cfd4ffd3f",
+  "context": "",
+  "question": "Which of the following is the best definition of the business rules analysis?",
+  "options": {
+   "a": "To define the people that govern decisions in and organization and that define, constrain, or enable organizational policies.",
+   "b": "To define the job functions, roles and responsibilities, and the designation of power among the project stakeholders.",
+   "c": "To define the rules that govern decisions in and organization and that define, constrain, or enable organizational policies.",
+   "d": "To define the historical information that is available for the business analyst to rely on for his research."
+  },
+  "image_paths": []
+ }
+]

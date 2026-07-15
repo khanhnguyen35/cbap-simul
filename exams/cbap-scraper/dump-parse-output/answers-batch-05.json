@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "094b9174-9180-5d3b-8957-9d13d6b7d75c",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Requiring slip-resistant boots reduces the probability and/or impact of the slippage risk without eliminating the activity itself, which is risk mitigation (reduction). Per BABOK v3, 10.38 Risk Analysis and Management, mitigate/reduce means taking action to lower the likelihood or consequence of a risk event.",
+  "wrong_reasons": {
+   "a": "Transfer means shifting the risk liability to a third party (e.g., insurance or outsourcing), which is not happening here.",
+   "c": "Accept means taking no proactive action and dealing with the risk if it occurs; the BA is actively acting on it.",
+   "d": "Avoid means eliminating the risk entirely, e.g., not working at the site or removing the gravel; boots only reduce the risk."
+  }
+ },
+ {
+  "question_id": "f4cfc526-34c7-5091-93d9-61b0e053e6c3",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "The BA must examine an existing end-to-end procedure (receive, investigate, reply) to find inefficiencies and improvement opportunities. BABOK v3, 10.35 Process Analysis, is used to assess a process for its efficiency and effectiveness and to identify opportunities for improvement, which directly fits reducing cycle time for request handling.",
+  "wrong_reasons": {
+   "a": "Data Modeling describes entities and their relationships, not the flow and efficiency of work activities.",
+   "b": "Business Case justifies an investment in a change; it does not review how current tasks are performed.",
+   "c": "Item Tracking records and manages issues/action items, not the analysis of process performance."
+  }
+ },
+ {
+  "question_id": "3ba90a13-8892-5a73-a764-f62130d5b24c",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "The planning stage is where risks and opportunities are systematically identified and quantified, and where intense planning and anticipation of risk events (risk responses, contingency) takes place. This aligns with risk planning concepts referenced in BABOK v3, 10.38 Risk Analysis and Management, where risks are identified and treatment is planned before execution.",
+  "wrong_reasons": {
+   "b": "Executing is where planned responses are carried out and risks are monitored, not where anticipation and intense planning occurs.",
+   "c": "Initiation has high overall uncertainty but risks are only broadly recognized, not enumerated and planned in detail.",
+   "d": "Closing has the fewest remaining risks and involves acceptance and lessons learned, not risk anticipation."
+  }
+ },
+ {
+  "question_id": "aa918c82-8e6b-5c10-90c3-2c2c327ee114",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "A degradation in a deployed solution's performance calls for identifying the underlying source of the problem before recommending action. Per BABOK v3, 8.3 Assess Solution Limitations, the BA uses 10.40 Root Cause Analysis to determine the underlying cause of underperformance (here, effects of transaction volume growth) and then recommends actions to increase solution value.",
+  "wrong_reasons": {
+   "a": "Developing new metrics does not explain or resolve why performance degraded; the existing measures already reveal the problem.",
+   "b": "Decision analysis compares alternative options; the cause of the problem must be understood first.",
+   "d": "Re-analyzing existing metrics only restates the symptom (slower performance) without identifying its cause."
+  }
+ },
+ {
+  "question_id": "96a58dc9-26b1-54fc-849b-fe802dd4a0f4",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "The Delphi technique gathers input from experts anonymously through iterative rounds of questionnaires with controlled feedback until consensus emerges. In BABOK v3 it is described under 10.45 Survey or Questionnaire as a form of survey-based elicitation that avoids group bias.",
+  "wrong_reasons": {
+   "b": "Workshops are facilitated face-to-face group sessions; Delphi deliberately avoids direct group interaction.",
+   "c": "A round table is an open group discussion, which contradicts Delphi's anonymity principle.",
+   "d": "Prototyping elicits requirements by building models of the solution, unrelated to expert questionnaires."
+  }
+ },
+ {
+  "question_id": "c526711b-3935-5fce-8687-8aa3c2bdddfd",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Understanding how people, processes, and technology interact as a whole within the customer fulfillment system is systems thinking. BABOK v3, 9.1 Analytical Thinking and Problem Solving, includes Systems Thinking (9.1.5), which is understanding how components of a system (people, processes, technology) interact and influence each other holistically.",
+  "wrong_reasons": {
+   "a": "Problem solving is defining and resolving a specific problem, not holistically understanding component interactions.",
+   "b": "Creative thinking is generating new ideas and alternatives, not analyzing existing system interactions.",
+   "c": "Brainstorming is an elicitation/idea-generation technique, not an underlying analytical competency for understanding a system."
+  }
+ },
+ {
+  "question_id": "e54e31ae-7bdd-528c-bc4d-ddefa9418af2",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "A sign-off is the formal acknowledgment and acceptance by the responsible stakeholders that deliverables or the project are approved. This mirrors BABOK v3, 5.5 Approve Requirements, where formal approval (sign-off) records stakeholder agreement and acceptance of deliverables.",
+  "wrong_reasons": {
+   "a": "A project review evaluates status or lessons but does not constitute formal acceptance.",
+   "c": "Risk assessment analyzes uncertainty; it grants no acceptance or approval.",
+   "d": "Inspection trend analysis is a quality analysis activity, not an acceptance mechanism."
+  }
+ },
+ {
+  "question_id": "5ea3e1a8-e2f6-5a97-ad66-27b3a6c8bc0b",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "Performance reports take information from performance measurements and analyze it to provide variance analysis, earned value data, and forecasts, which feed risk monitoring and control. This is a project management (PMBOK-derived) concept consistent with the measurement and reporting ideas in BABOK v3, 10.28 Metrics and Key Performance Indicators, where measures are analyzed and reported to assess variance from expected performance.",
+  "wrong_reasons": {
+   "a": "The risk register contains identified risks and responses, not performance measurement analysis.",
+   "b": "Work performance information is raw status data on work completed; it has not yet been evaluated into variance analysis and forecasts.",
+   "d": "The project management plan defines how the project is executed and controlled; it is not a source of measured performance data."
+  }
+ },
+ {
+  "question_id": "8b052d9b-c111-5671-8e1f-6c394fe17224",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "When defining measures for evaluating solution performance, BABOK v3, 8.1 Measure Solution Performance, distinguishes quantitative measures (numerical, countable data) and qualitative measures (attitudes, perceptions, subjective judgments). End users evaluating solution effectiveness would rely on both data types.",
+  "wrong_reasons": {
+   "a": "Assessment and performance are activities/outcomes, not the two categories of measurement data in BABOK.",
+   "b": "Impact and dependencies are requirements attributes/traceability concepts, not evaluation data types.",
+   "d": "Risk and value are separate analysis dimensions, not the two BABOK-defined types of performance measures."
+  }
+ },
+ {
+  "question_id": "5a3377aa-dec3-5bc6-b3e6-d0a8c6bb08a0",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "BABOK v3, 3.4 Manage Stakeholder Collaboration, lists Lessons Learned (10.27) as a technique used to understand stakeholders' satisfaction or dissatisfaction and to offer them an opportunity to help improve working relationships. This exactly matches the BA's goal of learning satisfaction levels and improving collaboration.",
+  "wrong_reasons": {
+   "a": "Risk analysis and management identifies risks to stakeholder engagement, not their satisfaction with the relationship.",
+   "b": "Brainstorming generates ideas; it is not aimed at assessing satisfaction with working relationships.",
+   "c": "Collaborative games build shared understanding of a problem domain, not retrospective relationship improvement."
+  }
+ },
+ {
+  "question_id": "f5ca11f4-ecaa-51ce-babd-3155b48ecf11",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.9 Business Rules Analysis, business rules stem from and must be checked against sources such as organizational policies, in addition to regulations and contracts. Policies are the organizational directives from which many business rules are derived and constrained.",
+  "wrong_reasons": {
+   "a": "Backlogs manage prioritized work items, not sources of business rules.",
+   "c": "The business case justifies investment in the change; it is not a source of constraining rules.",
+   "d": "A permissions matrix defines user access rights, not organizational business rules."
+  }
+ },
+ {
+  "question_id": "3f6962e0-70f7-5541-8703-2d67d8a34b66",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "A RACI chart (Responsible, Accountable, Consulted, Informed) is a chart-based representation of the roles and responsibilities of team members with respect to tasks or deliverables. In BABOK v3 the RACI matrix is described under 10.43 Stakeholder List, Map, or Personas (and used in 3.2 Plan Stakeholder Engagement) as a way to depict stakeholder roles and responsibilities for activities.",
+  "wrong_reasons": {
+   "b": "A Pareto chart displays frequency of causes/defects for prioritization, not roles.",
+   "c": "A resource histogram shows resource utilization quantities over time, not responsibilities.",
+   "d": "An organization chart shows reporting hierarchy and structure, not each member's responsibilities for tasks."
+  }
+ },
+ {
+  "question_id": "ea097db3-f0c4-5da7-8531-8696408133b0",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "In BABOK, plan-driven (predictive) approaches rely on formal communication: pre-defined documents, official sign-offs, and written records of stakeholder interaction. BABOK v3, 3.1 Plan Business Analysis Approach and 3.2 Plan Stakeholder Engagement note that predictive approaches favor formal documentation and communication, whereas adaptive approaches favor frequent, informal channels.",
+  "wrong_reasons": {
+   "a": "Face-to-face communication is characteristic of change-driven/adaptive approaches.",
+   "b": "Chain of command describes organizational reporting, not a communication style prescribed by a plan-driven approach.",
+   "d": "Ad hoc communication is informal and unplanned, the opposite of a plan-driven approach."
+  }
+ },
+ {
+  "question_id": "7194a682-5241-510c-bc9b-db8208234a1d",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "A dependent (successor) task is one that cannot start until one or more other tasks (its predecessors) finish. BABOK v3, 10.19 Estimation and 3.1 Plan Business Analysis Approach discuss sequencing tasks based on dependencies, where a dependent task relies on the completion of preceding work.",
+  "wrong_reasons": {
+   "a": "An analysis task is simply a category of work, with no inherent sequencing constraint.",
+   "c": "A predecessor task is the one that must complete first; it enables others rather than waiting on them.",
+   "d": "An independent task by definition has no dependency on other tasks."
+  }
+ },
+ {
+  "question_id": "1ee3644c-34f0-577e-8b9d-93fab73aa5a3",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK's description of modelling (BABOK v3, 4.2 Confirm Elicitation Results context and 7.1 Specify and Model Requirements), models describe and organize the domain: they categorize and create hierarchies, define boundaries of the business domain (matrices and diagrams), and depict business logic and processes. Defining the risk and reward of requirements is not a purpose of a model; risk is addressed through 10.38 Risk Analysis and Management, not through modelling.",
+  "wrong_reasons": {
+   "b": "Categorizing items and creating hierarchies is a stated purpose of models (e.g., organizational and functional decomposition models).",
+   "c": "Defining domain boundaries is a stated purpose of models (e.g., scope and context models).",
+   "d": "Showing business logic is a stated purpose of models (e.g., decision tables, process and flow models)."
+  }
+ },
+ {
+  "question_id": "69455e23-f5b2-5dc0-ae6c-60dbb8a248d5",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "BABOK v3, 6.1 Analyze Current State (.4 Elements) includes Business Architecture: the current state as a whole, showing how organizational structure, capabilities, processes, and technology fit together to deliver value to customers. Taking 'a broad view of the business... to understand how the company is currently providing value' is precisely an evaluation of the business architecture.",
+  "wrong_reasons": {
+   "a": "Internal assets are one element of the current state (resources, tools), not the broad view of how value is delivered.",
+   "b": "External influencers are outside forces (competition, regulators, customers), not the internal broad view analyzed here.",
+   "c": "Change strategy is defined later (6.4) after current and future states are understood; it is not an evaluation of current value delivery."
+  }
+ },
+ {
+  "question_id": "f30911a3-4035-5075-abfd-18fe85a1938d",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Risk identification can proceed via source analysis (starting from the sources of risk) or problem analysis (starting from the problem/threat itself). This corresponds to the identification step within BABOK v3, 10.38 Risk Analysis and Management, where risks are first identified before being analyzed and treated.",
+  "wrong_reasons": {
+   "a": "Risk estimation assesses probability and impact of already-identified risks.",
+   "b": "Risk analysis evaluates identified risks; it does not start from discovering problems or sources.",
+   "c": "Risk management is the overall umbrella process, not the specific step that begins with sources or problems."
+  }
+ },
+ {
+  "question_id": "a4c2e3a6-ec72-585b-99b7-293cf26e71aa",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "In BABOK v2's Enterprise Analysis knowledge area, the five outputs are: business need, required capabilities, solution approach, solution scope, and business case. Solution approach is therefore an Enterprise Analysis output; in BABOK v3 this thinking maps to Strategy Analysis (6.4 Define Change Strategy).",
+  "wrong_reasons": {
+   "a": "Assumptions and constraints are outputs of requirements analysis activities, not Enterprise Analysis.",
+   "b": "Stakeholder concerns are an elicitation result, not an Enterprise Analysis output.",
+   "c": "Solution performance assessment is an output of Solution Assessment and Validation (v3: Solution Evaluation), not Enterprise Analysis."
+  }
+ },
+ {
+  "question_id": "d3cfa2ab-fbd4-5afa-930c-89925e24471c",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "BABOK v3, 3.1 Plan Business Analysis Approach, states that adaptive approaches suit environments where the organization's (and stakeholders') tolerance for uncertainty is high and needs are discovered iteratively through feedback. Predictive approaches are favored when requirements can be defined up front and when the risk of incorrect implementation is unacceptably high.",
+  "wrong_reasons": {
+   "a": "Difficult stakeholder engagement argues against an adaptive approach, which depends on frequent stakeholder collaboration.",
+   "b": "Unacceptably high risk of incorrect implementation is a stated driver toward a predictive (plan-driven) approach.",
+   "c": "Requirements definable ahead of implementation is a stated driver toward a predictive approach."
+  }
+ },
+ {
+  "question_id": "e2b8b0f3-1ed2-5aa6-9558-73436ce88c55",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Because all evidence is anecdotal, the lead BA needs objective measures of business analysis performance to identify real improvement areas. BABOK v3 (performance analysis of business analysis work, supported by 10.28 Metrics and Key Performance Indicators) prescribes defining objective performance measures to objectively assess business analysis work and locate root causes of dissatisfaction.",
+  "wrong_reasons": {
+   "a": "Time tracking captures effort only; it does not measure quality, completeness, or stakeholder satisfaction.",
+   "b": "Templates standardize deliverables but do not diagnose where the practice is underperforming.",
+   "c": "Workload plans address capacity, not evidence of what is actually causing poor outcomes."
+  }
+ },
+ {
+  "question_id": "f64b851a-c9a3-5ea1-9cfa-6bf1079ad888",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "The BA analyzed what the organization is able to do (manufacture vending machines) and proposed reusing that capability in a new product line. BABOK v3, 6.1 Analyze Current State and 10.6 Business Capability Analysis describe the capability-centric view, which is preferred when seeking innovative solutions that reuse existing organizational capabilities.",
+  "wrong_reasons": {
+   "a": "A data-centric view focuses on information and its lifecycle, not on reusing manufacturing abilities.",
+   "c": "A process-centric view analyzes workflows for improvement; the proposal reuses a capability for a new product, not a process redesign.",
+   "d": "A people-centric view focuses on roles, skills, and organizational structure, which is not the basis of this proposal."
+  }
+ },
+ {
+  "question_id": "71da9e9c-926d-5e8b-9ed8-c3669b3a3518",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK's Decision Analysis technique (BABOK v3, 10.16 Decision Analysis; BABOK v2 9.8), effective decision analysis requires understanding the values/goals/objectives relevant to the decision, the nature of the decision, the areas of uncertainty, and the consequences of each possible decision. 'The future value of the requirements' is not one of these four components.",
+  "wrong_reasons": {
+   "a": "Relevant values, goals, and objectives are one of the required components of decision analysis.",
+   "b": "The consequences of each possible decision are a required component of decision analysis.",
+   "c": "The nature of the decision to be made is a required component of decision analysis."
+  }
+ },
+ {
+  "question_id": "8c96c83a-d972-5c0d-ac99-5372c86af271",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "A baseline schedule is derived from the schedule model, aligned to the project execution plan, and approved by management to serve as the fixed reference against which progress and variances are measured. This baselining concept parallels BABOK v3 baselining of requirements in 5.4 Assess Requirements Changes / 5.1 Trace Requirements, where an approved baseline becomes the basis for comparison.",
+  "wrong_reasons": {
+   "a": "Updating is the act of revising the schedule, not the approved reference artifact.",
+   "b": "Impacts are effects of changes, not a management-approved schedule product.",
+   "d": "Dumping is not a schedule management concept at all."
+  }
+ },
+ {
+  "question_id": "636c1386-a92f-5f73-8001-efe5803b46ba",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Identifying stakeholders early (BABOK v3, 3.2 Plan Stakeholder Engagement; 10.43 Stakeholder List, Map, or Personas) ensures the right people are involved in eliciting, reviewing, and approving requirements, which directly supports timely, complete delivery of requirements deliverables. Late discovery of stakeholders causes rework, missed requirements, and delays.",
+  "wrong_reasons": {
+   "a": "Reporting lines matter but are not the primary business analysis reason for early stakeholder identification.",
+   "b": "Billing is a commercial/administrative concern, not a business analysis planning purpose.",
+   "d": "Making the BA known to stakeholders is incidental; it does not address requirements quality or timeliness."
+  }
+ },
+ {
+  "question_id": "24e5d7c9-79c0-518a-ba6e-355b31964660",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Communication channels are calculated as n(n-1)/2. With 50 stakeholders: 50 x 49 / 2 = 1,225 channels. This channel formula is standard communications-planning math consistent with stakeholder communication complexity considerations in BABOK v3, 3.2 Plan Stakeholder Engagement.",
+  "wrong_reasons": {
+   "a": "1200 results from an arithmetic error; 50x49/2 is 1225.",
+   "c": "1500 does not correspond to n(n-1)/2 for n=50.",
+   "d": "500 does not correspond to n(n-1)/2 for n=50."
+  }
+ },
+ {
+  "question_id": "b1e616de-7d0c-5936-bda5-0bf84f524a4c",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.46 SWOT Analysis, SWOT stands for Strengths, Weaknesses, Opportunities, and Threats. It evaluates internal strengths and weaknesses against external opportunities and threats, often within Strategy Analysis.",
+  "wrong_reasons": {
+   "a": "'Time' is not part of SWOT; the T stands for Threats.",
+   "b": "SWOT is not 'Stakeholder Weaknesses, Organizational Threats'.",
+   "c": "SWOT is not 'Stakeholders, Weaknesses, Organization, Threats'."
+  }
+ },
+ {
+  "question_id": "967c13cb-a01d-549c-aaf1-72cafcb7836d",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.7 Business Cases, a business case provides the justification for a course of action by weighing expected benefits against costs, risks, and constraints, enabling the organization to decide whether the investment in the solution is justified. Justification of investment is its core purpose.",
+  "wrong_reasons": {
+   "b": "Duration and cost estimates may appear in a business case, but they are inputs to the justification, not its purpose.",
+   "c": "Cost alone is only one component; the purpose is comparing benefits to costs and risks.",
+   "d": "Feasibility assessment informs the business case, but the case exists to justify the investment, not merely to prove feasibility."
+  }
+ },
+ {
+  "question_id": "1fdd5101-4e62-5999-8864-c6330c5849f5",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Whiteboard content is a temporary record of elicitation results; BABOK's guidance on documenting elicitation outcomes (BABOK v3, 4.3 Confirm Elicitation Results and 4.2 Conduct Elicitation) requires capturing the information in a persistent medium (photos, notes, models) before it is lost. The BA must transfer the whiteboard content to another medium before it is erased.",
+  "wrong_reasons": {
+   "a": "A scribe's minutes may not exist for all sessions and this is not a mandated rule for whiteboard use.",
+   "c": "Participant approval of the recording is part of confirming results, but the essential whiteboard-specific action is preserving the content first.",
+   "d": "No regulator approval applies to internal elicitation notes."
+  }
+ },
+ {
+  "question_id": "004c38ca-e9d1-5e25-a3d1-ca62600adae0",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Total cost of ownership (TCO) is the full cost of a solution over its life, including post-implementation operating, support, and maintenance costs charged after a vendor delivers it into production. BABOK v3 references TCO within financial analysis and business case evaluation (10.7 Business Cases, 10.20 Financial Analysis) as the measure of ongoing solution cost.",
+  "wrong_reasons": {
+   "a": "'Total ownership costing' is a distractor phrasing; the recognized term is total cost of ownership.",
+   "b": "Lifecycle maintenance fees cover only maintenance, not the full post-implementation cost picture.",
+   "c": "'Sustainability fees' is not a standard business analysis cost term."
+  }
+ },
+ {
+  "question_id": "8ee412c1-c38a-53e3-8971-a00e7d177b97",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In a change-driven (adaptive) approach, communication is frequent and informal, favoring face-to-face channels over lengthy formal documentation, with details communicated in conversation and lightweight artifacts. This matches BABOK's contrast between approaches (BABOK v3, 3.1 Plan Business Analysis Approach; BABOK v2 2.4), where change-driven approaches favor face-to-face communication and predictive approaches favor formal communication.",
+  "wrong_reasons": {
+   "a": "The distinguishing characteristic is informal, in-person channels, not merely communication frequency.",
+   "c": "Formal communications characterize plan-driven (predictive) approaches, not change-driven ones.",
+   "d": "Communication is still planned and structured around iterations; it is not entirely ad hoc."
+  }
+ }
+]

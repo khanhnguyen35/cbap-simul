@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "5147deab-f2c8-56a1-8942-69bdd12df26b",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3 stakeholder role definitions (2.4 Stakeholders and 9.3 Sponsor/owner responsibilities in classic CBAP prep material), the solution owner is the business-side authority accountable for the solution and therefore approves scope statements, phase gate reviews, solution validations, scope changes, and success criteria. This approval authority for the solution's business outcomes rests with the owner of the solution, not with delivery or advisory roles.",
+  "wrong_reasons": {
+   "a": "The project manager manages delivery of scope and schedule but does not approve solution validations or business success criteria.",
+   "b": "Subject matter experts provide domain knowledge and input; they have no approval authority.",
+   "d": "'Stakeholder' is a generic term covering all interested parties, not the specific approving role."
+  }
+ },
+ {
+  "question_id": "91920947-ea9f-5445-9534-faa506d40cdb",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3 (2.4.8 Implementation Subject Matter Expert; also 3.2 Plan Stakeholder Engagement / 4.5 Communicate BA Information), implementation SMEs design and build the solution, so they require the most detailed technical requirements, including interface requirements that describe how the solution interacts with other systems.",
+  "wrong_reasons": {
+   "a": "The project manager needs requirements information for scoping, estimating, and risk, not detailed technical interface specifications.",
+   "b": "Regulators need evidence of compliance with laws and standards, not technical interface detail.",
+   "c": "Testers need requirements detailed enough to be testable, but the design-level technical interface detail is primarily for those building the solution."
+  }
+ },
+ {
+  "question_id": "46417b4a-6655-5a7e-9478-c2736a361237",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.40 Risk Analysis and Management, stakeholder risk tolerance (risk-averse, neutral, or risk-seeking) shapes how an organization responds to risk. A conservative company with rigorous risk controls, restricted access, and on-site-only maintenance is risk-averse, so it would deny a request for 24-hour remote access to production data because the request conflicts with its risk appetite.",
+  "wrong_reasons": {
+   "b": "Urgency does not override an established risk-averse posture and internal audit controls.",
+   "c": "The denial is grounded in risk aversion and control policy, not simply in who made the request.",
+   "d": "Accepting unrestricted remote access contradicts the company's stated access-restriction and on-site maintenance controls."
+  }
+ },
+ {
+  "question_id": "02e22dc6-0e0c-5751-9286-2dd6713bd2bd",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 10.13 Data Flow Diagrams, DFDs show how information is input, processed, stored, and output across systems, processes, and external entities. Mapping systems and their purposes specifically to analyze the input-process-store-output flow of information is data flow diagramming.",
+  "wrong_reasons": {
+   "a": "Network topology mapping is an IT infrastructure activity, not a BABOK business analysis technique, and does not analyze how information is processed and stored.",
+   "b": "A data dictionary/glossary (10.12) defines data elements and terms; it does not map information flow between systems.",
+   "d": "Prototyping (10.36) creates early models of a solution's interface, not a map of information flow across existing systems."
+  }
+ },
+ {
+  "question_id": "17622ccc-968a-5899-b709-7455cf4626d2",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "In BABOK v3 Strategy Analysis (6.2 Define Future State, corresponding to the classic 'Assess Capability Gaps' task), the purpose is to identify the new capabilities the organization requires in order to meet the business need, by comparing current capabilities against those needed for the desired future state.",
+  "wrong_reasons": {
+   "b": "Identifying causal factors is root cause analysis, part of analyzing the current state/business need, not capability gap assessment.",
+   "c": "Describing the ends the organization wants to improve is the definition of business goals/objectives, not the capability gap task.",
+   "d": "Capability gaps concern organizational capabilities (processes, functions, technology, staff competencies as a whole), not merely skill gaps of existing resources."
+  }
+ },
+ {
+  "question_id": "e0785f74-2861-55b3-ae30-e6a7b84d60ae",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.4 Plan Business Analysis Information Management, the information management approach defines how business analysis information, including requirements, will be captured and organized, and it specifies the set of attributes (e.g., ownership, source, priority, complexity, stability) to be used for each requirement or set of requirements.",
+  "wrong_reasons": {
+   "a": "The stakeholder engagement approach (3.2) addresses collaboration and communication with stakeholders, not requirement attributes.",
+   "c": "The business analysis approach (3.1) defines the overall methodology and activities, not the attribute set for requirements.",
+   "d": "The governance approach (3.3) defines decision-making, prioritization, and change control processes, not requirement attributes."
+  }
+ },
+ {
+  "question_id": "c5d35803-9d8a-5470-ae35-dd02a76f5491",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 7.2 Verify Requirements, verification ensures that specified and modeled requirements meet quality characteristics including completeness and consistency (7.2.4 Elements: Characteristics of Requirements Quality). Missing, inconsistent, and contradictory requirements discovered during a presentation indicate the BA failed to verify the requirements, i.e., failed to ensure completeness and consistency.",
+  "wrong_reasons": {
+   "a": "Using a template architecture concerns standardized documentation formats and would not by itself prevent missing or contradictory content.",
+   "b": "Solution scope development is a Strategy Analysis concern; the gap here is in requirement quality, not scope definition.",
+   "c": "Accommodating viewpoints relates to modeling requirements from different stakeholder perspectives, not to eliminating gaps and contradictions."
+  }
+ },
+ {
+  "question_id": "317d2332-7552-58e6-a865-43c1ed8a54d5",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 5.5 Maintain Requirements, requirements that are candidates for reuse are those the organization must satisfy on an ongoing basis, such as regulatory requirements, contractual obligations, quality standards, and service level agreements — which are typically expressed as non-functional requirements. These remain applicable across multiple change initiatives.",
+  "wrong_reasons": {
+   "a": "Transition requirements are temporary by definition and cease to be relevant once the change is complete (BABOK v3, 2.3).",
+   "b": "Stakeholder requirements express the needs of particular stakeholders in a specific change context and are less transferable.",
+   "c": "Business requirements state goals of a specific change initiative; while high-level, the ongoing quality/regulatory obligations cited by BABOK as reusable are non-functional in nature."
+  }
+ },
+ {
+  "question_id": "aef4f5f5-5362-5f9f-ae17-f98b788b80d5",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "In-depth analysis and documentation of business problems and opportunities maps to Enterprise Analysis (BABOK v2 knowledge area, equivalent to Strategy Analysis in BABOK v3), which defines the business need, analyzes the current state, and identifies opportunities for the organization.",
+  "wrong_reasons": {
+   "a": "Elicitation draws out information from stakeholders; it does not itself define business problems and opportunities.",
+   "b": "Solution assessment and validation evaluates proposed or deployed solutions, which do not yet exist here.",
+   "d": "Requirements management and communication manages and communicates approved requirements; it does not analyze business problems."
+  }
+ },
+ {
+  "question_id": "802ffc62-f35c-51f2-8dc9-dc20c88d8d71",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "Requirements describe WHAT the organization or solution must do or deliver, deliberately leaving the 'how' to design. In organizing and modeling requirements (BABOK v3, 7.1 Specify and Model Requirements), each requirement answers the interrogative 'what' — what capability, condition, or need must be satisfied.",
+  "wrong_reasons": {
+   "b": "'When' relates to scheduling and prioritization, which are planning concerns, not the essence of a requirement statement.",
+   "c": "'Why' is answered by business goals and the business need, which provide the rationale behind requirements.",
+   "d": "'How' is answered by design and solution options, which requirements should intentionally avoid prescribing."
+  }
+ },
+ {
+  "question_id": "beace87b-a531-56f8-960f-d56c1637a805",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 5.3 Prioritize Requirements (5.3.4 Elements: Basis for Prioritization), dependencies are a recognized basis: a requirement may be given high priority because other requirements depend on it and it must be implemented first. 'Parsing of data' being prerequisite to other requirements is a dependency-driven prioritization.",
+  "wrong_reasons": {
+   "a": "A data dictionary is a technique for defining data elements, not a prioritization factor.",
+   "b": "A constraint is a limitation imposed on the solution (e.g., budget, regulation), not an implementation-order relationship between requirements.",
+   "d": "Risk-based prioritization addresses uncertainty or threat, not the sequencing need described here."
+  }
+ },
+ {
+  "question_id": "7fe35488-859d-5611-b284-1d255d7a1893",
+  "correct_letter": "d",
+  "confidence": "low",
+  "explanation": "Per BABOK v3, 5.5 Maintain Requirements, business analysts maintain requirements and designs for long-term reuse across the enterprise; process models (10.35) describing the organization's ongoing business operations are artifacts that remain accurate and useful organization-wide after a project ends. They document how the business works, independent of the specific initiative.",
+  "wrong_reasons": {
+   "a": "Transition requirements are temporary and lose relevance once the implemented change is complete.",
+   "b": "Solution architecture is project- and solution-specific and is a technical design artifact, not a BA artifact for enterprise-wide reuse.",
+   "c": "A high-level business requirements document is tied to the goals of one change initiative rather than ongoing organizational use."
+  }
+ },
+ {
+  "question_id": "5a86c435-c87b-5c32-9e0d-b1ce5ca740b5",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 6.3 Recommend Actions to Increase Value and 10.7 Business Cases, a business case captures the need, expected benefits (the $1M+ savings), costs, impacts on stakeholder groups, and risks, and is the standard artifact used to justify a recommended change to management for approval. Before presenting a recommendation of this magnitude, the team should first create the business case.",
+  "wrong_reasons": {
+   "b": "An organizational model describes structure and roles; it does not justify the investment decision.",
+   "c": "The change strategy is defined after the recommendation/business case establishes that the change is worth pursuing.",
+   "d": "Validating cost savings is part of building the business case, not a standalone first step preceding it."
+  }
+ },
+ {
+  "question_id": "d6e3246f-1547-5f5a-b2ba-4646058c0834",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "A run chart is a line graph plotting data points in time order to show trends, variation, and improvements or declines in a process over time; it is the tool used for trend analysis. In BABOK v3 this aligns with the metrics/KPI monitoring concepts (10.28 Metrics and KPIs) and classic quality tools.",
+  "wrong_reasons": {
+   "a": "A cause-and-effect (fishbone) diagram organizes potential causes of a problem; it shows no time sequence.",
+   "b": "A histogram shows the frequency distribution of data, not order of occurrence over time.",
+   "d": "A Pareto chart ranks categories by frequency/impact to highlight the vital few causes, not trends over time."
+  }
+ },
+ {
+  "question_id": "becf27d9-caa8-5449-9baa-6c70f5c6b2a3",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 6.2 Define Future State, the future state description articulates the expected value and benefits of the change. When a stakeholder doubts the solution's value, reviewing the future state (goals, expected benefits, and how the change delivers value) addresses the concern directly and helps maintain engagement and support (see also 3.2 Plan Stakeholder Engagement on managing attitudes toward the change).",
+  "wrong_reasons": {
+   "a": "No requirement change has been justified; updating requirements does not address the stakeholder's doubt about value.",
+   "b": "Merely recording the feedback and moving on ignores the stakeholder's attitude and risks losing their support.",
+   "d": "The governance approach concerns decision-making and change control processes, not resolving a stakeholder's value concerns."
+  }
+ },
+ {
+  "question_id": "7c168641-7a3f-51e8-acdf-8cfc5638f889",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 6.1 Assess Requirements Changes (RLCM) and 5.1 Trace Requirements, a proposed change to a requirement is assessed through impact analysis, using traceability to identify all related requirements, designs, and solution components affected by the change (see also 10.5.3 Impact Analysis under Backlog/traceability discussions and 5.1.5 Traceability for impact analysis).",
+  "wrong_reasons": {
+   "a": "The BA determined it is a genuine requirement change, so closing it as 'working as designed' would ignore the needed assessment.",
+   "b": "Risk information may inform the assessment but does not identify what the change affects; impact analysis via traceability does.",
+   "c": "Root cause analysis diagnoses underlying causes of problems; the cause is already known — the requirement changed."
+  }
+ },
+ {
+  "question_id": "1f084d64-dde6-500e-9dd0-733ff15a7e90",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "The project charter is the document that formally authorizes a project to exist within the organization and gives the project manager authority to apply resources. In CBAP prep material this aligns with initiation outputs following enterprise analysis/strategy analysis (business case feeding the charter).",
+  "wrong_reasons": {
+   "b": "A network diagram sequences project activities; it authorizes nothing.",
+   "c": "Project integration management is a coordination discipline, not an authorizing document.",
+   "d": "Project boundaries define what is in and out of scope, not the project's authorization."
+  }
+ },
+ {
+  "question_id": "78a565be-b53d-5edd-a6f7-53afa2e543ef",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 5.3 Prioritize Requirements, prioritization ranks requirements by relative importance and value so that analysis and implementation effort is focused on the most critical, highest-value requirements first, especially given limited time and resources.",
+  "wrong_reasons": {
+   "a": "Cost is one possible input to prioritization, not the purpose of prioritizing.",
+   "b": "Scheduling implementation is a planning consequence, not the reason BAs prioritize requirements.",
+   "d": "Prioritization is not performed primarily to select requirements for additional risk analysis; risk is just one basis for prioritization."
+  }
+ },
+ {
+  "question_id": "c6e856cc-80b5-50f4-9608-f43ce73d2ead",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In the communication model referenced by CBAP prep material (aligned with BABOK v3 underlying competency 9.5 Communication Skills), the medium (channel) is the component that carries or transfers the message between the sender and one or more receivers.",
+  "wrong_reasons": {
+   "a": "The sender encodes and originates the message but does not transfer it between entities.",
+   "c": "The decoder translates the received signal back into meaning; it does not transport the message.",
+   "d": "The receiver accepts and decodes the message at the destination; it is not the transfer mechanism."
+  }
+ },
+ {
+  "question_id": "5de06767-ab7f-59e8-97a9-970932657bf5",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.40 Root Cause Analysis, the fishbone (Ishikawa, cause-and-effect) diagram is one of the primary techniques used to identify and organize the possible underlying causes of a problem, along with the five whys.",
+  "wrong_reasons": {
+   "a": "A Pareto chart ranks frequency/impact of categories to focus effort but does not itself trace causes to their root; it is not the technique BABOK names for root cause analysis.",
+   "b": "A data-flow diagram models movement of information through a system, not causes of a problem.",
+   "c": "A Gantt chart displays project schedule activities over time, unrelated to causal analysis."
+  }
+ },
+ {
+  "question_id": "4f1a40e6-0cda-5d63-adb0-7ce8435b00af",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Milestones (misspelled 'Millstones' in the option) are significant point-in-time events with zero duration ('timeless') that mark progress, typically achieved at the end of a phase in the project life cycle. BABOK v3 references milestones in planning and estimation contexts (e.g., 10.19 Estimation, 10.35-related planning discussions).",
+  "wrong_reasons": {
+   "a": "'Achievements' is not a defined planning term for zero-duration progress markers.",
+   "c": "Phases are spans of work with duration, not point-in-time events.",
+   "d": "Templates are reusable document formats, unrelated to schedule events."
+  }
+ },
+ {
+  "question_id": "148710c6-5d24-5455-aeeb-fc7b7695c821",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 5.3 Prioritize Requirements, priority is based on factors such as benefit, cost, and frequency of use. Features used rarely (three times a year) by a small group but requiring high implementation effort have low value relative to cost, so the BA should recommend assigning them a lower priority and deferring them to a future release rather than discarding a legitimate need.",
+  "wrong_reasons": {
+   "a": "Changing the business process is a larger intervention that is not justified merely by a low-frequency feature.",
+   "b": "The requirement still represents a valid, recurring business scenario, so removing it outright discards legitimate value.",
+   "d": "Delivering high-effort, low-frequency features in the initial release misallocates limited resources away from higher-value requirements."
+  }
+ },
+ {
+  "question_id": "8aae2518-e14f-5f7f-a71d-2d92c4f5f4ad",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "In Plan Business Analysis Approach (BABOK v3, 3.1; BABOK v2, 2.1), process modeling is listed as a technique used to define and document the business analysis approach itself — the business analysis process can be modeled as a process to communicate how BA work will be performed.",
+  "wrong_reasons": {
+   "b": "A structured walkthrough is used to review/validate the approach with stakeholders, not to define and document it.",
+   "c": "Decision analysis helps rate and select among approach options, not document the chosen approach.",
+   "d": "Control charts are a quality/performance monitoring tool and are not a technique of planning the BA approach."
+  }
+ },
+ {
+  "question_id": "bdbf6228-9e54-5be6-b536-e2f025479344",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "A communications requirements matrix is a table of all stakeholders that maps who contributes or provides information to whom, including the type, format, and frequency of communications. This supports BABOK v3 tasks 3.2 Plan Stakeholder Engagement and 4.5 Communicate Business Analysis Information.",
+  "wrong_reasons": {
+   "a": "A RACI chart maps stakeholder responsibility levels (Responsible, Accountable, Consulted, Informed) for tasks, not information flows between stakeholders.",
+   "c": "The project scope statement defines scope and deliverables, not stakeholder communications.",
+   "d": "An organizational breakdown structure arranges the organization's units hierarchically; it does not map information contributions."
+  }
+ },
+ {
+  "question_id": "1638ee5e-9b27-5a5d-9d9c-80a9f05c10e5",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 10.4 Benchmarking and Market Analysis, benchmarking involves comparing practices, processes, or products/materials against each other or against standards by testing and measuring results to determine which performs best. Testing two materials and comparing measured results to select the better one is a benchmarking comparison.",
+  "wrong_reasons": {
+   "a": "A feasibility study assesses whether a proposed solution is viable overall, not a measured head-to-head comparison of materials.",
+   "b": "A stress test evaluates behavior under extreme load for a single item; the scenario is about comparative evaluation.",
+   "c": "Alternative identification generates possible options; here the alternatives are already identified and are being compared."
+  }
+ },
+ {
+  "question_id": "ef003260-2695-56f9-9cdc-b7c26c76bd5a",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 5.1 Trace Requirements, requirements can be traced forward to solution components, and traceability relationships help detect conflicts. When independently approved requirements are allocated to the same IT systems/solution components, tracing requirements to solution components reveals early that different requirements impose contradictory demands on the same component — exactly the conflicts that surfaced at implementation.",
+  "wrong_reasons": {
+   "a": "Tracing to stakeholder tasks shows who does what but not where requirements collide in the solution.",
+   "b": "Requirements already trace conceptually to business needs and each looked valid in isolation; the conflicts emerge at the implementation (component) level.",
+   "c": "Organizational functions describe structure, not the implementation elements where the contradictions materialize."
+  }
+ },
+ {
+  "question_id": "6c28aa5c-47ca-5f40-9b9e-482f4426af9d",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.31 Observation, the active/participatory approach involves the observer engaging with and participating in the work while observing, asking questions and even helping perform the tasks to understand the process. Martha working alongside Sarah and helping complete the work is active (participatory) observation.",
+  "wrong_reasons": {
+   "a": "Progressive elaboration is the iterative refinement of plans/requirements over time, not an elicitation observation approach.",
+   "b": "Shadowing in the passive sense means watching without interfering; Martha is participating in the work.",
+   "c": "'Cross training requirements elicitation' is not a BABOK technique."
+  }
+ },
+ {
+  "question_id": "e983eeef-5151-5e06-bc26-19346d75557b",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, planning prioritization (3.3 Plan Business Analysis Governance) and 5.3 Prioritize Requirements, requirements prioritization establishes how requirements will be ranked by relative importance and how those priorities are used to determine which requirements are included in the solution scope and delivered first.",
+  "wrong_reasons": {
+   "a": "Prioritization ranks requirements by value, risk, cost, and dependencies, not by ranking stakeholders' importance.",
+   "b": "Prioritization applies in change-driven approaches (e.g., backlogs) but is not exclusive to them.",
+   "c": "Prioritization is also central to plan-driven approaches but not exclusive to them either."
+  }
+ },
+ {
+  "question_id": "9fd23a17-0072-52ec-8cf6-8bb9740226e1",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 7.1 Specify and Model Requirements, modeling techniques include organizational modeling (10.32), data modeling (10.11), and state modeling/state diagrams (10.44). Work breakdown structure creation is a project management decomposition technique for organizing project work, not a BABOK technique for specifying or modeling requirements.",
+  "wrong_reasons": {
+   "a": "Organizational modeling (10.32) is a listed technique for modeling requirements about roles and structures.",
+   "b": "Data modeling (10.11) is a listed technique for modeling information concepts and relationships.",
+   "d": "State modeling/state diagrams (10.44) is a listed technique for modeling entity life cycles."
+  }
+ },
+ {
+  "question_id": "f724b8fe-ed7d-5901-9bed-0be5ef85ac45",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "In the basic communication model (aligned with BABOK v3 underlying competency 9.5 Communication Skills), the receiver decodes — i.e., translates — the transmitted message back into understandable meaning. With 'decoder' not offered, the receiver is the component that performs the translation of the message.",
+  "wrong_reasons": {
+   "b": "The medium merely carries the message between parties; it performs no translation.",
+   "c": "'Translator' is not a defined component of the communication model; it restates the question rather than naming a model element.",
+   "d": "The sender encodes the original idea into a message; decoding/translation happens at the receiving end."
+  }
+ }
+]

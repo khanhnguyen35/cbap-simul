@@ -1,5 +1,15 @@
 # Bộ dữ liệu CBAP Practice Questions — Đã chuẩn hóa
 
+> **[CẬP NHẬT v4 — 07/2026] Bổ sung 4 đề dump (Đề 22–25, 480 câu)**
+> Nguồn: `dump1.json` → `dump4.json` (API dump `listQuestionFullByTopicSetID` / `listCompositeQuestionFullByTopicSetID`, mỗi file 120 câu).
+> - **Đề 22** = dump1 (11 câu có ảnh bảng/sơ đồ, 12 ảnh PNG mới trích từ base64, đặt tên `img_<sha16>.png` như cũ); **Đề 23** = dump2 (99 câu đơn + 6 cụm case study composite với 21 câu con); **Đề 24** = dump3; **Đề 25** = dump4.
+> - **Case study "ngầm"**: ngoài 6 cụm composite của dump2, dump1/dump4 còn lặp nguyên văn context ở nhiều câu đơn (có thể không liền kề, sai khác OCR nhỏ). Parser dùng fuzzy alignment (difflib, tolerance 12 ký tự) để phát hiện 7 cụm ngầm (đề 22: 5 cụm/14 câu — gồm 2 câu hỏi con "mồ côi" được gắn tay `MANUAL_GROUP_ATTACH`; đề 25: 1 cụm/2 câu), tách `context`/`question_text` và xếp các câu cùng cụm đứng liền nhau (đánh lại `question_order`). Tổng: 12 cụm case study / 37 câu trong 4 đề mới.
+> - **Ảnh của case study nằm ở context**: các cụm có bảng dữ liệu dùng chung được cấu hình trong `GROUP_CONTEXT_IMAGES` — placeholder `[HÌNH ẢNH: ...]` chuyển vào `context`, mọi thành viên nhóm đều liệt kê ảnh đó trong `image_files`. Đã kiểm tra bằng mắt: cụm mortgage có 3 bản crop cùng 1 bảng (giữ 1), cụm insurance có 2 crop cụt chỉ còn header (giữ bản đủ số liệu `img_3745ab60...`), 4 ảnh crop trùng/cụt đã xóa khỏi `images/` (bộ ảnh còn 25 file). Riêng cụm payment giữ 2 ảnh ở câu hỏi vì đó là sơ đồ phương án trả lời A–D của riêng câu đó.
+> - **Nguồn dump KHÔNG có đáp án đúng** (toàn bộ `State=false`, không giải thích). Đáp án + giải thích (tiếng Anh, kèm tham chiếu BABOK v3) do **AI suy luận** từ BABOK v3 (16 agent song song, có đối chiếu ngân hàng câu hỏi công khai khi cần) → tất cả 480 câu gắn cờ `data_quality=ai_answered` (vẫn usable trong app). Độ tin cậy: 372 high / 97 medium / **11 low** — 11 câu low được liệt kê trong `quality_report.tsv` (`ai_answered_low_confidence`) để đối chiếu lại.
+> - 1 câu (Đề 25, câu 56) tham chiếu bảng vendor nhưng nguồn không đính kèm bảng → ghi chú `missing_table_in_source` trong `quality_report.tsv`.
+> - `question_id` mới = UUIDv5 deterministic từ `cbap-dump/<exam>/<ID gốc>`; không trùng với 2.389 ID cũ. Tổng bộ dữ liệu: **2.869 câu / 25 đề**.
+> - Script: `cbap-scraper/parse-dump-exams-to-intermediate-json.py` (parse + trích ảnh + tạo batch) và `cbap-scraper/build-tsv-from-answered-dumps.py` (ghép đáp án → append TSV v3 + đồng bộ sang `cbap-app/public/exams/`).
+
 > **[CẬP NHẬT v3 — 07/2026]** Dữ liệu đã được thay bằng bản fix trong `../CBAP Case Study Fixes/` (chi tiết: `FIX_REPORT_v3.md`). Khác biệt so với mô tả bên dưới:
 > - **Định dạng TSV mới**: mỗi record đúng 1 dòng vật lý, KHÔNG dùng quoting CSV; ký tự đặc biệt trong ô được escape `\n` / `\t` / `\\` (app tự unescape khi load).
 > - **Bỏ cột** `source_row_index`.

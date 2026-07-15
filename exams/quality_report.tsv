@@ -64,3 +64,15 @@ question_id	exam_number	question_order	issue	answer_count	note
 019f4661-8203-7852-9278-63b54e65bb68	21	83	missing_all_answers+missing_subquestion	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi). | Câu con của case study bị thiếu ở nguồn và không có bản sao ở đề khác để phục hồi.
 019f4661-984d-7113-a07a-796207f5d41c	21	84	missing_all_answers+missing_subquestion	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi). | Câu con của case study bị thiếu ở nguồn và không có bản sao ở đề khác để phục hồi.
 019f4663-55af-7010-a8d6-3c3ed975f241	21	104	missing_all_answers	0	Đề bài còn nhưng phần đáp án trống hoàn toàn ở nguồn (không thể phục hồi).
+e4bae9cd-2c19-5974-b3ae-bb833a4cc1d5	22	9	ai_answered_low_confidence	4	Đáp án do AI suy luận với độ tin cậy thấp — nên đối chiếu lại BABOK v3
+ee1f8ff9-fe50-5f95-9d33-3e45a887d439	22	21	ai_answered_low_confidence	4	Đáp án do AI suy luận với độ tin cậy thấp — nên đối chiếu lại BABOK v3
+eed41155-a991-52cf-87ef-7dbe779a22e1	22	45	ai_answered_low_confidence	4	Đáp án do AI suy luận với độ tin cậy thấp — nên đối chiếu lại BABOK v3
+60248b6c-5ff5-5a31-b0ed-2160a70ee092	23	63	ai_answered_low_confidence	4	Đáp án do AI suy luận với độ tin cậy thấp — nên đối chiếu lại BABOK v3
+9b7df22a-1b8f-5032-a585-cb41912d1f12	23	104	ai_answered_low_confidence	4	Đáp án do AI suy luận với độ tin cậy thấp — nên đối chiếu lại BABOK v3
+4ca94bea-7efe-5eab-bbc8-10dbd94b3d89	24	49	ai_answered_low_confidence	4	Đáp án do AI suy luận với độ tin cậy thấp — nên đối chiếu lại BABOK v3
+2aa8102f-3234-529b-8a65-34966d025f82	25	6	ai_answered_low_confidence	4	Đáp án do AI suy luận với độ tin cậy thấp — nên đối chiếu lại BABOK v3
+6e71197e-56d9-5c46-9cc2-f09d46a474a4	25	25	ai_answered_low_confidence	4	Đáp án do AI suy luận với độ tin cậy thấp — nên đối chiếu lại BABOK v3
+a85c84e1-c4b5-56f1-b7a1-7ec40d509478	25	28	ai_answered_low_confidence	4	Đáp án do AI suy luận với độ tin cậy thấp — nên đối chiếu lại BABOK v3
+9c35128d-8682-5798-a4f8-25a48108f148	25	68	ai_answered_low_confidence	4	Đáp án do AI suy luận với độ tin cậy thấp — nên đối chiếu lại BABOK v3
+7fe35488-859d-5611-b284-1d255d7a1893	25	102	ai_answered_low_confidence	4	Đáp án do AI suy luận với độ tin cậy thấp — nên đối chiếu lại BABOK v3
+0a7f11e0-0e7c-5782-a782-a1bce2656148	25	57	missing_table_in_source	4	Câu hỏi tham chiếu bảng vendor nhưng nguồn dump không đính kèm bảng/ảnh; đáp án đã đối chiếu ngân hàng câu hỏi công khai (210-150=60)

@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "ce7040bb-3794-5a36-aa7f-5a3d09d2c5a2",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Checking requirements for compliance with organizational standards and quality criteria is Verify Requirements (BABOK v3, 7.2). Verification ensures requirements and designs are of sufficient quality (complete, consistent, adhering to standards) to be used effectively for further work, moving them to the 'verified' state.",
+  "wrong_reasons": {
+   "a": "Validated requirements are those confirmed to deliver business value and align with business goals (7.3), not those checked against quality standards.",
+   "c": "Accepted/approved is the state reached after stakeholder approval (5.5 Approve Requirements), not after quality checking.",
+   "d": "Specified refers to requirements that have been analyzed and modeled (7.1), a state that precedes verification."
+  }
+ },
+ {
+  "question_id": "22fd1040-27c9-5748-9c51-d2a29089fb6e",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "In Plan Stakeholder Engagement (BABOK v3, 3.2), the collaboration element considers timing and frequency of collaboration, location, available tools, delivery method, and stakeholder preferences when selecting collaborative approaches for internal and external stakeholders.",
+  "wrong_reasons": {
+   "a": "The BA's own collaboration skills are an underlying competency, not a planning consideration listed for the stakeholder collaboration approach.",
+   "b": "Solution design belongs to Requirements Analysis and Design Definition, not to planning stakeholder collaboration.",
+   "d": "There is no 'business governance plan' consideration here; governance is planned separately in 3.3 Plan Business Analysis Governance."
+  }
+ },
+ {
+  "question_id": "8f0cd1c1-2f64-5ea1-a105-c601ff2b200d",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "Risk analysis is the process of defining threats, determining the extent of vulnerabilities, and devising countermeasures should an attack occur. This aligns with BABOK v3, 10.38 Risk Analysis and Management, where risks are identified, analyzed for likelihood and impact, and treatments (countermeasures) are developed.",
+  "wrong_reasons": {
+   "a": "Qualitative risk analysis only rates probability and impact on relative scales; it does not include devising countermeasures.",
+   "c": "Risk assessment refers to the identification and evaluation of risks, without extending to devising the countermeasures/treatments.",
+   "d": "Quantitative risk analysis numerically models risk exposure; it does not cover defining threats and countermeasures."
+  }
+ },
+ {
+  "question_id": "8a76c5ae-7f82-5d28-9c3e-4cbd169ff20d",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "The requirements management plan (in BABOK v3, part of the business analysis governance approach from 3.3 Plan Business Analysis Governance) defines the prioritization process: who participates, the basis and technique for prioritization, and how decisions are approved. It is the plan that guides Prioritize Requirements (5.3).",
+  "wrong_reasons": {
+   "a": "The risk management plan addresses project risk responses, not the process for prioritizing requirements.",
+   "b": "The project management plan governs overall project execution; requirement prioritization is governed by the requirements/governance plan.",
+   "d": "The scope management plan defines how project scope is managed, not how requirements are prioritized."
+  }
+ },
+ {
+  "question_id": "f2f6de60-09c0-5809-9673-e7004eea539f",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per Analyze Performance Measures and Assess Solution Limitations (BABOK v3, 8.2/8.3), before recommending actions the BA must investigate anomalous performance to find its root cause. Gathering more information from the users who encountered sign-on errors diagnoses the internal solution limitation before proposing a fix (8.5 Recommend Actions to Increase Solution Value).",
+  "wrong_reasons": {
+   "a": "Sending ID/password reminders assumes the cause is forgotten credentials without any root cause analysis.",
+   "b": "Automating login proposes a solution before the underlying problem is understood.",
+   "d": "Extending the pilot adds more users but does nothing to diagnose or resolve the observed errors."
+  }
+ },
+ {
+  "question_id": "299ca796-398f-5902-b047-a2948c4c7e64",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "A survey/questionnaire (BABOK v3, 10.45 Survey or Questionnaire) is designed to elicit information, including attitudes such as job satisfaction, from a large, geographically dispersed group of people in a relatively short time and at low cost — ideal for 30 international facilities.",
+  "wrong_reasons": {
+   "b": "Decision analysis (10.16) evaluates decision options under uncertainty; it is not an elicitation technique for gathering opinions.",
+   "c": "Observation gathers information by watching work being performed; it is impractical across 30 international sites and poor at measuring satisfaction.",
+   "d": "Concept modelling defines domain terms and their relationships; it does not gather employee opinions."
+  }
+ },
+ {
+  "question_id": "b14dfa1b-f437-505d-83b1-d6a75f429dee",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "A request for quote (RFQ) is used when the requirement is well defined (a commercial-off-the-shelf product) and the primary information sought from vendors is price. BABOK v3 discusses vendor solicitation documents in the context of Vendor Assessment (10.48) and procurement-driven elicitation.",
+  "wrong_reasons": {
+   "a": "A request for proposal is used when the organization seeks detailed solution approaches from vendors, not just a price.",
+   "b": "A purchase order is issued after vendor selection to execute the purchase, not to solicit pricing.",
+   "c": "A request for information gathers general information about vendor capabilities, not binding prices."
+  }
+ },
+ {
+  "question_id": "107eab5a-156c-51bf-97fd-e1d2350b2f1f",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3 (2.4 Stakeholders), the sponsor is the stakeholder who authorizes the work needed to meet the business need and is responsible for initiating the effort, controlling budget and scope. In Business Analysis Planning and Strategy Analysis, the sponsor approves and authorizes actions to address the business need.",
+  "wrong_reasons": {
+   "b": "The customer uses or consumes the solution's products/services but does not authorize the initiative's actions.",
+   "c": "The implementation SME provides specialist knowledge for designing and building the solution, not authorization.",
+   "d": "The regulator defines and enforces standards; it does not authorize the organization's internal actions."
+  }
+ },
+ {
+  "question_id": "fcce3e5a-1ac5-573d-892d-db820d14f421",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "A business analysis information/requirements architecture (BABOK v3, 7.4 Define Requirements Architecture) structures all requirements and designs so they collectively form a complete whole and support the business objectives. Checking the package against this architecture demonstrates completeness of the requirements package, expediting approval of the analysis phase.",
+  "wrong_reasons": {
+   "a": "Solution functional capabilities are content within the requirements, not a means of demonstrating the package is complete.",
+   "b": "The business analysis approach describes how BA work will be performed overall; it does not verify completeness of a specific requirements package.",
+   "c": "Solution performance measures are used later in Solution Evaluation to assess a deployed solution, not to approve the analysis phase."
+  }
+ },
+ {
+  "question_id": "3ba155f9-d43f-5622-a3d8-f96f008a1721",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Interviewing (as a quantitative risk analysis data-gathering technique) draws on the experience of subject matter experts and historical data to quantify the probability and impact of risks on objectives. BABOK v3 similarly lists interviews and lessons learned as sources for risk identification and analysis (10.38 Risk Analysis and Management, 10.25 Interviews).",
+  "wrong_reasons": {
+   "a": "Probability distributions represent uncertainty in values; they are a modeling representation, not a technique based on expert experience.",
+   "b": "Sensitivity analysis determines which risks have the greatest potential impact by varying one factor at a time, not by leveraging past data and experience.",
+   "c": "Modeling and simulation (e.g., Monte Carlo) computes outcomes from iterative simulations, not from interviewing experts about past data."
+  }
+ },
+ {
+  "question_id": "546e55d7-6db2-526b-823c-dc8534f4d79d",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In Specify and Model Requirements (BABOK v3, 7.1.4.2 Analyze Requirements — model categories), 'People and Roles' models such as user classes, profiles, or roles categorize and describe the people who directly interact with a solution, grouping them by common needs and characteristics (see also 10.39 Roles and Permissions Matrix, 10.33 Personas).",
+  "wrong_reasons": {
+   "a": "Rules models capture business policies and constraints on decisions, not descriptions of the people interacting with the solution.",
+   "c": "Concepts-and-relationships models define domain terms and their associations (e.g., concept models, data models).",
+   "d": "Event models describe triggers the solution must respond to, not user groups."
+  }
+ },
+ {
+  "question_id": "f5318ba8-6dc4-5994-8bb9-1603bb76876c",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per Verify Requirements (BABOK v3, 7.2.4.3 Checklists), checklists are a quality control tool that ensures items important to include in requirements deliverables are not forgotten and that verification activities are consistently performed. Presenting a business analysis checklist demonstrates a repeatable mechanism for verifying all requirements.",
+  "wrong_reasons": {
+   "a": "A data model specifies information structure; it does not track whether requirements have been verified.",
+   "b": "A use case diagram models interactions with the solution, not verification coverage.",
+   "c": "A risk register tracks identified risks and treatments, not requirement verification."
+  }
+ },
+ {
+  "question_id": "eed41155-a991-52cf-87ef-7dbe779a22e1",
+  "correct_letter": "c",
+  "confidence": "low",
+  "explanation": "Of the options given, only the Critical Path Method output (network/schedule diagram) is a graphical presentation of a project plan showing activities, dependencies, and overall timeline, making it the only defensible choice for presenting plan status to upper management. The other options are quality/data charts, not project plan presentations.",
+  "wrong_reasons": {
+   "a": "A pie chart shows proportional composition of a dataset, not a project plan or schedule.",
+   "b": "A Pareto chart ranks causes of problems by frequency for quality analysis, not for presenting a project plan.",
+   "d": "A scatter chart shows correlation between two variables and conveys no plan or schedule information."
+  }
+ },
+ {
+  "question_id": "c89c2fc0-9c4b-5837-8e60-9592a8aaadee",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per Analyze Current State (BABOK v3, 6.1), the BA first understands the business need and why the current state is underperforming — here, the reasons behind the profit erosion — before defining the future state or recommending changes. Understanding the current state provides the context and root causes needed for any improvement recommendation.",
+  "wrong_reasons": {
+   "a": "Setting desired future-state profit margins is part of Define Future State (6.2), which follows current state analysis.",
+   "b": "Eliciting a desired margin increase jumps to future-state goals before the problem is understood.",
+   "d": "Strategy sessions on how to achieve profitability belong to Define Change Strategy (6.4), performed after current and future states are analyzed."
+  }
+ },
+ {
+  "question_id": "f5694f47-df44-56f5-b874-84df709792d6",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "For geographically dispersed (non-collocated) stakeholders, BABOK v3 recommends adapting the communication and collaboration approach (3.2 Plan Stakeholder Engagement; 4.1 Prepare for Elicitation) using technology such as videoconferencing to approximate face-to-face interaction cost-effectively.",
+  "wrong_reasons": {
+   "a": "Constant travel rotation is costly and inefficient, and is not required to perform BA duties effectively.",
+   "c": "Adding more BAs per location increases cost and coordination overhead without solving the communication need.",
+   "d": "Requiring periodic physical gatherings of all stakeholders is impractical and expensive for dispersed teams."
+  }
+ },
+ {
+  "question_id": "a5da8b51-41a6-5f3f-94e3-dfcea9bf4d89",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Risk Data Quality Assessment evaluates the degree to which the data used for risk analysis is accurate, reliable, and of high quality. This concern with the credibility and quality of risk information corresponds to ensuring sound analysis in BABOK v3, 10.38 Risk Analysis and Management.",
+  "wrong_reasons": {
+   "a": "Risk urgency assessment determines how soon a risk may occur and how quickly responses are needed, not data quality.",
+   "b": "Probability and impact assessment rates the likelihood and consequences of each risk, assuming the data is usable.",
+   "c": "Risk categorization groups risks by source or affected area, not by the quality of underlying data."
+  }
+ },
+ {
+  "question_id": "06e5a91a-526e-557e-a6d8-d5c3e7a1e1f4",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Visual learners absorb information best through pictures, diagrams, and models. BABOK v3 underlying competencies on Communication Skills (9.4) note that understanding how audiences learn — visual, auditory, kinesthetic — should shape how information such as models is presented.",
+  "wrong_reasons": {
+   "b": "Auditory learners learn best through spoken explanation and discussion, not visual models.",
+   "c": "Kinesthetic learners learn best by doing and hands-on experience, not by viewing models.",
+   "d": "'Communication model learners' is not a recognized learning style; it is a distractor."
+  }
+ },
+ {
+  "question_id": "c0259266-294c-5c1e-8b3e-c27705efaf52",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "A Pareto diagram ranks causes or problem categories by frequency/impact, applying the 80/20 rule so that improvement efforts are directed at the areas that will yield the biggest impact. It is a classic root cause and prioritization aid consistent with BABOK v3, 10.40 Root Cause Analysis and metrics-based decision making.",
+  "wrong_reasons": {
+   "a": "A flowchart depicts process steps and flow; it does not rank problem areas by impact.",
+   "b": "A Gantt chart shows schedule activities over time, not improvement priorities.",
+   "d": "User documentation instructs users on solution usage and has no prioritization function."
+  }
+ },
+ {
+  "question_id": "befdfe27-c137-565e-b46f-d47a6f9585d1",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 9.1.4 Creative Thinking (Underlying Competencies), effectiveness is measured by the successful generation and productive consideration of new ideas, the application of new ideas to resolve problems, and the willingness of stakeholders to accept new approaches. Producing a pre-determined quota of ideas is not a measure of creative thinking effectiveness.",
+  "wrong_reasons": {
+   "a": "Applying new ideas to resolve existing problems is an explicit effectiveness measure of creative thinking in BABOK v3 9.1.4.",
+   "c": "Stakeholder willingness to accept new approaches is an explicit effectiveness measure in BABOK v3 9.1.4.",
+   "d": "Successful generation and productive consideration of new ideas is an explicit effectiveness measure in BABOK v3 9.1.4."
+  }
+ },
+ {
+  "question_id": "048bc173-78b0-5524-8c9e-6ffcfd0785f7",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per Prioritize Requirements (BABOK v3, 5.3.4.2 — basis for prioritization: Risk), stakeholders may choose to tackle the riskiest requirements first ('fail fast') so that if the risks materialize and the initiative cannot succeed, it fails early with the least possible investment of time and money.",
+  "wrong_reasons": {
+   "b": "The purpose is not to enable mitigation by the PM but to expose fatal risks before major investment.",
+   "c": "Risky requirements are prioritized to surface potential failure early, not to accelerate rewards.",
+   "d": "The rationale is minimizing sunk cost on a doomed effort, not creating time to correct problems."
+  }
+ },
+ {
+  "question_id": "4fd9a91c-102d-5602-90a6-b3df753608f8",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "An assumption is a factor believed to be true without proof or verification (BABOK v3 Glossary; 10.38 Risk Analysis and Management treats assumptions as sources of risk). The belief that a solution will move the organization from current to future state, which may prove invalid, must be documented as an assumption with its associated risks.",
+  "wrong_reasons": {
+   "a": "A project is a temporary endeavor to create a product or result, not a belief about outcomes.",
+   "b": "A risk is the effect of uncertainty on value; the unproven belief itself is the assumption from which risk may arise.",
+   "d": "A model is a descriptive representation of a domain or requirement, not a belief."
+  }
+ },
+ {
+  "question_id": "a17639e5-9978-58e7-b218-bfca622fa30d",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "Potential Value — the analysis of the value the recommended solution may deliver — is an input to Assess Risks (BABOK v3, 6.3), because the impact of risks is understood in terms of the potential value that could be lost or reduced if the risks occur.",
+  "wrong_reasons": {
+   "a": "The change strategy is developed using the results of risk assessment (6.4 Define Change Strategy); a 'defined change strategy' is not an input to assessing risk.",
+   "c": "Requirements are only an input to Assess Risks once prioritized AND understood in the context of potential value; the listed answer keyed for this item is potential value, against which risk impact is measured.",
+   "d": "Elicitation results must be confirmed before being used; unconfirmed results are not a valid input."
+  }
+ },
+ {
+  "question_id": "857d60d6-723e-54a7-a774-6bf7faf8bbc5",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Verify Requirements (BABOK v3, 7.2) ensures that requirements specifications and models meet the necessary standard of quality — complete, consistent, understandable, and conforming to standards — so they can be used effectively to guide further work.",
+  "wrong_reasons": {
+   "a": "Identifying constraints and assumptions is part of analyzing requirements, not quality assurance of specifications.",
+   "b": "Validate Requirements (7.3) ensures requirements align with business objectives and deliver value, not internal quality of models.",
+   "d": "Specify and Model Requirements (7.1) creates the specifications and models; it does not check their quality."
+  }
+ },
+ {
+  "question_id": "43513c97-8f3f-5268-a956-b6377616bf42",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "When analyzing the current state to identify improvement opportunities (BABOK v3, 6.1 Analyze Current State), common opportunities include automating or simplifying the work people perform — e.g., eliminating duplicate manual activities across multiple software packages by automating routine report generation.",
+  "wrong_reasons": {
+   "b": "Active observation is an elicitation method, not a recommendation; the duplication has already been observed.",
+   "c": "Non-functional requirements describe quality attributes of a solution; they do not address eliminating duplicated manual work.",
+   "d": "Passive observation is another elicitation method; the question asks for a recommendation based on what was already noticed."
+  }
+ },
+ {
+  "question_id": "f45ce20b-abdb-598c-836e-a304117817dc",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Gap analysis compares the current state against the future state to identify missing capabilities. Having analyzed the current state (BABOK v3, 6.1), the BA next performs Define Future State (6.2) to describe the capabilities and conditions needed; only then can the gaps between the two be identified.",
+  "wrong_reasons": {
+   "a": "Performance measures relate to defining measurable objectives and later Solution Evaluation, not the immediate next step of a gap analysis.",
+   "c": "Risk categorization belongs to Assess Risks (6.3), performed after the current and future states are understood.",
+   "d": "Stakeholder engagement planning (3.2) is a planning activity, not part of completing a gap analysis."
+  }
+ },
+ {
+  "question_id": "eb909490-5571-51c9-9971-dfc5e11aee28",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "A focus group (BABOK v3, 10.21 Focus Groups) brings together pre-qualified participants in an interactive group setting to elicit their ideas, attitudes, and opinions about a specific product or service — exactly the goal of gathering honest opinions about the help desk service.",
+  "wrong_reasons": {
+   "a": "Stakeholder analysis identifies and characterizes stakeholders; it does not elicit their opinions about a service.",
+   "c": "A workshop is a structured facilitated session to reach a defined goal such as producing requirements, not primarily to gather attitudes and opinions.",
+   "d": "Root cause analysis identifies underlying causes of a problem; it is an analysis technique, not this group opinion-gathering activity."
+  }
+ },
+ {
+  "question_id": "988ec9fc-e380-5a60-9ea3-10011a7870ba",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In Prioritize Requirements (BABOK v3, 5.3.5 Stakeholders), the listed participants include the customer, end user, implementation subject matter expert, project manager, regulator, and sponsor. The 'project team' as a whole is not a listed stakeholder in requirements prioritization.",
+  "wrong_reasons": {
+   "a": "The implementation SME participates to advise on technical difficulty and dependencies affecting priority.",
+   "c": "Domain SMEs (representing business/user perspectives) participate to assess business value for prioritization.",
+   "d": "The project manager participates because priorities drive scheduling and resource planning."
+  }
+ },
+ {
+  "question_id": "ad9c8526-661f-5c72-9640-78805cdab583",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "In passive observation (BABOK v3, 10.31 Observation), the observer watches the worker perform their tasks without interrupting or asking questions, recording notes for later follow-up. Martha observing and taking notes without questioning Gary is passive observation.",
+  "wrong_reasons": {
+   "a": "Shadowing is a general term for following a worker; the BABOK distinction asked here is passive vs. active, and 'passive' specifically means no interruptions.",
+   "b": "Active observation involves asking questions and interrupting the work as it is performed.",
+   "d": "'Usage consideration' is not an observation approach in BABOK v3."
+  }
+ },
+ {
+  "question_id": "ad840358-cb65-54af-a513-fbd0852c5979",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per Communicate Business Analysis Information (BABOK v3, 4.4) and Specify and Model Requirements (7.1), information must be presented at a level of abstraction and in formats appropriate to each audience's needs. Providing appropriate levels of abstraction supporting differing viewpoints lets the implementation SME and operational staff see the impacts relevant to their daily tasks (see also 7.4 Define Requirements Architecture — viewpoints and views).",
+  "wrong_reasons": {
+   "a": "An information management model addresses how BA information is stored and accessed, not audience comprehension of requirements.",
+   "b": "A capability model illustrating strategic objectives serves executives, which is the one audience that already understood the presentation.",
+   "c": "Governance architecture concerns decision-making and approval processes, not tailoring requirement views for stakeholders."
+  }
+ },
+ {
+  "question_id": "e81fc949-2102-5787-bf92-f09ec8a084a5",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.36 Prioritization (grouping), MoSCoW stands for Must have, Should have, Could have, and Won't have (this time) — categorizing requirements from mandatory to those deferred out of the current scope.",
+  "wrong_reasons": {
+   "a": "'Would' is a common misstatement; the W in MoSCoW is 'Won't (this time)'.",
+   "c": "Mission/Schedule/Cost/Willingness is not the MoSCoW acronym.",
+   "d": "MoSCoW categories are positive priority levels, not a list of negations."
+  }
+ }
+]

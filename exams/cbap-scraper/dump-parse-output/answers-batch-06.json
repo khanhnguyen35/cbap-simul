@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "1d6a5ec7-24dd-54c5-acdb-c5ceeb6e5493",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "In the BABOK task for planning business analysis activities (Plan Business Analysis Approach / BABOK v2 2.3 Plan Business Analysis Activities), the inputs are the business analysis approach, business analysis performance assessment, organizational process assets, and the stakeholder list, roles, and responsibilities. A list of identified risks is not one of these inputs; risks are addressed through the Risk Analysis and Management technique (BABOK v3, 10.38), not as a planning input.",
+  "wrong_reasons": {
+   "b": "Organizational process assets are a defined input to planning business analysis activities.",
+   "c": "The business analysis approach is a defined input that shapes how activities are planned.",
+   "d": "The stakeholder list, roles, and responsibilities is a defined input used to determine which activities are needed."
+  }
+ },
+ {
+  "question_id": "afd285a6-887c-5b21-bb2d-5c1c996786fe",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Risk management is the overall, ongoing process that encompasses setting the organization's risk tolerance, identifying potential risks, analyzing and prioritizing them, and developing responses. Per BABOK v3, 10.38 Risk Analysis and Management, managing risks is a continuous activity that includes understanding stakeholder and enterprise risk tolerance and treating risks accordingly.",
+  "wrong_reasons": {
+   "a": "Risk communication is only about sharing risk information with stakeholders, not setting tolerance or prioritizing.",
+   "b": "Risk identification only discovers potential risks; it does not set tolerance or prioritize them.",
+   "c": "Risk analysis assesses likelihood and impact of identified risks but does not set organizational risk tolerance."
+  }
+ },
+ {
+  "question_id": "5eb9ba28-441d-5dfd-9836-35481811a890",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 3.3 Plan Business Analysis Governance, element 'Plan for Approvals', when planning the approval process the business analyst considers the organizational culture and the type of information being approved, since these determine how formal the approvals must be and who must grant them.",
+  "wrong_reasons": {
+   "b": "Risks of foregoing or delaying an approval relate to the timing and frequency of approvals, not to defining the approval process itself.",
+   "c": "Formality and rigor of prioritization belong to planning the prioritization approach, a different element of governance planning.",
+   "d": "Solution performance measures belong to Solution Evaluation, not to planning approvals."
+  }
+ },
+ {
+  "question_id": "4ab041c1-b078-5673-b56a-881f145a94d7",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "The solution removes redundant maintenance of multiple routing variations and lets the business ship to new countries without IT change requests, which reduces effort, time, and rework. Per BABOK v3, 6.1 Analyze Current State (identifying opportunities) and 6.2 Define Future State, improvements that streamline work and remove bottlenecks are classified as increasing efficiencies.",
+  "wrong_reasons": {
+   "b": "Nothing in the scenario reduces the level of stakeholder involvement.",
+   "c": "The opportunity is about streamlined routing operations, not improved access to information.",
+   "d": "The benefit is operational flexibility after implementation, not a shorter project timeline."
+  }
+ },
+ {
+  "question_id": "dbebe942-62ba-5a8c-bc9d-cf4ce34a021f",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "A milestone is a significant event or major deliverable in a project used to measure progress against the plan. BABOK v3 references milestones in Plan Business Analysis Activities and in Estimation (10.19) as checkpoints for tracking progress.",
+  "wrong_reasons": {
+   "a": "The project life cycle is the entire series of phases a project passes through, not a single key event.",
+   "b": "A phase is a grouping of project activities, not a single key event or deliverable marker.",
+   "c": "'Achievement' is not a defined project management or BABOK term for progress measurement."
+  }
+ },
+ {
+  "question_id": "1d020e77-a07f-5816-80e4-a1c3be61f2e1",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 4.1 Prepare for Elicitation and 4.2 Conduct Elicitation, the business analyst must understand the scope of the elicitation activity so the workshop stays on topic, the right stakeholders are engaged, and it can be recognized when the discussion strays outside the intended boundaries of the change.",
+  "wrong_reasons": {
+   "a": "The future state may be an outcome of the discussion but does not define the boundaries that keep a workshop focused.",
+   "b": "Assets are a factor in strategy analysis, not the key to keeping an elicitation session on topic.",
+   "d": "The risk register tracks risks; it does not bound the topic of the workshop."
+  }
+ },
+ {
+  "question_id": "59ba5a76-caef-5fed-9aa6-6db43fa602f3",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "In the enterprise analysis task of defining the business case (BABOK v2 5.5), the inputs are the business need, solution scope, stakeholder concerns, and assumptions and constraints. Requirements verification is a Requirements Analysis quality activity, not an input to writing the business case; in BABOK v3 the business case is developed in Strategy Analysis (6.3/6.4) well before requirements are verified.",
+  "wrong_reasons": {
+   "a": "The business need is the fundamental input driving the business case.",
+   "b": "Assumptions and constraints are a defined input used to qualify the business case estimates.",
+   "d": "Stakeholder concerns are a defined input reflecting issues and risks to be addressed in the business case."
+  }
+ },
+ {
+  "question_id": "d62e89ca-5d35-548d-949c-ad2881ffcfc4",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Acquiring a commercial-off-the-shelf (COTS) software package is a 'purchase' solution approach: the capability is bought from a vendor rather than built in-house. BABOK v3, 7.5 Define Design Options, discusses create vs. purchase (buy) vs. combinations as solution approaches for design options.",
+  "wrong_reasons": {
+   "a": "Outsourcing means having a third party perform the work or operate the process, not buying packaged software.",
+   "b": "'Exploit' is not a solution approach; it is a risk-response strategy for positive risks.",
+   "c": "'Create' means building a custom solution, the opposite of buying a COTS package."
+  }
+ },
+ {
+  "question_id": "155caee3-3fa9-56c4-9f2e-a36e5fbda474",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 8.5 Recommend Actions to Increase Solution Value, 'do nothing' is the recommended action when the cost of a change is high relative to the expected benefit. The only improvement option costs ten times its benefits, while the current solution still delivers some value, so continuing with the implemented solution maximizes net value.",
+  "wrong_reasons": {
+   "b": "Retiring the solution would destroy the value the business is already receiving without a justified replacement.",
+   "c": "Conducting elicitation does not address the decision; the options and their costs/benefits are already known.",
+   "d": "Planning stakeholder engagement is a Business Analysis Planning task and does not resolve the value question."
+  }
+ },
+ {
+  "question_id": "ae90faa5-2acf-5d7c-a185-b0f1f0bbd766",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "In stakeholder analysis (BABOK v3, 3.1 Plan Stakeholder Engagement; BABOK v2 2.2 Conduct Stakeholder Analysis), the survey/questionnaire technique (BABOK v3, 10.45) is identified as useful for identifying shared characteristics of a stakeholder group because it can collect uniform information from many stakeholders at once.",
+  "wrong_reasons": {
+   "b": "Scope modeling is used to identify stakeholders who interact with the solution boundary, not their shared characteristics.",
+   "c": "Brainstorming is used to produce the initial list of stakeholders and roles, not to profile shared characteristics.",
+   "d": "Interviews gather individual perspectives one at a time rather than characteristics shared across a group."
+  }
+ },
+ {
+  "question_id": "6b77bd5b-dd09-50bc-9da4-fb7972c19282",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 4.3 Confirm Elicitation Results, the elicitation activity plan is a guideline/tool for this task: it is used to guide which alternative sources of information exist and which elicitation results are to be compared against source information and against other results.",
+  "wrong_reasons": {
+   "a": "The information management approach governs how BA information is stored and accessed, not which results to compare.",
+   "b": "'Business analysis plan' is not the guideline named for confirming elicitation results in BABOK v3.",
+   "d": "The business analysis approach sets the overall method for the initiative, not the sources for a specific elicitation comparison."
+  }
+ },
+ {
+  "question_id": "98b81869-2e23-5463-a076-32a91600ab37",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In the prepare-for-elicitation task (BABOK v2 3.1 Prepare for Elicitation), the business analyst uses the business need, the solution scope (with business case), and the stakeholder list, roles, and responsibilities as inputs. A change request is not an input to preparing for elicitation; change requests arise later through governance (BABOK v3, 5.3 Assess Requirements Changes).",
+  "wrong_reasons": {
+   "a": "Solution scope is a defined input that bounds what will be elicited.",
+   "c": "The business need is a defined input that drives the elicitation activity.",
+   "d": "The stakeholder list is a defined input identifying whom to elicit from."
+  }
+ },
+ {
+  "question_id": "78a346c8-7d41-53d2-a509-45aa44d6471d",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.25 Interviews, an unstructured interview has no predetermined set of questions, allowing the interviewee to speak freely and openly about their role and the process from their own perspective, with the conversation flowing based on their responses.",
+  "wrong_reasons": {
+   "a": "A focus group is a moderated group discussion, not a format where each stakeholder individually discusses their role freely.",
+   "b": "A structured interview follows a predefined set of questions, limiting free discussion.",
+   "c": "'Quick interview' is not a defined interview type in BABOK."
+  }
+ },
+ {
+  "question_id": "9fa58533-264f-52ea-98b8-2caa1c859e72",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 7.6 Validate Requirements, the Risk Analysis and Management technique (10.38) is used to identify possible scenarios that would alter the benefit delivered by a requirement, i.e., risks that the requirement will not deliver its expected value.",
+  "wrong_reasons": {
+   "b": "Metrics and KPIs are used in validation to define acceptable performance measures, not to identify benefit-altering scenarios.",
+   "c": "Data modeling describes entities and relationships; it does not surface risk scenarios to benefits.",
+   "d": "Document analysis reviews existing materials and does not identify future scenarios affecting benefits."
+  }
+ },
+ {
+  "question_id": "4e1b4bf2-34eb-5d92-b549-f1280c3aeeb3",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Because the solution is a third-party sales tool, the business analyst assesses external suppliers and their offerings. Per BABOK v3, 10.49 Vendor Assessment, this technique determines the ability of a potential vendor and its solution to meet the organization's needs, making it the right technique for identifying suitable third-party options (used in 7.5 Define Design Options and 7.6 Analyze Potential Value and Recommend Solution).",
+  "wrong_reasons": {
+   "a": "Balanced scorecard measures enterprise performance against strategy, not vendor solution suitability.",
+   "b": "Decision analysis compares and selects among options after they are identified and scored, rather than identifying vendor options.",
+   "d": "Process analysis assesses and improves existing processes, not third-party product options."
+  }
+ },
+ {
+  "question_id": "04fb206b-43f2-542e-a026-d53f78465ed1",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 8.1 Measure Solution Performance and 8.2 Analyze Performance Measures, determining whether a solution delivers its potential value requires collecting performance measures and analyzing them for trends, accuracy, and performance variances against desired value. Measuring performance, trends, and variances is what allows expected value to be assessed reliably.",
+  "wrong_reasons": {
+   "a": "Benefits, penalties, and costs are prioritization/business-case factors, not the measurement set for assessing solution performance accuracy.",
+   "b": "Strategy, solution, and scope are change definition concepts, not performance measurements.",
+   "c": "Impacts, problems, and dependencies relate to requirements analysis and traceability, not value measurement."
+  }
+ },
+ {
+  "question_id": "940bb010-702e-5bf4-8923-a58d90d7335f",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "A desired outcome describes the business benefits that will result from meeting the business need (e.g., increased sales, reduced costs, faster delivery); it is deliberately not a solution. 'Implement new machinery' prescribes a specific solution, which BABOK (v3 Business Analysis Key Concepts; v2 5.1 Define Business Need) explicitly distinguishes from a desired outcome.",
+  "wrong_reasons": {
+   "b": "Increasing sales is a classic business benefit and valid desired outcome.",
+   "c": "Reducing costs is a business benefit and valid desired outcome.",
+   "d": "Reducing time to deliver a product or service is a business benefit and valid desired outcome."
+  }
+ },
+ {
+  "question_id": "16ff9ae1-0478-5fb3-ae5f-caeef2c972e4",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "A Gantt chart is a bar chart that plots activities and their durations against a calendar timeline, showing start and end dates. It is the standard tool for representing activity duration over time in scheduling and is referenced in BABOK planning and estimation contexts (e.g., 10.19 Estimation).",
+  "wrong_reasons": {
+   "a": "A scatter chart shows correlation between two variables, not schedule durations.",
+   "c": "A pie chart shows proportional composition of a whole, not time-based durations.",
+   "d": "A Pareto chart ranks categories (e.g., defect causes) by frequency, not activities against a calendar."
+  }
+ },
+ {
+  "question_id": "5ad3ed82-bd2d-53d6-9976-37c117ea1bb8",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "A database analyst is the implementation subject matter expert role that assesses the data requirements of a project, identifies existing data assets, and supports the team in completing data modeling (see BABOK stakeholder role Implementation Subject Matter Expert, which includes database analysts/administrators who design and manage data).",
+  "wrong_reasons": {
+   "b": "End users operate the solution; they do not assess data requirements or perform data modeling.",
+   "c": "A subject matter expert provides domain knowledge broadly but is not the role dedicated to data assets and data modeling.",
+   "d": "An information architect focuses on organizing information structure and usability of content, not project data modeling and data assets."
+  }
+ },
+ {
+  "question_id": "ffad7860-6d91-52d7-8652-7baf5ca8e58d",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "A Pareto diagram is a histogram ordered by frequency that displays the relative importance of defects or problem causes, supporting the 80/20 rule of focusing on the vital few causes. It is a root cause and quality analysis aid consistent with BABOK v3, 10.40 Root Cause Analysis.",
+  "wrong_reasons": {
+   "b": "User documentation explains how to use a solution; it does not rank defects.",
+   "c": "A Gantt chart shows schedule durations, not defect importance.",
+   "d": "A flowchart shows process flow and logic, not the relative frequency of defects."
+  }
+ },
+ {
+  "question_id": "ad6303ae-118f-5244-abbf-5bd33e7b519d",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "A Responsibility Assignment Matrix (RAM) is the chart that correlates project team members with the work packages or activities they are assigned to complete. BABOK v3, 10.39 Roles and Permissions Matrix and organizational modeling reference this matrix concept; a RACI chart is only one specific type of RAM.",
+  "wrong_reasons": {
+   "a": "A pie chart shows proportional composition, not assignments of people to work.",
+   "c": "A Gantt chart shows activity durations against a calendar, not who is assigned.",
+   "d": "A RACI chart is a specialized form of RAM showing accountability levels; the general chart correlating members to work is the RAM."
+  }
+ },
+ {
+  "question_id": "a24ed6e5-c538-55f3-9ff1-b0fce35c800c",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, Chapter 4 Elicitation and Collaboration, eliciting requirements is not a compartmentalized, one-time activity: elicitation occurs iteratively and continuously throughout the initiative as analysis, validation, and change reveal the need for further elicitation. Therefore no fixed completion point can be promised.",
+  "wrong_reasons": {
+   "a": "The project schedule may constrain sessions but does not define when elicitation is 'done', since elicitation recurs iteratively.",
+   "b": "Stakeholder willingness affects effectiveness, not the fundamental iterative nature of elicitation.",
+   "c": "Project size influences effort but elicitation still continues throughout the lifecycle regardless of size."
+  }
+ },
+ {
+  "question_id": "0091234b-4aee-5e71-990b-d422ec03fb50",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "A user interface describes how actual users interact with one another, with a system, or how data is exchanged between users. In BABOK v3, 7.4 Define Requirements Architecture and 10.24 Interface Analysis, user interfaces are the interfaces through which people interact with the solution, as distinct from system-to-system or device interfaces.",
+  "wrong_reasons": {
+   "a": "A device interface connects hardware devices to systems, not users to each other or to systems.",
+   "c": "A data interface is a system-to-system exchange of data without direct user interaction.",
+   "d": "A communication port is a technical network endpoint, not a description of user interaction."
+  }
+ },
+ {
+  "question_id": "3d3985f1-73f2-5a15-930f-0550931791ca",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.19 Estimation, top-down (and analogous) estimation uses information from similar past projects or historical data to predict the cost and duration of the current initiative at a high level before detailed decomposition is available.",
+  "wrong_reasons": {
+   "a": "'Current estimate' is not a defined estimation method.",
+   "b": "Past project cost is historical data used as an input, not an estimating method itself.",
+   "c": "'Past estimate' is not a defined estimation method."
+  }
+ },
+ {
+  "question_id": "73b2ad16-d340-5f17-a4da-7e8fbce26e84",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 6.1 Analyze Current State, the business analyst must first understand the business need and its root causes before recommending solutions; management's assumption (competition) is unverified, since hiring sales reps produced no improvement. Reviewing historic sales and related data (document analysis, data mining, root cause analysis, 10.40) establishes what is actually happening to the customer base.",
+  "wrong_reasons": {
+   "a": "Market research presumes competition is the root cause, which has not been validated.",
+   "b": "A training program presumes a skill gap is the root cause without evidence.",
+   "d": "Procuring training providers is a solution activity taken before the problem is understood."
+  }
+ },
+ {
+  "question_id": "665d4344-0bff-5b29-b336-f084d34e6124",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "When communicating business analysis information (BABOK v3, 4.4 Communicate Business Analysis Information; v2 4.5 Communicate Requirements with requirements packages/presentations), the business analyst first determines the appropriate format for the presentation based on the audience, their needs, and the information to be conveyed.",
+  "wrong_reasons": {
+   "b": "The BA communicating requirements does not need special authority confirmation to host a presentation.",
+   "c": "Sign-off is not a prerequisite for presenting requirements; presentations often support review before approval.",
+   "d": "Hiring a scribe is a logistical option, not a required preparation step in BABOK."
+  }
+ },
+ {
+  "question_id": "0886f69d-c80f-5e9c-a088-46b64e2e00b3",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Risk communication involves coordinating and collaborating with stakeholders and other credible sources to share risk information so that everyone has a common understanding of risks and responses. This aligns with the collaborative treatment and communication of risks described in BABOK v3, 10.38 Risk Analysis and Management.",
+  "wrong_reasons": {
+   "a": "Risk identification discovers risks; it is not primarily about coordinating with credible sources to share information.",
+   "b": "Risk management is the overall umbrella process, not the specific communication activity described.",
+   "d": "Risk analysis assesses likelihood and impact, not coordination and collaboration on risk information."
+  }
+ },
+ {
+  "question_id": "e4be443e-f75f-5e09-9a1f-eacdfacc17ca",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 5.3 Prioritize Requirements (challenges of prioritization; also v2 6.1), stakeholders sometimes avoid difficult trade-off choices by making non-negotiable demands, the classic example being insisting that all of their requirements are ranked as high priority, which defeats the purpose of prioritization.",
+  "wrong_reasons": {
+   "b": "Communication is an underlying competency/activity, not a non-negotiable demand.",
+   "c": "Prioritizing by cost-benefit ratio is a legitimate prioritization basis, not an unreasonable demand.",
+   "d": "Cost is a prioritization factor, not itself a non-negotiable stakeholder demand."
+  }
+ },
+ {
+  "question_id": "b324313d-f5d5-5085-8c6d-2b69d813a504",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "Before weighing cost, time, or measurability, proposed ideas must first be assessed against the defined solution scope: only ideas aligned with the scope and business objectives of the change are candidates for the next cycle. This reflects BABOK v3, 5.3 Prioritize Requirements and 5.4 Assess Requirements Changes, where alignment with the overall strategy and scope of the change is the first filter for proposed changes.",
+  "wrong_reasons": {
+   "a": "Measurability of satisfaction helps evaluate value later but is not the first filter for a large idea pool.",
+   "b": "Cost matters for prioritization only after ideas are confirmed to be in scope.",
+   "d": "Time to market is a prioritization factor applied after scope alignment is established."
+  }
+ },
+ {
+  "question_id": "a1cccb77-64b5-54d6-9b9b-5f095ed50ac0",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Alternative generation is the element in which the business analyst identifies as many potential options (solution approaches) as possible to meet the business objectives and fill identified capability gaps (BABOK v2 5.2 Determine Solution Approach; in BABOK v3 this occurs when identifying solution options in 6.2 Define Future State and 7.5 Define Design Options).",
+  "wrong_reasons": {
+   "a": "Ranking of approaches evaluates and orders options after they have been generated.",
+   "b": "Decision analysis is a technique for selecting among options, not generating them.",
+   "c": "Documenting assumptions and constraints records limitations on options rather than creating options."
+  }
+ }
+]

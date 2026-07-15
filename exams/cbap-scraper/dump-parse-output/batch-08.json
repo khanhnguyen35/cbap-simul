@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "68596e2c-be78-507a-b92c-afa36f292501",
+  "context": "",
+  "question": "A business analyst (BA) is preparing for observation. A passive approach has been selected for establishing performance metrics. What should be identic for the next step?",
+  "options": {
+   "a": "Performance measures",
+   "b": "Dependencies",
+   "c": "Participants",
+   "d": "Communication channels"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "7d927154-f6be-519b-b36f-aab50033d25b",
+  "context": "",
+  "question": "A business analyst (BA) in a large financial institution, responsible for the management of requirements, has completed all the activities related to tracing requirements and is now pursuing to maintain them. The BA has identified a large number of requirements which have long term reuse and is now looking for guidance to manage these requirements. Which of the following will indicate how requirements will be managed for reuse?",
+  "options": {
+   "a": "Legal Regulatory Information",
+   "b": "Architectural Repositories",
+   "c": "Information Management Approach",
+   "d": "Business Rules Analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "090545b9-d95e-5bf4-9ebc-6ee06ba43e3f",
+  "context": "",
+  "question": "You are the business analyst for THY Organization and you have gathered the requirements. You have presented the requirements to the stakeholders and they have approved your requirements.\nYou are now working with Francie on recording the dependencies and relationships for each of the requirements.\nWhy would you want to record the dependencies and relationships for the requirements?",
+  "options": {
+   "a": "To help determine the sequence in which requirements are to be addressed.",
+   "b": "To help determine which requirements carry the most risk.",
+   "c": "To help determine the total cost for the solution to be implemented.",
+   "d": "To help determine the total time for the solution to be implemented."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "61506763-4699-548f-a071-475b1886af67",
+  "context": "",
+  "question": "A health insurance provider undertakes enhancements to its mobile application platform and finalizes the following capabilities as part of the scope of the next release: I. Ability to integrate online maps and global positioning system (GPS) technology with the mobile application In real time to display location of service providers in the subscriber's vicinity that participate in the subscriber's plan network. II. Ability for the subscriber to lookup the service providers by specifying either a postal code or a search area radius in miles. III. Ability for the subscriber to initiate the download of fee information for one or more service providers in a single request. Through requirements workshops the business analyst elicits the following detailed business requirements: 1. The company's mobile application platform must support real time integrate with the following third party systems: A GPS System B Postal Code Validation What is the appropriate model type to assist the stakeholders in testing the performance and visual aspects of requirements 3 through 11?",
+  "options": {
+   "a": "Process Model",
+   "b": "Concept Model",
+   "c": "Usability Prototype",
+   "d": "Functional Prototype"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4a547721-e151-5306-a1b5-8bb4e0832566",
+  "context": "",
+  "question": "You are the business analyst for your organization and are planning the business analysis approach. One of the techniques you are considering for this undertaking is to rate the available methodologies against the organizational needs and objectives. Which of the following terms describes the business analysis technique that you are currently considering in this scenario?",
+  "options": {
+   "a": "Structured walkthrough",
+   "b": "Decision analysis",
+   "c": "Cause-and-effect analysis",
+   "d": "Process modeling"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "54be4799-702c-54d5-a4d3-7b93c36159ce",
+  "context": "",
+  "question": "You are the business analyst for your organization and need a method to requirements elicitation from nearly 12,000 stakeholders. You want a method to quickly capture this group's feelings and thoughts to identify what the majority of this group needs and wants in a new solution your organization may create. What requirements elicitation technique can be used in this scenario?",
+  "options": {
+   "a": "Interviews",
+   "b": "Trend analysis",
+   "c": "Focus groups",
+   "d": "Surveys"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4d44f12f-60b1-5abe-b529-9caca4599285",
+  "context": "",
+  "question": "You are the business analyst for your organization and are working with Virginia on the allocation of requirements for a new solution. You have assigned Virginia the task of breaking down the solution scope into smaller components for allocation.\nWhat technique have you asked Virginia to complete in this scenario?",
+  "options": {
+   "a": "Decision analysis",
+   "b": "Business rules analysis",
+   "c": "Process modeling",
+   "d": "Functional decomposition"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "83e34b49-c682-575c-80ea-1f99b5bd77e8",
+  "context": "",
+  "question": "After determining mat the enterprise culture was the driving force behind recent solution change decisions a business analyst (BA) has decided to conduct an enterprise-wide cultural assessment. What information can the 8A expect to learn from the results?",
+  "options": {
+   "a": "Whether there will be an organizational impact as a result of the change",
+   "b": "That changes to the enterprise culture will better drive its actions",
+   "c": "That internal dependencies limit the performance of the entire solution",
+   "d": "Whether the stakeholders view the solution as something beneficial"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f33510e8-e6f2-5b97-be9a-ec267f7e0199",
+  "context": "",
+  "question": "A leading software manufacturing company has appointed a business analyst (BA) to ensure that requirements are managed effectively and efficiently. The BA discovered some missing functionality as well as some implemented functionality which are not supported by requirements. Which of the following tasks did the BA use to discover the issues?",
+  "options": {
+   "a": "Define requirements architecture",
+   "b": "Elicit requirements again",
+   "c": "Evaluate requirement changes",
+   "d": "Trace requirements"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "6662e13c-37d1-5a3e-93f0-c3ea7474debb",
+  "context": "A business unit of a transnational manufacturer wants to implement a robust process for addressing integrity- critical equipment deterioration incidents. Timely and complete resolution of such incidents is vital for the business unit’s continuous safe and profitable operation. Treating each incident involves many employees from different departments extensively collaborating and exchanging information. That information is spread across multiple systems having their access limited to particular user groups. With the current manual process, some incidents get forgotten and remain unresolved for years.\nThe project’s Sponsor is an Equipment Integrity and Reliability Advisor, who moved into this position from another business unit. That business unit implemented a proprietary application to integrate the information and to assist in tracking and managing the incidents. Having a positive experience with the application, the Sponsor is suggesting to customize it and reuse in the new business unit.\nThe business unit’s Enterprise Architect (EA), who is responsible for assessing solution options and presenting them to executive decision makers, has a few concerns with adopting the existing application. The application uses point-to-point interfaces with other data sources whereas the business unit’s target architecture relies on a data warehouse-based integration. Moreover, the two business units use different legacy systems, as well as different front-end implementation technologies. Additionally, the existing application is monolingual, while the business unit needs user interfaces and some data to be presented in two languages. With all of this, it may be easier to build a new application from scratch than to customize the existing one. To understand which option is better, the EA asks a business analyst (BA) to define business requirements.\nFor the above Scenario, please answer 3 questions below:",
+  "question": "The EA wants to understand whether the integration capabilities of the existing solution match the business unit's IT landscape. The requirement definition that the EA needs should read as, \"Each record of an incident shall…\"",
+  "options": {
+   "a": "be associated with the unit of equipment to which it belongs.",
+   "b": "include the associated equipment's information from the asset management system.",
+   "c": "contain the ID of the equipment to which it belongs.",
+   "d": "be related to a unit of equipment using the Equipment ID stored in the asset management system."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5833d795-04a9-58f7-9adc-20ce7b6ba6b1",
+  "context": "A business unit of a transnational manufacturer wants to implement a robust process for addressing integrity- critical equipment deterioration incidents. Timely and complete resolution of such incidents is vital for the business unit’s continuous safe and profitable operation. Treating each incident involves many employees from different departments extensively collaborating and exchanging information. That information is spread across multiple systems having their access limited to particular user groups. With the current manual process, some incidents get forgotten and remain unresolved for years.\nThe project’s Sponsor is an Equipment Integrity and Reliability Advisor, who moved into this position from another business unit. That business unit implemented a proprietary application to integrate the information and to assist in tracking and managing the incidents. Having a positive experience with the application, the Sponsor is suggesting to customize it and reuse in the new business unit.\nThe business unit’s Enterprise Architect (EA), who is responsible for assessing solution options and presenting them to executive decision makers, has a few concerns with adopting the existing application. The application uses point-to-point interfaces with other data sources whereas the business unit’s target architecture relies on a data warehouse-based integration. Moreover, the two business units use different legacy systems, as well as different front-end implementation technologies. Additionally, the existing application is monolingual, while the business unit needs user interfaces and some data to be presented in two languages. With all of this, it may be easier to build a new application from scratch than to customize the existing one. To understand which option is better, the EA asks a business analyst (BA) to define business requirements.\nFor the above Scenario, please answer 3 questions below:",
+  "question": "With the team ready to consider design options, they are reviewing the following requirement: \"Appropriate stakeholders shall be timely and reliably notified on incident-related events.\" What quality criteria does this requirement fail to satisfy?",
+  "options": {
+   "a": "Consistent",
+   "b": "Complete",
+   "c": "Atomic",
+   "d": "Understandable"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "a720f377-2b58-5775-8bba-547c9630dafc",
+  "context": "A business unit of a transnational manufacturer wants to implement a robust process for addressing integrity- critical equipment deterioration incidents. Timely and complete resolution of such incidents is vital for the business unit’s continuous safe and profitable operation. Treating each incident involves many employees from different departments extensively collaborating and exchanging information. That information is spread across multiple systems having their access limited to particular user groups. With the current manual process, some incidents get forgotten and remain unresolved for years.\nThe project’s Sponsor is an Equipment Integrity and Reliability Advisor, who moved into this position from another business unit. That business unit implemented a proprietary application to integrate the information and to assist in tracking and managing the incidents. Having a positive experience with the application, the Sponsor is suggesting to customize it and reuse in the new business unit.\nThe business unit’s Enterprise Architect (EA), who is responsible for assessing solution options and presenting them to executive decision makers, has a few concerns with adopting the existing application. The application uses point-to-point interfaces with other data sources whereas the business unit’s target architecture relies on a data warehouse-based integration. Moreover, the two business units use different legacy systems, as well as different front-end implementation technologies. Additionally, the existing application is monolingual, while the business unit needs user interfaces and some data to be presented in two languages. With all of this, it may be easier to build a new application from scratch than to customize the existing one. To understand which option is better, the EA asks a business analyst (BA) to define business requirements.\nFor the above Scenario, please answer 3 questions below:",
+  "question": "Through the elicitation process, the BA identifies the following requirement: \"Particular incident-related activities require approval by authorized personnel before beginning them, as well as confirmation of acceptance of their completion.\"\nWhat kind of asset should the BA provide to fully specify the approval requirement?",
+  "options": {
+   "a": "A process diagram",
+   "b": "A RACI matrix",
+   "c": "A use case model",
+   "d": "A business rule"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "eeff4cf3-f1c2-5044-9655-e6cc9b92884e",
+  "context": "A popular department store chain wants to make computer upgrades as well as conduct a major remodeling effort to increase revenue to all their 100 stores over the next 2 years. The remodeling will occur in two phases. The two phases are required at each store and can be completed in any order, but each phase must be fully completed before the next phase can begin. Phase 1 will take approximately 32 weeks and will not require a store to be temporarily closed. Phase 2 will take approximately 20 weeks and will require a store to be temporarily closed. In order to keep inventory level and total revenue for the department store chain at an operational level, 75% of the stores must remain open to the public at all times. Against the board of director's advice, the Chief\nExecutive Officer (CEO) made a decision to start and complete the top 25 revenue-producing stores in the first year to get those stores remodeled and fully operational.\nA business analyst (BA) has been brought in to help with planning the project and gathering requirements.\nFor the above Scenario, please answer 3 questions below:",
+  "question": "Based on the CEO's executive decision, which risk tolerance attitude is the CEO exhibiting?",
+  "options": {
+   "a": "Seeking",
+   "b": "Avoidance",
+   "c": "Mitigation",
+   "d": "Neutrality"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "9b7df22a-1b8f-5032-a585-cb41912d1f12",
+  "context": "A popular department store chain wants to make computer upgrades as well as conduct a major remodeling effort to increase revenue to all their 100 stores over the next 2 years. The remodeling will occur in two phases. The two phases are required at each store and can be completed in any order, but each phase must be fully completed before the next phase can begin. Phase 1 will take approximately 32 weeks and will not require a store to be temporarily closed. Phase 2 will take approximately 20 weeks and will require a store to be temporarily closed. In order to keep inventory level and total revenue for the department store chain at an operational level, 75% of the stores must remain open to the public at all times. Against the board of director's advice, the Chief\nExecutive Officer (CEO) made a decision to start and complete the top 25 revenue-producing stores in the first year to get those stores remodeled and fully operational.\nA business analyst (BA) has been brought in to help with planning the project and gathering requirements.\nFor the above Scenario, please answer 3 questions below:",
+  "question": "What tool will help the BA understand the changes needed to keep the majority of the stores open?",
+  "options": {
+   "a": "Capability Model",
+   "b": "Business capability analysis",
+   "c": "Transition State Diagram",
+   "d": "Stakeholder Matrix"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "08da490d-cd42-55ee-be89-396de0ffeb54",
+  "context": "A popular department store chain wants to make computer upgrades as well as conduct a major remodeling effort to increase revenue to all their 100 stores over the next 2 years. The remodeling will occur in two phases. The two phases are required at each store and can be completed in any order, but each phase must be fully completed before the next phase can begin. Phase 1 will take approximately 32 weeks and will not require a store to be temporarily closed. Phase 2 will take approximately 20 weeks and will require a store to be temporarily closed. In order to keep inventory level and total revenue for the department store chain at an operational level, 75% of the stores must remain open to the public at all times. Against the board of director's advice, the Chief\nExecutive Officer (CEO) made a decision to start and complete the top 25 revenue-producing stores in the first year to get those stores remodeled and fully operational.\nA business analyst (BA) has been brought in to help with planning the project and gathering requirements.\nFor the above Scenario, please answer 3 questions below:",
+  "question": "What activity should the BA do to determine which stores will be the first to start the renovations?",
+  "options": {
+   "a": "Perform document analysis for stores annual records",
+   "b": "Survey store managers for number of customers per day",
+   "c": "Conduct a focus group with store managers to determine which should be first",
+   "d": "Brainstorm with store managers on the current state of each store"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "fac77f71-e1bc-5327-8b0a-2c9730c2bfa1",
+  "context": "229. A health insurance provider undertakes enhancements to its mobile application platform and finalizes the following capabilities as part of the scope of the next release:\nI. Ability to integrate online maps and global positioning system (GPS) technology with the mobile application in real time to display location of service providers in the subscriber's vicinity that participate in the subscriber's plan network.\nII. Ability for the subscriber to lookup the service providers by specifying either a postal code or a search area radius in miles.\nIII. Ability for the subscriber to initiate the download of fee information for one or more service providers in a single request.\nThrough requirements workshops the business analyst elicits the following detailed business requirements:\n1. The company's mobile application platform must support real time integration with the following third party systems:\nA) GPS System\nB) Postal Code Validation\n2. The service providers available for selection must participate in the subscriber's medical plan network as of the current system date.\n3. The map display shall highlight the boundary of the search area with a dotted yellow line.\n4. The extent and shape of the search area shall be determined based on one of the following user choices:\nA) Postal code – Subscriber location acquired from GPS shall be used to determine and populate the related postal code as the default postal code with options for the user to change the postal code.\nB) Radius for the search area around the subscriber's location, that will have default value of 5 miles. The radius can be changed by the subscriber with a maximum range of 50 miles.\n5. Subscriber shall be able to select one of the options above and supply corresponding input.\n6. System shall validate the user input and display appropriate error messages if invalid.\n7. Based on the inputs and the plan of the subscriber, the system shall retrieve information for the participating service providers that are located within the designated search area.\n8. System shall display a map including visual markers to indicate locations of the service providers in the top half of the device screen and a list of the same service providers in the bottom half of the device screen.\n9. The list of service providers shall include the Name, Phone Number and Street Address.\n10. If the subscriber specified the radius or retained the default postal code for the search area, the list\nshall additionally include the approximate driving distance in miles from the subscriber's last registered location and the list shall be sorted in the ascending order of the driving distance.\n11. The subscriber shall be able to select a service provider either from the list or from the map and download a document that contains the name, contact telephone, email address, fax number and the fee schedule for the covered services applicable to the subscriber's plan.\nFor the above Scenario, please answer 4 questions below:",
+  "question": "What is the appropriate diagram type to describe the association between the subscriber, the medical plan and the participating service providers?",
+  "options": {
+   "a": "Data Model",
+   "b": "Data Dictionary",
+   "c": "Use Case Diagram",
+   "d": "Data Flow"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e06c8505-f630-5681-98a0-80116259698a",
+  "context": "229. A health insurance provider undertakes enhancements to its mobile application platform and finalizes the following capabilities as part of the scope of the next release:\nI. Ability to integrate online maps and global positioning system (GPS) technology with the mobile application in real time to display location of service providers in the subscriber's vicinity that participate in the subscriber's plan network.\nII. Ability for the subscriber to lookup the service providers by specifying either a postal code or a search area radius in miles.\nIII. Ability for the subscriber to initiate the download of fee information for one or more service providers in a single request.\nThrough requirements workshops the business analyst elicits the following detailed business requirements:\n1. The company's mobile application platform must support real time integration with the following third party systems:\nA) GPS System\nB) Postal Code Validation\n2. The service providers available for selection must participate in the subscriber's medical plan network as of the current system date.\n3. The map display shall highlight the boundary of the search area with a dotted yellow line.\n4. The extent and shape of the search area shall be determined based on one of the following user choices:\nA) Postal code – Subscriber location acquired from GPS shall be used to determine and populate the related postal code as the default postal code with options for the user to change the postal code.\nB) Radius for the search area around the subscriber's location, that will have default value of 5 miles. The radius can be changed by the subscriber with a maximum range of 50 miles.\n5. Subscriber shall be able to select one of the options above and supply corresponding input.\n6. System shall validate the user input and display appropriate error messages if invalid.\n7. Based on the inputs and the plan of the subscriber, the system shall retrieve information for the participating service providers that are located within the designated search area.\n8. System shall display a map including visual markers to indicate locations of the service providers in the top half of the device screen and a list of the same service providers in the bottom half of the device screen.\n9. The list of service providers shall include the Name, Phone Number and Street Address.\n10. If the subscriber specified the radius or retained the default postal code for the search area, the list\nshall additionally include the approximate driving distance in miles from the subscriber's last registered location and the list shall be sorted in the ascending order of the driving distance.\n11. The subscriber shall be able to select a service provider either from the list or from the map and download a document that contains the name, contact telephone, email address, fax number and the fee schedule for the covered services applicable to the subscriber's plan.\nFor the above Scenario, please answer 4 questions below:",
+  "question": "Which of the following relationship types correctly identifies the nature of the relationship between the 3 business capabilities and the 11 requirements?",
+  "options": {
+   "a": "Derives",
+   "b": "Depends",
+   "c": "Validates",
+   "d": "Verifies"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "06e9400e-aed1-5de5-b719-99b74ea36dcb",
+  "context": "229. A health insurance provider undertakes enhancements to its mobile application platform and finalizes the following capabilities as part of the scope of the next release:\nI. Ability to integrate online maps and global positioning system (GPS) technology with the mobile application in real time to display location of service providers in the subscriber's vicinity that participate in the subscriber's plan network.\nII. Ability for the subscriber to lookup the service providers by specifying either a postal code or a search area radius in miles.\nIII. Ability for the subscriber to initiate the download of fee information for one or more service providers in a single request.\nThrough requirements workshops the business analyst elicits the following detailed business requirements:\n1. The company's mobile application platform must support real time integration with the following third party systems:\nA) GPS System\nB) Postal Code Validation\n2. The service providers available for selection must participate in the subscriber's medical plan network as of the current system date.\n3. The map display shall highlight the boundary of the search area with a dotted yellow line.\n4. The extent and shape of the search area shall be determined based on one of the following user choices:\nA) Postal code – Subscriber location acquired from GPS shall be used to determine and populate the related postal code as the default postal code with options for the user to change the postal code.\nB) Radius for the search area around the subscriber's location, that will have default value of 5 miles. The radius can be changed by the subscriber with a maximum range of 50 miles.\n5. Subscriber shall be able to select one of the options above and supply corresponding input.\n6. System shall validate the user input and display appropriate error messages if invalid.\n7. Based on the inputs and the plan of the subscriber, the system shall retrieve information for the participating service providers that are located within the designated search area.\n8. System shall display a map including visual markers to indicate locations of the service providers in the top half of the device screen and a list of the same service providers in the bottom half of the device screen.\n9. The list of service providers shall include the Name, Phone Number and Street Address.\n10. If the subscriber specified the radius or retained the default postal code for the search area, the list\nshall additionally include the approximate driving distance in miles from the subscriber's last registered location and the list shall be sorted in the ascending order of the driving distance.\n11. The subscriber shall be able to select a service provider either from the list or from the map and download a document that contains the name, contact telephone, email address, fax number and the fee schedule for the covered services applicable to the subscriber's plan.\nFor the above Scenario, please answer 4 questions below:",
+  "question": "Which of the following characteristics is violated by requirement 5?",
+  "options": {
+   "a": "Feasible",
+   "b": "Concise",
+   "c": "Consistent",
+   "d": "Atomic"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5d9d9289-c773-5607-af6c-ccb7a009e2c7",
+  "context": "229. A health insurance provider undertakes enhancements to its mobile application platform and finalizes the following capabilities as part of the scope of the next release:\nI. Ability to integrate online maps and global positioning system (GPS) technology with the mobile application in real time to display location of service providers in the subscriber's vicinity that participate in the subscriber's plan network.\nII. Ability for the subscriber to lookup the service providers by specifying either a postal code or a search area radius in miles.\nIII. Ability for the subscriber to initiate the download of fee information for one or more service providers in a single request.\nThrough requirements workshops the business analyst elicits the following detailed business requirements:\n1. The company's mobile application platform must support real time integration with the following third party systems:\nA) GPS System\nB) Postal Code Validation\n2. The service providers available for selection must participate in the subscriber's medical plan network as of the current system date.\n3. The map display shall highlight the boundary of the search area with a dotted yellow line.\n4. The extent and shape of the search area shall be determined based on one of the following user choices:\nA) Postal code – Subscriber location acquired from GPS shall be used to determine and populate the related postal code as the default postal code with options for the user to change the postal code.\nB) Radius for the search area around the subscriber's location, that will have default value of 5 miles. The radius can be changed by the subscriber with a maximum range of 50 miles.\n5. Subscriber shall be able to select one of the options above and supply corresponding input.\n6. System shall validate the user input and display appropriate error messages if invalid.\n7. Based on the inputs and the plan of the subscriber, the system shall retrieve information for the participating service providers that are located within the designated search area.\n8. System shall display a map including visual markers to indicate locations of the service providers in the top half of the device screen and a list of the same service providers in the bottom half of the device screen.\n9. The list of service providers shall include the Name, Phone Number and Street Address.\n10. If the subscriber specified the radius or retained the default postal code for the search area, the list\nshall additionally include the approximate driving distance in miles from the subscriber's last registered location and the list shall be sorted in the ascending order of the driving distance.\n11. The subscriber shall be able to select a service provider either from the list or from the map and download a document that contains the name, contact telephone, email address, fax number and the fee schedule for the covered services applicable to the subscriber's plan.\nFor the above Scenario, please answer 4 questions below:",
+  "question": "Which primary subscriber business need is addressed with the enhancements?",
+  "options": {
+   "a": "Inability of a service provider to locate other participating service providers and their fee information",
+   "b": "Inability of a plan subscriber to get directions to nearby participating service providers",
+   "c": "Inability of a plan subscriber to locate and access fee information for nearby participating service providers",
+   "d": "Inability of a service provider to be alerted of the location of new plan subscribers in their vicinity"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "04e88358-209a-5856-b81e-ba12ec0ff1c3",
+  "context": "A non-profit utility company has 900 employees, a majority of whom are hourly employees and must track their time using a paper based process. A few years ago, the Director of Human Resources purchased a software system to eliminate the current paper-based time reporting process. No requirements specific to the utility company were defined prior to the purchase. A team was formed to implement the software. During implementation process, the team discovered the software lacked functionality and was not robust enough to support the general ledger requirements. The company stopped the effort and incurred a 1500.000 USD loss on the cost of the software.\nThis year, the Director of Finance requested that a team investigate the current paper-based time reporting process and recommend solutions. The Director of Finance feels that the Director of Human Resources must be involved as a critical stakeholder. The Director of Human Resources is still bitter about the last effort because the process stopped.\nFor the above Scenario, please answer 3 questions below:",
+  "question": "During a design review meeting to discuss the future state, all stakeholders are in agreement except the Director of Human Resources. Who makes the final decision?",
+  "options": {
+   "a": "Those identified in the governance approach",
+   "b": "The BA",
+   "c": "The sponsor",
+   "d": "All stakeholders must be in complete agreement"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e71d4588-0f6e-5438-a451-86f8283631bf",
+  "context": "A non-profit utility company has 900 employees, a majority of whom are hourly employees and must track their time using a paper based process. A few years ago, the Director of Human Resources purchased a software system to eliminate the current paper-based time reporting process. No requirements specific to the utility company were defined prior to the purchase. A team was formed to implement the software. During implementation process, the team discovered the software lacked functionality and was not robust enough to support the general ledger requirements. The company stopped the effort and incurred a 1500.000 USD loss on the cost of the software.\nThis year, the Director of Finance requested that a team investigate the current paper-based time reporting process and recommend solutions. The Director of Finance feels that the Director of Human Resources must be involved as a critical stakeholder. The Director of Human Resources is still bitter about the last effort because the process stopped.\nFor the above Scenario, please answer 3 questions below:",
+  "question": "During a brainstorming session on improvement opportunities, the Director of Human Resources repeatedly interrupts the group and states why the proposed ideas will not work.\nWhich approach should the business analyst (BA) take to refocus the group?",
+  "options": {
+   "a": "Continue the activity with the group and provide a report",
+   "b": "Reschedule the session without the Director of Human Resources",
+   "c": "Pause the activity and reiterate the rules to the entire group",
+   "d": "Ask the Director of Human Resources to observe instead of participate"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "1a0a3fa2-69ea-5ca5-a982-28bf4c15ff80",
+  "context": "A non-profit utility company has 900 employees, a majority of whom are hourly employees and must track their time using a paper based process. A few years ago, the Director of Human Resources purchased a software system to eliminate the current paper-based time reporting process. No requirements specific to the utility company were defined prior to the purchase. A team was formed to implement the software. During implementation process, the team discovered the software lacked functionality and was not robust enough to support the general ledger requirements. The company stopped the effort and incurred a 1500.000 USD loss on the cost of the software.\nThis year, the Director of Finance requested that a team investigate the current paper-based time reporting process and recommend solutions. The Director of Finance feels that the Director of Human Resources must be involved as a critical stakeholder. The Director of Human Resources is still bitter about the last effort because the process stopped.\nFor the above Scenario, please answer 3 questions below:",
+  "question": "Which of the following is included in performing a stakeholder analysis?",
+  "options": {
+   "a": "Compare the expertise of the Director of Human Resources to other stakeholders",
+   "b": "Recommend excluding the Director of Human Resources as a stakeholder",
+   "c": "Develop a risk plan to anticipate negative behavior from the Director of Human Resources",
+   "d": "Implement all of the Director of Human Resources suggestions to relieve tension"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "71494bae-f5ee-5559-837c-75ac8737d6b8",
+  "context": "141. An organization Is trying to streamline its current processes to improve performance and reduce costs. A business analyst (BA) conducted a process improvement workshop and identified the following issues as the top three items to be addressed:\n1: There are multiple teams to define systems, functionality, and content in many instances, multiple teams are defining the same functionalities while other functionalities are not being defined at all leading to unclear understanding of business requirements\n2: Product specification forms are published each year. A comparison tool is used to evaluate specification differences between yearly releases, but does not adequately identify changes between versions and needs to be improved.\n3: Training consists of a new team member shadowing a seasoned team member. There are no written training materials or formal training sources therefore training is inconsistent and not meeting the needs of the organization.\nFor the above Scenario, please answer 4 questions below:",
+  "question": "Which stakeholders would the BA interview to determine the changes needed to the comparison tool?",
+  "options": {
+   "a": "Regulator and Operational Support Manager",
+   "b": "Implementation Subject Matter Expert and Tester",
+   "c": "Domain Subject Matter Expert and End User",
+   "d": "Project Manager and Project Sponsor"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "9a225ad8-ef5b-5565-9f59-b0abe6dbd2fc",
+  "context": "141. An organization Is trying to streamline its current processes to improve performance and reduce costs. A business analyst (BA) conducted a process improvement workshop and identified the following issues as the top three items to be addressed:\n1: There are multiple teams to define systems, functionality, and content in many instances, multiple teams are defining the same functionalities while other functionalities are not being defined at all leading to unclear understanding of business requirements\n2: Product specification forms are published each year. A comparison tool is used to evaluate specification differences between yearly releases, but does not adequately identify changes between versions and needs to be improved.\n3: Training consists of a new team member shadowing a seasoned team member. There are no written training materials or formal training sources therefore training is inconsistent and not meeting the needs of the organization.\nFor the above Scenario, please answer 4 questions below:",
+  "question": "What approach would help the BA to understand the functionality definition issues?",
+  "options": {
+   "a": "Business Analysis Communication Plan",
+   "b": "Business Analysis Performance Assessment",
+   "c": "Risk Register",
+   "d": "Requirements Traceability Repository"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e8af711c-32a0-558c-a5c1-0cc4bd779858",
+  "context": "141. An organization Is trying to streamline its current processes to improve performance and reduce costs. A business analyst (BA) conducted a process improvement workshop and identified the following issues as the top three items to be addressed:\n1: There are multiple teams to define systems, functionality, and content in many instances, multiple teams are defining the same functionalities while other functionalities are not being defined at all leading to unclear understanding of business requirements\n2: Product specification forms are published each year. A comparison tool is used to evaluate specification differences between yearly releases, but does not adequately identify changes between versions and needs to be improved.\n3: Training consists of a new team member shadowing a seasoned team member. There are no written training materials or formal training sources therefore training is inconsistent and not meeting the needs of the organization.\nFor the above Scenario, please answer 4 questions below:",
+  "question": "What analysis approach must the BA use to determine changes required to address the training needs?",
+  "options": {
+   "a": "Market",
+   "b": "Decision",
+   "c": "Root cause",
+   "d": "Future state"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "71e2a6df-76b1-5959-84d6-4345f959e6b6",
+  "context": "141. An organization Is trying to streamline its current processes to improve performance and reduce costs. A business analyst (BA) conducted a process improvement workshop and identified the following issues as the top three items to be addressed:\n1: There are multiple teams to define systems, functionality, and content in many instances, multiple teams are defining the same functionalities while other functionalities are not being defined at all leading to unclear understanding of business requirements\n2: Product specification forms are published each year. A comparison tool is used to evaluate specification differences between yearly releases, but does not adequately identify changes between versions and needs to be improved.\n3: Training consists of a new team member shadowing a seasoned team member. There are no written training materials or formal training sources therefore training is inconsistent and not meeting the needs of the organization.\nFor the above Scenario, please answer 4 questions below:",
+  "question": "What type of analysis would help the BA gain approval to proceed with creating this type of training program for this team?",
+  "options": {
+   "a": "Process",
+   "b": "Cost Benefit",
+   "c": "Business Capabilities",
+   "d": "Decision"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "2a6679c7-d11b-579d-be70-03b657f9c415",
+  "context": "'095. A very large insurer of General Liability and Property Damage insurance has an upward trend of increased claims over the past 5 years.\nThe Risk Control Area for that company has just completed a 12 month Pilot of a new improved Risk Control Site.\nThe purpose of the site is to help their customers manage their exposures and ideally prevent them from having claims There were 100 customers that were part of the Pilot that represented 25 different industries. The business goals were to increase use of the site and provide tools to help customer awareness of their exposures, so that they may reduce existing exposures and ultimately reduce claims. The sites Features were as follows:\n* Improvements to the search engine to all customers to search for articles, tools and services on the site * A checklist function that allow customer to create their own unique Checklists or utilize a sample provided by ABC company to use daily, weekly etc for an area of their facility.\n* A promotion feature - where Risk preventing Articles, and tools on the site are marketed toward a customer.\n* A profile section allowing for Customer Name, Address and contact Phone number.\nAlter the 12 month pilot the business sponsor received an assessment of what was working and what was not. The Assessment of the pilot revealed overall site activity had significantly increased, however only 5% of the time the promotions were viewed. And the most shocking was that total claims increased by nearly 20% for these 100 customers during the pilot period. The business sponsor was perplexed as he had an expectation of reduced claims and at least for 30% viewing of promotions since the project team had spent a lot of careful time and effort on this feature. A BA was assigned to do further analysis regarding the low use of the promotions and why claims were not being reduced.\nRegarding the use of promotions the BA looked into other similar companies to see what they did differently to get their customer to look at their promotions. The BA found that similar companies had promotions that targeted the industry the customer was in so it was more relevant to them and they were more interested to view the promotion. In addition the BA sent out a survey to all 100 pilot customers asking probing questions about what they thought of the site and if they felt it had decreased their exposure to risk sufficiently. The Survey responses came back with raving positive comments and providing examples of how the site had been helping in the reduction of claims from the customer's perspective. In addition the survey also revealed insight that the customers found the promotion often irrelevant to their industry.\nThe BA asked for a dump of all documentation of the 1000 claims that were filed over the 12 month pilot period. The BA found the nearly 90% of the claim filed were all in one region of the country and were all for property damage related to several severe winter storms in the region and the claims were nearly all unavoidable by the customers. The BA brought all this analysis back to the business sponsor and made the recommendation to the business sponsor to require the customer to select 1 of 25 industries in their profile. This would in turn allow for the ability to show industry specific promotions and promote search results relative to a customer's industry to be sorted at the top giving the customer a more personalized experience.\nFor the above Scenario, please answer 4 questions below:",
+  "question": "What type of recommendation has the BA made to the business sponsor?",
+  "options": {
+   "a": "Perform organizational change",
+   "b": "Identify additional capabilities",
+   "c": "Reduce complexity of interfaces",
+   "d": "Retire the solution"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "8a1c0a3a-cddd-59da-a920-07bb2d23e026",
+  "context": "'095. A very large insurer of General Liability and Property Damage insurance has an upward trend of increased claims over the past 5 years.\nThe Risk Control Area for that company has just completed a 12 month Pilot of a new improved Risk Control Site.\nThe purpose of the site is to help their customers manage their exposures and ideally prevent them from having claims There were 100 customers that were part of the Pilot that represented 25 different industries. The business goals were to increase use of the site and provide tools to help customer awareness of their exposures, so that they may reduce existing exposures and ultimately reduce claims. The sites Features were as follows:\n* Improvements to the search engine to all customers to search for articles, tools and services on the site * A checklist function that allow customer to create their own unique Checklists or utilize a sample provided by ABC company to use daily, weekly etc for an area of their facility.\n* A promotion feature - where Risk preventing Articles, and tools on the site are marketed toward a customer.\n* A profile section allowing for Customer Name, Address and contact Phone number.\nAlter the 12 month pilot the business sponsor received an assessment of what was working and what was not. The Assessment of the pilot revealed overall site activity had significantly increased, however only 5% of the time the promotions were viewed. And the most shocking was that total claims increased by nearly 20% for these 100 customers during the pilot period. The business sponsor was perplexed as he had an expectation of reduced claims and at least for 30% viewing of promotions since the project team had spent a lot of careful time and effort on this feature. A BA was assigned to do further analysis regarding the low use of the promotions and why claims were not being reduced.\nRegarding the use of promotions the BA looked into other similar companies to see what they did differently to get their customer to look at their promotions. The BA found that similar companies had promotions that targeted the industry the customer was in so it was more relevant to them and they were more interested to view the promotion. In addition the BA sent out a survey to all 100 pilot customers asking probing questions about what they thought of the site and if they felt it had decreased their exposure to risk sufficiently. The Survey responses came back with raving positive comments and providing examples of how the site had been helping in the reduction of claims from the customer's perspective. In addition the survey also revealed insight that the customers found the promotion often irrelevant to their industry.\nThe BA asked for a dump of all documentation of the 1000 claims that were filed over the 12 month pilot period. The BA found the nearly 90% of the claim filed were all in one region of the country and were all for property damage related to several severe winter storms in the region and the claims were nearly all unavoidable by the customers. The BA brought all this analysis back to the business sponsor and made the recommendation to the business sponsor to require the customer to select 1 of 25 industries in their profile. This would in turn allow for the ability to show industry specific promotions and promote search results relative to a customer's industry to be sorted at the top giving the customer a more personalized experience.\nFor the above Scenario, please answer 4 questions below:",
+  "question": "What technique was the BA using to understand why the promotions were not being viewed?",
+  "options": {
+   "a": "Use cases and scenarios",
+   "b": "Benchmarking and market analysis",
+   "c": "Observation",
+   "d": "Data mining"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "1755f832-3e29-5ca6-94f2-b9de9774f5a2",
+  "context": "'095. A very large insurer of General Liability and Property Damage insurance has an upward trend of increased claims over the past 5 years.\nThe Risk Control Area for that company has just completed a 12 month Pilot of a new improved Risk Control Site.\nThe purpose of the site is to help their customers manage their exposures and ideally prevent them from having claims There were 100 customers that were part of the Pilot that represented 25 different industries. The business goals were to increase use of the site and provide tools to help customer awareness of their exposures, so that they may reduce existing exposures and ultimately reduce claims. The sites Features were as follows:\n* Improvements to the search engine to all customers to search for articles, tools and services on the site * A checklist function that allow customer to create their own unique Checklists or utilize a sample provided by ABC company to use daily, weekly etc for an area of their facility.\n* A promotion feature - where Risk preventing Articles, and tools on the site are marketed toward a customer.\n* A profile section allowing for Customer Name, Address and contact Phone number.\nAlter the 12 month pilot the business sponsor received an assessment of what was working and what was not. The Assessment of the pilot revealed overall site activity had significantly increased, however only 5% of the time the promotions were viewed. And the most shocking was that total claims increased by nearly 20% for these 100 customers during the pilot period. The business sponsor was perplexed as he had an expectation of reduced claims and at least for 30% viewing of promotions since the project team had spent a lot of careful time and effort on this feature. A BA was assigned to do further analysis regarding the low use of the promotions and why claims were not being reduced.\nRegarding the use of promotions the BA looked into other similar companies to see what they did differently to get their customer to look at their promotions. The BA found that similar companies had promotions that targeted the industry the customer was in so it was more relevant to them and they were more interested to view the promotion. In addition the BA sent out a survey to all 100 pilot customers asking probing questions about what they thought of the site and if they felt it had decreased their exposure to risk sufficiently. The Survey responses came back with raving positive comments and providing examples of how the site had been helping in the reduction of claims from the customer's perspective. In addition the survey also revealed insight that the customers found the promotion often irrelevant to their industry.\nThe BA asked for a dump of all documentation of the 1000 claims that were filed over the 12 month pilot period. The BA found the nearly 90% of the claim filed were all in one region of the country and were all for property damage related to several severe winter storms in the region and the claims were nearly all unavoidable by the customers. The BA brought all this analysis back to the business sponsor and made the recommendation to the business sponsor to require the customer to select 1 of 25 industries in their profile. This would in turn allow for the ability to show industry specific promotions and promote search results relative to a customer's industry to be sorted at the top giving the customer a more personalized experience.\nFor the above Scenario, please answer 4 questions below:",
+  "question": "What was the business sponsor looking to validate about the use of promotions?",
+  "options": {
+   "a": "Accuracy",
+   "b": "Performance Variance",
+   "c": "Market Trends",
+   "d": "Risks"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "51333a39-a97e-5077-8972-41e995612e55",
+  "context": "'095. A very large insurer of General Liability and Property Damage insurance has an upward trend of increased claims over the past 5 years.\nThe Risk Control Area for that company has just completed a 12 month Pilot of a new improved Risk Control Site.\nThe purpose of the site is to help their customers manage their exposures and ideally prevent them from having claims There were 100 customers that were part of the Pilot that represented 25 different industries. The business goals were to increase use of the site and provide tools to help customer awareness of their exposures, so that they may reduce existing exposures and ultimately reduce claims. The sites Features were as follows:\n* Improvements to the search engine to all customers to search for articles, tools and services on the site * A checklist function that allow customer to create their own unique Checklists or utilize a sample provided by ABC company to use daily, weekly etc for an area of their facility.\n* A promotion feature - where Risk preventing Articles, and tools on the site are marketed toward a customer.\n* A profile section allowing for Customer Name, Address and contact Phone number.\nAlter the 12 month pilot the business sponsor received an assessment of what was working and what was not. The Assessment of the pilot revealed overall site activity had significantly increased, however only 5% of the time the promotions were viewed. And the most shocking was that total claims increased by nearly 20% for these 100 customers during the pilot period. The business sponsor was perplexed as he had an expectation of reduced claims and at least for 30% viewing of promotions since the project team had spent a lot of careful time and effort on this feature. A BA was assigned to do further analysis regarding the low use of the promotions and why claims were not being reduced.\nRegarding the use of promotions the BA looked into other similar companies to see what they did differently to get their customer to look at their promotions. The BA found that similar companies had promotions that targeted the industry the customer was in so it was more relevant to them and they were more interested to view the promotion. In addition the BA sent out a survey to all 100 pilot customers asking probing questions about what they thought of the site and if they felt it had decreased their exposure to risk sufficiently. The Survey responses came back with raving positive comments and providing examples of how the site had been helping in the reduction of claims from the customer's perspective. In addition the survey also revealed insight that the customers found the promotion often irrelevant to their industry.\nThe BA asked for a dump of all documentation of the 1000 claims that were filed over the 12 month pilot period. The BA found the nearly 90% of the claim filed were all in one region of the country and were all for property damage related to several severe winter storms in the region and the claims were nearly all unavoidable by the customers. The BA brought all this analysis back to the business sponsor and made the recommendation to the business sponsor to require the customer to select 1 of 25 industries in their profile. This would in turn allow for the ability to show industry specific promotions and promote search results relative to a customer's industry to be sorted at the top giving the customer a more personalized experience.\nFor the above Scenario, please answer 4 questions below:",
+  "question": "What technique led the BA to the source of the increase in claims?",
+  "options": {
+   "a": "Document analysis",
+   "b": "Data mining",
+   "c": "Survey",
+   "d": "Decision modelling"
+  },
+  "image_paths": []
+ }
+]

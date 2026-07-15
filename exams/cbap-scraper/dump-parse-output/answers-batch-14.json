@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "a13a28a5-2e35-5422-881d-8d5ad8e79e12",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "In defining the business need (BABOK v3, 6.1 Analyze Current State), the element 'business goals and objectives' describes the ends the organization is seeking to achieve. Goals are longer-term qualitative statements of desired outcomes, later refined into measurable (SMART) objectives, so they are what is evaluated when determining the ends the enterprise wants to reach.",
+  "wrong_reasons": {
+   "b": "Alternative identification generates possible means (solution options), not the ends the organization seeks.",
+   "c": "Solution assessment evaluates how well a solution delivers value, not the desired ends of the organization.",
+   "d": "Requirements are usable representations of needs derived after the business need is defined; they are means, not ends."
+  }
+ },
+ {
+  "question_id": "4bcbb852-6d23-5d99-9b77-44b686b792c1",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Communication channels are calculated with the formula N(N-1)/2, a concept referenced in stakeholder analysis and collaboration planning (BABOK v3, 3.2 Plan Stakeholder Engagement, complexity of stakeholder group). With N = 435: 435 x 434 / 2 = 94,395 channels.",
+  "wrong_reasons": {
+   "a": "188,790 is 435 x 434 without dividing by 2, which double-counts each channel.",
+   "b": "189,225 is 435 squared, which is not the channels formula.",
+   "d": "435 is just the number of stakeholders, not the number of communication channels among them."
+  }
+ },
+ {
+  "question_id": "5845c3f2-cd37-5c9e-bcdf-64291ce713cb",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 5.1 Trace Requirements (element: Relationships), the 'Satisfy' relationship links a requirement to the solution component or design artifact that implements it. Since the question asks about traceability between a requirement and the solution artifacts implementing it, 'Satisfy' is correct.",
+  "wrong_reasons": {
+   "b": "'Validate' links a requirement to the test cases or artifacts that verify whether the solution fulfills it.",
+   "c": "'Depends' describes effort or value dependency between two requirements, not implementation by a solution component.",
+   "d": "'Derive' links a requirement to a higher-level requirement it was decomposed from, not to implementing artifacts."
+  }
+ },
+ {
+  "question_id": "8a8ce268-1175-5baf-8b4e-6d0e78ef124f",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 7.5 Define Design Options (element: Allocate Requirements), requirements are allocated to releases to maximize business value, and the value delivered depends on when capabilities become available to stakeholders and the business impact of delivering them at that time. Timing of the release and its impact on the business is therefore the basis for maximizing solution value.",
+  "wrong_reasons": {
+   "a": "Stakeholder priority informs prioritization but by itself does not maximize overall solution value across releases.",
+   "b": "Available resources are a constraint on allocation, not the basis for maximizing value.",
+   "d": "Scope components describe what is included, but allocation decisions aim at value delivered, not merely matching components."
+  }
+ },
+ {
+  "question_id": "3ca4b9cd-c1b8-5b12-aa16-8b1429b9d2ad",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "A change log is a record that tracks the characteristics (date, requester, description, impact) and the current status (e.g., submitted, approved, rejected, deferred) of all changes that have been received. This supports the change control process described in BABOK v3, 5.4 Assess Requirements Changes and 3.1 Plan Business Analysis Governance.",
+  "wrong_reasons": {
+   "a": "It records more than the requests themselves; it tracks their attributes and disposition status over time.",
+   "b": "The change log tracks all submitted changes, not unauthorized changes.",
+   "d": "Not all logged changes are implemented; the log tracks status regardless of whether implementation occurred."
+  }
+ },
+ {
+  "question_id": "1e74dd0e-52d6-5bbb-b5b3-c500b73056eb",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.1 Plan Business Analysis Approach, predictive (plan-driven) approaches favor formality: information is captured in standardized, formal documentation and templates defined up front, with formal approval gates. Adaptive approaches, by contrast, allow lighter, team-discretion documentation.",
+  "wrong_reasons": {
+   "a": "Documentation at the team's discretion characterizes adaptive (change-driven) approaches, not plan-driven ones.",
+   "b": "A project management information system is a PM tool, not how business analysis information is captured in a plan-driven approach.",
+   "c": "Using whatever forms seem appropriate reflects informality, which contradicts the plan-driven emphasis on standardization."
+  }
+ },
+ {
+  "question_id": "11c77d7b-9a41-588d-b348-e0e07ddbbb78",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "An activity diagram is a form of process modelling (BABOK v3, 10.35 Process Modelling), which visually represents the flow of work. Among the future-state/design elements, it addresses the business processes to be performed and managed by showing sequenced activities, decisions, and parallel flows.",
+  "wrong_reasons": {
+   "a": "People operating the solution are addressed by organizational modelling and roles and permissions matrices, not activity diagrams.",
+   "b": "Operational business decisions are modelled with decision modelling (e.g., decision tables/trees).",
+   "d": "Business policies and rules are captured through business rules analysis, not activity diagrams."
+  }
+ },
+ {
+  "question_id": "9d11d54d-5331-5c8b-8bc9-807d37f0bde1",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "When a deployed solution underperforms against expected benefits, the BA performs root cause analysis to understand why (BABOK v3, 10.40 Root Cause Analysis, used in 8.5 Assess Solution Limitations / 8.6 Assess Enterprise Limitations). The fishbone (Ishikawa) diagram is a root cause analysis technique for identifying the underlying causes of the performance gap.",
+  "wrong_reasons": {
+   "a": "A data flow diagram models data movement through a system, not causes of underperformance.",
+   "c": "Business capability analysis identifies capability gaps for strategy, not the reason an implemented solution misses benefits.",
+   "d": "Interface analysis identifies interactions between solutions/users, not root causes of a benefits shortfall."
+  }
+ },
+ {
+  "question_id": "624ed525-6ed9-51a6-8867-85b5179bf227",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 4.2 Conduct Elicitation (element: Capture Elicitation Outcomes), acceptable ways to record elicitation results include written documents, visual or audio recordings, and whiteboards/flip charts retained or transcribed. Ad hoc text messages on a phone are not a recognized or reliable form of documenting elicitation outcomes.",
+  "wrong_reasons": {
+   "b": "Written documents describing outcomes are a standard way to record elicitation results.",
+   "c": "Visual or audio recordings are explicitly acceptable capture methods.",
+   "d": "Whiteboard content is an acceptable interim record of elicitation results."
+  }
+ },
+ {
+  "question_id": "e1b256f3-acfd-55d7-a910-75a94fea37cf",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "A RACI matrix (BABOK v3, 10.43 Roles and Permissions Matrix; also used in 3.2 Plan Stakeholder Engagement) describes stakeholder involvement using Responsible (does the work), Accountable (ultimately answerable, one per task), Consulted (provides input), and Informed (kept up to date). Option A is the only one reflecting these four designations.",
+  "wrong_reasons": {
+   "b": "It describes involvement types per activity, not merely when stakeholders are needed.",
+   "c": "RACI does not stand for Role, Action, Consult, Inform.",
+   "d": "RACI is a responsibility matrix, not a rule for discovering all stakeholders."
+  }
+ },
+ {
+  "question_id": "0b221e2e-a27a-5341-995b-9d2d792a020a",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Despite an approved business need and a trusted BA, consensus fails most commonly because stakeholders interpret the (often ambiguous) requirements differently, leading to divergent views of the solution design. BABOK v3 emphasizes shared understanding in 4.4 Communicate Business Analysis Information and specifying requirements clearly in 7.1/7.2 to prevent differing interpretations.",
+  "wrong_reasons": {
+   "b": "Traceability errors would cause coverage/scope gaps, not persistent disagreement in design meetings.",
+   "c": "Approval authority affects who signs off, not why stakeholders disagree on the design itself.",
+   "d": "Nothing indicates the alternatives are insufficient; the issue is lack of shared understanding of what is required."
+  }
+ },
+ {
+  "question_id": "35d9aebc-a805-54c6-b781-b31610bbf3aa",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "In defining solution scope, the implementation approach element describes how the chosen solution approach will deliver the solution scope — for example through phased releases, purchasing a package, or outsourcing (BABOK v2, 5.4 Define Solution Scope; in BABOK v3 this thinking is carried into 6.4 Define Change Strategy).",
+  "wrong_reasons": {
+   "a": "Major features and functions describe the solution scope definition element, not the implementation approach.",
+   "b": "Business and technical dependencies constraining deployment are the 'dependencies' element, not the implementation approach.",
+   "c": "New capabilities required to meet the need describe the solution scope/capability definition, not how it will be delivered."
+  }
+ },
+ {
+  "question_id": "cf9c7d01-92ba-5e53-a7b7-3e964ea3e6e7",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "A requirements workshop (BABOK v3, 10.51 Workshops) brings carefully selected stakeholders and SMEs together for a short, intensive, facilitated period — typically one to a few days — to define, refine, and document requirements for a solution. It is a highly effective structured elicitation technique.",
+  "wrong_reasons": {
+   "a": "Interviews (even group interviews) are question-and-answer sessions, not intensive multi-day structured working sessions to produce requirements.",
+   "c": "A focus group gathers attitudes and opinions about a product in an interactive discussion, not to define and document solution requirements.",
+   "d": "Prototyping elicits requirements via models of the solution, not through an intensive facilitated stakeholder session."
+  }
+ },
+ {
+  "question_id": "5c983283-f324-527b-bdec-e3b0a2c2bb16",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "In stakeholder analysis, scenarios, use cases, and user stories are the technique in which identified stakeholder roles serve as a useful starting point for identifying actors and roles (BABOK v3, 3.2 Plan Stakeholder Engagement referencing 10.47 Use Cases and Scenarios and 10.48 User Stories). Stakeholder roles map naturally to the actors in these models.",
+  "wrong_reasons": {
+   "a": "Scope modeling shows solution boundaries and can reveal affected stakeholders, but it is not the actors/roles starting point described.",
+   "b": "Requirements workshops elicit requirements collaboratively; they do not inherently define actors and roles.",
+   "d": "Interviews gather information from individuals but do not structurally identify actors and roles."
+  }
+ },
+ {
+  "question_id": "6962a21c-893f-5513-aa3d-3994e16935e0",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "A market survey/market analysis (BABOK v3, 10.4 Benchmarking and Market Analysis; 10.45 Survey or Questionnaire) is used to test customer acceptance of a proposed solution and to measure marketplace demand, informing the business case and strategy decisions.",
+  "wrong_reasons": {
+   "a": "Interviews gather in-depth input from individual stakeholders but cannot measure broad marketplace demand.",
+   "c": "Technology assessment evaluates technical feasibility of options, not customer acceptance or demand.",
+   "d": "Prototyping tests usability and validates requirements with users; it does not measure marketplace demand."
+  }
+ },
+ {
+  "question_id": "cd398777-ea53-5635-a6ec-2e758c5eb207",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "Per the BABOK v3 requirements classification schema (2.3) and Strategy Analysis, business requirements — the goals, objectives, and outcomes explaining why the change (central contract management) is needed — must be identified first. They provide the context and basis from which the future state and stakeholder/solution requirements are subsequently derived.",
+  "wrong_reasons": {
+   "b": "Future state conditions (6.2 Define Future State) are defined based on business requirements/objectives, so they come after.",
+   "c": "Recommending an off-the-shelf product is a design/solution decision that would be premature before requirements exist.",
+   "d": "An enterprise readiness assessment (8.6/6.4 context) assesses ability to adopt a defined change, which does not yet exist."
+  }
+ },
+ {
+  "question_id": "1091433d-fe7a-515b-a228-e19dafcfc5ae",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Benchmarking (BABOK v3, 10.4 Benchmarking and Market Analysis) compares two or more systems, processes, services, products, or organizational practices against each other or against best-in-class peers to determine the best viable choice and identify improvement opportunities.",
+  "wrong_reasons": {
+   "b": "Risk identification finds potential uncertain events, it does not compare alternatives.",
+   "c": "Risk analysis evaluates likelihood and impact of risks, not comparative merit of systems or products.",
+   "d": "Cost-benefit analysis weighs costs against benefits of an option; benchmarking is the comparative technique described."
+  }
+ },
+ {
+  "question_id": "61dad3ad-4d21-5e62-82cc-8629bb2f0371",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "A vision statement articulates the business need, names the key stakeholders it serves, and describes the positive impact the solution will deliver for them — a concise picture of the desired future state. In BABOK v3 terms it summarizes the business need and desired outcomes defined in Strategy Analysis (6.2 Define Future State).",
+  "wrong_reasons": {
+   "a": "The project charter formally authorizes a project and names the project manager; its focus is authorization, not describing the solution's positive impact on stakeholders.",
+   "b": "The project scope statement describes project deliverables and boundaries, not business needs and stakeholder benefits.",
+   "c": "The solution scope defines the capabilities a solution must deliver, not stakeholder identification and impact narrative."
+  }
+ },
+ {
+  "question_id": "5577e3d8-0676-5bd9-9da7-b4aae89c4db8",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Once a project is chartered, the project manager is the stakeholder responsible for assessing the solution scope defined by the business analyst and determining the project scope needed to deliver it (BABOK v3, 2.4 Stakeholders — Project Manager role, responsible for delivering the project scope that implements the solution scope).",
+  "wrong_reasons": {
+   "a": "The sponsor authorizes and funds the effort; they do not translate solution scope into project scope.",
+   "c": "The BA defines and maintains the solution scope but does not determine the project scope.",
+   "d": "Key stakeholders provide input and approvals; converting solution scope to project scope is the PM's responsibility."
+  }
+ },
+ {
+  "question_id": "ae865e75-386f-536f-bb80-8eb595e34fe4",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "An independent task is one that does not rely on any other activity to start and that no other activity relies on to complete. In BABOK v3 planning (3.1 Plan Business Analysis Approach) and estimation, understanding task dependencies distinguishes independent tasks from predecessor/dependent tasks when sequencing business analysis work.",
+  "wrong_reasons": {
+   "a": "An 'analysis task' describes the nature of the work, not its dependency relationships.",
+   "c": "A predecessor task is one that other tasks depend on to begin.",
+   "d": "A dependent task relies on another task finishing before it can start."
+  }
+ },
+ {
+  "question_id": "5086c169-ed6d-5624-970f-fb2c32a2ebf2",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In SWOT analysis (BABOK v3, 10.46 SWOT Analysis) the letters stand for Strengths, Weaknesses, Opportunities, and Threats. The T evaluates external threats — outside factors that could negatively affect the enterprise or initiative.",
+  "wrong_reasons": {
+   "a": "Trial is not part of the SWOT framework.",
+   "c": "Test is not part of the SWOT framework.",
+   "d": "Time is not part of the SWOT framework."
+  }
+ },
+ {
+  "question_id": "54acfe06-df3b-5b64-abe8-0aa84938aac6",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "The problem stated is that disjointed technology impedes gathering the data needed for decision making — an information access problem. Per BABOK v3, 6.1 Analyze Current State, a recognized category of improvement opportunity is improving access to information so decision makers get the data they need. Enhancing access to relevant information directly addresses the stated need.",
+  "wrong_reasons": {
+   "a": "A business model canvas is a technique to describe the business, not the improvement opportunity itself.",
+   "b": "Deploying a new system is a solution choice made prematurely before the opportunity/need is framed.",
+   "d": "A per-company repository is a specific design option, and separate repositories would not consolidate decision data."
+  }
+ },
+ {
+  "question_id": "554032e1-ca27-5044-9544-19f1360a034b",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 4.3 Confirm Elicitation Results, results from multiple elicitation activities are compared, and variations or inconsistencies are resolved through follow-up elicitation performed collaboratively with the stakeholders involved. Setting up additional activities to collaboratively resolve the differences is the prescribed approach.",
+  "wrong_reasons": {
+   "a": "Delegating resolution to a few key stakeholders excludes the sources of the conflicting information and risks bias.",
+   "c": "Removing conflicting requirements discards potentially valid needs instead of resolving the variance.",
+   "d": "No elicitation technique's results are inherently more reliable; weighting observation arbitrarily is not supported by BABOK."
+  }
+ },
+ {
+  "question_id": "86dbaea3-5a96-5ad3-badb-193d27c41d75",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "The feature suggestions were compiled second-hand from customer support calls, so they are unconfirmed elicitation results. Per BABOK v3, 4.3 Confirm Elicitation Results, the BA must first verify this information for accuracy and consistency with other sources before analyzing it. Only after confirmation can value assessment and prioritization proceed.",
+  "wrong_reasons": {
+   "a": "Comparing implementation costs presumes the features are valid and understood, which is not yet established.",
+   "b": "Determining value comes after the requests themselves are confirmed as accurate.",
+   "c": "Prioritizing the backlog (5.3 Prioritize Requirements) requires confirmed and understood items first."
+  }
+ },
+ {
+  "question_id": "04294ee1-f1da-55fe-aaa5-63556a39e0cc",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.5 Identify Business Analysis Performance Improvements, performance measures such as planned vs. actual completion dates and time spent on planned vs. unplanned work are analyzed to identify root causes of performance variances — revealing missing activities that should have been done or wasteful activities that add no value. This converts the anecdotal complaints into evidence-based process improvement.",
+  "wrong_reasons": {
+   "b": "Workload balancing is a resource management aim, not the purpose of analyzing deliverable and activity metrics here.",
+   "c": "Compensation design is unrelated to business analysis performance assessment in BABOK.",
+   "d": "Measurement is for identifying process improvements, not for motivating individual BAs."
+  }
+ },
+ {
+  "question_id": "0a7f11e0-0e7c-5782-a782-a1bce2656148",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "This question references a vendor comparison table (case study of shortlisted vendors for a business intelligence solution). Summing each vendor's implementation phases, the longest implementation is 210 days (30+60+120) and the shortest is 150 days, giving a difference of 60 days. This supports vendor assessment and decision analysis (BABOK v3, 10.49 Vendor Assessment, 10.16 Decision Analysis) when comparing design options.",
+  "wrong_reasons": {
+   "a": "19 does not match the difference of the summed phase durations.",
+   "b": "51 results from an incorrect shortest total (159 instead of 150).",
+   "c": "39 does not correspond to any correct combination of the vendors' totals."
+  }
+ },
+ {
+  "question_id": "91cab7cc-d397-58bc-9aab-1cc4f67673d3",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "BABOK v3, 8.6 Assess Enterprise Limitations includes the elements enterprise culture assessment, stakeholder impact analysis, organizational structure changes, and operational assessment. Alongside the culture assessment, the BA would perform stakeholder impact analysis and operational assessment to understand how the merger affects people, processes, and the organization's ability to operate.",
+  "wrong_reasons": {
+   "a": "Scope and requirements prioritization belongs to Requirements Life Cycle Management, not enterprise limitation assessment.",
+   "b": "Financial and risk analysis support the business case and recommendations, not the enterprise limitations elements.",
+   "c": "Organizational/functional modelling are techniques for describing structure, not the companion elements of this assessment."
+  }
+ },
+ {
+  "question_id": "d76470a1-7ca0-5f77-826a-d091fd53550d",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Decision analysis (BABOK v3, 10.16 Decision Analysis) supports evaluating solution scope and business case options by examining the value of alternatives under uncertainty; in this context it encompasses cost-benefit analysis, which compares implementation costs against benefits gained, and financial analysis using financial models to estimate value (see also 10.20 Financial Analysis). Option D is the only description matching this valuation-of-alternatives purpose.",
+  "wrong_reasons": {
+   "a": "Supporting benefit management, measurement, and reporting describes metrics/KPIs, not decision analysis.",
+   "b": "Assessing potential risks and their cost/benefit impact describes risk analysis and management.",
+   "c": "Forecasting the size of the required investment describes estimation, not decision analysis."
+  }
+ },
+ {
+  "question_id": "f8eceaf6-0a19-5afa-86d2-7844ce8892f9",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Assigning requirements across solution components (the three sub-projects and the main implementation project) and releases so that overall objectives are met is the Allocate Requirements activity, an element of BABOK v3, 7.5 Define Design Options (Requirements Allocation). Allocation maximizes business value by deciding which components/releases implement which requirements.",
+  "wrong_reasons": {
+   "a": "Describing design options documents the options themselves, not the assignment of requirements to components.",
+   "c": "Identifying improvement opportunities is part of analyzing options for added value, not distributing requirements.",
+   "d": "Defining solution approaches determines the general delivery method (build/buy/etc.), not requirement-to-component assignment."
+  }
+ },
+ {
+  "question_id": "d67d9ff9-ca73-532b-85d7-60f3240ab44a",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "A scoring system rates each candidate solution against a weighted set of criteria and totals the scores, providing a fast, objective, and fair ranking of alternatives to identify the top-rated solutions. This is an application of decision analysis (BABOK v3, 10.16 Decision Analysis) for comparing multiple solution options.",
+  "wrong_reasons": {
+   "b": "Acceptance and evaluation criteria define the criteria themselves; alone they do not rank many options quickly.",
+   "c": "Vendor assessment evaluates supplier capability and reliability, not the relative merit of many solution options.",
+   "d": "A voting system reflects preference or popularity and is less objective and criteria-based than a scoring system."
+  }
+ }
+]

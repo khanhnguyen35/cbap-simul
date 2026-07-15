@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "0a70338c-34ca-5af7-b7a2-9b1e7392d280",
+  "context": "",
+  "question": "A business analyst (BA) wants to create a high-level Overview of a business process as a part of an exploratory analysis. The sponsor has asked for a model that demonstrates the movement and transformation of data between entities and processes. What technique should the BA use?",
+  "options": {
+   "a": "Entity relationship diagram",
+   "b": "Scope modeling",
+   "c": "Process modeling",
+   "d": "Data flow diagram"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f21252bd-9cb6-5994-ae93-c29b839bd94b",
+  "context": "",
+  "question": "Which of the following document is created first after project is awarded and statement of work is handed over to the project manager?",
+  "options": {
+   "a": "Work breakdown structure (WBS)",
+   "b": "WBS dictionary",
+   "c": "Project scope statement",
+   "d": "Project charter"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "ce7040bb-3794-5a36-aa7f-5a3d09d2c5a2",
+  "context": "",
+  "question": "A business analyst (BA) has just completed a number of elicitation activities and is preparing to review the stated requirements. As part of this, the BA is checking the compliance of the stated requirements with organizational standards for business analysis. What state is the BA attempting to move the requirements into?",
+  "options": {
+   "a": "Validated",
+   "b": "Verified",
+   "c": "ccepted",
+   "d": "Specified"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "22fd1040-27c9-5748-9c51-d2a29089fb6e",
+  "context": "",
+  "question": "A business analyst (BA) is working on a stakeholder collaboration plan. The main goal is to select the approaches that work best to meet the needs of external and internal stakeholders. Which aspects should be taken into account?",
+  "options": {
+   "a": "Collaboration skills of BA",
+   "b": "Solution design",
+   "c": "Timing and frequency of collaboration",
+   "d": "Business governance plan"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "8f0cd1c1-2f64-5ea1-a105-c601ff2b200d",
+  "context": "",
+  "question": "Which of the following involves defining the various threats, determining the extent of vulnerabilities, and devising countermeasures against a possible attack?",
+  "options": {
+   "a": "Qualitative risk analysis",
+   "b": "Risk analysis",
+   "c": "Risk assessment",
+   "d": "Quantitative risk analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "8a76c5ae-7f82-5d28-9c3e-4cbd169ff20d",
+  "context": "",
+  "question": "You are the business analyst for your organization and are working on prioritizing requirements. What plan should guide you through this process?",
+  "options": {
+   "a": "Risk management plan",
+   "b": "Project management plan",
+   "c": "Requirements management plan",
+   "d": "Scope management plan"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f2f6de60-09c0-5809-9673-e7004eea539f",
+  "context": "",
+  "question": "Most users of a pilot application have experienced more efficient processing compared to the old system. However, the business analyst (BA) has observed that a few people took much longer to complete the process. The system event log shows that those users encountered errors when they attempted to sign on.\nWhich of the following would the BA recommend to improve overall performance?",
+  "options": {
+   "a": "Sent a reminder to all users of their user ID and password",
+   "b": "Automate the login process",
+   "c": "Gather more information from the individuals who had errors",
+   "d": "Extend the pilot to more people"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "299ca796-398f-5902-b047-a2948c4c7e64",
+  "context": "",
+  "question": "A floral company wants to gather information about each of its 30 international facilities to determine whether employees are satisfied with their jobs. Which of the following elicitation techniques should the business analyst (BA) use?",
+  "options": {
+   "a": "Survey",
+   "b": "Decision analysis",
+   "c": "Observation",
+   "d": "Concept modelling"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b14dfa1b-f437-505d-83b1-d6a75f429dee",
+  "context": "",
+  "question": "You are completing the requirements for vendor selection and need to create a procurement form that will ask the vendor to provide only a price for commercial-off-the-shelf solution.\nWhat type of procurement form will you need to provide to the vendor?",
+  "options": {
+   "a": "Request for proposal",
+   "b": "Purchase order",
+   "c": "Request for information",
+   "d": "Request for quote"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "107eab5a-156c-51bf-97fd-e1d2350b2f1f",
+  "context": "",
+  "question": "Robert is the business analyst for his organization and he's working with several stakeholders to identify the business need for an opportunity. Robert needs to identify the stakeholder that will be responsible for authorizing the actions needed in order to meet the identified business need. Which stakeholder does Robert need to identify?",
+  "options": {
+   "a": "Sponsor",
+   "b": "Customer",
+   "c": "Implementation Subject Matter Expert",
+   "d": "Regulator"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "fcce3e5a-1ac5-573d-892d-db820d14f421",
+  "context": "",
+  "question": "The project manager wants to have the requirements analysis phase approved and asks the business analyst (BA) if this is possible. The BA wants to ensure that the requirements package <s complete poor to closing the analysis phase. What would help the 8A expedite the approval process for the analysis phase?",
+  "options": {
+   "a": "Solution functional capabilities",
+   "b": "Business analysis approach",
+   "c": "Solution performance measures",
+   "d": "Business analysis information architecture"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "3ba155f9-d43f-5622-a3d8-f96f008a1721",
+  "context": "",
+  "question": "Which of the following quantitative risk analysis techniques relies on experience and past data to compute the probability and impact of risks on project objectives?",
+  "options": {
+   "a": "Probability distribution",
+   "b": "Sensitivity analysis",
+   "c": "Modeling and simulation",
+   "d": "Interviewing"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "546e55d7-6db2-526b-823c-dc8534f4d79d",
+  "context": "",
+  "question": "You are creating a model for your requirements. Which model type categorizes and describes the people who directly interact with a solution?",
+  "options": {
+   "a": "Rules",
+   "b": "User classes, profiles, or roles",
+   "c": "Concepts and relationships",
+   "d": "Events"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f5318ba8-6dc4-5994-8bb9-1603bb76876c",
+  "context": "",
+  "question": "Due to the complexity of a project the project board a concerned that the business analyst (BA) will not be able to ensure all requirements are verified. What toed can the BA present to the project board to mitigate their concern?",
+  "options": {
+   "a": "Data model",
+   "b": "Use case diagram",
+   "c": "Risk register",
+   "d": "Business analysis checklist"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "eed41155-a991-52cf-87ef-7dbe779a22e1",
+  "context": "",
+  "question": "Which of the following graphical presentations of a project plan is most appropriate for presenting to upper management?",
+  "options": {
+   "a": "Pie chart",
+   "b": "Pareto Chat",
+   "c": "Critical Path Method",
+   "d": "Scatter chart"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c89c2fc0-9c4b-5837-8e60-9592a8aaadee",
+  "context": "",
+  "question": "A service provider has seen significant erosion of its profit margin so engages an external consultancy firm to assess its business operations and recommend options to improve profitability. What is the first step that the business analyst (BA) will perform as part of this engagement?",
+  "options": {
+   "a": "Perform a brainstorming session to determine the desired profit margins for the future state of operations",
+   "b": "Organize a requirements elicitation meeting to determine the desired increase in the profit margin",
+   "c": "Conduct activities to understand the reasons behind the erosion of profitability in the current state",
+   "d": "Hold a strategy session to understand how best to achieve increased profitability"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f5694f47-df44-56f5-b874-84df709792d6",
+  "context": "",
+  "question": "You are the business analyst for a large project in your organization. While your company prefers face-to-face communications there are many stakeholders located in different geographical locations. How can you still effectively serve as a business analyst when the stakeholders are not collocated?",
+  "options": {
+   "a": "You will need to travel on a regular rotation to each of the geographical locations to complete the business analyst duties.",
+   "b": "You will need to implement videoconferences.",
+   "c": "dd more business analysts in each of the geographical location.",
+   "d": "You will need the stakeholders to periodically gather in one locale."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "a5da8b51-41a6-5f3f-94e3-dfcea9bf4d89",
+  "context": "",
+  "question": "Which of the following is concerned with determining whether the information used for risk analysis is probable, of high class, or accurate?",
+  "options": {
+   "a": "Risk Urgency Assessment",
+   "b": "Risk Probability and Impact Assessment",
+   "c": "Risk Categorization",
+   "d": "Risk Data Quality Assessment"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "06e5a91a-526e-557e-a6d8-d5c3e7a1e1f4",
+  "context": "",
+  "question": "You are the business analyst for your organization and are leading a presentation about an identified problem. This presentation will help the stakeholders to understand the problem and it will help you when you begin to elicit requirements from the stakeholders.\nWhich type of learner learns best through the presentation of models?",
+  "options": {
+   "a": "Visual learners",
+   "b": "Auditory learners",
+   "c": "Kinesthetic learners",
+   "d": "Communication model learners"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c0259266-294c-5c1e-8b3e-c27705efaf52",
+  "context": "",
+  "question": "Which of the following directs the improvement efforts to those areas that will have the biggest impact?",
+  "options": {
+   "a": "Flowchart",
+   "b": "Gantt chart",
+   "c": "Pareto diagram",
+   "d": "User Documentation"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "befdfe27-c137-565e-b46f-d47a6f9585d1",
+  "context": "",
+  "question": "The creative thinking process has three values to determine the effectiveness of the process. Which one of the following is not a measurement of effective creative thinking?",
+  "options": {
+   "a": "Application of new ideas to resolve existing problems",
+   "b": "Generation of a pre-determined number of new ideas for a business solution",
+   "c": "Willingness of stakeholders to accept new approaches",
+   "d": "The successful generation and productive consideration of new ideas"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "048bc173-78b0-5524-8c9e-6ffcfd0785f7",
+  "context": "",
+  "question": "Management would like you to front-load the requirements with the most risk requirements. Why would management prefer the risky requirements first in the prioritization?",
+  "options": {
+   "a": "So if the risk comes true the project will fail will little investment in the work.",
+   "b": "So if the risk comes true then the project manager can mitigate the risk event.",
+   "c": "So if the risk comes true they'll receive the reward as soon as possible.",
+   "d": "So if the risk comes true then there's ample time to correct the problem."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4fd9a91c-102d-5602-90a6-b3df753608f8",
+  "context": "",
+  "question": "It's often impossible or difficult to prove that the implementation of a solution will change the current state of an organization to the desired future state. The business analyst must document the characteristics and risk of the implementation of a solution in case the belief that the solution will achieve the desired results will prove invalid. What is the belief that the solution will create the desired effect for the organization called?",
+  "options": {
+   "a": "Project",
+   "b": "Risk",
+   "c": "Assumption",
+   "d": "Model"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "a17639e5-9978-58e7-b218-bfca622fa30d",
+  "context": "",
+  "question": "The business analyst (BA) is preparing to determine the impact of various risks associated with the business analysis effort currently underway.\nWhich of the following would the BA use as an input into the assessment of risk?",
+  "options": {
+   "a": "Defined change strategy",
+   "b": "Analysis of potential value of the recommended solution",
+   "c": "List of prioritized requirements",
+   "d": "Unconfirmed results of elicitation activities"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "857d60d6-723e-54a7-a774-6bf7faf8bbc5",
+  "context": "",
+  "question": "What business analysis process ensures that requirements specifications and models meet the necessary standard of quality to allow them to be used effectively to guide further work?",
+  "options": {
+   "a": "Identify constraints and assumptions",
+   "b": "Validate requirements",
+   "c": "Verify requirements",
+   "d": "Specify and model requirements"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "43513c97-8f3f-5268-a956-b6377616bf42",
+  "context": "",
+  "question": "You are the business analyst for your organization and management has asked that you identify opportunities to improve the operations of the business. You notice that some of the stakeholders use several pieces of software and several duplicate activities within each software package to generate data reports for customers.\nWhat type of recommendation can you make in regard to this observation?",
+  "options": {
+   "a": "You can address the automation of how the workers perform.",
+   "b": "You will need to perform active observation first to understand the processes in more detail.",
+   "c": "You can address the non-functional requirements of the activities.",
+   "d": "You will need to perform passive observation first to understand the processes in moredetail."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f45ce20b-abdb-598c-836e-a304117817dc",
+  "context": "",
+  "question": "A business analyst (BA) works for a financial institution that wants to acquire new systems and migrate all future business operations to the new systems. The BA is responsible for performing a gap analysis and has reviewed the current state of systems.\nWhat is the next task that the BA needs to do to complete the gap analysis?",
+  "options": {
+   "a": "Identify performance measures",
+   "b": "Define the future state capabilities",
+   "c": "Categorize risks factors",
+   "d": "Select the stakeholder engagement approach"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "eb909490-5571-51c9-9971-dfc5e11aee28",
+  "context": "",
+  "question": "You are hosting a collection of stakeholders from across the organization to identify the ideas and attitudes about your company's help desk. You want the stakeholders to honestly share their opinions about the help desk service so you can identify problems, solutions, and take actions to improve the service. What type of requirements elicitation activity is this?",
+  "options": {
+   "a": "Stakeholder analysis",
+   "b": "Focus groups",
+   "c": "Workshop",
+   "d": "Root cause analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "988ec9fc-e380-5a60-9ea3-10011a7870ba",
+  "context": "",
+  "question": "All of the following stakeholders participate in the prioritization of requirements except for which one?",
+  "options": {
+   "a": "Implementation subject matter expert",
+   "b": "Project team",
+   "c": "Domain subject matter expert",
+   "d": "Project manager"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "ad9c8526-661f-5c72-9640-78805cdab583",
+  "context": "",
+  "question": "Martha is observing Gary complete several activities as part of her requirements elicitation process. Martha is simply observing the steps Gary takes to complete his work and she is taking notes. In this instance Martha does not ask Gary any questions. What type of observation technique is Martha completing?",
+  "options": {
+   "a": "Shadowing",
+   "b": "Active",
+   "c": "Passive",
+   "d": "Usage consideration"
+  },
+  "image_paths": []
+ }
+]

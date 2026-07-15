@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "ad840358-cb65-54af-a513-fbd0852c5979",
+  "context": "",
+  "question": "The business analyst (BA) presented a concept model during a requirements walk through to the project sponsor, implementation subject matter expert and operational support start. While the presentation was clear to the project sponsor the other stakeholders were unsure about the impacts to their respective daily tasks. What should the BA include in the next walk through, so that all stakeholders have a better understanding of the requirements?",
+  "options": {
+   "a": "An information management model to identify requirement gaps",
+   "b": "A capability model to illustrate strategic objectives",
+   "c": "governance architecture to contextual^ toe business analysis approach",
+   "d": "n appropriate level of abstraction to support differing viewports"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e81fc949-2102-5787-bf92-f09ec8a084a5",
+  "context": "",
+  "question": "Your organization uses the MoSCoW approach to requirements prioritization. What does MoSCoW mean?",
+  "options": {
+   "a": "Must, Should, Could, Would",
+   "b": "Must, Should, Could, Won't",
+   "c": "Mission, Schedule, Cost, Willingness",
+   "d": "Must not, Should not, Could not, Will not"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "8ddf0b51-1891-5c10-8656-cef8c99ac74f",
+  "context": "",
+  "question": "Which of the following models demonstrates the attributes, operations, and relationship to entities within the solution?",
+  "options": {
+   "a": "Entity Relationship",
+   "b": "Data dictionary",
+   "c": "Class model",
+   "d": "CRUD matrix"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "deaed3b6-7206-522c-913c-0d0cf7fdcd2d",
+  "context": "",
+  "question": "The business process model is also known as.",
+  "options": {
+   "a": "Organization model",
+   "b": "Activity model",
+   "c": "Relational model",
+   "d": "Data flow model"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "107b8812-4a39-503a-9a42-8e9669e5a707",
+  "context": "",
+  "question": "You are the business analyst for your organization and you are preparing the business case for a proposed solution. You need to include the management horizon in your business case. What is the management horizon?",
+  "options": {
+   "a": "It is the expected deliverables that will be beneficial for the organization.",
+   "b": "It is the point in time when the solution will be completed.",
+   "c": "It is the duration of each phase of the project until the solution earns a profit.",
+   "d": "It is the point in time for the solution to break even on cost and begin earning a profit."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "ac344237-bd86-54e9-9037-b1bf93f23342",
+  "context": "",
+  "question": "The business analysis approach generally defines all of the following attributes except for which one?",
+  "options": {
+   "a": "Requirements for solutions acceptance",
+   "b": "Deliverables",
+   "c": "Team roles",
+   "d": "nalysis technique"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "694fe967-4194-56d9-8b30-e7bff0d58594",
+  "context": "",
+  "question": "You are the business analyst for your organization. A customer has approached your organization and is requesting that your company create new software for them that will help them collect customer information. In regard to enterprise analysis this business needs stems from which one of the following need generation approaches?",
+  "options": {
+   "a": "Bottom-up",
+   "b": "External drivers",
+   "c": "Middle management",
+   "d": "Top-down"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "90d40904-ef59-5484-9e6f-0b2e0751f9cd",
+  "context": "",
+  "question": "You are the business analyst for your organization and are to conduct stakeholder analysis. Which of the following statements best describes the conduct stakeholder analysis task?",
+  "options": {
+   "a": "This task identifies organizations and lines of business that may be affected by a proposed initiative or who share a common business need.",
+   "b": "This task identifies stakeholders who may be affected by a proposed initiative or who share a common business need.",
+   "c": "This task identifies the organizations that are likely affected by a problem that a project must solve.",
+   "d": "This task identifies the people who may be affected by a proposed initiative or who share a common business need."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4a91207b-6e47-53b7-80c2-15402fec7252",
+  "context": "",
+  "question": "A business analyst (BA) is compiling a communication plan by reviewing stakeholders and identifying the needs of the stakeholders. The BA organizes the stakeholders based on their needs and decides that all communication Mil be handled through e-mail so that information can be disseminated quickly and easily while maintaining a record. What has the BA missed in the stakeholder analysts?",
+  "options": {
+   "a": "Business objectives",
+   "b": "Preferences",
+   "c": "Retention",
+   "d": "Presentation materials"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "08cbc49a-ba62-58b8-9f58-7b1aef25cff9",
+  "context": "",
+  "question": "You are the business analyst for your organization. Management has asked that you create a stakeholder map as part of the conduct stakeholder analysis process. What is a stakeholder map?",
+  "options": {
+   "a": "A stakeholder map is a visual diagram that shows the connection among positive and negative stakeholder",
+   "b": "A stakeholder map is a visual diagram that illustrates where the stakeholders are geographically located.",
+   "c": "A stakeholder map is a visual diagram that depicts the stakeholders' actions as responsible, accountable consult, and inform.",
+   "d": "A stakeholder map is a visual diagram that depicts the relationship of the stakeholders to the solution and to one another."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e5d570e9-fd91-5dcd-ab67-d72bcb62861d",
+  "context": "",
+  "question": "Which of the following types of charts shows which resources are needed in the project and allows you to group the resources by project phase or other attributes?",
+  "options": {
+   "a": "Pareto chart",
+   "b": "Organizational Breakdown Structure",
+   "c": "Gantt chart",
+   "d": "Resource Breakdown Structure"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "05362365-59af-5d3c-a155-ad988fc13ffd",
+  "context": "",
+  "question": "A corporation is experiencing poor financial performance and needs to change many aspects of its business strategy in coder to become solvent again. A business analyst (BA) is conducting a feasibility analysis and analyzing resources required. The BA has identified the existing resources, the resources that need to be increased, and the required additional capabilities. What is the other dimension this analysis should indicate?",
+  "options": {
+   "a": "The new resources to be developed",
+   "b": "The new financial performance metrics",
+   "c": "The enterprise readiness agreement",
+   "d": "The timeline for instituting the change"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "2e98cd01-5111-507d-bc62-68199230c20f",
+  "context": "",
+  "question": "When is stakeholder analysis performed?",
+  "options": {
+   "a": "As soon as the project charter is created.",
+   "b": "As soon as the project sponsor is named.",
+   "c": "As soon as a business need is identified.",
+   "d": "As soon as a business solution is identified."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4a4b754c-0b3b-5052-ab3a-69def0b46c80",
+  "context": "",
+  "question": "The stakeholder of a new product that is in early adaptive development has requested a change to an approved feature.\nHow should the business analyst (BA) handle this change?",
+  "options": {
+   "a": "Change the business analysis approach to predictive",
+   "b": "Obtain formal approval through change request process",
+   "c": "Include. The requirement in the next Iteration",
+   "d": "dd the feature to the product backlog for future prioritization"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f950e56c-edaa-5a31-bf14-6015a0afb85e",
+  "context": "",
+  "question": "A business analyst (BA) on a project is in the process of validating requirements and finds that there is a high degree of uncertainty related 10 one of the assumptions being true. The BA adds the assumption to the risk register and performs a fun risk analysis to handle this situation.\nWhat type of strategy is in place if the organization is risk-averse?",
+  "options": {
+   "a": "Acceptance",
+   "b": "Transfer",
+   "c": "voidance",
+   "d": "Mitigation"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "32d6880a-f02b-5f7b-97ae-a117c32046eb",
+  "context": "",
+  "question": "Which of the following is mandatory in most software development projects?",
+  "options": {
+   "a": "Communication Management plan",
+   "b": "Disaster recovery plan",
+   "c": "Test plan",
+   "d": "Procurement plan"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "0f5cca6e-0b34-59ce-824c-c786a95a392a",
+  "context": "",
+  "question": "Nancy has asked you to trace a particular requirement for her. What does 'to trace a requirement' mean?",
+  "options": {
+   "a": "Tracing a requirement means to look at a requirement and the others to which it is related. It links risk, cost, quality, and scope elements to stakeholder and solution requirements to other artifacts created by the team and to solution components.",
+   "b": "Tracing a requirement means to look at a requirement and the others to which it is related. It links business requirements to stakeholder and solution requirements to other artifacts created by the team and to solution components.",
+   "c": "Tracing a requirement means to look at a requirement and the others to which it is related. It links business requirements to components in the project's work breakdown structure.",
+   "d": "Tracing a requirement means to track a requirements from its first identification all the way to its completion to see what issues, risks, costs, quality, and defects have surrounded the requirement"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "a2dbc410-3af5-59bd-83be-8a2ac6d2a910",
+  "context": "",
+  "question": "You are the business analyst for your organization. You are currently writing the business goals and objectives as part of the elements for the define business process.\nWhich one of the following statements best describes the business goals and objectives element?",
+  "options": {
+   "a": "They describe the processes the solution will need to improve for the project to be successful.",
+   "b": "They describe all of the positive benefits in ratio to the risk and costs of the project.",
+   "c": "They describe all of the required work the project will need to complete in order to reach its objectives.",
+   "d": "They describe the ends that the organization is seeking to achieve."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5dcac1e2-3227-5922-8a54-bd4f6e54e31f",
+  "context": "",
+  "question": "You are the business analyst for your organization and are beginning the requirements analysis processes.\nWhich one of the following statements best describes the requirements analysis processes?",
+  "options": {
+   "a": "It ensures that analysis and implementation efforts focus on the most critical requirements.",
+   "b": "It covers the definition of stakeholder requirements, which describe what a solution must be capable of doing.",
+   "c": "It defines all of the work, and only the required work, to complete the project objectives.",
+   "d": "It is conformity to requirements and a fitness for use."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "af0fc68d-5b11-5d26-9962-a7f27006ad99",
+  "context": "",
+  "question": "You are the business analyst for your organization and are currently with several key stakeholders as part of the determination of which business analysis approach is most appropriate for the current project. Which one of the following is not a stakeholder that is considered when completing the business analysis planning and monitoring task to determine a business analysis approach?",
+  "options": {
+   "a": "Tester",
+   "b": "Project manager",
+   "c": "Regulator",
+   "d": "Functional management"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e34116f8-1751-514a-a5ab-bae50924fd0c",
+  "context": "",
+  "question": "A business analyst (BA) is outlining who should participate in an upcoming requirements elicitation meeting. From whom should the BA obtain approval before selecting the participants?",
+  "options": {
+   "a": "Sponsor",
+   "b": "End user",
+   "c": "Project manager",
+   "d": "Subject matter expert"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "34b3ac77-16b6-53ff-9e0c-343704dbf5bd",
+  "context": "",
+  "question": "is a process to determine the completeness of the project work and to gain the customer's acceptance to move the project forward.",
+  "options": {
+   "a": "Phase gate review",
+   "b": "Inspection of key results",
+   "c": "Verify scope",
+   "d": "Quality control"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "33d480f8-a2a1-5b29-8300-e4100ab4a1ff",
+  "context": "",
+  "question": "You are the business analyst for the NGQ Company. Management is concerned that their company is not able to meet an identified business need with their current existing structure, people, processes and technology. They've asked you to complete an analysis of their organization's ability to meet the identified business need.\nWhat business analysis process are you completing for your organization?",
+  "options": {
+   "a": "Determining the solution approach",
+   "b": "Assessing the capability gaps",
+   "c": "Requirements elicitation",
+   "d": "Verifying the requirements"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "85ef1a2e-69e5-5d80-b93c-97abc31c23cf",
+  "context": "",
+  "question": "You are the business analyst for your organization. You are identifying new opportunities to improve upon your existing web services. Management is open to new opportunities as long as the changes do not take more than 60 days to implement.\nWhat type of a factor does the 60 day implementation represent?",
+  "options": {
+   "a": "Technical constraint",
+   "b": "Schedule constraint",
+   "c": "Business constraint",
+   "d": "ssumption"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "75a12096-d0f8-55f6-904f-efdd08e84300",
+  "context": "",
+  "question": "A business analyst (BA) was tasked with eliciting requirements for a new product scheduling system. The BA interviewed and discussed the requirements with the manager and Supervisor. The requirements were written and approved by both the supervise and manager. Which stakeholders were missed in the requirements?",
+  "options": {
+   "a": "End users",
+   "b": "Project manager",
+   "c": "Upper management",
+   "d": "IT support"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "96efea5b-f3f3-56f0-89d2-865dbbf6ab98",
+  "context": "",
+  "question": "Which of the following process groups occurs at the beginning of the project?",
+  "options": {
+   "a": "Executing",
+   "b": "Planning",
+   "c": "Initiating",
+   "d": "Controlling and Monitoring"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4e32b0fe-90dd-5f07-825c-5acd116ba646",
+  "context": "",
+  "question": "Which of the following software development life cycles is a methodology that divides the project into phases, and the project manager focuses on control of time, cost, and scope?",
+  "options": {
+   "a": "Spiral",
+   "b": "Agile",
+   "c": "Waterfall",
+   "d": "Incremental"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "a5515931-934a-5917-a824-c67c1f95aad7",
+  "context": "",
+  "question": "A business analyst (BA) finds that the solution service level agreement (SLA) cannot be met m one out of five identified scenarios. is there 4 a dependency on a requirement which is a part of a future release. How should the BA approach the solution limitation?",
+  "options": {
+   "a": "Assess the impact on the business operations",
+   "b": "Increase the scope and include the dependent requirement",
+   "c": "Modify the SLA",
+   "d": "Change the business process"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5cb04938-1a7d-5035-b652-c5095b8f4a56",
+  "context": "",
+  "question": "An insurance company has two actuarial teams: Life and Non-Life. The Life team has a specialized tool to make their calculations while the Non-life team performs calculations manually. Last year the company bought a single solution to support both groups. The Non-Life team continues to do certain calculations manually to conform to their processes. Which type of analysis was missed prior to purchasing a solution?",
+  "options": {
+   "a": "Operational assessment",
+   "b": "Organizational structure",
+   "c": "Stakeholder impact analysis",
+   "d": "Stakeholder location"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "39b4cf50-e7a6-5e61-b5a8-ba318f459af8",
+  "context": "",
+  "question": "A company has a process improvement initiative that is projected to increase revenue by $150,000 USD non- compounded per year. The budgeted cost of the initiative is $200.000 and supporting the initiative will cost $30.000 for years two and three. What is the projected return on investment over the first 3 years?",
+  "options": {
+   "a": "44%",
+   "b": "73%",
+   "c": "40%",
+   "d": "51%"
+  },
+  "image_paths": []
+ }
+]

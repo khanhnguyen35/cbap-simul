@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "68596e2c-be78-507a-b92c-afa36f292501",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 10.31 Observation, preparing for observation involves determining the objectives, deciding the observation approach (active or passive), and then identifying which work activities and which participants will be observed. Since the approach has already been selected, the next preparation step is identifying the participants to be observed.",
+  "wrong_reasons": {
+   "a": "Performance measures relate to the objectives of the observation, which were already addressed when the passive approach was selected for establishing metrics.",
+   "b": "Dependencies are not an element of observation preparation in BABOK v3.",
+   "d": "Communication channels are part of stakeholder engagement planning, not observation preparation."
+  }
+ },
+ {
+  "question_id": "7d927154-f6be-519b-b36f-aab50033d25b",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "In BABOK v3, 5.2 Maintain Requirements, the information management approach (defined in Plan Business Analysis Information Management, task 3.4) is the guideline that indicates how requirements will be stored, accessed, and managed for long-term reuse. It defines how reusable requirements are identified, named, and maintained.",
+  "wrong_reasons": {
+   "a": "Legal/regulatory information constrains requirements content but does not define how they are managed for reuse.",
+   "b": "Architectural repositories may store reusable components but are not the guideline that indicates how requirements are managed for reuse.",
+   "d": "Business rules analysis is a technique for capturing rules, not a guideline for managing requirements reuse."
+  }
+ },
+ {
+  "question_id": "090545b9-d95e-5bf4-9ebc-6ee06ba43e3f",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 7.2 Verify Requirements and 7.5 Define Design Options / prioritization guidance in 5.3 Prioritize Requirements, dependencies among requirements are recorded because a requirement may only be implementable after another one is delivered. Recording dependencies and relationships primarily helps determine the sequence in which requirements are addressed.",
+  "wrong_reasons": {
+   "b": "Risk assessment of requirements is a prioritization factor, but it is not the purpose of recording dependencies and relationships.",
+   "c": "Total solution cost is estimated through estimation and financial analysis techniques, not by recording requirement dependencies.",
+   "d": "Total implementation time is a project management estimate, not the reason for documenting requirement relationships."
+  }
+ },
+ {
+  "question_id": "61506763-4699-548f-a071-475b1886af67",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 10.36 Prototyping, a functional prototype (working prototype) models software functionality and allows stakeholders to interact with real behavior, making it suitable for evaluating both performance and the visual/interactive aspects of detailed system requirements such as maps, validation, sorting, and downloads.",
+  "wrong_reasons": {
+   "a": "A process model (10.35) depicts workflow and activities, not the performance or visual behavior of a system.",
+   "b": "A concept model (10.11) defines terms and their relationships, not visual or performance characteristics.",
+   "c": "A usability prototype focuses on ease of use of the interface but does not exercise performance aspects such as real-time retrieval and downloads."
+  }
+ },
+ {
+  "question_id": "4a547721-e151-5306-a1b5-8bb4e0832566",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.1 Plan Business Analysis Approach, decision analysis (10.16) is a listed technique used to rate available methodologies against organizational needs and objectives in order to select the most appropriate approach. Decision analysis formally assesses alternatives against criteria under conditions of uncertainty.",
+  "wrong_reasons": {
+   "a": "A structured walkthrough (review) is used to validate or verify requirements, not to rate methodologies.",
+   "c": "Cause-and-effect analysis is a root cause analysis method for diagnosing problems, not for selecting among alternatives.",
+   "d": "Process modeling depicts workflows; it does not evaluate methodologies against objectives."
+  }
+ },
+ {
+  "question_id": "54be4799-702c-54d5-a4d3-7b93c36159ce",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.45 Survey or Questionnaire, surveys are the elicitation technique designed to collect information, feelings, and attitudes from a large, dispersed group of respondents in a relatively short time. With nearly 12,000 stakeholders, a survey is the only practical way to identify what the majority needs and wants.",
+  "wrong_reasons": {
+   "a": "Interviews (10.25) are one-on-one or small group sessions and are impractical for 12,000 stakeholders.",
+   "b": "Trend analysis is not a BABOK elicitation technique for capturing stakeholder feelings and needs.",
+   "c": "Focus groups (10.21) involve small, pre-qualified groups (typically 6-12 people), not thousands of stakeholders."
+  }
+ },
+ {
+  "question_id": "4d44f12f-60b1-5abe-b529-9caca4599285",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.22 Functional Decomposition, this technique breaks down processes, systems, functional areas, or the solution scope into smaller, more manageable components for analysis and allocation. Breaking the solution scope into smaller components is the definition of functional decomposition.",
+  "wrong_reasons": {
+   "a": "Decision analysis (10.16) evaluates alternatives against criteria; it does not decompose scope.",
+   "b": "Business rules analysis (10.9) captures and manages business policies and rules, not scope breakdown.",
+   "c": "Process modeling (10.35) depicts how work flows, not the decomposition of solution scope into components."
+  }
+ },
+ {
+  "question_id": "83e34b49-c682-575c-80ea-1f99b5bd77e8",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 6.5.4.1 Assess Enterprise Limitations (Enterprise Culture Assessment), a cultural assessment is performed to determine whether stakeholders understand the reasons why a solution exists, whether they view the solution as beneficial, and whether they support the change. Thus the BA can learn whether stakeholders view the solution as something beneficial.",
+  "wrong_reasons": {
+   "a": "Organizational (structure) impact is assessed through the organizational structure changes assessment, not the cultural assessment.",
+   "b": "The assessment evaluates the existing culture and its readiness; it does not conclude that changing the culture will drive actions.",
+   "c": "Internal dependencies limiting solution performance are found in operational/technical assessments, not the cultural assessment."
+  }
+ },
+ {
+  "question_id": "f33510e8-e6f2-5b97-be9a-ec267f7e0199",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 5.1 Trace Requirements, traceability is used to detect missing functionality (requirements with no corresponding solution components) and implemented functionality that is not supported by any requirement (scope creep or gold plating). Tracing requirements forward and backward is exactly how such gaps and unsupported functionality are discovered.",
+  "wrong_reasons": {
+   "a": "Define Requirements Architecture (7.4) structures requirements into a cohesive whole; it does not detect unimplemented or unsupported functionality.",
+   "b": "Re-eliciting requirements gathers new information but does not systematically reveal mismatches between requirements and implementation.",
+   "c": "Assess Requirements Changes evaluates proposed modifications, not gaps between requirements and delivered functionality."
+  }
+ },
+ {
+  "question_id": "6662e13c-37d1-5a3e-93f0-c3ea7474debb",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "Business requirements should state what capability is needed without prescribing a design. Since the EA wants to evaluate whether the solution's integration capabilities fit the IT landscape, the requirement must express the need to bring equipment information from the asset management system into the incident record - an integration need - while remaining implementation-independent (BABOK v3, 7.1 Specify and Model Requirements; 4.3 Confirm Elicitation Results).",
+  "wrong_reasons": {
+   "a": "Merely associating an incident with equipment says nothing about integration with other systems, which is what the EA needs to assess.",
+   "c": "Storing an equipment ID is a data design detail and does not express the integration capability needed.",
+   "d": "Specifying the mechanism (using the Equipment ID stored in the asset management system) prescribes a design, which is inappropriate for a business requirement."
+  }
+ },
+ {
+  "question_id": "5833d795-04a9-58f7-9adc-20ce7b6ba6b1",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 7.2 Verify Requirements, a requirement is complete when it contains enough detail to guide further work at the appropriate level of abstraction. At the point of considering design options, 'appropriate stakeholders', 'timely', 'reliably', and 'incident-related events' are all unspecified, so the requirement lacks the detail needed to proceed - it fails the completeness criterion.",
+  "wrong_reasons": {
+   "a": "Nothing indicates the requirement contradicts other requirements or uses inconsistent terminology.",
+   "c": "The requirement expresses one need (notification) and can be understood on its own, so atomicity is not the primary failure.",
+   "d": "The statement is readable and understandable; the problem is missing detail, not comprehension."
+  }
+ },
+ {
+  "question_id": "a720f377-2b58-5775-8bba-547c9630dafc",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 10.9 Business Rules Analysis, rules that require approval by authorized personnel before an activity may begin, and acceptance confirmation upon completion, are operative business rules - they obligate or constrain conduct and define who is authorized to act. Fully specifying the approval requirement means documenting it as a business rule (who may approve, under what conditions).",
+  "wrong_reasons": {
+   "a": "A process diagram shows the flow with an approval step but does not fully specify authorization conditions and constraints.",
+   "b": "A RACI matrix assigns responsibility levels to roles generally; it does not specify the approval conditions for particular activities.",
+   "c": "A use case model describes actor-system interactions and would not fully capture the authorization policy itself."
+  }
+ },
+ {
+  "question_id": "eeff4cf3-f1c2-5044-9655-e6cc9b92884e",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.40 Risk Analysis and Management, risk tolerance attitudes include risk-aversion, neutrality, and risk-seeking. By overriding the board's advice and committing the top 25 revenue-producing stores (the highest-impact assets) to renovation in the first year, the CEO accepts greater potential downside in exchange for greater potential reward - a risk-seeking attitude.",
+  "wrong_reasons": {
+   "b": "Avoidance (risk-aversion) would mean choosing lower-risk options, such as starting with low-revenue stores.",
+   "c": "Mitigation is a risk treatment/response strategy, not a risk tolerance attitude.",
+   "d": "Neutrality means seeking balanced trade-offs; deliberately putting the highest-revenue stores at risk first is not neutral."
+  }
+ },
+ {
+  "question_id": "9b7df22a-1b8f-5032-a585-cb41912d1f12",
+  "correct_letter": "b",
+  "confidence": "low",
+  "explanation": "Per BABOK v3, 10.6 Business Capability Analysis, this technique describes what the enterprise (each store) must be able to do, assesses current performance and associated risks, and helps identify the changes needed to sustain operations - here, understanding what is required to keep 75% of stores open while phases are executed.",
+  "wrong_reasons": {
+   "a": "A capability model is only the output artifact; the analysis technique is what provides understanding of the needed changes.",
+   "c": "A transition state diagram is not a BABOK v3 technique and would show states, not the required capability changes.",
+   "d": "A stakeholder matrix maps stakeholder influence and interest, not operational changes to keep stores open."
+  }
+ },
+ {
+  "question_id": "08da490d-cd42-55ee-be89-396de0ffeb54",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "The CEO decided the top 25 revenue-producing stores go first; identifying which stores those are is a matter of objective financial data. Per BABOK v3, 10.18 Document Analysis, reviewing existing materials such as the stores' annual (revenue) records is the appropriate way to obtain this information.",
+  "wrong_reasons": {
+   "b": "Customer counts per day from managers do not reliably identify revenue ranking and surveys add subjectivity.",
+   "c": "A focus group would collect opinions, but the selection criterion (top revenue) is already fixed by the CEO's decision.",
+   "d": "Brainstorming generates ideas; it cannot determine which stores objectively produce the most revenue."
+  }
+ },
+ {
+  "question_id": "fac77f71-e1bc-5327-8b0a-2c9730c2bfa1",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.13 Data Modelling, a data model (such as an entity relationship diagram) describes entities of interest - subscriber, medical plan, service provider - and the relationships/associations among them, including cardinality. It is the appropriate diagram for depicting associations between business entities.",
+  "wrong_reasons": {
+   "b": "A data dictionary (10.12) defines data elements and their attributes but does not diagram relationships between entities.",
+   "c": "A use case diagram (10.47) shows actors and their interactions with the system, not associations among data entities.",
+   "d": "A data flow diagram (10.14) shows how data moves between processes and stores, not entity associations."
+  }
+ },
+ {
+  "question_id": "e06c8505-f630-5681-98a0-80116259698a",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 5.1 Trace Requirements, the 'derive' relationship applies when a requirement is derived from another, more abstract requirement - detailed requirements are derived from higher-level business capabilities. The 11 detailed business requirements were elicited to realize the 3 stated capabilities, which is a derivation relationship.",
+  "wrong_reasons": {
+   "b": "'Depends' describes implementation or value dependencies between requirements, not the abstraction relationship between capabilities and detailed requirements.",
+   "c": "'Validates' links requirements to test/validation artifacts that confirm the solution meets the need.",
+   "d": "'Verifies' is not the trace relationship between capability statements and the requirements elaborating them."
+  }
+ },
+ {
+  "question_id": "06e9400e-aed1-5de5-b719-99b74ea36dcb",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 7.2 Verify Requirements, an atomic requirement is self-contained and capable of being understood independently of other requirements. Requirement 5 ('select one of the options above and supply corresponding input') cannot be understood without reference to requirement 4 and also bundles two actions, so it violates the atomic characteristic.",
+  "wrong_reasons": {
+   "a": "The requirement is technically achievable, so feasibility is not violated.",
+   "b": "The statement is short; brevity (conciseness) is not the issue.",
+   "c": "It does not contradict any other requirement, so consistency is not violated."
+  }
+ },
+ {
+  "question_id": "5d9d9289-c773-5607-af6c-ccb7a009e2c7",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "The three scoped capabilities all serve plan subscribers: locating nearby in-network service providers (I, II) and downloading their fee information (III). Per BABOK v3, 6.1/6.2 (needs and business requirements), the primary business need addressed is the subscriber's inability to locate and access fee information for nearby participating providers.",
+  "wrong_reasons": {
+   "a": "The capabilities are for subscribers, not for service providers seeking other providers.",
+   "b": "Driving directions are not in scope; only locations, distances, and fee downloads are described.",
+   "d": "Nothing in scope alerts service providers about subscribers; the flow is subscriber-initiated."
+  }
+ },
+ {
+  "question_id": "04e88358-209a-5856-b81e-ba12ec0ff1c3",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.3 Plan Business Analysis Governance, the governance approach defines the decision-making process, including who has the authority to approve designs and resolve disagreements when consensus cannot be reached. The final decision therefore rests with those identified in the governance approach.",
+  "wrong_reasons": {
+   "b": "The BA facilitates decisions and recommends but is not the decision-making authority.",
+   "c": "The sponsor may be a decision maker only if designated as such in the governance approach; assuming so bypasses the agreed process.",
+   "d": "BABOK does not require unanimous agreement; the governance approach defines how impasses are resolved."
+  }
+ },
+ {
+  "question_id": "e71d4588-0f6e-5438-a451-86f8283631bf",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.5 Brainstorming, ground rules include not criticizing or evaluating ideas during idea generation. When a participant repeatedly violates this, the facilitator should pause the session and restate the rules to the whole group, which corrects the behavior without singling out or alienating the critical stakeholder (see also 9.5 Interaction Skills - facilitation).",
+  "wrong_reasons": {
+   "a": "Continuing while the disruption suppresses idea generation defeats the purpose of brainstorming.",
+   "b": "Excluding a critical stakeholder would damage engagement and worsen the existing bitterness.",
+   "d": "Demoting the Director to observer singles them out and risks further alienating a key stakeholder."
+  }
+ },
+ {
+  "question_id": "1a0a3fa2-69ea-5ca5-a982-28bf4c15ff80",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.2 Plan Stakeholder Engagement, stakeholder analysis examines each stakeholder's roles, attitudes, decision-making authority, and level of power or influence - which includes comparing the expertise and influence of the Director of Human Resources relative to other stakeholders.",
+  "wrong_reasons": {
+   "b": "Excluding a stakeholder the sponsor deems critical is not part of stakeholder analysis and would create risk.",
+   "c": "Risk planning for stakeholder attitudes is a governance/risk management activity that follows analysis, not part of the analysis itself.",
+   "d": "Implementing all of one stakeholder's suggestions is appeasement, not analysis, and ignores other stakeholders' needs."
+  }
+ },
+ {
+  "question_id": "71494bae-f5ee-5559-837c-75ac8737d6b8",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 2.4 Stakeholders, domain subject matter experts have in-depth knowledge of the business area (the product specifications being compared) and end users directly interact with the comparison tool. These two roles are best positioned to explain what changes the tool needs to adequately identify version differences.",
+  "wrong_reasons": {
+   "a": "A regulator defines external constraints and an operational support manager supports the running solution; neither defines needed tool functionality.",
+   "b": "Implementation SMEs and testers advise on design and quality, not on the business need for the tool changes.",
+   "d": "The project manager and sponsor manage delivery and funding; they do not use the tool or hold detailed knowledge of its shortcomings."
+  }
+ },
+ {
+  "question_id": "9a225ad8-ef5b-5565-9f59-b0abe6dbd2fc",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 5.1 Trace Requirements, a traceability repository records requirements and their relationships, making it possible to see which functionalities are defined, by whom, and where duplicates or gaps exist. Since multiple teams define the same functionality while other functionality goes undefined, traceability is the approach that exposes and helps resolve these definition issues.",
+  "wrong_reasons": {
+   "a": "A communication plan improves information flow but does not reveal duplicated or missing functionality definitions.",
+   "b": "A business analysis performance assessment (3.5) evaluates the BA's own work, not the teams' functionality definitions.",
+   "c": "A risk register records risks; it does not identify overlapping or missing requirement definitions."
+  }
+ },
+ {
+  "question_id": "e8af711c-32a0-558c-a5c1-0cc4bd779858",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 6.2 Define Future State, when the current-state problem is already understood (no written materials, inconsistent shadow-based training), the BA determines the changes required by defining the desired future condition - the goals, capabilities, and resources the training program must provide. Future state analysis identifies what must change to meet the training needs.",
+  "wrong_reasons": {
+   "a": "Market analysis examines customers and competitors, which is irrelevant to internal training needs.",
+   "b": "Decision analysis compares alternatives against criteria; the task here is defining required changes, not choosing among options.",
+   "c": "Root cause analysis diagnoses why a problem occurs, but the cause (no formal materials or training sources) is already known."
+  }
+ },
+ {
+  "question_id": "71e2a6df-76b1-5959-84d6-4345f959e6b6",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.20 Financial Analysis (cost-benefit analysis), demonstrating that the benefits of a formal training program outweigh its costs is how a BA builds the business case needed to gain approval to proceed (see also 6.3 Assess Risks / 6.4 Define Change Strategy where financial justification supports the recommendation).",
+  "wrong_reasons": {
+   "a": "Process analysis would improve the training workflow but does not justify the investment to decision makers.",
+   "c": "Business capability analysis identifies capability gaps; it does not provide the financial justification for approval.",
+   "d": "Decision analysis compares options; approval to invest hinges on demonstrating benefits versus costs."
+  }
+ },
+ {
+  "question_id": "2a6679c7-d11b-579d-be70-03b657f9c415",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 8.5 Recommend Actions to Increase Solution Value, one example recommendation is to identify additional capabilities the solution could provide. Requiring an industry selection in the profile to enable industry-specific promotions and personalized search ranking adds new capabilities to the existing solution to increase its value.",
+  "wrong_reasons": {
+   "a": "No changes to organizational structure, personnel, or culture are recommended.",
+   "c": "The recommendation adds a profile field and personalization; it does not simplify or reduce interfaces.",
+   "d": "The site showed strongly positive results; the BA is enhancing the solution, not retiring it."
+  }
+ },
+ {
+  "question_id": "8a1c0a3a-cddd-59da-a920-07bb2d23e026",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.4 Benchmarking and Market Analysis, benchmarking compares the organization's practices against those of similar companies to identify better approaches. Looking into what similar companies did differently to get customers to view promotions is a direct application of this technique.",
+  "wrong_reasons": {
+   "a": "Use cases and scenarios model actor-system interactions; the BA studied competitors, not interaction flows.",
+   "c": "Observation involves watching users perform work in their environment, which the BA did not do.",
+   "d": "Data mining analyzes large data sets for patterns; studying other companies' practices is benchmarking, not data mining."
+  }
+ },
+ {
+  "question_id": "1755f832-3e29-5ca6-94f2-b9de9774f5a2",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 8.2 Analyze Performance Measures, comparing actual solution performance against expected or targeted performance identifies performance variance. The sponsor expected at least 30% promotion viewing but observed only 5%, so he was seeking to validate the variance between expected and actual performance of the promotions feature.",
+  "wrong_reasons": {
+   "a": "Accuracy concerns whether the measures themselves are correct, not the gap between expected and actual results.",
+   "c": "Market trends were investigated later by the BA via benchmarking, not what the sponsor was validating.",
+   "d": "Risks were not the focus; the sponsor was comparing actual viewing rates against his expectation."
+  }
+ },
+ {
+  "question_id": "51333a39-a97e-5077-8972-41e995612e55",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 10.18 Document Analysis, reviewing existing organizational materials - here, the dump of documentation for all 1,000 claims filed during the pilot - to elicit and confirm information is document analysis. By examining the claim documents, the BA discovered that 90% were storm-related property damage claims in one region, identifying the source of the claims increase.",
+  "wrong_reasons": {
+   "b": "Data mining applies statistical algorithms to large data sets to discover patterns; the BA manually reviewed claim documentation instead.",
+   "c": "The survey was used to gather customer perceptions of the site, not to find the source of the claims increase.",
+   "d": "Decision modelling represents business decisions and rules; it was not used to analyze the claims."
+  }
+ }
+]

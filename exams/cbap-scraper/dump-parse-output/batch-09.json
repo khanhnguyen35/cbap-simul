@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "57702edc-889a-51fb-aeb6-2c54305b50ce",
+  "context": "",
+  "question": "The BA is analyzing the requirements that are represented in the Class Diagram. In addition to the diagram, the BA would like to include a separate document that has the information about the data elements to ensure a common understanding of the classes' attributes. What technique is used to define the data elements?",
+  "options": {
+   "a": "Reviews",
+   "b": "Data Mining",
+   "c": "Glossary",
+   "d": "Data Dictionary"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "8c49c7ab-527f-5afa-b0de-c6eafcded05b",
+  "context": "",
+  "question": "Which of the following diagrams is known as Ishikawa diagram?",
+  "options": {
+   "a": "Activity",
+   "b": "Data-flow",
+   "c": "Cost-Benefit",
+   "d": "Cause-and Effect"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "1e6fed48-709c-5594-aca6-bc2e229433ea",
+  "context": "",
+  "question": "A software development company is in the process of creating a new product for their customer base. It has been several years since such a project has been initiated and the organization has created a new team to own and develop the product. The project team will be evaluated by the successful adoption of the product, which will be developed over the next 12 months. The team's business analyst (BA) has analyzed the current state in partnership with the product owner and has been meeting with senior management to identify the goals that need to be attained. A broad view of the business has been analyzed in order to have an understanding of how the company is currently providing value to its customer base.\nWhat has the BA been identifying that will be used to evaluate the solution?",
+  "options": {
+   "a": "Business Needs",
+   "b": "Solution Requirements",
+   "c": "Success Measures",
+   "d": "Solution Limitations"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "746e7fb6-7c66-5169-a8a4-23315a14efc3",
+  "context": "",
+  "question": "You are currently working on creating the activity list for an initiative in your organization. What characteristic must be assigned to each task in your task list?",
+  "options": {
+   "a": "Procurement needs",
+   "b": "Roles and responsibilities",
+   "c": "Unique number",
+   "d": "Risk level"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "2138b0e4-997d-54ed-ac5e-5783bb49eb57",
+  "context": "",
+  "question": "Henry is the business analyst for the UUH Organization. Currently Henry is working on several work products as part of the requirements development process. He may need to share these work products with the stakeholders.\nWhich of the following is not an example of a work product?",
+  "options": {
+   "a": "Requirements documentation",
+   "b": "Interview questions and notes",
+   "c": "Meeting agendas and minutes",
+   "d": "Presentation slides"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "19257747-d5c2-57ce-8862-903018462a7c",
+  "context": "",
+  "question": "What plan will describe the stakeholder groups, communication needs, and the level of formality that is appropriate for the requirements?",
+  "options": {
+   "a": "Requirements management plan",
+   "b": "Project management plan",
+   "c": "Scope management plan",
+   "d": "Business analysis communication plan"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "8c0ae28d-b0eb-5b8a-abd0-359184e37785",
+  "context": "",
+  "question": "During a prioritization meeting, a business analyst (BA) mentioned that the access management system requirements are not stable. The project manager and a team lead proposed removing the requirements from discussion. A domain subject matter expert (SME) insisted on making that requirement a high priority, because it is really important from their point of view. What should the BA do?",
+  "options": {
+   "a": "Make the requirement a lower priority to minimize unanticipated rework and wasted effort",
+   "b": "Set the requirements at a high priority to adhere to the SME's point of view",
+   "c": "Remove the requirement from the project",
+   "d": "Leave priority unfilled for these requirements"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "292e87b6-64f9-5099-9dd5-d6631002221e",
+  "context": "",
+  "question": "You are the business analyst for your organization. You are currently identifying opportunities for a customer to improve their business processes. The customer wants to streamline their business efforts either through new technologies, better processes, or a combination of both. The customer demands, however, that the solution should not cost more than $300,000 to implement and support for one year. What does the $300,000 represent?",
+  "options": {
+   "a": "Solution cost",
+   "b": "Budget",
+   "c": "Requirements",
+   "d": "Constraint"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "73397867-586b-5a11-acac-e0a52960000d",
+  "context": "",
+  "question": "A sports wristwatch product manufacturer wants to add a blood sugar monitoring toolkit to the watch. Market research has confirmed that the most profitable segment of the manufacturer’s target customer is looking for this feature. The business analyst (BA) worked with the product owner to finalize the set of requirements and design options and then defined multiple approaches for implementing the feature. At this point, the solutions' team agreed that they were unable to accurately assess the merits of each of the proposed solutions.\nWhat is the possible reason?",
+  "options": {
+   "a": "Requirements are not allocated to solution components",
+   "b": "Too many approaches are dividing the team",
+   "c": "Business needs are unclear to the team",
+   "d": "Requirements and design options are not detailed enough"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "aec0fd88-beda-50b1-92a4-78a4dd653a8b",
+  "context": "",
+  "question": "Which of the following models defines the name of the data, data aliases, and description of system data?",
+  "options": {
+   "a": "Class model",
+   "b": "Entity relationship",
+   "c": "Data dictionary",
+   "d": "CRUD matrix"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "1274af52-5759-5fbd-a652-53daa4556266",
+  "context": "",
+  "question": "A business analyst (BA) has recently completed a comprehensive stakeholder analysis. Next the BA would like to consider ways in which to ensure that the stakeholders remain engaged throughout the change strategy. Some of the considerations include timing and frequency, location, available tools, delivery methods and the stakeholders' preferences. In which of the following plans would the BA document these considerations?",
+  "options": {
+   "a": "Stakeholder Collaboration Plan",
+   "b": "Business Analyse Plan",
+   "c": "Stakeholder Analysis Plan",
+   "d": "Communications Management Plan"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "2a1b5704-3da8-57ac-bed6-3baa39dcc7f3",
+  "context": "",
+  "question": "During a retrospective, the project team agrees the way they organized the user stories during the first sprint could be improved. The business analyst (BA) plans to make the stones more accessible going forward. Which of the following will the BA update?",
+  "options": {
+   "a": "Business analysis performance assessment",
+   "b": "Information management approach",
+   "c": "Organizational performance standards",
+   "d": "Project lessons learned register"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "809aea6d-230a-5ed9-87da-fdf58a78f7d3",
+  "context": "",
+  "question": "Which of the following processes measures the maturity level of the security program?",
+  "options": {
+   "a": "Risk analysis",
+   "b": "Risk mitigation",
+   "c": "Risk assessment",
+   "d": "GAP analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4e180a8f-f832-5b69-9efe-107036853964",
+  "context": "",
+  "question": "is the degree to which a set of inherent characteristics fulfills requirements.",
+  "options": {
+   "a": "Quality",
+   "b": "Regulation",
+   "c": "Project phase",
+   "d": "Scope"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c3d82e6c-172a-5763-aa84-ed9d4936e48b",
+  "context": "",
+  "question": "Which solution scope technique can help the business analyst understand the scope of the work by breaking down the scope into smaller work products?",
+  "options": {
+   "a": "Interface analysis",
+   "b": "User stories",
+   "c": "Functional decomposition",
+   "d": "Scope modeling"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "da1a4291-56e8-59b5-8005-93bb0e94b31b",
+  "context": "",
+  "question": "All of the following are examples of transference risk response except for which one?",
+  "options": {
+   "a": "Warranties",
+   "b": "Performance bonds",
+   "c": "Life cycle costing",
+   "d": "Use of insurance"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "47326dbf-f88c-507d-a1d7-2c88933a046e",
+  "context": "",
+  "question": "What business analysis plan defines the process to be followed in managing the solution scope and requirements?",
+  "options": {
+   "a": "Requirements management plan",
+   "b": "Scope management plan",
+   "c": "Change management plan",
+   "d": "Project management plan"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "db43483c-8b82-5366-9d52-569172f26c3e",
+  "context": "",
+  "question": "While defining what necessary conditions are required to achieve the business need for a highly regulated government client, a business analyst (BA) discovers that some legacy policies will either constrain or are insufficient to achieve value desired by the future state. How should the BA proceed?",
+  "options": {
+   "a": "Modify the solution to comply with the policies",
+   "b": "Identify an assumption about future state value",
+   "c": "Model two future states, one with and another without these policies",
+   "d": "Obtain approval to change the policies"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "28d4714c-78dc-53a4-a69c-6ce38ed7671a",
+  "context": "",
+  "question": "The business sponsor of a project to automate a high risk, high profile process has expressed concerns that some activities people perform will be missed. The business analyst (BA) has already created a process flow with associated user stories. Which of the following actions will address the sponsor’s concerns?",
+  "options": {
+   "a": "Record the concerns in the risk register",
+   "b": "Schedule a formal review with the stakeholders",
+   "c": "Demonstrate traceability to the business case",
+   "d": "Review the final approved elicitation results"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4b22b4a0-9950-5814-8067-72a2205d9203",
+  "context": "",
+  "question": "As part of the requirements analysis a business analyst can use the same tools and techniques to model the current state of an organization. All of the following are valid reasons why would a business analyst want to create a current state domain model except for which one?",
+  "options": {
+   "a": "The current state model can help identify opportunities for improvement.",
+   "b": "The current state model can help validate the solution scope with business and technical stakeholders.",
+   "c": "The current state model can help the business analyst create Pareto charts for process improvement.",
+   "d": "The current state model can help assist stakeholders in understanding the current state"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "8e965a32-7498-5344-8a1c-b15f77777157",
+  "context": "",
+  "question": "You are the business analyst for your organization. On your current project you'll be using the change-driven approach for defining requirements and gathering feedback. Which of the following statements best describes the change-driven approach?",
+  "options": {
+   "a": "The change-driven approach favors defining requirements through experimentation.",
+   "b": "The change-driven approach does not define the requirements until after a solution for the problem has been identified.",
+   "c": "The change-driven approach favors defining requirements standardized templates.",
+   "d": "The change-driven approach favors defining requirements through team interaction."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "ffc185c6-02c7-580c-8269-ed50806396e4",
+  "context": "",
+  "question": "Which of the following establishes organizational checks and balances with a proper segregation of front, back, and middle office functions for effective risk management?",
+  "options": {
+   "a": "Risk response plan",
+   "b": "Risk analysis",
+   "c": "Risk management plan",
+   "d": "Risk governance"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d3443c7b-b928-5975-ace9-7117621b0166",
+  "context": "",
+  "question": "Which of the following is the process of analyzing the areas of a project that are most affected by risk?",
+  "options": {
+   "a": "Risk Identification",
+   "b": "Risk Urgency Assessment",
+   "c": "Risk Categorization",
+   "d": "Risk Analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b97fb320-3a04-5bf6-906d-aa26adaf4618",
+  "context": "",
+  "question": "You are the business analyst for your organization. You are currently working with Susan on creating a model as part of the specify and model requirements process. Susan doesn't understand why you need a model. You explain to Susan that a model is just a simplified representation of a complex reality that is useful for understanding that reality and making decisions regarding it. In fact, you tell Susan, model can do all of the following except one option. Choose the option that model cannot do?",
+  "options": {
+   "a": "Define the resources that will be needed on the project team",
+   "b": "Define boundaries for the business domain",
+   "c": "Describe a situation or problem",
+   "d": "Describe thought processes and action flows"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "045c9aa7-a01e-5edd-b161-e69a73f4a9e3",
+  "context": "",
+  "question": "You are the business analyst for your organization and are working with Sally, a project manager, for your organization. You and Sally are determining the cost of the labor, materials, equipment, and facilities in order to achieve the different solutions that have been proposed for an identified problem. What is this process called?",
+  "options": {
+   "a": "Cost budgeting",
+   "b": "Expert judgment",
+   "c": "Rough order of magnitude cost estimating",
+   "d": "Scoping the project costs"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e12eec18-1e86-5564-b2fb-30c2cd88779d",
+  "context": "",
+  "question": "You are the business analyst for a smaller project where there are few requirements. Management would still like you to create a method to trace the few requirements for this project. What type of matrix would be best in this instance?",
+  "options": {
+   "a": "Roles and responsibility matrix",
+   "b": "RACI matrix",
+   "c": "Coverage matrix",
+   "d": "Requirements trace matrix"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "73d7eeca-1866-5979-bffe-845b8fb29ff7",
+  "context": "",
+  "question": "You are the business analyst for your organization. You have identified the costs and level of effort needed for each of the solution components. Management has asked that you also assess the most effective tradeoffs between delivery options. You consider the available resources and the constraints on the solution to determine if an additional investment is justified to realize a higher value for the solution. What other consideration could you include in your assessment of the solution?",
+  "options": {
+   "a": "Historical information",
+   "b": "Dependencies between requirements",
+   "c": "Experience of the implementation team",
+   "d": "Enterprise environmental factors"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "6a2c9b0f-b63b-51fb-9e78-28f0a10bf502",
+  "context": "",
+  "question": "As a program manager, you decided to overlap two phases of your program. Which of the following terms best describe your act?",
+  "options": {
+   "a": "Lead time",
+   "b": "Rolling",
+   "c": "Fast tracking",
+   "d": "Crashing"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f5b8ea7e-8cac-5795-be48-b9fd119dc3aa",
+  "context": "",
+  "question": "A business analyst (BA) is assessing tie different solution proposals. What type of financial calculation would the BA use to determine which solution is worth investing in based on its breakeven point?",
+  "options": {
+   "a": "Discount rate",
+   "b": "Net present value",
+   "c": "Return on investment",
+   "d": "Internal rate of return"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "52329195-45df-5b9f-9e8f-fe9a89f445e9",
+  "context": "",
+  "question": "Which of the following is a narrative description of the work required for the project?",
+  "options": {
+   "a": "Contract work breakdown structure (CWBS)",
+   "b": "Work breakdown structure (WBS)",
+   "c": "Contract statement of work (CSOW)",
+   "d": "Statement of work (SOW)"
+  },
+  "image_paths": []
+ }
+]

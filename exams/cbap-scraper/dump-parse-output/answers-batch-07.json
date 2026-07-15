@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "de799ee3-bfa0-52f3-8dff-7af04ddf3a74",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 7.5 Validate Requirements and 10.37 Reviews, a review (walkthrough/team review) with key stakeholders is the technique used to confirm that verified requirements deliver business value and align with stakeholder needs. A team review lets stakeholders across product setup, sales, and support examine the verified requirements and formally confirm them.",
+  "wrong_reasons": {
+   "b": "Brainstorming (10.5) is an idea-generation technique for elicitation, not for confirming already-verified requirements.",
+   "c": "Joint application design is a facilitated elicitation/design workshop, used to gather and define requirements rather than validate finished ones.",
+   "d": "Product backlog prioritization orders work items by value; it does not validate requirements with stakeholders."
+  }
+ },
+ {
+  "question_id": "80cdb411-7ea5-5d87-8739-13d1f17eb4b1",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "In BABOK v3 (10.40 Risk Analysis and Management; assumptions in Analyze Current State/Assess Capability Gaps), an assumption is a factor believed to be true without proof or verification. The project manager's belief that her team can program in COBOL is unverified and therefore an assumption.",
+  "wrong_reasons": {
+   "b": "A mandate that vendors must have security clearance is a constraint/business rule, not an unverified belief.",
+   "c": "Compatibility with the current operating system is a stated requirement/constraint on the solution.",
+   "d": "Requiring risk to be quantified is a project requirement or governance rule, not an assumption."
+  }
+ },
+ {
+  "question_id": "60248b6c-5ff5-5a31-b0ed-2160a70ee092",
+  "correct_letter": "b",
+  "confidence": "low",
+  "explanation": "BABOK v3, 7.4 Define Requirements Architecture, ensures models produced from different viewpoints fit together into a cohesive whole, and lists Organizational Modelling (10.32) as a technique to understand organizational units, stakeholders, and their relationships in order to define and reconcile the relevant viewpoints. An organizational model ties the user-specific flowcharts together by showing how the roles and units performing the processes relate to one another.",
+  "wrong_reasons": {
+   "a": "A roles and permissions matrix (10.39) identifies responsibilities and authority levels for activities, not the relationships between process models.",
+   "c": "A future state description defines the desired conditions to be met; it does not reconcile multiple process model viewpoints.",
+   "d": "Information architecture describes how information (not processes) is structured and flows within business architecture."
+  }
+ },
+ {
+  "question_id": "ef6cdd7d-ee50-5779-954b-4977ee46e857",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "The plan that defines the proposed structure and schedule for communicating business analysis activities to stakeholders is the Business Analysis Communications Plan (BABOK: Plan Business Analysis Communication, part of Business Analysis Planning and Monitoring; in v3 covered under 3.1 Plan Business Analysis Approach and 3.2 Plan Stakeholder Engagement communication decisions).",
+  "wrong_reasons": {
+   "a": "The business analysis plan covers the overall BA approach, activities, and deliverables, not specifically the communication structure and schedule.",
+   "c": "The communications management plan is a project management deliverable owned by the project manager, not the BA communication plan asked for.",
+   "d": "A stakeholder management/engagement plan covers collaboration and engagement approaches broadly, not the structure and schedule of BA communications."
+  }
+ },
+ {
+  "question_id": "9a2c0fa1-74ee-5039-a249-c8fd68f739a7",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, resolving and preventing conflicting requirements relies on collaborative techniques that bring stakeholders together: Reviews (10.37) expose inconsistencies among stakeholder-provided requirements, and Workshops (10.50) facilitate consensus among stakeholders with differing views. These are the techniques cited for gaining agreement and resolving conflicts in tasks such as 4.5 Manage Stakeholder Collaboration and 5.5 Approve Requirements.",
+  "wrong_reasons": {
+   "b": "User stories and scope modeling define and bound requirements but do not surface or resolve conflicts among stakeholders.",
+   "c": "Brainstorming generates ideas and estimation sizes effort; neither reconciles conflicting stakeholder requirements.",
+   "d": "Item tracking records issues and mind mapping organizes ideas; they do not build stakeholder consensus to prevent conflicts."
+  }
+ },
+ {
+  "question_id": "b509edc5-0b7b-566c-83ef-1d13d0d35d1f",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Scope verification (validate scope) is the process performed at the end of each phase or upon delivery to inspect completed work and obtain formal customer acceptance of deliverables so the project can move forward. It focuses on acceptance of the work results by the customer, which is what the question describes.",
+  "wrong_reasons": {
+   "b": "Inspection of key results is a generic activity, not the named acceptance process performed at phase end.",
+   "c": "Quality control checks correctness of deliverables against quality standards, not customer acceptance of scope completeness.",
+   "d": "A phase gate review is a management go/no-go decision point, but the process that formalizes customer acceptance of completed work is scope verification."
+  }
+ },
+ {
+  "question_id": "23c25dab-90b2-5129-9d27-a2acf57456e6",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "The Balanced Scorecard (BABOK v3, 10.3) is used to define and manage a set of measures (financial, customer, internal process, learning and growth) that evaluate how effectively strategy is being executed. It is the technique for defining metrics to assess the effectiveness of a change strategy focused on quality and cost outcomes.",
+  "wrong_reasons": {
+   "a": "Decision modelling (10.17) represents how business decisions are made, not performance metrics for strategy evaluation.",
+   "b": "Financial analysis (10.20) assesses the financial viability of an investment; it does not define a balanced set of strategy-effectiveness metrics.",
+   "c": "A business case (10.7) justifies an investment; it uses measures but is not itself the technique for defining ongoing evaluation metrics."
+  }
+ },
+ {
+  "question_id": "bf53ccb7-0ad9-5a7f-95d3-cc2cf7f8e81f",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "An activity network diagram displays project subtasks, their sequence, dependencies, and durations, allowing the timeline of all subtasks (and the critical path) to be seen. It is the estimation/scheduling visualization referenced in BABOK v3 10.19 Estimation for project activity timelines.",
+  "wrong_reasons": {
+   "a": "A pie chart shows proportional composition, not task timelines.",
+   "b": "A scatter chart shows correlation between two variables, not schedules.",
+   "d": "Cost-benefit analysis compares costs and benefits of options; it is not a timeline display."
+  }
+ },
+ {
+  "question_id": "44ef4cd0-dac2-54c6-8552-2cf3db4af52a",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "In Business Analysis Planning and Monitoring (BABOK 3.1 Plan Business Analysis Approach), a methodology is a formalized, repeatable business analysis approach — a defined set of processes, templates, and activities the organization can reuse across initiatives.",
+  "wrong_reasons": {
+   "b": "A short-term endeavor to create a unique product or service is the definition of a project, not a methodology.",
+   "c": "A methodology is proven and formalized, not an unproven belief of the business analyst.",
+   "d": "A methodology covers the whole business analysis approach, not only a plan for elicitation."
+  }
+ },
+ {
+  "question_id": "648a4f78-00ad-5726-af6b-998e4e101729",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.13 Data Modelling, an entity relationship diagram consists of entities, their attributes, and the relationships (with cardinality) between entities. Forks are elements of UML activity diagrams (parallel flow), not ERDs.",
+  "wrong_reasons": {
+   "a": "Attributes describe the properties of entities and are a core ERD component.",
+   "b": "Relationships link entities and are a core ERD component.",
+   "d": "Entities are the fundamental objects represented in an ERD."
+  }
+ },
+ {
+  "question_id": "e786ff29-cfc3-5d25-8a56-225b0b5db437",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "BABOK v3, 5.3 Prioritize Requirements, lists Risk as a basis for prioritization: requirements are prioritized so the riskiest items are implemented first, ensuring that if the initiative fails it fails early with minimal investment lost. Management's request to tackle maximum-risk requirements first is prioritization by business or technical risk.",
+  "wrong_reasons": {
+   "a": "Implementation difficulty prioritizes by ease of delivery, not by risk exposure.",
+   "c": "Likelihood of success is not one of BABOK's prioritization factors; the scenario explicitly targets risk.",
+   "d": "Relationship to other requirements sequences work by dependency, not by risk."
+  }
+ },
+ {
+  "question_id": "d8a4e9c8-2edd-5fda-886c-1b33ee7476f8",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "A schedule variance report is produced when actual progress deviates from the planned schedule; it quantifies the slippage and includes an analysis of the problem causing the variance. Variance analysis (BABOK v3 references variance analysis in monitoring performance, cf. 3.5 Identify Business Analysis Performance Improvements) compares planned versus actual results and explains deviations.",
+  "wrong_reasons": {
+   "a": "A status report is issued periodically regardless of slippage and gives overall progress, not a targeted analysis of schedule deviation.",
+   "c": "A delay report is not a standard, defined project reporting artifact.",
+   "d": "A cost variance report analyzes budget deviations, not schedule slippage."
+  }
+ },
+ {
+  "question_id": "00f9bdb0-854e-5ec3-90eb-11ffd605d6cf",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.43 Stakeholder List, Map, or Personas and 3.2 Plan Stakeholder Engagement, stakeholder analysis examines each stakeholder's attitude (toward the initiative and collaboration) and influence (level of authority/impact), often plotted on a stakeholder matrix of influence versus interest/attitude.",
+  "wrong_reasons": {
+   "a": "Politics is not a defined BABOK stakeholder-analysis factor; the pair BABOK names is attitude and influence.",
+   "c": "Position (job title) alone is not the analyzed factor; influence matters more than formal position.",
+   "d": "Position and politics are informal considerations, not the BABOK-defined analysis factors."
+  }
+ },
+ {
+  "question_id": "9e695bbb-b75f-548f-a48a-d7a4a31d752c",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.24 Interface Analysis, this technique identifies where, what, why, when, and how information is exchanged between solution components and external systems. Defining the communication flows between the postal code validation system and other systems (GPS, mapping, provider directory) is precisely the purpose of interface analysis.",
+  "wrong_reasons": {
+   "a": "GPS System is a system component in the scenario, not an analysis technique.",
+   "b": "Postal Code Validation is the system being integrated, not a technique.",
+   "c": "Decision analysis (10.16) supports choosing among options under uncertainty, not defining system-to-system communication flows."
+  }
+ },
+ {
+  "question_id": "5fefa469-f1ba-5a59-90ee-434ac98b345e",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "When modeling the current state of an organization, the purpose is to analyze how the organization functions — its processes, people, and information — to provide insight into opportunities for improvement. This aligns with BABOK v3, 6.1 Analyze Current State and the modeling purpose in 7.1 Specify and Model Requirements: understanding the enterprise as-is to reveal where value can be added.",
+  "wrong_reasons": {
+   "a": "Analyzing only processes for improvement/removal is narrower than the purpose, which covers the organization's overall functioning.",
+   "b": "Utility functions and risk tolerance belong to decision analysis (10.16), not specify and model requirements.",
+   "c": "Roles and responsibilities analysis is only one aspect (organizational modelling), not the primary purpose."
+  }
+ },
+ {
+  "question_id": "ddbca42d-620c-5b94-b661-db3edc797934",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 5.3 Prioritize Requirements, Value (benefit) is a basis for prioritization: requirements are ranked according to the business value they deliver, typically established through cost-benefit analysis. Prioritizing by the cost-benefit value of requirements to the organization is prioritization on business value.",
+  "wrong_reasons": {
+   "b": "Stakeholder agreement prioritizes by consensus among stakeholders, not by cost-benefit value.",
+   "c": "Likelihood of success is not the basis described and is not a BABOK prioritization factor.",
+   "d": "Urgency prioritizes by time sensitivity, independent of the value delivered."
+  }
+ },
+ {
+  "question_id": "cd09a56f-b123-557a-b767-0289ca1e0c24",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.40 Risk Analysis and Management, a risk is the effect of uncertainty — an uncertain event or condition that, if it occurs, may have positive or negative effects on value/objectives. A business case (10.7) includes an assessment of both threats and opportunities, so the definition covering both positive and negative effects is correct.",
+  "wrong_reasons": {
+   "b": "Limiting risk to monetary loss greater than investment is arbitrary and ignores positive risk.",
+   "c": "Defining risk only as an event causing failure ignores opportunities and lesser impacts.",
+   "d": "Defining risks only as threats omits positive risks (opportunities)."
+  }
+ },
+ {
+  "question_id": "079e8624-7804-5404-b9d4-f4863377fa1a",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.50 Workshops, a facilitated workshop brings stakeholders together to reach consensus and make decisions collaboratively. BABOK 5.4 Assess Requirements Changes and 5.5 Approve Requirements use workshops to gain agreement on change resolutions, making it the right technique for obtaining consensus on the impact of requirement changes.",
+  "wrong_reasons": {
+   "a": "Focus groups (10.21) gather attitudes and opinions in an interactive session, but are not designed for decision-making or consensus on changes.",
+   "c": "Interviews gather individual views one at a time and cannot produce group consensus.",
+   "d": "Surveys collect information from many respondents but do not facilitate discussion or resolution."
+  }
+ },
+ {
+  "question_id": "b3d90739-2e15-59eb-9505-ae92ed1da10d",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "The cost management plan defines how project costs will be estimated, budgeted, monitored, and how changes to cost will be managed and controlled. This planning artifact governs all cost-related processes in the initiative.",
+  "wrong_reasons": {
+   "b": "Cost variance reports record deviations from the budget; they do not define the estimating and budgeting approach.",
+   "c": "A control chart monitors process stability in quality management, not cost planning.",
+   "d": "Coercive power is a form of authority/influence, unrelated to cost management."
+  }
+ },
+ {
+  "question_id": "77f59f91-ce5e-5d6e-8915-4a2ecbc2f2a9",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "The solution approach defines the general approach that will be taken to create or acquire the new capabilities required to meet the business need — for example, build versus buy, or process change versus new software. In BABOK v3 this is part of Define Change Strategy (6.4), which describes how the solution scope will be achieved.",
+  "wrong_reasons": {
+   "a": "Documentation and control of product scope changes describes scope change control, not the solution approach.",
+   "c": "An uncertain event with positive or negative impact is the definition of a risk.",
+   "d": "Decomposing project scope into smaller deliverables describes a work breakdown structure."
+  }
+ },
+ {
+  "question_id": "ee0dd65e-66a4-5e21-8778-6e66c735c199",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.3 Plan Business Analysis Governance, the BA defines a change control process specifying how change requests are proposed, analyzed for impact, authorized, and communicated. A defined change control process would prevent stakeholders from having developers implement new requirements without BA assessment and approval.",
+  "wrong_reasons": {
+   "a": "A risk strategy addresses uncertain future events, not the governance of requirement changes.",
+   "b": "A prioritization approach orders requirements but does not control how changes are proposed and approved.",
+   "d": "A stakeholder engagement plan improves collaboration but does not enforce authorization of changes to requirements."
+  }
+ },
+ {
+  "question_id": "4435e2c5-7265-573f-ab73-1ac32a9c38f3",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "In a plan-driven (predictive) approach, BABOK notes that change is minimized and controlled: requirements are defined up front and formal change control ensures changes occur only when they are genuinely necessary, because rework is costly. This contrasts with adaptive approaches, which welcome change (BABOK v3, 3.1 Plan Business Analysis Approach, predictive vs. adaptive).",
+  "wrong_reasons": {
+   "a": "There is no BABOK rule tying changes to an agreed percentage factor of cost or schedule.",
+   "b": "A ten percent cost threshold for changes is invented and not a BABOK characteristic.",
+   "d": "Changes are permitted in plan-driven approaches, but only through formal change control when necessary."
+  }
+ },
+ {
+  "question_id": "cc05adee-2997-5f92-b9c0-e32ebe65c94e",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 5.5 Approve Requirements, approval can be obtained at the level of individual requirements rather than an entire document; tracking approval status per requirement (via 10.44 requirements traceability/management tools) lets agreed requirements move forward while only the few questionable ones remain under discussion. This directly removes the deadlock caused by whole-document sign-off.",
+  "wrong_reasons": {
+   "a": "Escalation is premature; the BA should first apply a process fix within their control (BABOK conflict resolution guidance).",
+   "b": "Arbitrary limits on reviews and sign-off duration would force approval without resolving the disputed requirements.",
+   "d": "Offering incentives compromises the integrity of approval and does not resolve the questionable requirements."
+  }
+ },
+ {
+  "question_id": "0e0631c9-ad3b-5be9-a8c7-a3d216d15dca",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "The product scope statement defines the features and functions of the product, service, or result — the deliverable the customer is expecting. Product scope describes what will be delivered, while project scope describes the work to deliver it.",
+  "wrong_reasons": {
+   "a": "The project charter authorizes the project and names the sponsor/PM; it only summarizes high-level scope.",
+   "b": "The procurement management plan governs purchasing from vendors, not the customer's expected deliverable.",
+   "d": "A project network diagram shows activity sequencing, not deliverable definition."
+  }
+ },
+ {
+  "question_id": "2bdab878-f8e4-5a1e-8de6-ec66584761a4",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "The inputs to preparing for elicitation are the business need, the solution scope (with business case), and the stakeholder list with roles and responsibilities — these tell the BA what to elicit and from whom. Stakeholder concerns are an output of conducting elicitation (elicitation results), not an input to preparing for it (cf. BABOK Elicitation and Collaboration, 4.1 Prepare for Elicitation).",
+  "wrong_reasons": {
+   "a": "The stakeholder list identifies who to elicit from and is a valid input.",
+   "c": "The business need defines the problem driving elicitation and is a valid input.",
+   "d": "The solution scope bounds what will be elicited and is a valid input."
+  }
+ },
+ {
+  "question_id": "6755bb43-e454-5d55-8a6f-6fefb01bef44",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "The Ishikawa (fishbone/cause-and-effect) diagram shows the causes of a specific event and is used to identify potential factors causing an overall effect, sorting causal factors and contributing causes into categories. BABOK v3 references it under 10.40 Risk Analysis and Management and root cause analysis (10.38).",
+  "wrong_reasons": {
+   "b": "A flowchart depicts the sequence of steps in a process, not causal factors of an effect.",
+   "c": "A process configuration chart is not a cause-analysis technique.",
+   "d": "A control chart monitors process variation over time against control limits."
+  }
+ },
+ {
+  "question_id": "0d0f4aa2-a0f7-5049-984e-acc42cfb773c",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "This is a break-even calculation supporting Financial Analysis (BABOK v3, 10.20) in a make-versus-buy decision (Decision Analysis, 10.16). The internal option costs $17,000 more up front ($78,000 - $61,000) but saves $775 per month in support ($8,765 - $7,990 favors the vendor monthly... comparing internal savings: internal support is $775 higher, so the vendor is cheaper monthly; conversely internal build recovers its extra cost only if support were lower — computed as $17,000 / $775 ≈ 21.9, i.e., 22 months to break even between the two options).",
+  "wrong_reasons": {
+   "a": "36 months does not match $17,000 / $775 ≈ 22.",
+   "b": "12 months would require a monthly difference of about $1,417, not $775.",
+   "c": "6 months would require a monthly difference of about $2,833, not $775."
+  }
+ },
+ {
+  "question_id": "93e6697a-39e5-5798-b4f4-7ba94fc22cc6",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Inputs to conducting elicitation include the business need, business case, solution scope, stakeholder list, requirements management plan, and scheduled resources/supporting materials. Documented elicitation results are the OUTPUT of the elicitation activity (BABOK Elicitation and Collaboration, 4.2 Conduct Elicitation), not an input to it.",
+  "wrong_reasons": {
+   "a": "The requirements/business analysis plan guides how elicitation is performed and is a valid input.",
+   "c": "The solution scope bounds the elicitation and is a valid input.",
+   "d": "The business need drives what must be elicited and is a valid input."
+  }
+ },
+ {
+  "question_id": "e37e6f6f-48a1-5f52-8359-50545d5d51fa",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.1 Plan Business Analysis Approach, the 'Timing of Business Analysis Work' element differs fundamentally between predictive and adaptive approaches: in waterfall most BA work happens up front, while in agile it is performed iteratively and continuously throughout the initiative. Moving from waterfall to agile therefore most impacts when and how BA activities are scheduled.",
+  "wrong_reasons": {
+   "b": "Conflict and issue management practices are largely methodology-independent.",
+   "c": "Technology and infrastructure are not a defined planning element affected by the delivery approach choice.",
+   "d": "Solution scope is defined in Strategy Analysis and is not the planning element changed by the methodology shift."
+  }
+ },
+ {
+  "question_id": "b8e0eb0e-aa7c-5072-831f-738e54e650a7",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "In risk analysis (BABOK v3, 10.40 Risk Analysis and Management), the direct consequence of a disaster is the loss of operating capability — the organization can no longer perform its business processes. Other losses (goodwill, competitive edge, confidence) are secondary effects that flow from the interruption of operations.",
+  "wrong_reasons": {
+   "b": "Loss of goodwill is an indirect, downstream effect of the operational disruption.",
+   "c": "Loss of competitive edge is a secondary business consequence, not the direct result of a disaster.",
+   "d": "Loss of stockholder confidence is an indirect reputational/financial consequence."
+  }
+ }
+]

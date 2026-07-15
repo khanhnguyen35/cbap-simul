@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "4c9660d1-694f-53f0-a63d-f84ec22e487a",
+  "context": "",
+  "question": "Your organization completes software development for other companies as its core business. Management would like to streamline the requirements gathering processes as many of the projects your company do are similar in nature. What approach could you as a business analyst do to help streamline the requirements gathering process for your organization?",
+  "options": {
+   "a": "Implement a requirements re-use repository",
+   "b": "Implement project template",
+   "c": "Implement a requirements gathering form",
+   "d": "Implement scope solution models"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "9f7eb045-e366-58d1-8f35-9a4d632a957f",
+  "context": "",
+  "question": "A business analyst (BA) is working on an initiative to decommission a legacy system and has discovered the requirement ‘’Ability to view policies created m the legacy system for a period of 6 months.’’ How should the BA classify the requirement based on the requirements classification schema?",
+  "options": {
+   "a": "Functional Requirement",
+   "b": "Transition Requirement",
+   "c": "Non-Functional Requirement",
+   "d": "Business Requirement"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "69f697a0-6e32-574a-9fff-d5bfa7929392",
+  "context": "",
+  "question": "Your organization is using a plan-driven approach to business analysis.\nWhat must you do with all of the communication documents created as part of this high-priority project that you are serving as the business analyst for?",
+  "options": {
+   "a": "All formal communication must be destroyed once the project is completed.",
+   "b": "All communications must be documented and passed onto the solution's project manager for analysis and to serve as supporting detail.",
+   "c": "The communications management plan will dictate what will happen to the business analysis communications.",
+   "d": "ll communications must be archived and will become part of the organizational process as sets."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b5aaf71f-02a4-5989-9702-8ddffb53dfdc",
+  "context": "",
+  "question": "When does the lessons learned document is updated?",
+  "options": {
+   "a": "At planning phase.",
+   "b": "At execution phase.",
+   "c": "t closing phase.",
+   "d": "Throughout the project lifecycle."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "484a3d3b-ca8d-5c39-97d6-170eb896d280",
+  "context": "",
+  "question": "Which one of the following is the most accurate definition of the solution scope?",
+  "options": {
+   "a": "Defines what must be delivered in order to meet the business need.",
+   "b": "Determines the things that are believed to be true in the solution but they have not yet been proven to be true.",
+   "c": "Determines if an organization can justify the investment required to deliver the proposed solution.",
+   "d": "Defines the business need, identified key stakeholders, describes the positive impact of the solution."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "29cfe53d-42b2-51f9-9d40-e0f6b264d15e",
+  "context": "",
+  "question": "Ben is the business analyst for his organization. Ben is currently working on a solution to improve a laser printer. He has taken the laser printer apart, identified each component, and documented each component's purpose. What type of requirements organization is Ben doing in this scenario?",
+  "options": {
+   "a": "Process modeling",
+   "b": "Data modeling",
+   "c": "Functional decomposition",
+   "d": "Scope modeling"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "21dd037b-c884-5062-b0e8-81a3ae2dd086",
+  "context": "",
+  "question": "A business analyst (BA) is planning for an upcoming solution based on a signed contract with a client but has learned that one of the key subject matter experts is unavailable during the first half of the business analysis phase. The project has a tight timeline and firm deadline that is part of the contract. There are no substitutes for the key subject matter expert. How should the BA proceed?",
+  "options": {
+   "a": "Change the solution scope by removing the subject matter expert's component and obtain approval on the new scope",
+   "b": "Reduce the schedule to coincide with the subject matter expert's availability and reduce the formality for requirements",
+   "c": "Document the contract terms as a risk and adjust the contract costs to plan for the changes/rework",
+   "d": "Identify the missing stakeholder as a risk and recommend an adaptive approach for the analysis phase"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "41d3b337-d32a-5321-9fb9-a6c3f68affd4",
+  "context": "",
+  "question": "Which one of the following terms is not a business analysis planning and monitoring approach?",
+  "options": {
+   "a": "Structured walkthroughs",
+   "b": "Decision analysis",
+   "c": "Requirements elicitation",
+   "d": "Process modeling"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "7f18cbc7-d4e3-5930-8d09-898485d458e4",
+  "context": "",
+  "question": "Donna is leading a brainstorming session for her organization. She has asked the participants in this group to come up with at least ten ideas for possible solutions to an identified problem. What is the problem with setting the goal as ten ideas for possible solutions in this session?",
+  "options": {
+   "a": "The goal should be to come up with as many solutions as possible, not just ten ideas.",
+   "b": "The goal should be to generate ten ideas within a set time period.",
+   "c": "The goal should be to come up with the best solution for the problem, not ten ideas.",
+   "d": "The goal should be to include everyone's input to the solutions."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5958000d-4252-5666-9793-054a41ac8bf1",
+  "context": "",
+  "question": "As part of defining the business analysis approach for a project, the business analyst (BA) identifies the key stakeholders responsible for upcoming activities for the initial phase. The BA emails each of these stakeholders and asks when they can be finished. One stakeholder does not reply, one angrily comments that it is not their job and is too busy, and two respond saying that they do not understand what is being asked of them. What competencies can the BA draw on that would best assist with getting agreement from all these stakeholders?",
+  "options": {
+   "a": "Personal accountability, time management, demonstrated trustworthiness",
+   "b": "Negotiation, conflict resolution, effective communication",
+   "c": "Industry knowledge, solution knowledge, organization knowledge",
+   "d": "Learning, creative thinking, problem solving"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "7d299653-2ca1-557b-a86d-b7ba7f8bf497",
+  "context": "",
+  "question": "Which of the following is not a hygiene agent according to Frederick Herzberg theory?",
+  "options": {
+   "a": "The chance to excel",
+   "b": "Job security",
+   "c": "paycheck",
+   "d": "Clean and safe working conditions"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "df369471-2f02-5ab0-84c3-9d9d78ef95ec",
+  "context": "",
+  "question": "A business analyst (BA) is eliciting requirements to automate existing manual processes for fulfilling end users service requests. There is pressure from management to automate the process quickly using a commercial off-the-shelf (COTS) tool. The COTS solution has various modules including one for service request automation that has yet to be implemented in the organization. What e the BA's first step?",
+  "options": {
+   "a": "Perform a gap analysis to understand missing capabilities",
+   "b": "Implement the COTS tool's modules",
+   "c": "Modify the COTS tool to fit the existing process",
+   "d": "Create a change strategy"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "9c4bb1f4-2e2e-5377-a238-9fefd3faed81",
+  "context": "",
+  "question": "What requirements elicitation technique examines the available information, documentation, records, and history of a solution, organization, or cause to identify relevant information to the current business analysis duties?",
+  "options": {
+   "a": "Benchmarking",
+   "b": "Dataflow diagrams",
+   "c": "Document analysis",
+   "d": "Requirements elicitation"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "6b76b3f8-a20d-5fb5-ad93-fdd120117d28",
+  "context": "",
+  "question": "You are the business analyst for your organization and are preparing for the conduct elicitation activity. You'll need several stakeholders' roles as you prepare for this activity in your organization. Which one of the following stakeholders may be responsible to dictate that a specific process or technique be followed during your requirements elicitation activities?",
+  "options": {
+   "a": "Project manager",
+   "b": "Regulator",
+   "c": "Functional management",
+   "d": "Project sponsor"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4a238cd8-6b12-5a09-a842-f6bb9d9d2774",
+  "context": "",
+  "question": "A business analyst (BA) is capturing the requirements for an application which displays information on a mobile device. The information will be extracted from a database owned by another department within the organization. Which of the following will identify the stakeholder who can approve access to the database?",
+  "options": {
+   "a": "Solution Scope",
+   "b": "Requirements Architecture",
+   "c": "Change Strategy",
+   "d": "Governance Approach"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "bd7173ba-7a21-538a-8487-0d74df928e50",
+  "context": "",
+  "question": "You are the business analyst for your organization and you are completing the verify requirements process. There are eight characteristics each requirement should have: cohesive, complete, consistent, correct, and feasible. Which one of the following four is not a characteristic of a requirement?",
+  "options": {
+   "a": "Functional",
+   "b": "Modifiable",
+   "c": "Unambiguous",
+   "d": "Testable"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "ecc4b518-f9e2-5d6f-a1d3-fcb9dffacf83",
+  "context": "",
+  "question": "A bank moves currency from the mam office to the tranches daily for operational use. To avoid paying overnight interest, the branch** return the currency at the end of the business day. The Bank requires a new inventory management system to account for the whereabouts of the cash at all times A software provider has proposed a heavily customized version of their standard inventory management software. As the project progresses, the business analyst (BA) identifies a number of subtleties that would suggest a fully made to order solution may be a better option for the bank. What inputs does the BA need to perform the analysis?",
+  "options": {
+   "a": "Requirements and business policies",
+   "b": "Needs and business analysis approach",
+   "c": "Change strategy and performance objectives",
+   "d": "Potential value and design options"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "6b559645-51e6-584c-a5b2-f8cfd0bc21d7",
+  "context": "",
+  "question": "A project is implemented using a predictive approach. Unfortunately, a lot of change requests (CR) have been raised. A project manager (PM), who should approve each change request, is overworked. What could the business analyst (BA) propose to make things better?",
+  "options": {
+   "a": "Approve the CRs independently for the PM",
+   "b": "Transfer responsibility from the PM to a project's sponsor",
+   "c": "Revisit the Business Analysis Governance approach",
+   "d": "Decline CRs because of the approach"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "39dd56f3-0815-5288-b3f7-cfa448a876a3",
+  "context": "",
+  "question": "Marcy is the business analyst for her organization. She is completing the business analysis task of defining the business needs. She has the business goals and objectives and the requirements stated documentation. What must she confirm about the requirements stated documentation before defining the business need based on her analysis?",
+  "options": {
+   "a": "The requirements must reflect actual business requirements, not a description of the solutions.",
+   "b": "The requirements must contain no or little risks.",
+   "c": "The requirements must reflect proposed solutions as part of alternative identification.",
+   "d": "The requirements must be compatible with the refinement of the business goals and objectives."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "313edbb6-1347-5be1-b9c1-3f6f3e7b38fc",
+  "context": "",
+  "question": "A team is working on a user privilege and access control system. A business analyst (BA) selects use cases as the technique for requirements specification. What is the relationship between use cases \"Create a role\" and \"Find a role\" when there is a high level of formality?",
+  "options": {
+   "a": "Validate",
+   "b": "Derive",
+   "c": "Necessity",
+   "d": "Satisfy"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "1fb7c21c-d3ab-5544-9d49-c17c7565edbe",
+  "context": "",
+  "question": "You are the business analyst for your organization. Gary and Janet, two key stakeholders in the project, are in disagreement over a requirement for the type of software to be installed on the server your solution calls for.\nWhat must happen in this instance before formal approval can be offered?",
+  "options": {
+   "a": "The conflict will need to be resolved through research, resolution, or through a third-party mediation.",
+   "b": "Gary and Janet will need to determine who has seniority in the company to determine which requirement takes precedence.",
+   "c": "The conflict will need to be removed from the solution scope until Gary and Janet come to a solution.",
+   "d": "The business analyst will need to make a decision on which requirement is most appropriate."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "086af5b1-31c3-5042-b06b-a196edaff2ad",
+  "context": "",
+  "question": "What type of interview is the most common as part of requirements elicitation?",
+  "options": {
+   "a": "Many-to-one",
+   "b": "Many-to-many",
+   "c": "One-to-one",
+   "d": "One-to-many"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "45c7e3ae-73cb-58e8-9255-50fb2cdacf14",
+  "context": "",
+  "question": "Your organization needs to adapt to the change economy, new technologies, and an increase in competition in order to survive. They've asked you to complete a business analysis approach that will help them change their organizational policies in order to achieve their goals and objectives. What business analysis technique has this organization asked you to complete?",
+  "options": {
+   "a": "Focus groups",
+   "b": "Business rules analysis",
+   "c": "Brainstorming",
+   "d": "Root cause analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "379fd0ab-56be-5b2a-9767-6308e655dd5f",
+  "context": "",
+  "question": "You are the business analyst for your organization and are creating the solution scope definition. Which of the following should be included in the solution scope definition?",
+  "options": {
+   "a": "Business case",
+   "b": "Technical dependencies",
+   "c": "Elicitation techniques",
+   "d": "Organization readiness assessment"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "05b0fa21-ea44-51e8-b4c7-e473c2da075e",
+  "context": "",
+  "question": "You are the business analyst for your organization and are working with Ralph who is also a business analyst at your company. You have moved one of the requirements higher in the prioritization of the requirements because it is needed to be implemented before some of the more important requirements are done. Ralph disagrees with your placement of the requirement because you are to rank the requirements based on their level of difficulty.\nWho is correct and why?",
+  "options": {
+   "a": "Ralph is correct because the requirements are always to be ranked by importance or business value.",
+   "b": "You are correct because the lower priority requirements must be completed before the higher priority requirements can be done.",
+   "c": "You are correct because you are the senior business analyst.",
+   "d": "Ralph is correct because the sequence of requirements is actually done with the project activity list."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d2b6478f-a21b-5a84-b94b-d78d18c29783",
+  "context": "",
+  "question": "Which of the following techniques involves attempting to make and numerically determine the probability of various adverse events and measuring the likely extent of the losses?",
+  "options": {
+   "a": "Risk analysis",
+   "b": "Qualitative risk analysis",
+   "c": "Risk assessment",
+   "d": "Quantitative risk analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d2d6c09a-4fd3-5ad6-b4e8-409915dfe407",
+  "context": "",
+  "question": "You are creating the solution scope for an identified problem in your organization. You are working with several stakeholders during this process including the domain subject matter expert, the implementation subject matter expert, the project manager, and the sponsor. Which of these stakeholders will be responsible for writing the project scope?",
+  "options": {
+   "a": "Domain subject matter expert",
+   "b": "Business analyst",
+   "c": "Project manager",
+   "d": "Sponsor"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "6d1882bf-5406-5c92-a1dc-afb51fe523c9",
+  "context": "",
+  "question": "Mark is the business analyst for his organization. He is working with the solution development team and he believes that the team does not want to implement a certain portion of the requirements. The team is expressing the difficulty of the requirements and how it will be extremely challenging to complete. When Mark asks about a similar project that the team completed, they insist that this is a different type of requirements though Mark believes that it is not. What is the solution development team appearing to do to the requirements?",
+  "options": {
+   "a": "Change the prioritization of the requirements based on the past project.",
+   "b": "Change the prioritization of the requirements based on overstated complexity of the project work.",
+   "c": "Get the requirements removed from the project scope.",
+   "d": "Have the business analyst report the difficulty of the project work to the project customer."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "28b0481d-186d-5e02-b4b4-43ef6372cd43",
+  "context": "",
+  "question": "Which of the following meeting brings all of the potential vendors together to discuss the statement of work and the request for proposal?",
+  "options": {
+   "a": "Contract bidding meeting",
+   "b": "Status meeting",
+   "c": "Qualified vendors meeting",
+   "d": "Bidders conference"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "77343860-45ff-5569-be5d-9b286d1fba60",
+  "context": "",
+  "question": "A business analyst (BA) is assigned to a project which has two main stakeholders: a highly regulated government agency and a less formal private company. To select the business analysis approach, the BA mi! conduct a meeting with representatives from each entity to decide on the level of formally needed for requirements and design specifications. During the meeting, what should the BA’s strategy be?",
+  "options": {
+   "a": "Develop consensus on a tailored approach for formality",
+   "b": "Use a formal approach to appeal to the government entity's higher authority",
+   "c": "Employ the standard business analysis level of formality",
+   "d": "sk the government entity to accept a flexible collaborative approach"
+  },
+  "image_paths": []
+ }
+]

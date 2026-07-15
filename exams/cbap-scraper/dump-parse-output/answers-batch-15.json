@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "b89c4b48-1b7e-5156-bbf0-ed91e916b0f7",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "A Work Breakdown Structure is a visual, deliverable-oriented decomposition of the total scope of work, breaking scope into work packages that also drive identification of the resources needed to create the defined deliverables. In BABOK v3 this decomposition concept aligns with 10.22 Functional Decomposition, where work and deliverables are broken into component parts for estimation and planning (3.2 Plan Business Analysis Approach).",
+  "wrong_reasons": {
+   "a": "A resource breakdown structure decomposes only the resources (by category/type), not the program scope itself.",
+   "b": "A product breakdown structure decomposes only the product components, not the work and resources needed to create them.",
+   "c": "BCWS (planned value) is an earned value cost baseline measure, not a visual decomposition of scope."
+  }
+ },
+ {
+  "question_id": "4bf808f3-f8ea-5bf7-a71a-adacc0ef4429",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Relying solely on informal, undocumented communication risks information being lost, misunderstood, or never reaching all stakeholders, leaving requirements ambiguous. BABOK v3 (3.4 Plan Business Analysis Information Management and 4.5 Manage Stakeholder Collaboration) stresses that business analysis information must be captured and communicated in a form and level of formality that keeps requirements clear, complete, and shared consistently.",
+  "wrong_reasons": {
+   "a": "Informal communication carries real risks of lost or ambiguous information; it is not a risk-free preferred technique.",
+   "b": "Direct stakeholder-to-team communication is a collaboration pattern, not the core documented risk of informality.",
+   "d": "Confusion over who is in charge is a governance issue, not the primary danger of informal communications."
+  }
+ },
+ {
+  "question_id": "f5af89a0-0223-59e7-916f-70ab40fe1910",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "This is a break-even (payback) comparison under BABOK v3, 10.20 Financial Analysis. Building costs $16,000 more up front ($65,000 - $49,000) but saves $500 per month in support ($6,100 - $5,600); $16,000 / $500 = 32 months. Therefore building in-house is financially better only if the solution is used longer than 32 months.",
+  "wrong_reasons": {
+   "a": "If kept fewer than 32 months, the vendor option is cheaper, so building would be the wrong choice.",
+   "c": "The initial and ongoing costs given are sufficient to compute the 32-month break-even point.",
+   "d": "Beyond 32 months the vendor's higher monthly support makes buying the more expensive option."
+  }
+ },
+ {
+  "question_id": "f0dca5c9-f4fb-55ff-bd4b-651807ac3d5f",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.33 Prioritization describes timeboxing/budgeting as prioritizing requirements based on the amount of work the team can deliver within a set period of time (timeboxing) or a fixed amount of money/resources (budgeting). Since the criterion here is a given period of time, this is time boxing, applied while Planning Business Analysis Governance (3.3).",
+  "wrong_reasons": {
+   "a": "Negotiation is a facilitated agreement approach among stakeholders, not a capacity-per-time-period prioritization basis.",
+   "b": "Grouping classifies requirements into related categories rather than by delivery capacity in a time period.",
+   "d": "Budgeting prioritizes against a fixed amount of money or resources, not a fixed period of time."
+  }
+ },
+ {
+  "question_id": "b5a422bb-ab8d-5a8e-ba44-5e596708c51d",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "A control chart is the quality control tool that plots process results over time against control limits to track trends and detect whether execution is in or out of control. This aligns with BABOK v3, 10.28 Metrics and Key Performance Indicators, where trend measurements are used to monitor and manage performance.",
+  "wrong_reasons": {
+   "b": "A RACI chart assigns roles and responsibilities; it has nothing to do with quality trends.",
+   "c": "A PERT chart is a schedule network/estimation diagram, not a quality control chart.",
+   "d": "A Pareto chart ranks causes of defects by frequency; it does not track trends over time."
+  }
+ },
+ {
+  "question_id": "f2a2c6f2-13c8-53fe-b3bb-f4fd2eafc824",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "A feasibility study examines multiple solution alternatives and analyzes, with supporting data and statistics, how each could deliver the expected business benefit against the business need. In BABOK v3 this analytical comparison of options supports Recommend Actions to Address Business Needs / Define Change Strategy (6.1-6.4) and is closely related to 10.7 Business Cases and 10.16 Decision Analysis.",
+  "wrong_reasons": {
+   "b": "A vision statement is a brief aspirational description of the desired future, not a data-driven analysis of alternatives.",
+   "c": "A project scope statement defines project boundaries and deliverables, not comparative solution alternatives.",
+   "d": "A current state assessment describes the existing environment (BABOK v3, 6.1), not future solution options and their benefits."
+  }
+ },
+ {
+  "question_id": "9c35128d-8682-5798-a4f8-25a48108f148",
+  "correct_letter": "b",
+  "confidence": "low",
+  "explanation": "At the start of an initiative the BA works with subject matter experts to plan how information will be elicited; per BABOK v3, 4.1 Prepare for Elicitation, the output of this preparatory work is the elicitation activity plan (scope, techniques, logistics, and supporting materials for upcoming elicitation activities). Detailed models of the process come later, after elicitation is conducted and results are confirmed.",
+  "wrong_reasons": {
+   "a": "An entity relationship diagram models data structures, which are not produced from an initial planning meeting about a delivery process.",
+   "c": "A current state flowchart is produced after conducting and confirming elicitation of the process, not from the initial preparatory meeting.",
+   "d": "The information management approach is an output of Plan Business Analysis Information Management (3.4), a planning task, not of a meeting with process experts."
+  }
+ },
+ {
+  "question_id": "b17766c9-49bb-5963-a305-7118aba4981c",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "A RACI chart (Responsible, Accountable, Consulted, Informed) explicitly tracks the roles and responsibilities of everyone involved in a task. BABOK v3 describes this under 10.39 Roles and Permissions Matrix and uses RACI in 10.43 Stakeholder List, Map, or Personas for defining stakeholder involvement.",
+  "wrong_reasons": {
+   "a": "A pie chart shows proportional data distribution, not responsibilities.",
+   "b": "A line chart shows trends over time, not role assignments.",
+   "d": "A Gantt chart shows schedule and task durations, not who holds which responsibility type."
+  }
+ },
+ {
+  "question_id": "5dacdf54-41f2-5b43-9ffc-dc6e8d388f3c",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "The scope statement is the document that communicates, from the program-level perspective, a clear understanding and statement of the technical objectives and the end products, services, or results of the work to be performed. This parallels BABOK v3 solution scope concepts in 6.4 Define Change Strategy and 10.41 Scope Modelling, where scope statements articulate the boundaries and deliverables of the change.",
+  "wrong_reasons": {
+   "b": "A preliminary scope statement is only an early, high-level draft before the detailed scope is defined.",
+   "c": "The program WBS decomposes the scope into work packages; it is a decomposition, not the narrative statement of objectives.",
+   "d": "The program charter authorizes the program and names the sponsor; it does not provide the detailed technical scope statement."
+  }
+ },
+ {
+  "question_id": "e0f653d9-bde8-5917-be64-9fd5dfc1c33b",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "A business process model captures the activities of the business, showing the inputs and outputs of each activity, the sequence of work, and the roles/resources required to perform each activity. This matches BABOK v3, 10.35 Process Modelling (and 10.34 Process Analysis), which describe processes end-to-end with their inputs, outputs, and performers.",
+  "wrong_reasons": {
+   "a": "A business scenario describes one particular situation or path of usage, not all business activities with their inputs/outputs.",
+   "c": "Business architecture is a higher-level view of capabilities and structure, not an activity-by-activity input/output model.",
+   "d": "A business case justifies an investment (BABOK v3, 10.7); it does not model activities and resources."
+  }
+ },
+ {
+  "question_id": "5621fb7a-2139-53e8-8872-354e5fcff413",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "A stakeholder likely to react negatively is an elicitation risk. BABOK v3, 4.1 Prepare for Elicitation lists 10.38 Risk Analysis and Management as a technique to identify and manage conditions that could disrupt the elicitation activity, allowing the BA to plan mitigations (e.g., pre-meeting, facilitation tactics) before the workshop.",
+  "wrong_reasons": {
+   "a": "The elicitation activity plan is an output of preparation, not the technique for analyzing and mitigating a disruption threat.",
+   "b": "Collaborative games foster engagement but do not analyze or mitigate the identified risk of a hostile attendee.",
+   "c": "A stakeholder list identifies who is involved; it does not assess or treat the risk of disruption."
+  }
+ },
+ {
+  "question_id": "fefc3846-752a-5443-a896-3ed143c285f1",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Two days of observation is a very small sample, and BABOK v3 warns that assessments must guard against drawing conclusions from insufficient or unrepresentative data. Under 7.7 Analyze Potential Value / 8.1 Measure Solution Performance and 10.31 Observation, the BA should conduct further analysis (more observation periods, additional data sources) to validate findings before recommending changes.",
+  "wrong_reasons": {
+   "a": "Verifying expected versus perceived value comes after reliable performance data exists; the data here is not yet trustworthy.",
+   "c": "Proposing organizational changes based on two days of observation acts on potentially false conclusions.",
+   "d": "Benchmarking against other companies is premature when the internal measurement itself is statistically insufficient."
+  }
+ },
+ {
+  "question_id": "e526c0ae-91a2-56b5-ae3f-92c174ddb49b",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "The scope management plan defines how the project scope will be defined (created), executed, monitored and controlled, and validated. This governance-of-scope concept parallels BABOK v3, 3.3 Plan Business Analysis Governance, which establishes how scope and requirement changes will be proposed, controlled, and approved.",
+  "wrong_reasons": {
+   "a": "There is no standard 'scope variance plan'; variances are handled within scope monitoring and control.",
+   "c": "A staffing management plan addresses human resource acquisition and release, not scope.",
+   "d": "A schedule management plan governs the timeline, not scope creation and validation."
+  }
+ },
+ {
+  "question_id": "459eb19a-8256-54ca-90f1-9bcca4e97f8f",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 10.34 Process Analysis, inefficiencies arise at points of delay, waiting, and hand-offs between automated and manual steps. The loading stage is reactive: the automated line raises an alarm and then halts until an operator loads 100 cards, so every alarm creates idle time that stops the entire downstream process, making it the most likely source of process inefficiency (a bottleneck).",
+  "wrong_reasons": {
+   "b": "Packaging is automated and runs continuously, so it introduces minimal variability or waiting.",
+   "c": "Sorting is manual but occurs at the end of the line and does not stall upstream stages when it slows.",
+   "d": "Printing is automated; its throughput is constrained by loading, not by itself."
+  }
+ },
+ {
+  "question_id": "30d6d769-fdde-5e0c-b612-91ac7a5657e2",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "BABOK v3, 3.2 Plan Stakeholder Engagement (and 10.43 Stakeholder List, Map, or Personas) warns that failing to identify a key stakeholder means their needs surface late; the newly discovered stakeholders may hold requirements that force additions to the scope or invalidate requirements already elicited and approved, causing rework and change.",
+  "wrong_reasons": {
+   "a": "Stakeholders are not made to pay for their requirements; this is not a recognized consequence.",
+   "b": "Extra learning time is a minor inconvenience, not the principal danger to the initiative.",
+   "c": "Late-identified stakeholders are not excluded from future decisions; the real risk is the impact of their new requirements."
+  }
+ },
+ {
+  "question_id": "9e57f27e-e891-576c-ab2e-eb7e1d753107",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "A change-driven (adaptive/agile) business analysis approach focuses on rapid delivery of business value in short iterations, with requirements detail elaborated just-in-time and higher tolerance for change. BABOK v3, 3.1 Plan Business Analysis Approach contrasts this adaptive approach with the predictive (plan-driven) approach.",
+  "wrong_reasons": {
+   "a": "Risk-driven is not one of the BABOK approach types; risk tolerance is only one planning consideration.",
+   "c": "'Risk-laden' is not a business analysis approach at all.",
+   "d": "'Profit-driven' is not a BABOK-defined approach classification."
+  }
+ },
+ {
+  "question_id": "76875cf3-2d0a-5bfc-9c0b-df6c862ac06e",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "An invitation for bid (like an RFP, RFQ, or RFI) is a procurement document used to solicit offers from prospective sellers. BABOK v3 discusses soliciting and evaluating vendor proposals in 10.49 Vendor Assessment; the other options are planning or initiation artifacts, not procurement documents.",
+  "wrong_reasons": {
+   "a": "A WBS is a scope decomposition tool, not a solicitation document.",
+   "b": "A project charter authorizes the project internally; it is not sent to vendors.",
+   "c": "A vision document describes the desired future state, not a procurement solicitation."
+  }
+ },
+ {
+  "question_id": "7714fb70-5f29-55f7-901c-cd40e170a765",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.13 Data Flow Diagrams describes modelling how data moves through a system: external entities, processes that transform the data, data stores, and data flows, with processes decomposed into progressively lower levels (level 0, 1, 2...) until the system is fully described from input to storage. That is exactly the scenario given.",
+  "wrong_reasons": {
+   "a": "Functional decomposition (10.22) breaks work or functions into parts but does not model the movement of data.",
+   "c": "'Work decomposition' relates to WBS-style breakdown of work, not data movement.",
+   "d": "Organizational modelling (10.32) depicts organizational units and reporting lines, not data flows."
+  }
+ },
+ {
+  "question_id": "43e78d3f-26e9-5fd4-b9c0-c29fe8f4a1ad",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.32 Organizational Modelling notes that formal org charts do not capture the informal lines of authority, influence, and communication that determine how work actually gets done. The BA validated the solution only against the formal hierarchy; the poor adoption indicates the informal relationships among stakeholders were not considered.",
+  "wrong_reasons": {
+   "a": "Reporting needs concern information/reports produced, not why stakeholders declined to adopt the solution.",
+   "b": "Manager-to-staff ratios affect spans of control, not solution adoption behavior.",
+   "d": "Structural complexity relates to how elaborate the hierarchy is; the BA already conformed to the formal structure."
+  }
+ },
+ {
+  "question_id": "3e4af319-35a9-5261-bd3c-fd9cdfc5b663",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Examining a proposed solution to determine whether it delivers enough business value to justify implementation is the Assess Proposed Solution task (BABOK v2, 7.1; in BABOK v3 this corresponds to 7.6 Analyze Potential Value and Recommend Solution). It applies whether assessing a single solution's value or ranking multiple options.",
+  "wrong_reasons": {
+   "a": "Define transition requirements addresses capabilities needed to move from the old to the new solution, not value justification.",
+   "c": "Assess organizational readiness evaluates whether the enterprise can adopt the solution, not whether it is worth implementing.",
+   "d": "Allocate requirements assigns requirements to solution components and releases, not value assessment."
+  }
+ },
+ {
+  "question_id": "42ef8291-9d87-539c-a49d-e86f304173a4",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "When prioritizing on the basis of implementation difficulty, requirements are ranked from easiest to most difficult to implement, which helps sequence delivery and often supports early wins and prototyping. This basis for prioritization appears in BABOK v3, 10.33 Prioritization (grounds for prioritization include implementation difficulty) supporting 5.3 Prioritize Requirements.",
+  "wrong_reasons": {
+   "a": "Categorizing by type of work first is not how the implementation-difficulty basis is defined.",
+   "b": "The ranking runs from easiest to hardest, not hardest to easiest.",
+   "d": "Likelihood of management approval is a different (political) criterion, not implementation difficulty."
+  }
+ },
+ {
+  "question_id": "e05029fd-68da-5ed8-aa61-7c3cefee731a",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "Had the BA analyzed the current state (BABOK v3, 6.1 Analyze Current State) and elicited stakeholder needs, the dependency on the existing 'Consolidated Sales by Customer' report would have been identified and preserved when deploying the new report. Understanding the current state and what stakeholders rely on prevents changes from degrading existing value.",
+  "wrong_reasons": {
+   "b": "Solution assessment results exist only after evaluation; the failure was in not understanding the current state and needs beforehand.",
+   "c": "SWOT-style analysis addresses strategic positioning, not a specific functional regression in reporting.",
+   "d": "A balanced scorecard measures enterprise performance dimensions, not report-level dependencies."
+  }
+ },
+ {
+  "question_id": "294bb25f-3969-5028-8f34-d2a3ca54fe59",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "A tornado diagram displays sensitivity analysis results, showing horizontal bars for each variable ordered by the magnitude of their impact on the outcome, which produces the tornado shape. Sensitivity analysis is part of evaluating uncertainty in BABOK v3, 10.16 Decision Analysis and 10.20 Financial Analysis.",
+  "wrong_reasons": {
+   "a": "A decision tree models decision options and probabilistic outcomes (expected monetary value), not variable sensitivity ranges.",
+   "b": "An Ishikawa (fishbone) diagram is a root cause analysis tool (BABOK v3, 10.40).",
+   "c": "An influence diagram shows relationships among decisions and uncertainties, not ranked sensitivity impacts."
+  }
+ },
+ {
+  "question_id": "31f2be12-6e34-5889-a7ce-c1b3f040edbe",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "A presentation is a structured communication in which one or more speakers address a specific topic for an audience, used to communicate business analysis information such as requirements and designs. This aligns with BABOK v3, 4.4 Communicate Business Analysis Information, which includes presentations (group collaboration) as a means to convey a topic to stakeholders.",
+  "wrong_reasons": {
+   "a": "A feedback loop is a response mechanism in a system or process, not a spoken conversation on a topic.",
+   "c": "A survey/questionnaire (10.45) collects written responses; it involves no speakers.",
+   "d": "A formal requirements review (10.37 Reviews) is a structured inspection of work products with defined roles, not simply a conversation on one topic."
+  }
+ },
+ {
+  "question_id": "a02263b0-c99b-5a64-81de-74482aca7481",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 6.1 Analyze Current State, understanding and documenting the current state (e.g., in a current state diagram) reveals how the existing solution works, including its strengths and weaknesses — here, correct billing on actual reads (strength) versus incorrect charges on estimated reads (weakness). This baseline then informs future state discussions (6.2 Define Future State).",
+  "wrong_reasons": {
+   "a": "Needs for the future state are defined in Define Future State, using the current state as input rather than being contained in the diagram itself.",
+   "b": "Cost/benefit measures for a new system come from financial analysis of proposed changes, not the current state diagram.",
+   "d": "A change management plan belongs to change strategy/implementation planning (6.4), not current state analysis."
+  }
+ },
+ {
+  "question_id": "6e71197e-56d9-5c46-9cc2-f09d46a474a4",
+  "correct_letter": "c",
+  "confidence": "low",
+  "explanation": "BABOK v3, 5.1 Trace Requirements defines the relationships derive, depends, satisfy, and validate. F1 (fully charged) and F2 (partially charged) have a dependency relationship: fully charged is effectively the boundary case of the charging capability, so implementing one affects the value/effort of the other (the 'depends' relationship covers necessity and effort subtypes), and neither derives from, satisfies, nor validates the other.",
+  "wrong_reasons": {
+   "a": "Validate links a requirement to a test case or acceptance criterion, which is not the case between two features.",
+   "b": "Derive applies when one requirement is decomposed or derived from another; F1 and F2 are peer alternatives, not derivations.",
+   "d": "Satisfy links a solution component to the requirement it implements, not two functional requirements to each other."
+  }
+ },
+ {
+  "question_id": "4fa54166-3188-57e5-bce5-956c83b8a00f",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "The Assess Proposed Solution task (BABOK v2, 7.1) has three inputs: assumptions and constraints, requirements (prioritized and approved), and solution option(s). Decision analysis is a technique used within the task to compare options, not an input to it.",
+  "wrong_reasons": {
+   "a": "Prioritized and approved requirements are one of the three defined inputs.",
+   "c": "Assumptions and constraints are one of the three defined inputs.",
+   "d": "Solution options are one of the three defined inputs — the alternatives being assessed."
+  }
+ },
+ {
+  "question_id": "c0e6399f-818b-5fd3-bc67-d74253d8a818",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.24 Interface Analysis is the technique for identifying and defining the interfaces between solution components — software-to-software, system-to-database, and application interactions — including inputs, outputs, and interoperability requirements. It directly addresses whether the databases, software, and web application can work together.",
+  "wrong_reasons": {
+   "a": "Benchmarking (10.4) compares practices/performance against peers, not system interoperability.",
+   "b": "Interviews elicit stakeholder knowledge but do not systematically analyze system-to-system interfaces.",
+   "d": "'Usage considerations' is a section within a technique description in BABOK, not an elicitation technique."
+  }
+ },
+ {
+  "question_id": "b229f973-7b97-5dbf-8fd0-bd67829eca9e",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "A repository is the storage mechanism for business analysis information, holding requirements through their lifecycle states — under development, under review, and approved. BABOK v3, 3.4 Plan Business Analysis Information Management describes deciding how requirements and designs will be stored and accessed, with repositories as the standard means.",
+  "wrong_reasons": {
+   "a": "A change management system controls how changes are proposed and approved; it does not store all requirements by state.",
+   "c": "A project scope statement documents scope boundaries, not a storage method for requirements.",
+   "d": "'Requirements register' is not the BABOK term for the storage mechanism; the repository serves this purpose."
+  }
+ },
+ {
+  "question_id": "f35acbe2-e0b7-5037-90f9-8fab6d1b2b94",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Changes to requirements can occur at any time in an initiative; that is precisely why BABOK v3, 3.3 Plan Business Analysis Governance requires the BA to plan an approach for how change requests will be proposed, analyzed, prioritized, and approved throughout the lifecycle. No milestone (scope statement, approval, or change control enactment) prevents change from arising.",
+  "wrong_reasons": {
+   "a": "Changes are not confined to the period before the scope statement; they continue after it exists.",
+   "c": "Changes can be requested even before a formal change control system is in place — which is why governance planning is needed early.",
+   "d": "Stakeholder approval baselines requirements but does not stop further change requests from occurring."
+  }
+ }
+]

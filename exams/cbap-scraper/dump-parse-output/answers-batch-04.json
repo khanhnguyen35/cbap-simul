@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "2f424250-a437-51dc-be2c-9819a18e775b",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "A process configuration is a graphic depiction (flowchart) of processes with their interfaces identified, used to facilitate analysis of how processes interact. This aligns with process modelling concepts (BABOK v3, 10.35 Process Modelling), where flow diagrams show processes and the interfaces between them.",
+  "wrong_reasons": {
+   "b": "A Pareto chart is a histogram ranking causes/categories of defects by frequency, not a flowchart of processes and interfaces.",
+   "c": "A control chart tracks whether a process is within statistical control limits over time; it does not depict process interfaces.",
+   "d": "A quality baseline records the quality objectives of the project; it is not a flowchart."
+  }
+ },
+ {
+  "question_id": "f0f282dc-b2d3-5578-a1ff-e3d0751c9566",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "When a stakeholder group is too large to involve everyone, BABOK v3 (3.2 Plan Stakeholder Engagement; 10.43 Stakeholder List, Map, or Personas) recommends selecting representatives who are authorized to speak for the larger group. A small representative group provides manageable elicitation while still legitimately reflecting the needs of all 2,400 administrative assistants.",
+  "wrong_reasons": {
+   "a": "Assuming a small group's requirements reflect everyone's, without them being designated representatives, introduces unvalidated assumptions and risk of missed requirements.",
+   "b": "Meeting all 2,400 people individually is impractical and unnecessary.",
+   "d": "The managers are not the actual users of the scheduling functions; eliciting only from them would miss end-user needs."
+  }
+ },
+ {
+  "question_id": "d69b1f8a-fa97-5057-a9ac-14d52e827c9f",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK (5.1 Trace Requirements in v3), tracing requirements supports impact analysis, requirements coverage, and requirements allocation. Quality control is a project/quality management activity, not one of the stated purposes of requirements traceability.",
+  "wrong_reasons": {
+   "a": "Impact analysis is a core reason to trace requirements - understanding what is affected when a requirement changes.",
+   "b": "Requirements coverage is a core reason - ensuring each requirement is addressed by solution components and tests.",
+   "c": "Requirements allocation is a core reason - assigning requirements to solution components and releases."
+  }
+ },
+ {
+  "question_id": "a3c5a0d3-84a8-54a3-9404-710a0bcba139",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.24 Interface Analysis is the technique used to identify where, what, why, when, and how information is exchanged between solution components or across solution boundaries, including defining communications protocols between systems. It is the standard technique for specifying system-to-system interfaces.",
+  "wrong_reasons": {
+   "a": "Vertical prototyping explores deep technical slices of functionality; it demonstrates feasibility rather than defining interface protocols.",
+   "c": "Concept modelling (10.11) organizes business vocabulary and the meaning of terms, not system communication protocols.",
+   "d": "System analysis is not a defined BABOK v3 technique."
+  }
+ },
+ {
+  "question_id": "85f0e8ef-540d-5690-9bc9-08a106ce236d",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Opportunity cost is the value of the best alternative forgone. Since the organization chose Project B, the opportunity cost is the value of Project A that was given up: $235,987. This concept appears in financial analysis (BABOK v3, 10.20 Financial Analysis) used in decision making.",
+  "wrong_reasons": {
+   "a": "$331,013 is the difference between the two projects' values, which is not how opportunity cost is calculated.",
+   "b": "Risk quantification is not needed; opportunity cost is simply the value of the alternative not selected.",
+   "d": "$567,000 is the value of the chosen project, not the forgone one."
+  }
+ },
+ {
+  "question_id": "f68ff0a8-d94c-5f54-9804-dbb5006f3f0d",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK (7.1 Specify and Model Requirements in v3), a model is an abstract and simplified representation of reality. Models describe usually simplified, abstracted views of a domain to aid stakeholder understanding of requirements and their relationships.",
+  "wrong_reasons": {
+   "a": "Models represent the domain or requirements, not physical slices of the delivered solution.",
+   "b": "Models simplify reality for all stakeholders' understanding; they do not merely simplify requirements for 'common' stakeholders.",
+   "c": "ROI and other financial mathematics belong to financial analysis, not to models in general."
+  }
+ },
+ {
+  "question_id": "191f7146-c271-5b02-bd58-c2659d0a4906",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Flowcharting (process modelling per BABOK v3, 10.35 Process Modelling) traces the steps of a process and helps analyze how and where a problem occurred by visualizing the sequence of activities and decision points. It is a classic root-cause aid in quality control.",
+  "wrong_reasons": {
+   "a": "Rework is corrective action taken after a defect is found, not an analytical tool for determining cause.",
+   "b": "Trend analysis examines results over time to forecast performance, not how a specific problem occurred.",
+   "d": "A Pareto diagram ranks categories of defects by frequency; it shows which problems occur most, not how a problem occurred."
+  }
+ },
+ {
+  "question_id": "33f9586a-8175-5a38-b515-4d96f54b23b7",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "In BABOK v3, 3.1 Plan Business Analysis Approach, the nature/type of the project or initiative (its size, complexity, risk, and delivery approach) directly shapes which business analysis activities and deliverables are needed and how formal they must be.",
+  "wrong_reasons": {
+   "a": "The BA's experience may influence how work is performed, but it does not define which BA duties the initiative requires.",
+   "b": "The project manager's experience is not a determinant of the business analysis activities needed.",
+   "c": "Completion dates constrain scheduling of activities, not which duties must be performed."
+  }
+ },
+ {
+  "question_id": "b54d30a0-f2c7-55a1-8ac2-5ded30148660",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Develop Project Charter is the process of developing the document that formally authorizes a project or a phase and gives the project manager authority to apply resources. In BABOK v3 terms, the charter formalizes the initiative after strategy analysis defines the business need and solution scope.",
+  "wrong_reasons": {
+   "a": "Define Scope develops a detailed description of the project and product after authorization, not the authorization itself.",
+   "b": "Develop Schedule sequences activities and determines dates; it does not authorize the project.",
+   "d": "Creating the WBS decomposes deliverables into work packages; it occurs after the project is authorized."
+  }
+ },
+ {
+  "question_id": "2144d5bd-22a5-5153-8bde-136e5949c4fd",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "The risk management plan defines how risk activities will be conducted: roles and responsibilities, risk categories, schedules/timing for risk management activities, definitions of probability and impact, and stakeholder risk tolerances. This corresponds to the planning aspect of BABOK v3, 10.38 Risk Analysis and Management.",
+  "wrong_reasons": {
+   "b": "The risk register lists identified risks with their assessments and responses; it does not define categories, schedules, or tolerance definitions.",
+   "c": "Risk analysis is the activity of assessing probability and impact, not the plan defining how risk work is organized.",
+   "d": "A risk response plan documents actions for specific risks, not the overall roles, categories, and tolerances."
+  }
+ },
+ {
+  "question_id": "cc003f20-c12d-59eb-b18e-ddef2370b7a9",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Scope modelling (BABOK v3, 10.41 Scope Modelling) is the technique used to show the boundaries of a solution - what is in scope and what is out of scope - making it the correct choice for defining what the solution will and will not provide. It is a core technique in Define Solution Scope / Define Change Strategy.",
+  "wrong_reasons": {
+   "a": "Interviews elicit information from stakeholders but do not by themselves establish and depict solution boundaries.",
+   "b": "User stories capture stakeholder needs at a fine-grained level; they do not delineate overall solution boundaries.",
+   "c": "Functional decomposition breaks the solution into components for analysis, but its purpose is decomposition, not boundary definition."
+  }
+ },
+ {
+  "question_id": "c2db1f00-148e-5739-b3a4-0a94c0db0cf1",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.1 Plan Business Analysis Approach, predictive (plan-driven) approaches call for significant formality and detail: requirements are defined up front, documentation is formal, and change is controlled to minimize risk. Adaptive approaches, by contrast, favor short iterations and less formality.",
+  "wrong_reasons": {
+   "a": "Prioritization is planned in any approach; diagnosing priorities is not the defining characteristic of plan-driven work.",
+   "b": "Plan-driven approaches minimize and control change; encouraging change describes adaptive/change-driven approaches.",
+   "c": "Daily stand-up meetings are characteristic of adaptive (agile) approaches, not plan-driven ones."
+  }
+ },
+ {
+  "question_id": "2ec221fa-f147-5415-98e1-21bafa57638e",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "A Pareto chart is a quality control histogram that ranks categories of defects by frequency of occurrence, based on the 80/20 principle, helping teams focus on the causes producing the most defects. It is a classic defect-categorization tool referenced in quality management and root cause analysis contexts.",
+  "wrong_reasons": {
+   "b": "A RACI chart maps stakeholder responsibilities (Responsible, Accountable, Consulted, Informed) per BABOK v3 10.43, not defects.",
+   "c": "A Gantt chart shows schedule activities against time, not defect categories.",
+   "d": "A responsibility assignment matrix (RAM) allocates work to resources, not defect analysis."
+  }
+ },
+ {
+  "question_id": "3ce7f0f6-8563-5b42-b51a-0ef05193f7ed",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Variance analysis is the comparison of planned (baseline) results against actual results to identify deviations and their causes. In BABOK v3 this concept underpins Measure and Assess Business Analysis Performance (3.4) and metrics/KPI evaluation (10.28).",
+  "wrong_reasons": {
+   "b": "Cost-benefit analysis compares expected costs against expected benefits of an option, not plan versus actual outcomes.",
+   "c": "Statistical sampling inspects a subset of a population for quality control, not plan-vs-actual comparison.",
+   "d": "Trend analysis examines performance over time to forecast future results, rather than comparing plan to actual at a point."
+  }
+ },
+ {
+  "question_id": "0c09b892-3d8c-5fe7-bab1-c91d072d8790",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "A business case (BABOK v3, 10.7 Business Cases) includes benefits, costs, risk assessment, and results measurement. Results measurement describes how the projected costs and benefits will be assessed and evaluated once the solution is delivered, which is exactly what management requested.",
+  "wrong_reasons": {
+   "a": "Cost-benefit justification covers the projected costs and benefits themselves, but not how they will subsequently be assessed and evaluated.",
+   "b": "Risk assessment addresses uncertainty around the initiative, not measurement of costs and benefits.",
+   "c": "SWOT analysis evaluates strengths, weaknesses, opportunities, and threats; it does not define benefit measurement."
+  }
+ },
+ {
+  "question_id": "7929aa8b-a050-54e8-aa0b-5f0167024a49",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "In BABOK v3, 6.1 Assess Requirements Changes, the impact analysis element directs the BA to consider benefit, cost, impact, schedule, and urgency of a proposed change. Safety concerns are explicitly cited as a factor that can raise the urgency of implementing a change, so urgency is the consideration that applies here.",
+  "wrong_reasons": {
+   "a": "Design is a solution description concern, not a formal impact analysis consideration in 6.1.",
+   "c": "The risk register records risks; it is not one of the impact analysis considerations for assessing a proposed change.",
+   "d": "Cost/benefit analysis is a broader financial technique; the specific 6.1 consideration triggered by safety issues is urgency."
+  }
+ },
+ {
+  "question_id": "9850d362-cf39-5fdc-afbb-0d96458e1757",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Conduct Elicitation (BABOK v3, 4.2) uses techniques such as workshops, document analysis, interviews, observation, brainstorming, prototyping, and surveys. Problem tracking (item tracking in v3, 10.26) is used to manage issues and action items during monitoring activities, not to elicit requirements.",
+  "wrong_reasons": {
+   "a": "Requirements workshops are a core elicitation technique (10.50 Workshops).",
+   "b": "Document analysis (10.18) is a listed elicitation technique for existing materials.",
+   "c": "Interviews (10.25) are one of the most common elicitation techniques."
+  }
+ },
+ {
+  "question_id": "dc6d6e29-e3a6-596c-8d1d-b6ab9e5c6da6",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Requirements suited for reuse are those that remain stable across initiatives (BABOK v3, 5.2 Maintain Requirements, which prepares requirements for long-term reuse). The regular dough is the constant element used every week regardless of the changing topping, so the dough preparation process requirements are the strong reuse candidate.",
+  "wrong_reasons": {
+   "b": "Toppings preparation changes every week with each new topping, so its requirements are unstable.",
+   "c": "Topping recipes are new each week and therefore not reusable requirements.",
+   "d": "This option is not a coherent process and is irrelevant to reuse."
+  }
+ },
+ {
+  "question_id": "f88e2d2f-e61c-5c75-88fe-91101d1d9958",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Organizational modelling (BABOK v3, 10.32 Organizational Modelling) describes roles, responsibilities, and reporting structures of an organization and is used to show how the organizational structure must change - here, consolidating two divisions' work into a single point of contact. It is the technique for highlighting required structural changes in the future state.",
+  "wrong_reasons": {
+   "a": "A current state description documents how things are today; it does not highlight the required structural change.",
+   "b": "Policies and procedures describe business rules and operations, not organizational structure changes.",
+   "c": "Business capability analysis (10.6) assesses what the enterprise can do and performance gaps, not reporting-structure changes."
+  }
+ },
+ {
+  "question_id": "3b5283fd-ed1e-596b-a11a-af137ef305ab",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 6.5 Define Change Strategy and 3.2 Plan Stakeholder Engagement, resistance to change is reduced through communication and by demonstrating visible sponsor/management commitment to the change. Relaying upper management support to stakeholders directly addresses and helps prevent employee discontent.",
+  "wrong_reasons": {
+   "a": "Recording the reaction as a risk documents the problem but does nothing to prevent or reduce the discontent.",
+   "b": "Proposing cultural changes for the whole organization is beyond the BA's role and scope for this initiative.",
+   "c": "Reporting dissenters to management may increase distrust and does not proactively address employee concerns."
+  }
+ },
+ {
+  "question_id": "804db352-e92e-5a67-be06-6e6267bf6768",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Business Analysis Performance Assessment is a guideline of BABOK v3, 3.1 Plan Business Analysis Approach: it provides results of previous assessments that should be reviewed and incorporated into planning. Basing budget and effort estimates on documented historical performance would have made the estimates defensible and helped avoid the project manager's disagreement.",
+  "wrong_reasons": {
+   "a": "A requirements classification schema organizes types of requirements; it has no bearing on estimate credibility.",
+   "b": "The stakeholder engagement approach guides how to collaborate with stakeholders, not how estimates are derived and justified.",
+   "c": "Risk analysis and management addresses uncertainty in the approach, but the objection was to the basis of the estimates, not risks."
+  }
+ },
+ {
+  "question_id": "d558c950-c183-5672-91ca-03593300d4fb",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "A Work Breakdown Structure (WBS) hierarchically decomposes the project scope into smaller, more manageable and controllable components (work packages). BABOK v3 references this decomposition concept in 10.22 Functional Decomposition and in estimation (10.19).",
+  "wrong_reasons": {
+   "a": "A Gantt chart displays the schedule over time; it does not decompose the project into parts.",
+   "b": "A Pareto chart ranks defect causes by frequency; it is a quality tool.",
+   "d": "CPM (critical path method) analyzes schedule dependencies and float, not decomposition of scope."
+  }
+ },
+ {
+  "question_id": "b9e887a6-5f74-5600-bdbf-3a9f0e2293f2",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "'Unambiguous' is the characteristic of requirements quality meaning the requirement can only be interpreted in one way, i.e., it lacks any ambiguity. BABOK v3, 8.1 (and 7.2 Verify Requirements characteristics) lists unambiguous among the characteristics of requirements quality.",
+  "wrong_reasons": {
+   "a": "Understandable means stakeholders can comprehend the requirement, which does not guarantee a single interpretation.",
+   "b": "A User Requirements Document is a deliverable, not a requirement attribute.",
+   "d": "Urgency is an attribute indicating how soon a requirement is needed, unrelated to ambiguity."
+  }
+ },
+ {
+  "question_id": "aec11898-b922-584e-a92b-733add53f80c",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "The trainer works with the project team to understand the solution deliverables and then teaches end users how to use the product. In BABOK v3 stakeholder terms this supports transition requirements and organizational readiness (aligned with the implementation SME role in 2.4 and Solution Evaluation activities).",
+  "wrong_reasons": {
+   "a": "End users receive the training and use the solution; they do not teach others as a defined role.",
+   "b": "A database analyst designs and manages data structures, not user training.",
+   "c": "Stakeholder is a generic category covering anyone affected by the initiative, not the specific training role."
+  }
+ },
+ {
+  "question_id": "40b87c38-4cac-5fc3-a895-2df57a9a5a6b",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "A Request for Proposal (RFP) is the procurement document used to solicit proposals from prospective sellers, who respond with their proposed approach and price. BABOK v3 discusses RFPs in vendor assessment contexts (10.48 Vendor Assessment) and in Define Design Options when solutions are procured.",
+  "wrong_reasons": {
+   "a": "A request for quote (RFQ) solicits price quotations for well-defined goods or services, not full proposals.",
+   "b": "A request for information (RFI) gathers general capability information from vendors before formal solicitation.",
+   "c": "A request for bid seeks sealed price bids where selection is primarily price-based, not proposals."
+  }
+ },
+ {
+  "question_id": "be979aba-2ec7-5584-896a-bb16cc03d634",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "In the BABOK, user stories (v3, 10.48 Use Cases context aside, 10.49 User Stories) briefly describe a stakeholder's objective - who the stakeholder is, what they need, and why - so that the requirements the solution must support can be identified and organized around stakeholder goals.",
+  "wrong_reasons": {
+   "a": "User stories capture objectives and needed value, not an equation of past experiences to requirements.",
+   "b": "User stories are not interview transcripts of stakeholder experiences.",
+   "d": "Recording interviewed stakeholders' anecdotes verbatim is not the user story technique; stories state actor, goal, and benefit."
+  }
+ },
+ {
+  "question_id": "a560d6cc-d439-5a26-9e7d-3181997e49f5",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "The business analysis plan, produced in Plan Business Analysis Approach (BABOK v3, 3.1), defines the scope of business analysis work, its deliverables (which can be organized in a work breakdown structure), the activity list, and effort estimates for the business analysis activities.",
+  "wrong_reasons": {
+   "a": "The project management plan covers the whole project, not specifically the business analysis activities and deliverables.",
+   "b": "An implementation plan addresses deploying the solution, not planning BA work.",
+   "c": "The requirements management plan governs traceability, prioritization, and change control of requirements, not the BA activity WBS and estimates."
+  }
+ },
+ {
+  "question_id": "e4bae9cd-2c19-5974-b3ae-bb833a4cc1d5",
+  "correct_letter": "c",
+  "confidence": "low",
+  "explanation": "The added value of a parcel tracking solution comes largely from qualities of service such as availability, timeliness, accuracy, and performance of the tracking information - these are non-functional requirements (BABOK v3, 2.3 Requirements Classification Schema; 10.30 Non-Functional Requirements Analysis). Focusing on this category ensures the solution delivers the expected value, not just the tracking functions.",
+  "wrong_reasons": {
+   "a": "Transition requirements cover temporary capabilities needed to move to the future state, not the ongoing value of tracking.",
+   "b": "'Process' is not a category in the BABOK requirements classification schema.",
+   "d": "Stakeholder requirements describe needs of stakeholders as a bridge to solution requirements; the value-driving qualities here are non-functional solution requirements."
+  }
+ },
+ {
+  "question_id": "403dfb54-aed9-552f-a833-9cb304a400bd",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In elicitation events such as interviews and workshops, the scribe (recorder) is the participant responsible for documenting the discussion - keeping minutes and details of the conversation - so the facilitator/interviewer can focus on questioning. BABOK v3, 10.50 Workshops and 10.25 Interviews describe this note-taking role.",
+  "wrong_reasons": {
+   "a": "The stakeholder is the interviewee providing information, not the note taker.",
+   "c": "The business analyst typically facilitates and asks questions; dedicated note-taking is delegated to the scribe.",
+   "d": "The end user is a source of requirements, not the person recording minutes."
+  }
+ },
+ {
+  "question_id": "2be35140-a4b5-5d3a-8a97-a1d8fcdb9251",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Risk analysis is the process of identifying and assessing (analyzing) factors that may jeopardize the success of a project or the achievement of goals, and forms the basis for managing them. This matches BABOK v3, 10.38 Risk Analysis and Management, which covers identifying, analyzing, and evaluating risks.",
+  "wrong_reasons": {
+   "b": "Risk identification only finds risks; it does not include assessing them.",
+   "c": "Risk retention is a response strategy of accepting a risk, not identification and assessment.",
+   "d": "Risk communication is sharing risk information with stakeholders, not identifying and assessing risks."
+  }
+ }
+]

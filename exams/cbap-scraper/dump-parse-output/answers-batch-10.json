@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "2849b026-add1-5eee-9690-8eb6e047c89c",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "Problem tracking (called Item Tracking, BABOK v3 10.26, and Problem Tracking in BABOK v2) is the technique for recording, managing, and resolving issues, defects, and problems that could impede requirements work until they are resolved. It ensures problems that must be resolved by certain dates are assigned owners and tracked to closure.",
+  "wrong_reasons": {
+   "b": "Issue tracking is not the named BABOK technique in these options; the exam's terminology is 'problem tracking' (item tracking).",
+   "c": "A requirements traceability matrix traces relationships between requirements, not open problems needing resolution.",
+   "d": "Baselining fixes an approved snapshot of requirements for change control; it does not track problems."
+  }
+ },
+ {
+  "question_id": "a99a62da-86cc-5df1-9e6b-77d3e52e472d",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Lessons Learned (BABOK v3, 10.27) is the technique used to compile and document successes, failures, and improvement opportunities so the team can identify corrective actions and develop skills. In Solution Knowledge Area 8.1 Measure Solution Performance and in assessing BA performance (3.5 Identify Business Analysis Performance Improvements), lessons learned sessions drive improvement of BA processes and competencies.",
+  "wrong_reasons": {
+   "b": "Team restructure is an organizational action, not a BABOK technique for performance improvement.",
+   "c": "Weekly meetings are a communication mechanism, not a technique for identifying improvements and corrective actions.",
+   "d": "Team building improves cohesion but is not a BABOK technique for analyzing performance and corrective actions."
+  }
+ },
+ {
+  "question_id": "c0e67816-6891-53cd-93e1-27e5acac12f4",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Scope creep is the gradual, uncontrolled expansion of the solution or project scope as additional (often unnecessary and unapproved) requirements are added over time. Requirements traceability (BABOK v3, 5.1 Trace Requirements) helps prevent it by ensuring every requirement links back to a business need and the solution scope.",
+  "wrong_reasons": {
+   "b": "Schedule slippage is a time management problem, not scope creep.",
+   "c": "Gold plating is the team adding unrequested extras on its own initiative, a related but distinct concept.",
+   "d": "A shift from the original business case intent describes scope drift/misalignment, not the incremental addition of requirements that defines scope creep."
+  }
+ },
+ {
+  "question_id": "18b3cae8-85c0-5913-8547-4c8f67f4669f",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Creative Thinking (BABOK v3, 9.1.1, under the Analytical Thinking and Problem Solving underlying competency) is about generating new ideas, new concepts, and alternative approaches to solving problems. It explicitly covers generating innovative concepts and challenging assumptions to find alternative solutions.",
+  "wrong_reasons": {
+   "a": "Lateral thinking is not the named BABOK v3 underlying competency; the competency described is creative thinking.",
+   "b": "Brainstorming is an elicitation technique (10.5), not a category of analytical thinking competency.",
+   "d": "Decision Making (9.1.2) is about choosing among options, not generating new ideas."
+  }
+ },
+ {
+  "question_id": "507b08a7-2fb3-5a5f-a5c0-134db3db60ff",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Kinesthetic learners learn best by doing and experiencing the subject matter hands-on. Understanding stakeholder learning styles (visual, auditory, kinesthetic) is part of the BA's interaction and communication skills (BABOK Underlying Competencies) and informs how to facilitate elicitation and communicate information.",
+  "wrong_reasons": {
+   "a": "Reading and pondering describes a reading/writing or reflective learning preference.",
+   "c": "Learning by seeing models or storyboards describes visual learners.",
+   "d": "Needing immediate applicability describes adult-learning relevance, not the kinesthetic style itself."
+  }
+ },
+ {
+  "question_id": "d079720c-8e6c-54f8-b16f-cff540bb409a",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "A known productivity rate (25 workstations per hour) multiplied by the quantity of work is a parametric estimate. In BABOK v3, 10.19 Estimation, parametric estimation uses calibrated parameters and historical rates to calculate effort or duration.",
+  "wrong_reasons": {
+   "a": "Timeboxing is a prioritization approach that fixes a period of time and selects the requirements deliverable within it, not a productivity rate.",
+   "b": "Planning is a general activity, not the name of the rate-based estimating concept.",
+   "d": "'Report project' is not a BABOK estimation concept."
+  }
+ },
+ {
+  "question_id": "9de70e56-255a-5ae6-9c31-21cd7ed7e9b7",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In the timeboxing/budgeting prioritization approach (BABOK, Prioritization technique), the 'All In' method starts with all eligible requirements included and then removes items until the calendar or budget limit (here $450,000) is met. Henry begins with everything on the allowed list and removes requirements, which is exactly the All In approach.",
+  "wrong_reasons": {
+   "a": "Parametric refers to rate-based estimation, not a timeboxing/budgeting approach.",
+   "c": "Selective starts with high-priority items and adds or removes around them, not by starting with everything.",
+   "d": "All Out starts with an empty list and adds requirements until the budget is reached — the opposite of what Henry does."
+  }
+ },
+ {
+  "question_id": "85026c5b-a068-55ec-b990-79343c8d7a26",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "A use case diagram (BABOK v3, 10.47 Use Cases and Scenarios) shows actors (the different user roles) and the functions (use cases) the system provides to them. Comparing the states of the 'User' entity from the state model (10.44 State Modelling) against the use case diagram verifies that every state transition is supported by a defined function for the relevant roles — a model-comparison check used when verifying requirements completeness (7.2 Verify Requirements).",
+  "wrong_reasons": {
+   "a": "A sequence diagram shows message interactions for one scenario over time, not the full set of functions per role.",
+   "b": "'Functional diagram' is not a defined BABOK model for mapping roles to functions.",
+   "d": "A data flow diagram shows data movement between processes and stores, not roles and the functions available to them."
+  }
+ },
+ {
+  "question_id": "2ace687f-0b9d-569e-8c68-69eba451f0d3",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "When documenting textual requirements in Specify and Model Requirements (BABOK, Requirements Analysis / RADD), the text describes the capabilities of the solution, the conditions that must exist for the requirement to operate, and the constraints that may prevent the solution from fulfilling the requirement. Constraints are the third component Wanda must describe.",
+  "wrong_reasons": {
+   "b": "Writing in active voice is a style guideline for expressing requirements, not a component of the requirement's content.",
+   "c": "Describing a situation or problem belongs to the business need, not the textual requirement structure.",
+   "d": "Expressing one requirement at a time is a quality/writing rule, not one of the three content components."
+  }
+ },
+ {
+  "question_id": "ef2aab7e-2618-58ba-bd1c-2aaa7bfe80f0",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "In BABOK v3, 8.4 Assess Enterprise Limitations, the Operational Assessment element examines existing processes, tools, procedures, and skills within the enterprise to determine their ability to adapt to and support the new solution. Reviewing existing processes and tools for adaptability is precisely the operational assessment.",
+  "wrong_reasons": {
+   "a": "Stakeholder impact analysis assesses effects on people (functions, locations, concerns), not processes and tools.",
+   "b": "'Enterprise assessment' is not the named element; the enterprise limitation elements include culture, operational, and stakeholder assessments.",
+   "c": "Organizational (structure) changes assess reporting relationships and org design, not process/tool readiness."
+  }
+ },
+ {
+  "question_id": "761025fc-f1f1-520b-a73b-5fc01cca6962",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "A task that cannot start or finish until another event or deliverable (the inspector's signoff) is complete has a dependency. In BABOK planning (3.1 Plan Business Analysis Approach) and estimation, dependencies between activities constrain the sequence in which work can be performed.",
+  "wrong_reasons": {
+   "a": "An assumption is a factor believed true without proof; the signoff is a required predecessor, not a belief.",
+   "c": "A milestone is a significant point in time; here the signoff is described as a condition the task depends on.",
+   "d": "A constraint is a restriction such as budget or deadline, not a predecessor relationship between activities."
+  }
+ },
+ {
+  "question_id": "27682ad6-b646-5e14-89d6-3b9991435944",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In BABOK v3, 3.1 Plan Business Analysis Approach, the project manager is the stakeholder who reviews the business analysis approach to ensure it is compatible with other project activities, timelines, and the overall project plan.",
+  "wrong_reasons": {
+   "a": "The sponsor authorizes the initiative and resources but does not verify fit with other project activities.",
+   "c": "The customer provides needs and accepts the solution but does not integrate the BA approach with project plans.",
+   "d": "The change control board evaluates proposed changes, not the initial business analysis approach."
+  }
+ },
+ {
+  "question_id": "6497939a-c795-57aa-8e66-0118388c7fc4",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "The project scope statement, the output of the define scope process, documents the product scope description, deliverables, exclusions, and the acceptance criteria — the process and criteria for accepting completed products. This project-management concept complements the BA's solution scope definition (BABOK v3, 6.4 Define Change Strategy / Scope Modelling 10.41).",
+  "wrong_reasons": {
+   "a": "A statement of work describes procured work for a vendor, and is an input, not the define scope output.",
+   "b": "A contract is a procurement document, not the output of define scope.",
+   "d": "The project management plan aggregates subsidiary plans; acceptance criteria for products are documented in the scope statement."
+  }
+ },
+ {
+  "question_id": "b1528f89-fd6d-5cee-ab58-c613a73ed28f",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Crashing is the schedule compression method of adding labor or resources to critical activities to shorten the project duration, usually at increased cost. This is project management vocabulary a BA encounters when working with the project manager on planning trade-offs.",
+  "wrong_reasons": {
+   "a": "Forming is a stage of team development (Tuckman), not schedule compression.",
+   "b": "Storming is also a team development stage, unrelated to duration reduction.",
+   "c": "Rolling wave planning is progressive elaboration of near-term work, not adding labor to compress the schedule."
+  }
+ },
+ {
+  "question_id": "d07fee20-7d7c-50e1-b3ff-e59e297f2f21",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "A sequence diagram (BABOK v3, 10.42 Sequence Diagrams) models how objects or systems interact by passing messages in time order within a scenario. It is the correct model to show technical staff the message interactions among interfacing applications for key business transactions.",
+  "wrong_reasons": {
+   "a": "A process model shows workflow steps and roles, not system-to-system message exchange.",
+   "c": "An activity diagram shows flow of actions and decisions, not time-ordered messages between systems.",
+   "d": "A context diagram shows the solution's external interfaces at a high level but not the message interaction detail."
+  }
+ },
+ {
+  "question_id": "77cc5e47-bff5-5b62-a99f-d7ccb27235ff",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "The level of uncertainty stakeholders are willing to accept is their risk tolerance/appetite, addressed by Risk Analysis and Management (BABOK v3, 10.38). The BA identifies, analyzes, and plans responses to risks to bring residual risk within stakeholders' acceptable levels, alleviating their concerns.",
+  "wrong_reasons": {
+   "a": "Gap analysis compares current and future states; it does not address uncertainty tolerance.",
+   "b": "Financial analysis evaluates costs, benefits, and value, not the treatment of uncertainty per se.",
+   "c": "Requirements analysis structures and specifies needs; it does not manage stakeholders' acceptable uncertainty."
+  }
+ },
+ {
+  "question_id": "f0070fe3-21b2-5b12-bc24-f8e9aee8289d",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "The purpose of Define Requirements Architecture (BABOK v3, 7.4) is to ensure requirements collectively support one another and fully achieve the objectives, without conflicts. Template architectures (7.4, guidelines/tools) provide predefined structures and viewpoints that give a team of BAs a consistent way to organize and relate requirements across a large, cross-functional effort.",
+  "wrong_reasons": {
+   "a": "Process modeling depicts workflows; it does not structure the whole requirements set for mutual consistency.",
+   "b": "Functional decomposition breaks work or solutions into parts but does not verify that requirements support one another.",
+   "d": "A checklist supports quality review of individual deliverables, not an architecture that relates all requirements."
+  }
+ },
+ {
+  "question_id": "855704c2-5398-5e27-9ba1-a4c281a3bdb0",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "A time-scaled schedule network diagram plots activities against a horizontal time axis, so it is always laid out left to right to reflect the chronology of project work. Ordinary network diagrams show logical sequence but are not necessarily drawn against a time scale.",
+  "wrong_reasons": {
+   "a": "An influence diagram shows causal relationships among decisions and uncertainties, with no time axis.",
+   "b": "A project schedule network diagram shows logical dependencies but need not be time-scaled or strictly chronological in layout.",
+   "c": "The arrow diagramming method is a notation for networks (activities on arrows) and is not inherently time-scaled."
+  }
+ },
+ {
+  "question_id": "4ca94bea-7efe-5eab-bbc8-10dbd94b3d89",
+  "correct_letter": "b",
+  "confidence": "low",
+  "explanation": "Per BABOK v3, business analysis information must be communicated in a form and format the audience can understand (4.4 Communicate Business Analysis Information; 3.4 level of abstraction). With stakeholders of varying product expertise, the BA must consider the format in which requirements are written and presented — different views/packaging of the same requirements suit different stakeholder perspectives (7.4 requirements viewpoints).",
+  "wrong_reasons": {
+   "a": "Assessing individual competency restates the situation; the BA acts on it by adapting the requirements format, not by judging people.",
+   "c": "Diagram types are one aspect subsumed by the broader choice of appropriate format for each audience.",
+   "d": "Level of decomposition addresses detail of analysis, not how requirements are presented to varied perspectives."
+  }
+ },
+ {
+  "question_id": "38835fa8-633f-516c-b286-d642dcfb3b54",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "BABOK v3, 8.4 Assess Enterprise Limitations takes as inputs the current state description, the implemented/constructed solution, and the solution performance analysis. Since the BA already has the current state description and the constructed solution exists, the missing required input is the solution performance analysis (the output of 8.2 Analyze Performance Measures).",
+  "wrong_reasons": {
+   "a": "Operational assessment is an element performed within the task, not an input to it.",
+   "b": "Potential value is an input to other Solution Evaluation tasks (e.g., 8.1, 8.3 uses it in v3? no — it is not an input of 8.4).",
+   "d": "Organizational structure is examined during the task's organizational change element; it is not a defined input."
+  }
+ },
+ {
+  "question_id": "766a160b-e91d-5b7a-9fbf-7223964fa865",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "Defining how decisions on changes will be made is Plan Business Analysis Governance (BABOK v3, 3.3), and Survey or Questionnaire (10.45) is one of that task's listed techniques for gathering information about decision-making authorities and approval processes from people across the company.",
+  "wrong_reasons": {
+   "a": "Market analysis examines external market conditions, not internal decision authorities.",
+   "b": "Focus groups elicit attitudes about products or ideas and are not a listed technique for planning governance.",
+   "d": "Cost benefit analysis evaluates financial viability, not who holds decision-making authority."
+  }
+ },
+ {
+  "question_id": "c28193cf-896d-5f21-86ee-089579034b11",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "A horizontal prototype (BABOK v3, 10.36 Prototyping) models a shallow, broad view of the solution's interface and functionality — showing how the site will look and hint at its functions across the interface without implementing the underlying logic. That matches the request for look, basic graphics, and a sense of functionality without the workings behind the interface.",
+  "wrong_reasons": {
+   "a": "'Mock-up prototype' is not a BABOK prototyping category; the wide-but-shallow concept is called horizontal.",
+   "b": "A vertical prototype implements a narrow slice deeply, including the back-end logic — the opposite of what is asked.",
+   "c": "A storyboard is a sequence of sketches showing navigation flow, not an interactive shallow prototype of the interface."
+  }
+ },
+ {
+  "question_id": "c0d542ab-e798-5d65-8eb6-197c57a3eee9",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Distributing a fixed amount of resources (play money) among requirements so priority reflects the amount allocated is a form of voting (dot voting/hundred-dollar test). In BABOK terms this is a collaborative, group decision-making approach to Prioritization (10.33, grouping/ranking with stakeholder consensus).",
+  "wrong_reasons": {
+   "a": "Resource leveling is a schedule technique for balancing resource usage, not requirements prioritization.",
+   "b": "'Confirmation management' is not a BABOK prioritization approach.",
+   "c": "A utility function is a decision analysis construct for modeling preferences under uncertainty, not the allocation game described."
+  }
+ },
+ {
+  "question_id": "68df43a4-369e-52fd-a441-0392a482401d",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "An assumption is a factor believed to be true but not yet confirmed (BABOK v3, Business Analysis Planning / Risk: assumptions and constraints). The vendor's belief that hardware should arrive by December 1 is unverified and outside the team's control — a classic assumption to document and monitor.",
+  "wrong_reasons": {
+   "b": "Windows Vista compatibility is a mandatory condition — a technical constraint/requirement, not a belief.",
+   "c": "A cost ceiling of $99 per license is a budget constraint.",
+   "d": "A cost ceiling of $450 per unit is likewise a constraint, not an assumption."
+  }
+ },
+ {
+  "question_id": "d81204cb-f466-53a0-a902-dd5d264cc2df",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "Priority is a standard requirements attribute (BABOK v3, 3.4 Plan Business Analysis Information Management; 5.3 Prioritize Requirements) indicating relative importance and order of implementation. With interdependent requirements and customer delivery expectations, recording priority ensures requirements are sequenced and delivered according to expected value and dependencies.",
+  "wrong_reasons": {
+   "a": "A unique identifier enables traceability but says nothing about delivery order or expectations.",
+   "c": "Constraints restrict solution options; they are not the attribute governing delivery per customer expectations.",
+   "d": "Acceptance criteria define how a requirement is verified, not when or in what order it is delivered."
+  }
+ },
+ {
+  "question_id": "353551c3-6d05-55f8-8716-2cb2eabebe52",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Prepare for Elicitation (BABOK v3, 4.1) is about ensuring stakeholders, resources, materials, logistics, and schedules are organized and ready for the elicitation activities — defining scope of elicitation, selecting techniques, and setting up logistics. Option C best captures this purpose.",
+  "wrong_reasons": {
+   "a": "Sponsor authorization of resources is a governance/initiation matter, not the definition of preparing for elicitation.",
+   "b": "Selecting techniques is only one element of preparation, not the best overall description of the task.",
+   "d": "Permission from functional management is not how BABOK describes preparing for elicitation."
+  }
+ },
+ {
+  "question_id": "cd54de51-347b-5dc3-9fc8-8c286a2aeac6",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "SMART (Specific, Measurable, Achievable, Relevant, Time-bounded) is the accepted test for assessing business goals and objectives when defining business needs (BABOK, Strategy Analysis / defining business goals and objectives). Time-bounding and relevance directly address a goal's validity and longevity.",
+  "wrong_reasons": {
+   "a": "Functional decomposition breaks solutions or work into components, not goals into quality criteria.",
+   "b": "POLDAT is a framework for categorizing change components (process, organization, location, data, application, technology), not for testing goals.",
+   "d": "Root cause analysis identifies underlying causes of problems, not the quality of stated goals."
+  }
+ },
+ {
+  "question_id": "6e27ef63-fbae-55e2-ae18-7a1e1605d172",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Prioritize Requirements (BABOK v3, 5.3) ranks requirements by relative importance and value so stakeholders know which should be analyzed, developed, and delivered first. Prioritization drives the order of implementation focus and resource allocation.",
+  "wrong_reasons": {
+   "b": "Prioritization ranks requirements; deciding to drop requirements entirely is a scoping/approval decision, not its purpose.",
+   "c": "Risk is only one possible basis for prioritization, not the reason prioritization is performed.",
+   "d": "Prioritization is based on value, cost, risk, and dependencies — not on the author's organizational position."
+  }
+ },
+ {
+  "question_id": "10a30ea9-de6f-5f67-abe0-402df87f6463",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "In Specify and Model Requirements (BABOK v3, 7.1), diagrams are visual representations especially useful for defining boundaries of business domains, categorizing and creating hierarchies of items, and showing components such as data and their relationships for specific audiences. This description matches the diagram format verbatim.",
+  "wrong_reasons": {
+   "b": "'Graphics' is not one of BABOK's defined modelling formats (matrices and diagrams are).",
+   "c": "Matrices represent information with a uniform tabular structure (attributes, traceability), not boundaries and hierarchies.",
+   "d": "A prototype models the solution interface/behavior, not domain boundaries and data hierarchies."
+  }
+ },
+ {
+  "question_id": "df21c47a-668f-5aad-a68d-7b46b0c3c08f",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Prototyping (BABOK v3, 10.36) provides a working or visual model of the solution early, letting the customer and stakeholders visualize the final product before further investment. It is the elicitation technique used to uncover and confirm needs by demonstrating look and behavior.",
+  "wrong_reasons": {
+   "a": "Interface analysis identifies system/user interfaces and interactions, not a visualization of the product.",
+   "b": "Reverse engineering derives specifications from an existing system, which does not exist yet here.",
+   "c": "Observation studies people performing current work; it does not show the future product."
+  }
+ }
+]

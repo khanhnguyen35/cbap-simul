@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "1d6a5ec7-24dd-54c5-acdb-c5ceeb6e5493",
+  "context": "",
+  "question": "There are four inputs to the plan business analysis activities. Which one of the following is not an input to the plan business analysis activities process?",
+  "options": {
+   "a": "List of identified risks",
+   "b": "Organizational process assets",
+   "c": "Business analysis approach",
+   "d": "Stakeholder list, roles, and responsibilities"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "afd285a6-887c-5b21-bb2d-5c1c996786fe",
+  "context": "",
+  "question": "Which of the following processes is used by organizations to set the risk tolerance, identify the potential risks, and prioritize the tolerance for risk?",
+  "options": {
+   "a": "Risk communication",
+   "b": "Risk identification",
+   "c": "Risk analysis",
+   "d": "Risk management"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5eb9ba28-441d-5dfd-9836-35481811a890",
+  "context": "",
+  "question": "A business analyst (BA) is preparing a governance approach. The BA is trying to define the approval process. Which factors should the BA consider?",
+  "options": {
+   "a": "The organizational culture and type of information being approved",
+   "b": "The associated risks of foregoing or delaying an approval",
+   "c": "The formality and rigor of the prioritization process",
+   "d": "The solution performance measures"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4ab041c1-b078-5673-b56a-881f145a94d7",
+  "context": "",
+  "question": "The solutes presented by a business analyst (BA) to the stakeholders eliminated the need to maintain different variations of ship-to-country and location-to-rout* for various freight carriers. Instead, the routing would use a standard carrier code, giving the business me flexibility to just ship to new countries without raising a change request to IT. which was the current road-block to business. What opportunity did the BA present to the stakeholders?",
+  "options": {
+   "a": "Increase efficiencies",
+   "b": "Decrease stakeholder involvement",
+   "c": "increase access to information",
+   "d": "Decrease project timeline"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "dbebe942-62ba-5a8c-bc9d-cf4ce34a021f",
+  "context": "",
+  "question": "Which of the following terms is used to describe a major deliverable or key even in the project used to measure project progress?",
+  "options": {
+   "a": "Project life cycle",
+   "b": "Phase",
+   "c": "chievement",
+   "d": "Milestone"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "1d020e77-a07f-5816-80e4-a1c3be61f2e1",
+  "context": "",
+  "question": "A business analyst (BA) is running a workshop with a group of stakeholders to understand the requirements for a change that the company is planning to implement. What important factor does the BA need to understand to ensure the workshop remains focused on the topic in question?",
+  "options": {
+   "a": "Future state",
+   "b": "Assets",
+   "c": "Scope",
+   "d": "Risk register"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "59ba5a76-caef-5fed-9aa6-6db43fa602f3",
+  "context": "",
+  "question": "There are four inputs to writing the business case as part of enterprise analysis. Which one of the following is not an input to writing the business case process?",
+  "options": {
+   "a": "Business need",
+   "b": "Assumptions and constraints",
+   "c": "Requirements verification",
+   "d": "Stakeholder concerns"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d62e89ca-5d35-548d-949c-ad2881ffcfc4",
+  "context": "",
+  "question": "Several commercial-off-the-shelf (COTS) software packages exist that would enable the business analyst (BA) to meet the needs of the business. For the potential deign options, the Ba included one of the COTS packages as a solution approach What kind of solution approach is this?",
+  "options": {
+   "a": "Outsource",
+   "b": "Exploit",
+   "c": "Create",
+   "d": "Purchase"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "155caee3-3fa9-56c4-9f2e-a36e5fbda474",
+  "context": "",
+  "question": "The performance of a newly implemented document management system is falling significantly short of the measures defined as part of the project. However, the business is recognizing some level of value from the system. The business analyst (BA) considers the only option available to the company to increase performance and determines that the cost of implementing the option is ten times higher than the expected benefits. What should the BA recommend?",
+  "options": {
+   "a": "Continue with the implemented solution",
+   "b": "Retire the implemented solution",
+   "c": "Conduct elicitation",
+   "d": "Plan stakeholder engagement"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "ae90faa5-2acf-5d7c-a185-b0f1f0bbd766",
+  "context": "",
+  "question": "Which conduct stakeholder analysis technique is useful for identifying shared characteristics of a stakeholder group?",
+  "options": {
+   "a": "Surveys",
+   "b": "Scope modeling",
+   "c": "Brainstorming",
+   "d": "Interviews"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "6b77bd5b-dd09-50bc-9da4-fb7972c19282",
+  "context": "",
+  "question": "In a software implementation project, the designated business analyst (BA) has conducted all the elicitation activities and now needs to confirm the elicitation results. What is used by the BA Professional to guide which sources of information and which results are to be compared?",
+  "options": {
+   "a": "Information management approach",
+   "b": "Business analysis plan",
+   "c": "Elicitation activity plan",
+   "d": "Business analysis approach"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "98b81869-2e23-5463-a076-32a91600ab37",
+  "context": "",
+  "question": "The requirements elicitation process requires that the business analyst and team prepare for the requirements elicitation activities. There are three specific inputs that the business analyst will need in preparing for the requirements elicitation. Which of the following is NOT one of the three inputs the business analyst will use as he prepares for requirements elicitation?",
+  "options": {
+   "a": "Solution scope",
+   "b": "Change request",
+   "c": "Business need",
+   "d": "Stakeholder list"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "78a346c8-7d41-53d2-a509-45aa44d6471d",
+  "context": "",
+  "question": "Which of the following types of elicitation allows each stakeholder to freely discuss their role in a particular process?",
+  "options": {
+   "a": "Focus group",
+   "b": "Structured interview",
+   "c": "Quick Interview",
+   "d": "Unstructured interview"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "9fa58533-264f-52ea-98b8-2caa1c859e72",
+  "context": "",
+  "question": "While validating requirements for a software implementation project, the business analyst (BA) needs to identify scenarios that would alter the benefit delivered by a requirement. Which of the following techniques should the BA use to identify such scenarios?",
+  "options": {
+   "a": "Risk Analysis and Management",
+   "b": "Metrics and Key Performance Indicators",
+   "c": "Data Modeling",
+   "d": "Document Analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4e1b4bf2-34eb-5d92-b549-f1280c3aeeb3",
+  "context": "",
+  "question": "The business analyst (BA) has been tasked with assessing and recommending the best solution that fits an organization's need for a new third-party sales tool. What technique would be used for identifying suitable options?",
+  "options": {
+   "a": "Balanced scorecard",
+   "b": "Decision analysis",
+   "c": "Vendor assessment",
+   "d": "Process analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "04fb206b-43f2-542e-a026-d53f78465ed1",
+  "context": "",
+  "question": "The stakeholders are interested in ensuring that expected value is assessed prior to acceptance. To determine if the solution is providing expected value and ensure the accuracy of the measurements, the stakeholders and the business analyst (BA) determine that they need to measure.",
+  "options": {
+   "a": "benefits, penalties, and costs.",
+   "b": "strategy, solution, and scope.",
+   "c": "impacts, problems, and dependencies.",
+   "d": "performance, trends, and variances."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "940bb010-702e-5bf4-8923-a58d90d7335f",
+  "context": "",
+  "question": "You are working with Tom, a key stakeholder, in your business analysis duties. Tom is asking you about the desired outcome for current business opportunity. Which one of the following is NOT an example of a desired outcome?",
+  "options": {
+   "a": "Implement new machinery to complete the work processes faster",
+   "b": "Increase sales",
+   "c": "Reduce costs",
+   "d": "Reduce time to deliver a product or service"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "16ff9ae1-0478-5fb3-ae5f-caeef2c972e4",
+  "context": "",
+  "question": "Which of the following represents the duration of activities against a calendar?",
+  "options": {
+   "a": "Scatter chart",
+   "b": "Gantt chart",
+   "c": "Pie chart",
+   "d": "Pareto chart"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5ad3ed82-bd2d-53d6-9976-37c117ea1bb8",
+  "context": "",
+  "question": "Which of the following roles helps assess the data requirements of a project, identifies data assets, and helps the project team complete data modeling requirements?",
+  "options": {
+   "a": "Database analyst",
+   "b": "End user",
+   "c": "Subject matter expert",
+   "d": "Information architect"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "ffad7860-6d91-52d7-8652-7baf5ca8e58d",
+  "context": "",
+  "question": "Which of the following displays the relative importance of the defects?",
+  "options": {
+   "a": "Pareto diagram",
+   "b": "User Documentation",
+   "c": "Gantt chart",
+   "d": "Flowchart"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "ad6303ae-118f-5244-abbf-5bd33e7b519d",
+  "context": "",
+  "question": "Which of the following chart shows the correlation between project team members and the work they've been assigned to complete?",
+  "options": {
+   "a": "Pie chart",
+   "b": "Responsibility Assignment Matrix (RAM) chart",
+   "c": "Gantt chart",
+   "d": "RACI chart"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "a24ed6e5-c538-55f3-9ff1-b0fce35c800c",
+  "context": "",
+  "question": "You are the business analyst for your organization and preparing to complete the requirements elicitation activities. Your manager wants to know when the requirements elicitation process will be completed. Which of the following responses best describes the nature of the requirements elicitation process?",
+  "options": {
+   "a": "The schedule of the project determines the duration of the requirements elicitation process .",
+   "b": "The duration of the requirements elicitation activities is determined by the willingness of the project stakeholders to contribute to the requirements information.",
+   "c": "The size of the project determines the duration of the requirements elicitation process.",
+   "d": "Eliciting requirements is not a compartmentalized activity."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "0091234b-4aee-5e71-990b-d422ec03fb50",
+  "context": "",
+  "question": "Which of the following describes the actual users who interact with one another, a system, or data moved between two users?",
+  "options": {
+   "a": "Device interface",
+   "b": "User interface",
+   "c": "Data interface",
+   "d": "Communication port"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "3d3985f1-73f2-5a15-930f-0550931791ca",
+  "context": "",
+  "question": "Which of the following is an estimate based on past projects to predict the current cost and/or duration of the current project?",
+  "options": {
+   "a": "Current estimate",
+   "b": "Past project cost",
+   "c": "Past estimate",
+   "d": "Top-down estimate"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "73b2ad16-d340-5f17-a4da-7e8fbce26e84",
+  "context": "",
+  "question": "A local manufacturer that serves about 1000 retail stores is experiencing a slow yet steady decrease of its customer base over the last couple of years. Attributing the situation to increased competition, management has hired a team of sales representatives to attract new clients and promote the manufacturer's products. However, after four months there is still no progress. Management has engaged a business analyst (BA) to investigate this issue. What should the BA do first?",
+  "options": {
+   "a": "Perform market research to identify on which competitive advantages the sales team should focus",
+   "b": "Create a training program to close potential skill gaps for the sales team",
+   "c": "Review historic sales and related data to understand what is happening to the customer base",
+   "d": "Identify appropriate training providers and send out a request for proposal"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "665d4344-0bff-5b29-b336-f084d34e6124",
+  "context": "",
+  "question": "Gary is the business analyst for his organization and he is preparing a presentation about the requirements for a large software development project. Before Gary makes the presentation what should he do as part of his preparation for the presentation?",
+  "options": {
+   "a": "Determine an appropriate format for the presentation.",
+   "b": "Confirm that he has the authority to host the presentation.",
+   "c": "Confirm that the stakeholders have signed off on the requirements.",
+   "d": "Hire a scribe to keep the minutes of the meeting."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "0886f69d-c80f-5e9c-a088-46b64e2e00b3",
+  "context": "",
+  "question": "Which of the following techniques involves coordinating and collaborating with other credible sources in risk?",
+  "options": {
+   "a": "Risk identification",
+   "b": "Risk management",
+   "c": "Risk communication",
+   "d": "Risk analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e4be443e-f75f-5e09-9a1f-eacdfacc17ca",
+  "context": "",
+  "question": "Which one of the following is an example of a non-negotiable demand by a stakeholder during the requirements prioritization session?",
+  "options": {
+   "a": "All requirements are ranked as high",
+   "b": "Communication",
+   "c": "All requirements are prioritized by cost-benefits ratio",
+   "d": "Cost"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b324313d-f5d5-5085-8c6d-2b69d813a504",
+  "context": "",
+  "question": "After releasing its beta version of a travel assistance mobile application, a travel company has received feedback from a public survey proposing new features. The company is struggling with the large number of ideas and would like to make a decision on which to consider in the next implementation cycle. Which of the following considerations should be used first for filtering ideas?",
+  "options": {
+   "a": "Measurability of customer satisfaction",
+   "b": "Cost of implementation",
+   "c": "lignment with solution scope",
+   "d": "Time to market"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "a1cccb77-64b5-54d6-9b9b-5f095ed50ac0",
+  "context": "",
+  "question": "What business analysis element tries to identify as many potential options as possible to meet the business objectives and fill identified gaps in capabilities?",
+  "options": {
+   "a": "Ranking of approaches",
+   "b": "Decision analysis",
+   "c": "Documentation of assumptions and constraints",
+   "d": "lternative generation"
+  },
+  "image_paths": []
+ }
+]

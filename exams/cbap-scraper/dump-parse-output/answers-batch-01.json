@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "666508fb-62bd-536d-87cf-b8721eeb34bb",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "This is a capacity/throughput calculation supporting BABOK v3, 10.40 Process Analysis and root cause of the delivery bottleneck. Required driver-hours = 100 tons / 0.6 tons per hour = 166.7 hours; divided across 15 drivers = 11.1 hours per driver per day, which corresponds to option 11. The exam expects the direct division result (approximately 11 hours).",
+  "wrong_reasons": {
+   "a": "12 hours would yield 108 tons (15 x 0.6 x 12), more than the computed requirement of 11.1 hours.",
+   "b": "9 hours yields only 81 tons (15 x 0.6 x 9), well short of 100 tons.",
+   "c": "10 hours yields only 90 tons (15 x 0.6 x 10), short of 100 tons."
+  }
+ },
+ {
+  "question_id": "3f6b8983-c57f-513a-ab9b-408ec9f5b3bf",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.40 Process Analysis, the potential success rate combines the BA's existing recommendation (checklists eliminate all 55 documentation rejects) with the additional recommendation (verification rejects cut 50%, 38 to 19). New rejects = 19 + 27 + 15 = 61; successes = 450 - 61 = 389; 389/450 = 86.4%, i.e. approximately 86%.",
+  "wrong_reasons": {
+   "b": "83% does not result from any consistent combination of the two recommendations on the origination data.",
+   "c": "70% is the current success rate before any improvement.",
+   "d": "74% results from halving verification rejects only, ignoring that the documentation checklist recommendation is already in place ('additional' recommendation)."
+  }
+ },
+ {
+  "question_id": "b68cf39e-492b-5e4a-9744-134b180792d3",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "This applies BABOK v3, 7.6 Analyze Potential Value and Recommend Solution / 10.7 Business Case cost analysis against the firm $3.5M budget. For the new system, the first 5 features cost 420K + 900K + 610K + 655K + 875K = $3.46M, the only option within $3.5M.",
+  "wrong_reasons": {
+   "a": "New system with first 8 features costs $6.2M, far over the $3.5M budget.",
+   "b": "Upgrading System A with the first 8 features costs $4.155M, over budget.",
+   "c": "Upgrading System B with the first 8 features costs $4.065M, over budget."
+  }
+ },
+ {
+  "question_id": "3fff50ee-e4fa-5d66-8dcf-c3900689c9bd",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.20 Financial Analysis, a sunk cost is money already invested that cannot be recovered and should not influence future decisions. The CFO resists replacing the old trucks because of the investment already made in them, a classic sunk cost bias.",
+  "wrong_reasons": {
+   "a": "Maintenance cost is the ongoing upkeep expense, not the rationale for refusing replacement.",
+   "b": "Operating cost refers to day-to-day running expenses, not the past investment driving the resistance.",
+   "c": "Opportunity cost is the value of forgone alternatives, not the already-spent investment in the trucks."
+  }
+ },
+ {
+  "question_id": "75363cb1-acb8-5f0d-9ed3-2f5535145c3a",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.38 Risk Analysis and Management, risk exposure = probability of occurrence x impact. Power surges: 0.5 x $20,000 = $10,000, the highest expected negative impact (natural disasters $3,000; human errors $2,700; system security $6,400).",
+  "wrong_reasons": {
+   "a": "Natural disasters have exposure of only 0.2 x 15,000 = $3,000.",
+   "c": "Human errors have exposure of 0.9 x 3,000 = $2,700, the lowest despite high probability.",
+   "d": "System security has exposure of 0.4 x 16,000 = $6,400, less than power surges."
+  }
+ },
+ {
+  "question_id": "cc5d15e3-3655-5bbb-a58f-aec2e304b9e2",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.30 Non-Functional Requirements Analysis, scalability is the ability of a solution to handle increased workload. System B 'could easily handle double the number of claims that System A processes' while System A 'would be at capacity', so System B supports scalability over System A.",
+  "wrong_reasons": {
+   "a": "Usability favors System A, which claim processors love because it is easy to use.",
+   "b": "Compatibility (co-existence with other systems) is not differentiated between the two systems in the scenario.",
+   "d": "Compliance is not supported by either system; neither supports the upcoming regulatory features."
+  }
+ },
+ {
+  "question_id": "649d97d6-9354-5c19-9a13-94c1e7eee2b7",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.16 Decision Analysis, this technique formally assesses and compares alternative options against criteria (cost, capacity, flexibility) under uncertainty to select the best course of action. Choosing which system is better suited for upgrade is exactly a comparison of decision alternatives.",
+  "wrong_reasons": {
+   "a": "Risk analysis assesses uncertainty and risks, but does not by itself compare and rank the alternative systems against decision criteria.",
+   "b": "Stakeholder analysis identifies stakeholders and their attitudes/influence, not which system to upgrade.",
+   "c": "Process analysis assesses a business process for improvement opportunities, not the choice between solution alternatives."
+  }
+ },
+ {
+  "question_id": "9a39c457-b356-5874-bd59-6d2c6941ceef",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.47 Use Cases and Scenarios, an 'include' relationship is used when a use case mandatorily invokes another use case as part of its flow. Since two-factor authentication MUST be passed before executing either function, both base use cases include 'Pass a two-factor authentication', with the dashed <<include>> arrows pointing from the base use cases to the included use case, as shown in Option D.",
+  "wrong_reasons": {
+   "a": "Option A shows plain generalization-style arrows from the authentication use case to the others, which does not express mandatory invocation.",
+   "b": "Option B uses <<extend>>, which models optional behavior, and the arrow direction (from extending to base) would mean authentication optionally extends the functions, not that it is mandatory.",
+   "c": "Option C uses <<Protect>>, which is not a standard UML use case relationship."
+  }
+ },
+ {
+  "question_id": "fa601dc5-e09f-5844-9a8e-08969b4940cf",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.6 Benchmarking and Market Analysis and 10.40 Process Analysis, the improvement benchmark is any process with less than 75% success. Only the mortgage origination process (315/450 = 70%) falls below the 75% threshold; payments (87.5%) and closures (80%) do not.",
+  "wrong_reasons": {
+   "a": "The mortgage payment process has an 87.5% success rate, above the 75% benchmark.",
+   "c": "The mortgage closure process has an 80% success rate, above the 75% benchmark.",
+   "d": "Collateral verification is a reject reason within origination, not one of the three business processes reviewed."
+  }
+ },
+ {
+  "question_id": "62cda900-28b9-55d2-8c78-f7fd81c61d9d",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Applying the BA's recommendation (documentation checklists eliminate documentation rejects, BABOK v3, 10.40 Process Analysis context): the closure process's 3 documentation rejects are removed, leaving 3 rejects out of 30 transactions. Successes rise to 27/30 = 90%.",
+  "wrong_reasons": {
+   "b": "85% would require 25.5 successes, which does not match eliminating the 3 documentation rejects.",
+   "c": "10% is the new reject rate (3/30), not the success rate.",
+   "d": "20% is the current reject rate (6/30), not the new success rate."
+  }
+ },
+ {
+  "question_id": "5dc1103a-7b6e-5065-b027-b547c3f4b3c9",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "In the BABOK task of defining solution scope (BABOK v2, 5.4 Define Solution Scope, carried into v3's Strategy Analysis / Define Change Strategy 6.4), the elements are the solution scope definition, the implementation approach, and dependencies. A work breakdown structure is a project management decomposition artifact, not an element of solution scope definition.",
+  "wrong_reasons": {
+   "b": "Implementation approach is an explicit element describing how the solution will be delivered (phases, releases).",
+   "c": "Solution scope definition is the core element describing capabilities in scope.",
+   "d": "Dependencies between capabilities and external factors are an explicit element of solution scope."
+  }
+ },
+ {
+  "question_id": "765fba72-966b-51b2-b35a-0da4dde062a1",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.20 Financial Analysis, opportunity cost is the value of the best alternative forgone when a decision is made. By selecting Solution A, the organization gives up Solution B, so the opportunity cost is Solution B's value of $565,000.",
+  "wrong_reasons": {
+   "b": "The scenario provides enough information; opportunity cost is defined as the forgone alternative's value.",
+   "c": "$109,000 is merely the difference between the two values, not the definition of opportunity cost.",
+   "d": "$456,000 is the value of the chosen solution, not the forgone one."
+  }
+ },
+ {
+  "question_id": "0dd79559-3997-5157-8dec-366a8bd8deb3",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.22 Functional Decomposition, this technique breaks down a solution scope, processes, or deliverables into smaller, more manageable components/work products. Decomposing the solution scope into smaller deliverables is functional decomposition.",
+  "wrong_reasons": {
+   "a": "Interface analysis (10.24) identifies interactions between solutions/systems, not scope decomposition.",
+   "b": "Scope modeling (10.41) defines the boundaries of scope (in/out), not its hierarchical breakdown into deliverables.",
+   "c": "A vision statement summarizes the desired future state; it does not decompose scope into work products."
+  }
+ },
+ {
+  "question_id": "7fe91bd4-0144-50de-9487-0f04244e9063",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 8.5 Recommend Actions to Increase Solution Value, when components do not contribute value to the final product, the BA should recommend eliminating waste, such as removing or minimizing interfaces and activities that add no value directly or indirectly.",
+  "wrong_reasons": {
+   "a": "Consolidating to a single solution addresses redundancy across solutions, not non-value-adding activities within this solution.",
+   "b": "Automation changes how work is done but does not address activities that add no value at all; automating waste is still waste.",
+   "d": "Retiring the whole solution is disproportionate; only specific non-contributing elements need removal."
+  }
+ },
+ {
+  "question_id": "9f9299eb-f3f2-5ac2-a82e-b128867bc176",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Communication channels are calculated as n(n-1)/2, a formula used when planning stakeholder engagement and communication complexity (BABOK v3, 3.2 Plan Stakeholder Engagement). With 65 stakeholders: 65 x 64 / 2 = 2,080 channels.",
+  "wrong_reasons": {
+   "b": "4,160 is 65 x 64 without dividing by 2, double-counting each channel.",
+   "c": "4,225 is 65 squared, which is not the channels formula.",
+   "d": "65 is just the number of stakeholders, not channels."
+  }
+ },
+ {
+  "question_id": "bb426a55-9444-5dbc-86da-1164dff72139",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 4.2 Conduct Elicitation and 10.36 Prototyping, when stakeholders cannot articulate future-state needs, experiential elicitation with a working solution is effective. Using the configurable solution in a test environment with actual data respects the sponsor's approach while still eliciting genuine user feedback to derive customization requirements before production deployment.",
+  "wrong_reasons": {
+   "a": "Deploying directly to production and surveying afterwards risks repeating the previous failed adoption and delays discovery of gaps until after go-live.",
+   "c": "Collecting requirements only from the sponsor and SMEs ignores the end users whose non-adoption caused the current problem.",
+   "d": "Insisting on interviews contradicts the sponsor's stated direction instead of adapting the elicitation approach to the situation."
+  }
+ },
+ {
+  "question_id": "034e7ea8-9a48-5f19-a516-833eff996d48",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 3.1 Plan Business Analysis Approach (element: Timing of Business Analysis Work), timing is affected by the availability of resources. Here the key resources, the solution consultants who need the BA's data and customization requirements, are part-time, 7 hours ahead, and on-site only during two fixed one-week trips, so BA work must be timed around their availability.",
+  "wrong_reasons": {
+   "a": "Stakeholder buy-in influences engagement and change strategy, not the scheduling of BA tasks.",
+   "b": "Previous deployments inform the approach content, but this branch's constraints, not past projects, drive timing.",
+   "d": "The overall three-month schedule is a general constraint, but within it the specific driver of when BA work can occur is the consultants' limited availability windows."
+  }
+ },
+ {
+  "question_id": "e2d67475-090a-5a5e-a69c-3054cba54661",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 3.4 Plan Business Analysis Information Management and 7.1 Specify and Model Requirements, business analysis information should be organized so it is useful and understandable to the stakeholders who will consume it. Since the branch has its own distinct PGA user role definitions, structuring the customization requirements around those roles best supports validation and use by the branch's stakeholders.",
+  "wrong_reasons": {
+   "b": "Generic 'best practices' ignore the specific organizational context, which BABOK says should drive information structure.",
+   "c": "The consultants' catalog is inconsistently organized (partly tasks, partly features) and does not match the branch's context.",
+   "d": "The scenario indicates the branch uses its own approach differing from the catalog; no suitable corporate standard for these customization requirements is indicated."
+  }
+ },
+ {
+  "question_id": "ee1f8ff9-fe50-5f95-9d33-3e45a887d439",
+  "correct_letter": "c",
+  "confidence": "low",
+  "explanation": "Per BABOK v3, 3.4 Plan Business Analysis Information Management, requirements attributes should be maintained with the requirements in a single organized repository to support traceability, reuse, and change management. Adding the needed attributes (source, reason, complexity, priority) to the existing requirements catalog and to the changed requirements keeps one authoritative source rather than fragmenting the information.",
+  "wrong_reasons": {
+   "a": "Rewriting all requirements independent of the solution design addresses abstraction for reuse but does not answer how to capture and manage the additional attributes.",
+   "b": "A change management system tracks change requests, not the full attributed requirements set for reuse.",
+   "d": "Creating a separate new workbook duplicates information and splits the repository, harming traceability and maintenance."
+  }
+ },
+ {
+  "question_id": "e552159a-5490-58fb-a84b-53a6d38c7f74",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "This is a total cost of ownership comparison (BABOK v3, 10.20 Financial Analysis). Three-year totals: Company A = 323,458 + 270,092 + 205,000 implementation (28,500 + 55,000 + 121,500) = 798,550; Company B = 373,555 + 202,806 + 225,000 (150 x 1,500) = 801,361; Company C = 400,244 + 214,096 + 214,650 (159 x 1,350) = 828,990. Only Company A falls under the stated budget cap, making it the vendor that meets the criteria.",
+  "wrong_reasons": {
+   "a": "Companies B (801,361) and C (828,990) are the two most expensive totals and exceed the budget.",
+   "b": "Company B's total of 801,361 exceeds Company A's and the budget cap.",
+   "d": "Company C's total of 828,990 is the highest of all three vendors."
+  }
+ },
+ {
+  "question_id": "33eb1bdf-6dcc-5359-9752-23d5c48c0be6",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.21 Focus Groups, a focus group is a pre-qualified group session used to elicit ideas, attitudes, and perceptions about a specific product, service, or opportunity, and is explicitly suited to evaluating a prototype. Eliciting stakeholders' perceptions, ideas, and attitudes about the prototypes matches this definition exactly.",
+  "wrong_reasons": {
+   "a": "Decision analysis compares alternatives against criteria; it does not elicit group attitudes and perceptions.",
+   "b": "Prioritization ranks requirements by importance; it is not an elicitation technique for perceptions.",
+   "c": "Brainstorming generates new ideas rather than gathering feedback and attitudes about an existing prototype."
+  }
+ },
+ {
+  "question_id": "30fe5320-9f07-53ca-aae6-76df2f9acf93",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 5.3 Prioritize Requirements, regulatory or policy compliance is a basis for prioritization that may take precedence over other stakeholder interests, since non-implementation results in penalties. The BA should inform stakeholders that the regulatory requirement takes precedence over the conflicting prioritized requirements.",
+  "wrong_reasons": {
+   "a": "Trading off value against a regulatory fine treats mandatory compliance as optional; compliance is not merely a cost-benefit choice, especially for risk-averse stakeholders.",
+   "b": "Comparing the requirement to the recommended solution does not resolve the prioritization conflict with stakeholders.",
+   "c": "Working around a regulatory requirement is inappropriate and exposes the organization to penalties."
+  }
+ },
+ {
+  "question_id": "6a7a5b0f-e4a2-5ab0-a097-44da440d65d2",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.1 Plan Business Analysis Approach, in a predictive (plan-driven) approach the majority of business analysis work occurs at the beginning of the project or during one specific project phase, with requirements defined up front to minimize uncertainty.",
+  "wrong_reasons": {
+   "a": "A change-driven (adaptive) approach spreads business analysis work iteratively throughout the initiative.",
+   "b": "'Value-driven' is not a BABOK planning approach category for timing of BA work.",
+   "d": "'Requirements-driven' is not a BABOK-defined approach; the predictive/plan-driven vs adaptive/change-driven distinction applies."
+  }
+ },
+ {
+  "question_id": "930eb352-4f87-50c8-a3d2-340bd3d9ed58",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 3.1 Plan Business Analysis Approach, the approach should be tailored to the needs of the initiative, considering size, complexity, risk, and organizational standards, often based on proven organizational process assets. For a $5M, five-country, simultaneous go-live initiative, a proven and tailored analysis approach is appropriate.",
+  "wrong_reasons": {
+   "a": "A purely agile/iterative approach fits evolving scope with incremental releases, not a fixed, single-moment, all-country big-bang go-live.",
+   "b": "'Waterfall and dynamic' combines contradictory paradigms and is not a coherent BABOK approach.",
+   "c": "'Kanban and predictive' likewise mixes an adaptive flow method with a predictive label incoherently."
+  }
+ },
+ {
+  "question_id": "7efb0a91-101f-5a4b-821b-05be49bc6642",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "The Work Breakdown Structure is the hierarchical, visual decomposition of the total project scope into smaller work packages, referenced in BABOK v3 under 10.22 Functional Decomposition and estimation techniques. It decomposes project scope, whereas other structures decompose products or resources.",
+  "wrong_reasons": {
+   "a": "BCWS (planned value) is an earned value cost baseline measure, not a decomposition of scope.",
+   "b": "A Resource Breakdown Structure decomposes resources by category, not project scope.",
+   "c": "A Product Breakdown Structure decomposes the product/deliverables, not the full project scope of work."
+  }
+ },
+ {
+  "question_id": "16789da0-2bb4-57b8-8d26-efdc750fa543",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 5.1 Trace Requirements, the 'satisfy' relationship links an implementation element (solution component) to the requirement it fulfills. To find all solution components that must be implemented for the regulatory requirements, the BA traces the satisfy relationships.",
+  "wrong_reasons": {
+   "b": "'Dependency' (necessity/effort) links requirements to each other, not requirements to implementing components.",
+   "c": "'Validate' links a requirement to test cases used to verify it, not to solution components.",
+   "d": "'Derive' links a requirement to a lower-level requirement derived from it, not to implementation elements."
+  }
+ },
+ {
+  "question_id": "03ff1624-e578-5e07-831b-9fe8960d3db1",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.3 Plan Business Analysis Governance, the governance approach defines how changes are proposed, assessed, prioritized, approved, and how decisions and change outcomes are communicated to stakeholders. It is also an input/guideline to 5.4 Assess Requirements Changes, so the newly assigned BA should consult the governance approach.",
+  "wrong_reasons": {
+   "a": "A stakeholder communications plan is not the BABOK v3 artifact governing change decisions; change decision communication is defined in the governance approach.",
+   "b": "The business case justifies the initiative; it does not define change communication processes.",
+   "c": "Business policies define organizational rules of operation, not project change decision communication."
+  }
+ },
+ {
+  "question_id": "bdbff3ad-a28e-5a02-9bf0-028466a40e51",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 5.5 Approve Requirements and 4.3 Confirm Elicitation Results, before requirements are approved the BA must ensure stakeholders have a shared, correct understanding of them; approval is only meaningful when stakeholders understand what they are approving. Communicating requirements to build understanding precedes securing approval.",
+  "wrong_reasons": {
+   "a": "Stakeholders' ability to pay for the solution is a business case/funding matter, not a prerequisite of requirements approval.",
+   "b": "The project manager's input does not substitute for stakeholder understanding and approval of requirements.",
+   "c": "Blanket sign-off without confirming understanding invites approval of misunderstood requirements; also only designated stakeholders with authority approve, not necessarily all."
+  }
+ },
+ {
+  "question_id": "0a70338c-34ca-5af7-b7a2-9b1e7392d280",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.17 Data Flow Diagrams, a DFD shows the movement and transformation of data between external entities, processes, and data stores. The sponsor's request for a model demonstrating movement and transformation of data between entities and processes matches this technique's definition directly.",
+  "wrong_reasons": {
+   "a": "An entity relationship diagram (10.13 Data Modelling) shows static data entities and relationships, not data movement through processes.",
+   "b": "Scope modeling shows boundaries of the solution/change, not data flows.",
+   "c": "Process modeling shows sequence of activities and flow of work, whereas the request is specifically about data movement and transformation."
+  }
+ },
+ {
+  "question_id": "f21252bd-9cb6-5994-ae93-c29b839bd94b",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "In standard project initiation practice (referenced in BABOK v3's project context and PMBOK alignment), the project charter is the first document created after the work is awarded and the statement of work is received; it formally authorizes the project. Scope statement, WBS, and WBS dictionary are all produced later during planning.",
+  "wrong_reasons": {
+   "a": "The WBS is created during scope planning, after the charter and scope statement exist.",
+   "b": "The WBS dictionary is created after the WBS itself.",
+   "c": "The project scope statement is developed during planning, after the project charter authorizes the project."
+  }
+ }
+]

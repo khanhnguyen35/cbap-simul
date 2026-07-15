@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "5147deab-f2c8-56a1-8942-69bdd12df26b",
+  "context": "",
+  "question": "Which of the following roles approves the project scope statement, phase gate reviews, solution validations, scope changes, and project success criteria?",
+  "options": {
+   "a": "Project manager",
+   "b": "Subject matter expert",
+   "c": "Solution owner",
+   "d": "Stakeholder"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "91920947-ea9f-5445-9534-faa506d40cdb",
+  "context": "",
+  "question": "You are the business analyst for the NHQ Project. You have identified several stakeholders that need different types of information related to the requirements. Which stakeholder would need detailed technical interface requirements?",
+  "options": {
+   "a": "Project manager",
+   "b": "Regulators",
+   "c": "Testers",
+   "d": "Implementation subject matter experts"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "46417b4a-6655-5a7e-9478-c2736a361237",
+  "context": "",
+  "question": "A conservative company with rigorous risk control plans and internal audit rules has a recurrent problem with a core Business application. As a result access to this application must be restricted and controlled and maintenance must be on-site. However the company feels that the application must have an emergency service team. The routine maintenance of this solution is provided by an external vendor and the vendor requested 24 hours remote access to quality and production data. In this context what is the company's response to the vendor's request?",
+  "options": {
+   "a": "Dented because of the company’s risk aversion",
+   "b": "Accepted, because the company has an urgent problem to solve",
+   "c": "Denied- because the vendor requested it",
+   "d": "ccepted, because immediate remote access will resolve any issue"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "02e22dc6-0e0c-5751-9286-2dd6713bd2bd",
+  "context": "",
+  "question": "You are the business analyst for your organization. You are working with several IT professionals to determine all of the connected systems in your organization. You are creating a mapping of the servers, workstations, printers, and other connected devices and their purposes for an analysis of how information is input, processed, stored, and output from each system.\nWhat business analysis process are you completing?",
+  "options": {
+   "a": "Networking topology mapping",
+   "b": "Data dictionary and glossary creation",
+   "c": "Data flow diagram",
+   "d": "Prototype"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "17622ccc-968a-5899-b709-7455cf4626d2",
+  "context": "",
+  "question": "Mary is the business analyst for your organization. She asks you what the purpose of the assess capability gaps task is.\nWhich of the following is the best response to give Mary?",
+  "options": {
+   "a": "It identifies new capabilities required by the organization to meet the business need.",
+   "b": "It identifies the causal factors that are contributing to an effect the solution will solve.",
+   "c": "It describes the ends that the organization wants to improve.",
+   "d": "It identifies the skill gaps in the existing resources."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e0785f74-2861-55b3-ae30-e6a7b84d60ae",
+  "context": "",
+  "question": "A business analyst (BA) is preparing to specify requirements. Various attributes can be specified for each requirement or set of requirements. Which approach contains a suitable set of attributes?",
+  "options": {
+   "a": "Stakeholder Engagement",
+   "b": "Information Management",
+   "c": "Business Analysis",
+   "d": "Governance"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c5d35803-9d8a-5470-ae35-dd02a76f5491",
+  "context": "",
+  "question": "A business analyst (BA) was presenting requirements to all stakeholders, after having reviewed, structured and organized the requirements. The requirements were being presented in the form of multi layered business process models, using standard notations with proper sequencing of tasks. During the presentation, the project manager points out a few of the missing, inconsistent, and contradictory requirements. What did the BA fail to perform?",
+  "options": {
+   "a": "Use template architecture",
+   "b": "Develop the solution scope",
+   "c": "ccommodate requirement viewpoints",
+   "d": "Ensure completeness Answer: D Explanation:"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "317d2332-7552-58e6-a865-43c1ed8a54d5",
+  "context": "",
+  "question": "Following a recent, successful deployment a business analyst (BA) has noticed that several of the requirements are candidates for reuse in multiple, upcoming change initiatives. Which type of requirement is a potential candidate for re-use?",
+  "options": {
+   "a": "Transition requirements",
+   "b": "Stakeholder requirements",
+   "c": "Business requirements",
+   "d": "Non-Functional requirements"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "aef4f5f5-5362-5f9f-ae17-f98b788b80d5",
+  "context": "",
+  "question": "You are the business analyst for the NHQ Organization. Management has asked that you examine the workflow and internal processes for order fulfillment. Specifically, they'd like you to complete an in-depth analysis and documentation of the business problems and opportunities that may be exist for the organization.\nWhat business analysis knowledge area does this activity map to?",
+  "options": {
+   "a": "Requirements elicitation",
+   "b": "Solution assessment and validation",
+   "c": "Enterprise analysis",
+   "d": "Requirements management and communication"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "802ffc62-f35c-51f2-8dc9-dc20c88d8d71",
+  "context": "",
+  "question": "Herb is the business analyst for the HYY Organization. As Herb is completing the organize requirements process he recognizes that requirements typically need to answer one QUESTION NO: for identification. What is the one interrogative that requirements should answer?",
+  "options": {
+   "a": "What",
+   "b": "When",
+   "c": "Why",
+   "d": "How"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "beace87b-a531-56f8-960f-d56c1637a805",
+  "context": "",
+  "question": "During a requirements review, the implementation subject matter expert (SME) identified the requirement 'parsing of data' that must be implemented before other requirements. The business analyst (BA) has given this requirement high priority. What factor influenced the prioritization of the requirement?",
+  "options": {
+   "a": "Data Dictionary",
+   "b": "Constraint",
+   "c": "Dependencies",
+   "d": "Risk"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "7fe35488-859d-5611-b284-1d255d7a1893",
+  "context": "",
+  "question": "A business analyst (BA) working on a recently implemented project is approached by the sponsor to provide artifacts that can be used organization wide for the long -term. Which of the following should the BA provide?",
+  "options": {
+   "a": "Transition requirements document",
+   "b": "Project solution architecture",
+   "c": "High-level business requirements document",
+   "d": "Process models"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5a86c435-c87b-5c32-9e0d-b1ce5ca740b5",
+  "context": "",
+  "question": "A team of business analysts (BAs) were assigned to review an enhancement request that would involve changes in a stockroom and the inventory of products. The changes will impact several groups of people and the amount of savings is in excess of $1 million dollars. The recommended process improvement will be presented to management for approval.\nWhat should the team do first?",
+  "options": {
+   "a": "Create a business case",
+   "b": "Produce an organizational model",
+   "c": "Define the change strategy",
+   "d": "Validate the cost savings"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d6e3246f-1547-5f5a-b2ba-4646058c0834",
+  "context": "",
+  "question": "Which of the following is described in the statement below?\n\"It shows the history and pattern of variation. It is a line graph that shows data points plotted in the order in which they occur. They show trends in a process over time, variation over time, or declines or improvements in a process over time. Trend analysis is performed using them.\"",
+  "options": {
+   "a": "Cause and effect diagram",
+   "b": "Histogram",
+   "c": "Run chart",
+   "d": "Pareto chart"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "becf27d9-caa8-5449-9baa-6c70f5c6b2a3",
+  "context": "",
+  "question": "A business analyst (BA) is facilitating a meeting between process owners to capture the business rules for a workflow solution. One of the attendees expresses a strong opinion that the solution will not deliver the expected value.\nHow will the BA ensure the process owner remains engaged and will support the change?",
+  "options": {
+   "a": "Update the requirements",
+   "b": "Record the feedback and continue",
+   "c": "Review the future state",
+   "d": "Change the governance approach"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "7c168641-7a3f-51e8-acdf-8cfc5638f889",
+  "context": "",
+  "question": "A business analyst (BA) has been given a defect during user acceptance testing. After analyzing the defect, the BA determines it is a change in the requirement. What does the BA need to do to assess the change?",
+  "options": {
+   "a": "Close the defect \"working as designed\"",
+   "b": "Evaluate the risk analysis and management information",
+   "c": "Perform a root cause analysis",
+   "d": "Conduct an impact analysis using traceability"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "1f084d64-dde6-500e-9dd0-733ff15a7e90",
+  "context": "",
+  "question": "Which of the following authorizes the project to exist within the organization?",
+  "options": {
+   "a": "Project charter",
+   "b": "Project network diagram",
+   "c": "Project integration management",
+   "d": "Project boundaries"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "78a565be-b53d-5edd-a6f7-53afa2e543ef",
+  "context": "",
+  "question": "One of the processes within requirements analysis is to prioritize requirements. As a business analyst why would you ever want to prioritize requirements?",
+  "options": {
+   "a": "You may need to determine the cost of each requirement.",
+   "b": "You may need to determine the schedule for each requirement.",
+   "c": "You may need to determine which requirements are most critical so the analysis and implementation efforts focus on the most critical requirements.",
+   "d": "You may need to determine which requirements are most critical so additional risk analysis can be completed on those requirements."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c6e856cc-80b5-50f4-9608-f43ce73d2ead",
+  "context": "",
+  "question": "Which of the following component of the communication model is responsible for transferring the message between two or more entities?",
+  "options": {
+   "a": "Sender",
+   "b": "Medium",
+   "c": "Decoder",
+   "d": "Receiver"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5de06767-ab7f-59e8-97a9-970932657bf5",
+  "context": "",
+  "question": "Which of the following can be used in root cause analysis?",
+  "options": {
+   "a": "Pareto chart",
+   "b": "Data-flow diagram",
+   "c": "Gantt chart",
+   "d": "Fishbone diagram"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4f1a40e6-0cda-5d63-adb0-7ce8435b00af",
+  "context": "",
+  "question": "are timeless events that show progress in the project. These are typically achieved at the end of phase in the project lifecycle.",
+  "options": {
+   "a": "Achievements",
+   "b": "Millstones",
+   "c": "Phases",
+   "d": "Templates"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "148710c6-5d24-5455-aeeb-fc7b7695c821",
+  "context": "",
+  "question": "A business analyst (BA) finds that the proposed solution has features used by a small group of stakeholders for business scenarios which may occur up to three times a year Out require a high effort to implement. What should the BA recommend in this cast?",
+  "options": {
+   "a": "Change the related business process",
+   "b": "Remove the requirement",
+   "c": "ssign it a lower priority for future release",
+   "d": "Deliver as part of the initial release"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "8aae2518-e14f-5f7f-a71d-2d92c4f5f4ad",
+  "context": "",
+  "question": "Which one of the following business analysis planning and monitoring techniques can be used to define and document the business analysis approach?",
+  "options": {
+   "a": "Process modeling",
+   "b": "Structured walkthrough",
+   "c": "Decision analysis",
+   "d": "Control charts"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "bdbf6228-9e54-5be6-b536-e2f025479344",
+  "context": "",
+  "question": "Which of the following is a table of all stakeholders showing the mapping of which stakeholders will contribute information to other stakeholders?",
+  "options": {
+   "a": "RACI Chart",
+   "b": "Communications Requirements Matrix",
+   "c": "Project scope statement",
+   "d": "Organizational Breakdown Structure"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "1638ee5e-9b27-5a5d-9d9c-80a9f05c10e5",
+  "context": "",
+  "question": "Bob and Susan are business analysts for their organization. They are examining two materials that could be used in an upcoming project. They are testing the materials and measuring the results of each test to compare the materials to each other. This process will help Bob and Susan determine which material is best for their upcoming project. What type of process are Bob and Susan completing with these materials?",
+  "options": {
+   "a": "Feasibility study",
+   "b": "Stress test",
+   "c": "lternative identification",
+   "d": "Benchmarking"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "ef003260-2695-56f9-9cdc-b7c26c76bd5a",
+  "context": "",
+  "question": "A large company has thousands of geographically dispersed employees and dozens of IT systems. Multiple business analysts (BAs) work in parallel on various requirements with different stakeholders. When considered in isolation, the requirements look meaningful and valuable to those who approved them. However, when it comes to implementation, some of the requirements appear to be contradicting each other. A lead BA recognizes that adding some traceability information would help uncover such conflicts early in the process. To what should the BA trace the requirements?",
+  "options": {
+   "a": "Stakeholder tasks",
+   "b": "Business needs",
+   "c": "Organizational functions",
+   "d": "Solution components"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "6c28aa5c-47ca-5f40-9b9e-482f4426af9d",
+  "context": "",
+  "question": "Martha is observing Sarah complete several complex steps as part of her business analysis requirements elicitation process. In this instance Martha working alongside Sarah is actually helping Sarah complete the work so that Martha can understand all of the steps Sarah must complete. What type of requirements elicitation technique is Martha using?",
+  "options": {
+   "a": "Progressive elaboration",
+   "b": "Shadowing",
+   "c": "Cross training requirements elicitation",
+   "d": "ctive observation"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e983eeef-5151-5e06-bc26-19346d75557b",
+  "context": "",
+  "question": "Which one of the following statements best describes requirements prioritization?",
+  "options": {
+   "a": "It determines how requirements will be prioritized based on the most important stakeholders to the least important stakeholders.",
+   "b": "It is only used with the change-driven approach to business analysis.",
+   "c": "It is only used with the plan-driven approach to business analysis.",
+   "d": "It determines how requirements will be prioritized and how those priorities will be used to define the solution scope."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "9fd23a17-0072-52ec-8cf6-8bb9740226e1",
+  "context": "",
+  "question": "All of the following are techniques that can be used to specify or model requirements except for which one?",
+  "options": {
+   "a": "Organization modeling",
+   "b": "Data modeling",
+   "c": "Work breakdown structure creation",
+   "d": "State diagrams"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f724b8fe-ed7d-5901-9bed-0be5ef85ac45",
+  "context": "",
+  "question": "What portion of the communications model could be defined as the translator?",
+  "options": {
+   "a": "Receiver",
+   "b": "Medium",
+   "c": "Translator",
+   "d": "Sender"
+  },
+  "image_paths": []
+ }
+]

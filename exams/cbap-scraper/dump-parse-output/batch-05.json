@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "094b9174-9180-5d3b-8957-9d13d6b7d75c",
+  "context": "",
+  "question": "Several risks were identified for an upcoming change initiative. One risk is related to a slippage concern because of loose gravel at the local site of the change initiative. The business analyst (BA) has recommended that all on-site stakeholders must wear durable, slip-resistant boots while the change initiative is being executed. This is an example of which type of risk treatment?",
+  "options": {
+   "a": "Transfer",
+   "b": "Mitigate",
+   "c": "Accept",
+   "d": "Avoid"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f4cfc526-34c7-5091-93d9-61b0e053e6c3",
+  "context": "",
+  "question": "An organization has a procedure for receiving requests from its customers: investigating each and then replying with an answer. The general manager asks a business analyst (BA) to identify ways to improve the current practice because it takes too long for the requests to be answered. Which of the following techniques will the BA use to review the tasks?",
+  "options": {
+   "a": "Data Modeling",
+   "b": "Business Case",
+   "c": "Item Tracking",
+   "d": "Process Analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "3ba90a13-8892-5a73-a764-f62130d5b24c",
+  "context": "",
+  "question": "Which of the following stages of a project defines the number of risks and opportunities, including intense planning and anticipation of risk events?",
+  "options": {
+   "a": "Planning",
+   "b": "Executing",
+   "c": "Initiation",
+   "d": "Closing"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "aa918c82-8e6b-5c10-90c3-2c2c327ee114",
+  "context": "",
+  "question": "A solution implemented three months ago has decreased performance as the volume of transactions has increased. A business analyst (BA) is tasked with analyzing the performance of the application and providing recommendations. What actions does the BA need to take?",
+  "options": {
+   "a": "Develop new performance metrics",
+   "b": "Complete a decision analysis",
+   "c": "Perform a root cause analysis",
+   "d": "Re-analyze the current performance metrics"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "96a58dc9-26b1-54fc-849b-fe802dd4a0f4",
+  "context": "",
+  "question": "What type of requirements elicitation technique is the Delphi Technique?",
+  "options": {
+   "a": "Survey",
+   "b": "Workshop",
+   "c": "Round table",
+   "d": "Prototyping"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c526711b-3935-5fce-8687-8aa3c2bdddfd",
+  "context": "",
+  "question": "You are the business analyst for your organization and are about to conduct requirements elicitation for a process to streamline the customer fulfillment system your organization uses. You need to understand how the people, processes, and technology within the customer fulfillment system operates before you begin the elicitation process. What type of analytical thinking are you participating in this scenario?",
+  "options": {
+   "a": "Problem solving",
+   "b": "Creative thinking",
+   "c": "Brainstorming",
+   "d": "System thinking"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e54e31ae-7bdd-528c-bc4d-ddefa9418af2",
+  "context": "",
+  "question": "Which of the following is the formal acceptance of the project?",
+  "options": {
+   "a": "A project review",
+   "b": "A sign-off",
+   "c": "Risk assessment",
+   "d": "Inspection trend analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5ea3e1a8-e2f6-5a97-ad66-27b3a6c8bc0b",
+  "context": "",
+  "question": "Which of the following inputs of Monitor and Control Risks acquires information from performance measurements and evaluates it to provide variance analysis and forecasting?",
+  "options": {
+   "a": "Risk register",
+   "b": "Work performance information",
+   "c": "Performance report",
+   "d": "Project management plan"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "8b052d9b-c111-5671-8e1f-6c394fe17224",
+  "context": "",
+  "question": "When determining the success criteria for an initiative a business analyst (BA) engages end users in order to understand what they would define is an effective solution. What two types of data will the end men need to perform the evaluation?",
+  "options": {
+   "a": "Assessment and performance",
+   "b": "impact and dependencies",
+   "c": "Quantitative and qualitative",
+   "d": "Risk and value"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5a3377aa-dec3-5bc6-b3e6-d0a8c6bb08a0",
+  "context": "",
+  "question": "A business analyst (BA) has been assigned to manage the ongoing stakeholder collaboration after completing a project. The BA needs to understand the stakeholders' level of satisfaction and wants to offer stakeholders an opportunity to help improve the working relationships based on this information. Which technique should the BA use?",
+  "options": {
+   "a": "Risk analysis and management",
+   "b": "Brainstorming",
+   "c": "Collaborative games",
+   "d": "Lessons learned"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f5ca11f4-ecaa-51ce-babd-3155b48ecf11",
+  "context": "",
+  "question": "A business analyst (BA) conducts a Business rules analysts exercise to identity the organizational rules constraining the project in addition to existing regulations and contracts. What else does the BA check?",
+  "options": {
+   "a": "Backlogs",
+   "b": "Policies",
+   "c": "Business case",
+   "d": "Permissions matrix"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "3f6962e0-70f7-5541-8703-2d67d8a34b66",
+  "context": "",
+  "question": "Which of the following is a graphical representation of roles and responsibilities of different project team members?",
+  "options": {
+   "a": "RACI chart",
+   "b": "Pareto chart",
+   "c": "Resource histogram chart",
+   "d": "Organization chart"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "ea097db3-f0c4-5da7-8531-8696408133b0",
+  "context": "",
+  "question": "Holly's organization uses a plan-driven approach to business analysis. When it comes to communication in Holly's organization what type of communication will likely be required?",
+  "options": {
+   "a": "Face-to-face",
+   "b": "Chain of command",
+   "c": "Formal",
+   "d": "Ad hoc"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "7194a682-5241-510c-bc9b-db8208234a1d",
+  "context": "",
+  "question": "Which of the following tasks cannot start until other tasks are completed?",
+  "options": {
+   "a": "Analysis task",
+   "b": "Dependent task",
+   "c": "Predecessor task",
+   "d": "Independent task"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "1ee3644c-34f0-577e-8b9d-93fab73aa5a3",
+  "context": "",
+  "question": "You are the business analyst for your organization and you are working with Bill on creating a model. Bill is a little confused about all the different things a model can do for the stakeholders. You explain to Bill that a model can do all of the following except for which one?",
+  "options": {
+   "a": "Define the risk and reward for the requirements",
+   "b": "Categorize and create hierarchies of items",
+   "c": "Define boundaries for business domains",
+   "d": "Show business logic"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "69455e23-f5b2-5dc0-ae6c-60dbb8a248d5",
+  "context": "",
+  "question": "A software development company is in the process of creating a new product for their customer base. It has been several years since such a project has been initiated and the organization has created a new team to own and develop the product. The project team will be evaluated by the successful adoption of the product, which will be developed over the next 12 months. The team's business analyst (BA) has analyzed the current state in partnership with the product owner and has been meeting with senior management to identify the goals that need to be attained. A broad view of the business has been analyzed in order to have an understanding of how the company is currently providing value to its customer base.\nWhat has the BA evaluated to help determine value of the project?",
+  "options": {
+   "a": "Internal assets",
+   "b": "External influencers",
+   "c": "Change strategy",
+   "d": "Business architecture"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f30911a3-4035-5075-abfd-18fe85a1938d",
+  "context": "",
+  "question": "Which of the following processes can start with the source of problems or with the problem itself?",
+  "options": {
+   "a": "Risk estimation",
+   "b": "Risk analysis",
+   "c": "Risk management",
+   "d": "Risk identification"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "a4c2e3a6-ec72-585b-99b7-293cf26e71aa",
+  "context": "",
+  "question": "Enterprise analysis creates just five outputs. Which one of the following is an output of the enterprise analysis tasks?",
+  "options": {
+   "a": "Assumptions and constraints",
+   "b": "Stakeholder concerns",
+   "c": "Solution performance assessment",
+   "d": "Solution approach"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d3cfa2ab-fbd4-5afa-930c-89925e24471c",
+  "context": "",
+  "question": "A business analyst (BA) is tasked with developing a business analysis plan and must decide the best approach to use. Which of the following factors would drive the decision towards an adaptive approach?",
+  "options": {
+   "a": "Engaging stakeholders presents significant challenges.",
+   "b": "The risk of an incorrect implementation is unacceptably high.",
+   "c": "Requirements can effectively be defined ahead of implementation.",
+   "d": "The organization's tolerance for uncertainty is high."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e2b8b0f3-1ed2-5aa6-9558-73436ce88c55",
+  "context": "",
+  "question": "A company with a big information technology (lT) department has hired a lead business analyst (BA) to enhance its business analysis practices. The lead BA discovers that sponsors are not satisfied with project outcomes. Developers complain about incomplete, ambiguous, and changing requirements. All stakeholders including project managers, are blaming long cycles of analysis for the delays. The business analysts, in turn feel overwhelmed with the number of projects and frustrated by the lack of collaboration from reviewers of their deliverables All of the evidence is anecdotal and none of the groups could strongly substantiate their opinions. What should the lead BA implement to identify areas of improvement?",
+  "options": {
+   "a": "A BA time tracking system",
+   "b": "Templates for BAs lo use",
+   "c": "Workload plans of the BA",
+   "d": "Key performance measures"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f64b851a-c9a3-5ea1-9cfa-6bf1079ad888",
+  "context": "",
+  "question": "A company that specialized in manufacturing vending machines for books has been in business for 10 years. As the e-book and online retailing grow, the company perceived that a change is required to respond to the new emerging market forces. However, the change should focus on reusability as much as possible to reduce expenses. After analyzing the current state with the business subject matter experts, the business analyst (BA) proposed investing in a new business line of vending machines that sell pay per use mobile device phone fast charging stations. Due to the urgency of this change, the BA was asked to finalize requirements elicitation in the shortest possible time.\nBy proposing this change, what type of view did the BA use to analyze the current manufacturer's state?",
+  "options": {
+   "a": "Data-centric",
+   "b": "Capability-centric",
+   "c": "Process-centric",
+   "d": "People-centric"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "71da9e9c-926d-5e8b-9ed8-c3669b3a3518",
+  "context": "",
+  "question": "You are the business analyst for a large, complex solution and you are working with the stakeholders to determine the prioritization of the requirements. You would like to use the decision analysis to determine the best decision for the requirements outcome. You must know four things as part of decision analysis. Which one of the following will not help you with this approach to the requirements prioritization process?",
+  "options": {
+   "a": "The values, goals, and objectives that are relevant to the requirements",
+   "b": "The consequences of each possible decision",
+   "c": "The nature of the decision that must be made",
+   "d": "The future value of the requirements"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "8c96c83a-d972-5c0d-ac99-5372c86af271",
+  "context": "",
+  "question": "Which of the following is derived from a schedule model to meet the project execution plan and achieve management approval for use as a baseline?",
+  "options": {
+   "a": "Updating",
+   "b": "Impacts",
+   "c": "Baseline schedule",
+   "d": "Dumping"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "636c1386-a92f-5f73-8001-efe5803b46ba",
+  "context": "",
+  "question": "You are working with Terry on the conduct stakeholder analysis task as part of the business analysis duties in your company. Terry wants to know why it's so important to identify stakeholders so early in the business analysis duties. Which one of the following statements best addresses the need to identify the stakeholders early on in the business analysis duties?",
+  "options": {
+   "a": "It's important to identify the stakeholders so the business analyst knows who to report to.",
+   "b": "It's important to identify the stakeholders so the business analyst knows who to bill for the project.",
+   "c": "It's important to identify the stakeholder so the business analyst can help ensure the timely delivery of the requirements deliverables.",
+   "d": "It's important to identify the stakeholders so the stakeholders know who the business analyst is."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "24e5d7c9-79c0-518a-ba6e-355b31964660",
+  "context": "",
+  "question": "There are 50 stakeholders in the current project. How many communication channels exist in this project?",
+  "options": {
+   "a": "1200",
+   "b": "1225",
+   "c": "1500",
+   "d": "500"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b1e616de-7d0c-5936-bda5-0bf84f524a4c",
+  "context": "",
+  "question": "Paul has been asked to complete SWOT analysis for his solution scope. What does SWOT analysis mean?",
+  "options": {
+   "a": "Strengths, Weaknesses, Opportunities, Time",
+   "b": "Stakeholder Weaknesses, Organizational Threats",
+   "c": "Stakeholders Weaknesses, Organization, Threats",
+   "d": "Strengths, Weaknesses, Opportunities, Threats"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "967c13cb-a01d-549c-aaf1-72cafcb7836d",
+  "context": "",
+  "question": "What is the purpose of the business case?",
+  "options": {
+   "a": "The business case helps the organization determine if they can justify the investment for the solution.",
+   "b": "The business case helps the organization determine the duration and cost of the solution.",
+   "c": "The business case helps the organization determine the cost of the solution.",
+   "d": "The business case helps the organization determine if the solution is feasible."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "1fdd5101-4e62-5999-8864-c6330c5849f5",
+  "context": "",
+  "question": "Mark is the business analyst for his organization. Mark and his business analysis team have used the whiteboard to record the documentation as the result of requirements elicitation. What must be done with this information if Mark uses a whiteboard?",
+  "options": {
+   "a": "The scribe must include the white board information as part of the minutes.",
+   "b": "The business analyst must transfer the information to another medium before the whiteboard is erased.",
+   "c": "The business analyst must document the white board information and get all participants' approval of the recording.",
+   "d": "The regulator must approve the writings on the whiteboard."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "004c38ca-e9d1-5e25-a3d1-ca62600adae0",
+  "context": "",
+  "question": "What is the term used to describe the cost of the solution after the solution has been implemented in production by a vendor?",
+  "options": {
+   "a": "Total ownership costing",
+   "b": "Lifecycle maintenance fees",
+   "c": "Sustainability fees",
+   "d": "Total cost of ownership"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "8ee412c1-c38a-53e3-8971-a00e7d177b97",
+  "context": "",
+  "question": "When an organization is using a change-driven approach to business analysis, how are communications managed?",
+  "options": {
+   "a": "Communications in a change-driven approach to business analysis focus more on the frequency of communication.",
+   "b": "Communications in a change-driven approach typically use face-to-face channels.",
+   "c": "Communications in a change-driven approach focus more on formal communications.",
+   "d": "Communications in a change-driven approach are all ad hoc."
+  },
+  "image_paths": []
+ }
+]

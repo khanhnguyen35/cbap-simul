@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "d67d9ff9-ca73-532b-85d7-60f3240ab44a",
+  "context": "",
+  "question": "You are the business analyst for your organization and have many solutions available to an identified problem. You would like a way to quickly and fairly determine which solution is the best choice for your organization.\nWhich of the following approaches would allow you to determine the top-rated solutions for your organization?",
+  "options": {
+   "a": "Scoring system",
+   "b": "Acceptance and evaluation criteria",
+   "c": "Vendor assessment",
+   "d": "Voting system"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b89c4b48-1b7e-5156-bbf0-ed91e916b0f7",
+  "context": "",
+  "question": "Which of the following is a visual decomposition of the program scope and the resources needed in order to create the things defined within the program scope?",
+  "options": {
+   "a": "Resource breakdown structure (RBS)",
+   "b": "product breakdown structure (PBS)",
+   "c": "Budgeted Cost of Work Scheduled (BCWS)",
+   "d": "Work Breakdown Structure (WBS)"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4bf808f3-f8ea-5bf7-a71a-adacc0ef4429",
+  "context": "",
+  "question": "Holly is the business analyst for her organization. Holly encourages teamwork and open communications among the business analysis team and the stakeholders. She wants stakeholders to drop by her office and freely discuss the requirements, the solution scope, and other concerns about the solution she's working on. Holly definitely prefers informal communications. What is the danger Holly may experience with informal communications?",
+  "options": {
+   "a": "There is no danger; informal communications is a preferred business analysis technique.",
+   "b": "The stakeholders may address the business analysis team and the project team directly rather than communicate through Holly.",
+   "c": "Stakeholders may miss information and the requirements could become ambiguous.",
+   "d": "The stakeholders may not know who's in charge of the solution."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f5af89a0-0223-59e7-916f-70ab40fe1910",
+  "context": "",
+  "question": "You are the business analyst for your organization and are trying to determine the best solution for an identified problem. You have determined that you could create a software solution using inhouse resources for $65,000 and with an ongoing support of $5,600 per month. A vendor offers you a quote that they can create the software for $49,000 with an ongoing support of $6,100 per month. Which solution should you choose?",
+  "options": {
+   "a": "Create the software if you'll keep the solution less than 32 months.",
+   "b": "Create the software if you'll use the solution longer than 32 months.",
+   "c": "There is not enough information to determine which solution is financially better.",
+   "d": "Buy from the vendor if you'll keep the solution longer than 32 months."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f0dca5c9-f4fb-55ff-bd4b-651807ac3d5f",
+  "context": "",
+  "question": "In performing the task of planning for business analysis governance for a software implementation project, the business analyst (BA) recommends that prioritization of requirements be done based on the amount of work that the project team is capable of delivering in a given period of time. Which of the following techniques is the BA recommending?",
+  "options": {
+   "a": "Negotiation",
+   "b": "Grouping",
+   "c": "Time Boxing",
+   "d": "Budgeting"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b5a422bb-ab8d-5a8e-ba44-5e596708c51d",
+  "context": "",
+  "question": "Which of the following is a quality control chart to track trends in project execution?",
+  "options": {
+   "a": "Control chart",
+   "b": "RACI chart",
+   "c": "PERT chart",
+   "d": "Pareto chart"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f2a2c6f2-13c8-53fe-b3bb-f4fd2eafc824",
+  "context": "",
+  "question": "Holly is the business analyst for her organization. Management has asked Holly to create a document that will define solution alternatives and how each identified solution may provide an expected business benefit to meet the identified business need. Management has asked Holly to provide data and statistics in this document to support her claims and findings. What type of document is management asking Holly to create?",
+  "options": {
+   "a": "Feasibility study",
+   "b": "Vision statement",
+   "c": "Project scope statement",
+   "d": "Current state assessment"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "9c35128d-8682-5798-a4f8-25a48108f148",
+  "context": "",
+  "question": "A busmen analyst (BA) is assigned a new project to improve a delivery process. Which of the following does the BA create as an output of the initial meeting with experts?",
+  "options": {
+   "a": "Entity relationship diagram",
+   "b": "Elicitation activity plan",
+   "c": "Current state flowchart",
+   "d": "Information management approach"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b17766c9-49bb-5963-a305-7118aba4981c",
+  "context": "",
+  "question": "Which of the following charts is important to ensure that the roles and responsibilities of those involved in a task are tracked?",
+  "options": {
+   "a": "Pie chart",
+   "b": "Line chart",
+   "c": "RACI chart",
+   "d": "Gantt chart"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5dacdf54-41f2-5b43-9ffc-dc6e8d388f3c",
+  "context": "",
+  "question": "Which of the following communicates from the program-level perspective – a clear understanding and statement of the technical objectives and the end products, services, or results of the work to be performed?",
+  "options": {
+   "a": "Scope statement",
+   "b": "Preliminary scope statement",
+   "c": "Program work breakdown structure",
+   "d": "Program charter"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e0f653d9-bde8-5917-be64-9fd5dfc1c33b",
+  "context": "",
+  "question": "Which of the following captures all of the activities within a business, the inputs and outputs of each activity, and the required resources to complete each activity?",
+  "options": {
+   "a": "Business scenario",
+   "b": "Business process model",
+   "c": "Business architecture",
+   "d": "Business case"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5621fb7a-2139-53e8-8872-354e5fcff413",
+  "context": "",
+  "question": "A business analyst (BA) plans to hold a workshop next week to elicit requirements for a project. In an informal conversation, another employee mentioned that one of the attendees is likely to be unhappy about the project's impact on their work. Which of the following techniques will the BA use to avoid disrupting the workshop?",
+  "options": {
+   "a": "Elicitation Activity Plan",
+   "b": "Collaborative Games",
+   "c": "Stakeholder List",
+   "d": "Risk Analysis and Management"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "fefc3846-752a-5443-a896-3ed143c285f1",
+  "context": "",
+  "question": "A business analyst (BA) is responsible for analyzing the effectiveness of a railway ticket booting system. The BA prepared a report based on observations of the booking clerk over two days (Monday and Wednesday). According to the information gathered, the booking clerk is underutilized and spends a lot of die time waiting for customers. What should the BA do next?",
+  "options": {
+   "a": "Verify the expected value and its perceived performance",
+   "b": "Conduct further analysis to protect against false information based on insufficient data",
+   "c": "Propose a change in the organizational chart to give the clerk more responsibilities",
+   "d": "Benchmark the clerk's performance against other roles and other companies"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e526c0ae-91a2-56b5-ae3f-92c174ddb49b",
+  "context": "",
+  "question": "Which of the following defines how the project scope should be created, executed, monitored and controlled, and then validated?",
+  "options": {
+   "a": "Scope variance plan",
+   "b": "Scope management plan",
+   "c": "Staffing management plan",
+   "d": "Schedule management plan"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "459eb19a-8256-54ca-90f1-9bcca4e97f8f",
+  "context": "",
+  "question": "A card printing solution is comprised of 4 stages: Loading, Printing, Packaging and Sorting. Loading and sorting of cards is done manually through operators, while printing and packaging are automated. The loading stage requires the operator to load 100 cards after an alarm is raised. Sorting requires an operator to distribute each package based on the printed address into the appropriate delivery box. Which stage should be assessed as the most likely to increase process inefficiencies?",
+  "options": {
+   "a": "Loading",
+   "b": "Packaging",
+   "c": "Sorting",
+   "d": "Printing"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "30d6d769-fdde-5e0c-b612-91ac7a5657e2",
+  "context": "",
+  "question": "Gary is the business analyst for his organization. He has realized that he has overlooked a key group of stakeholders during the conduct stakeholder analysis process. What is the danger in overlooking a key set of stakeholders?",
+  "options": {
+   "a": "The newly identified stakeholders will now have to pay for any requirements they want to add to the requirements.",
+   "b": "The newly identified stakeholders will need to spend extra time to learn about the project and how it will affect them.",
+   "c": "The newly identified stakeholders will be excluded from decisions that affect the deliverables that have already been created in the project.",
+   "d": "The newly identified stakeholders may have requirements that require additions to the project or may nullify other requirements already in the project."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "9e57f27e-e891-576c-ab2e-eb7e1d753107",
+  "context": "",
+  "question": "What type of a business analysis approach focuses on the rapid delivery of business value in short iterations?",
+  "options": {
+   "a": "Risk-driven",
+   "b": "Change-driven",
+   "c": "Risk-laden",
+   "d": "Profit-driven"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "76875cf3-2d0a-5bfc-9c0b-df6c862ac06e",
+  "context": "",
+  "question": "Which of the following is a procurement document?",
+  "options": {
+   "a": "Project Work Breakdown Structure",
+   "b": "Project charter",
+   "c": "Vision document",
+   "d": "Invitation for bid"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "7714fb70-5f29-55f7-901c-cd40e170a765",
+  "context": "",
+  "question": "You are creating a model that shows how data moves through a system. Each function that modifies the data in any manner is identified, decomposed to smaller levels, and the system is completely described from start to storage. What type of a modeling technique are you using in this scenario?",
+  "options": {
+   "a": "Functional decomposition",
+   "b": "Data flow diagramming",
+   "c": "Work decomposition",
+   "d": "Organization modeling"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "43e78d3f-26e9-5fd4-b9c0-c29fe8f4a1ad",
+  "context": "",
+  "question": "An organization implements a solution to increase the efficiency of its internal processes. The business analyst (BA) felt that the success of the solution is tied to the organizational structure and confirmed that the solution conforms to the organizational hierarchy. After the solution rolled out, the solution was not widely adopted among stakeholders and some features were not being utilized. Which aspect of the organizational structure did the BA fail to consider?",
+  "options": {
+   "a": "Reporting needs",
+   "b": "Manager ratios",
+   "c": "Informal relationships",
+   "d": "Structural complexity"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "3e4af319-35a9-5261-bd3c-fd9cdfc5b663",
+  "context": "",
+  "question": "Paul is the business analyst for his organization. He is examining a single solution to determine if the solution he and his team have identified carries enough business value to justify its implementation. What business analysis process is Paul performing in this scenario?",
+  "options": {
+   "a": "Define transition requirements",
+   "b": "Assess proposed solution",
+   "c": "ssess organizational readiness",
+   "d": "llocate requirements"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "42ef8291-9d87-539c-a49d-e86f304173a4",
+  "context": "",
+  "question": "Zoe is the business analyst for her organization. She is currently prioritizing the requirements based on the implementation difficulty of the requirements to help with the solution planning. Which of the following best describes the approach Zoe is taking with requirements prioritization?",
+  "options": {
+   "a": "The requirements are categorized by type of work, and then ranked within each category of ease of implementation to difficulty of implementation.",
+   "b": "The requirements are ranked most difficult to easiest to implement.",
+   "c": "The requirements are ranked from easiest to hardest to implement.",
+   "d": "The requirements are categorized by the likelihood of management approving the requirements."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "e05029fd-68da-5ed8-aa61-7c3cefee731a",
+  "context": "",
+  "question": "After the new report \"Customer Sales by Date\" was deployed last week, the sales team is now unable to generate the previously existing report \"Consolidated Sales by Customer, \" which is causing customer dissatisfaction. What could the business analyst (BA) have assessed to prevent this situation?",
+  "options": {
+   "a": "Current state and stakeholder needs",
+   "b": "Solution assessment results",
+   "c": "Strengths, weaknesses, and threats",
+   "d": "Balanced scorecard"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "294bb25f-3969-5028-8f34-d2a3ca54fe59",
+  "context": "",
+  "question": "Which of the following diagrams is used to display sensitivity analysis data?",
+  "options": {
+   "a": "Decision tree",
+   "b": "Ishikawa",
+   "c": "Influence",
+   "d": "Tornado"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "31f2be12-6e34-5889-a7ce-c1b3f040edbe",
+  "context": "",
+  "question": "Which of the following is a conversation between one or more speakers centering on one specific topic?",
+  "options": {
+   "a": "Feedback loop",
+   "b": "Presentation",
+   "c": "Survey",
+   "d": "Formal requirements review"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "a02263b0-c99b-5a64-81de-74482aca7481",
+  "context": "",
+  "question": "A utility company found mat its current billing system charges customers 'or tie r usage, but does so incorrectly when the system estimates reads on meters rather than performs actual reads. Company stakeholders would i*e to improve this aspect of the system but are hesitant to make changes because they are otherwise pleased with the system A business analyst (BA) has completed a current state diagram and would like to start discussions on what the future state may look like. What information can the BA determine by having a current slate diagram?",
+  "options": {
+   "a": "The needs for the future state solution",
+   "b": "The cost/benefit measures for the new system",
+   "c": "The strengths and weaknesses of the current system",
+   "d": "The change management plan for implementation"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4fa54166-3188-57e5-bce5-956c83b8a00f",
+  "context": "",
+  "question": "There are just three inputs to the assess proposed solution process. Which of the following is NOT one of the inputs for the assess proposed solution process?",
+  "options": {
+   "a": "Requirements",
+   "b": "Decision analysis",
+   "c": "ssumptions and constraints",
+   "d": "Solution options"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c0e6399f-818b-5fd3-bc67-d74253d8a818",
+  "context": "",
+  "question": "You are the business analyst for your organization and are working on a solution that will connect several databases to a web application. You are concerned that the databases may not be operable with the software solution a programmer is recommending. What requirements elicitation technique can help you determine the interoperability of the software, the databases, and the web application?",
+  "options": {
+   "a": "Benchmarking",
+   "b": "Interviews",
+   "c": "Interface analysis",
+   "d": "Usage considerations"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b229f973-7b97-5dbf-8fd0-bd67829eca9e",
+  "context": "",
+  "question": "You are the business analyst for your organization. Management has asked that you create a method to store the project requirements including those under development, under review, and the requirements which have been approved. What is management asking you to create?",
+  "options": {
+   "a": "A change management system",
+   "b": "A repository",
+   "c": "project scope statement",
+   "d": "requirements register"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f35acbe2-e0b7-5037-90f9-8fab6d1b2b94",
+  "context": "",
+  "question": "When can changes to requirements occur in a business analysis planning and monitoring assignment?",
+  "options": {
+   "a": "Change to requirements can occur any time before the project scope statement is created.",
+   "b": "Changes to requirements can occur at any time.",
+   "c": "Changes to requirements can occur any time after the project's change control system has been enacted.",
+   "d": "Change to requirements can occur at any time before the key stakeholders approve the identified requirements."
+  },
+  "image_paths": []
+ }
+]

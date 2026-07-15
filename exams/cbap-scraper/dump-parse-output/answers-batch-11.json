@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "bd9444c5-ab2a-5eff-8972-f49c1c08fa7c",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "The HAZOP (Hazard and Operability) technique is the qualitative risk analysis method defined as a disciplined, systematic analysis of the sequences of events that could transform a potential hazard into an accident. This aligns with the qualitative side of BABOK v3, 10.40 Risk Analysis and Management, where structured qualitative techniques are used to understand how risk events could lead to negative consequences.",
+  "wrong_reasons": {
+   "a": "FMECA extends FMEA by ranking the criticality of failure modes; it analyzes component failure effects, not event sequences from hazard to accident.",
+   "c": "FMEA examines individual failure modes and their effects on the system, not the chain of events leading from a hazard to an accident.",
+   "d": "Preliminary Risk Analysis is an initial, high-level identification of hazards early in a project, not a disciplined analysis of event sequences."
+  }
+ },
+ {
+  "question_id": "9478d9b1-461f-5d71-aff2-1bab9ef2dd30",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "The inputs to the Conduct Stakeholder Analysis task (BABOK v2, 2.2) are the business need, enterprise architecture, and organizational process assets. 'Enterprise environmental factors' is a PMBOK Guide term used in project management, not a BABOK input to stakeholder analysis.",
+  "wrong_reasons": {
+   "a": "Enterprise architecture is a defined input, describing the organizational units and their interactions.",
+   "c": "Organizational process assets are a defined input, providing existing templates, processes, and historical information.",
+   "d": "The business need is a defined input, since stakeholders are identified relative to the need being addressed."
+  }
+ },
+ {
+  "question_id": "c72fa890-fc9b-5c3d-a8b7-af983858c1a5",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "The business case provides the justification for investment by presenting costs, benefits, and risks, and is the document decision makers use to make a go/no-go investment decision (BABOK v3, 10.7 Business Cases; Strategy Analysis 6.2 Define Future State / 6.4 Define Change Strategy). It is the key deliverable of enterprise/strategy analysis that supports the decision to proceed with an initiative.",
+  "wrong_reasons": {
+   "a": "A feasibility study evaluates whether proposed options are viable; it feeds the business case but is not the go/no-go investment document.",
+   "b": "Project scope defines the work to deliver the solution and is produced after the decision to invest has been made.",
+   "c": "Solution scope defines the capabilities the solution will deliver; it supports but does not constitute the investment decision document."
+  }
+ },
+ {
+  "question_id": "272b9cfa-6b0e-501e-bd00-4097c5713aaf",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.7 Business Cases, a business case includes the need, expected qualitative and quantitative benefits, cost and time estimates such as time to break even, follow-on opportunities, and risk assessment. Requirements prioritization is a separate Requirements Life Cycle Management task (5.3 Prioritize Requirements) and does not belong in a business case.",
+  "wrong_reasons": {
+   "a": "Time to break even is part of the financial analysis expected in a business case.",
+   "c": "Follow-on opportunities are legitimately included as part of the expected benefits and strategic value.",
+   "d": "Qualitative and quantitative benefits are a core component of any business case."
+  }
+ },
+ {
+  "question_id": "b0592b73-532d-5186-b905-428e97593d34",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "The waterfall model is the classic predictive (plan-driven) life cycle in which each phase must be fully completed before the next phase begins. BABOK v3 (3.1 Plan Business Analysis Approach) contrasts this predictive approach, which maximizes up-front planning and sequential phases, with adaptive approaches.",
+  "wrong_reasons": {
+   "a": "'Procedural model' is not a recognized software development life cycle model.",
+   "b": "The evolutionary model develops the solution iteratively in successive versions rather than completing all tasks phase by phase.",
+   "c": "The spiral model is iterative, cycling repeatedly through planning, risk analysis, engineering, and evaluation."
+  }
+ },
+ {
+  "question_id": "3cc13a38-1d52-5eee-8ed2-79b58bcca796",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Quality control is the monitoring-and-controlling process that inspects the work being performed and its results to confirm they conform to the plan and to applicable standards. Of the options, it is the process used to verify that project team members are completing the work in accordance with the project plan (consistent with the quality assurance/control concepts referenced in BABOK v3, 8.1 Measure Solution Performance and 3.5 Identify Business Analysis Performance Improvements).",
+  "wrong_reasons": {
+   "a": "Project time management concerns scheduling and duration control, not verifying conformance of the work to the plan.",
+   "b": "Project scope management controls what work is and is not included, not how well the team follows the plan.",
+   "c": "The quality management plan is a planning document that defines the quality approach; it is not itself the checking process."
+  }
+ },
+ {
+  "question_id": "6d53900f-b737-574a-9bd3-e947614a515b",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "During Conduct Elicitation (BABOK v3, 4.2), business analysts track elicitation activity metrics, in particular the actual time spent on elicitation compared to what was planned. This actual-versus-planned effort data provides a basis for estimating and planning future elicitation activities.",
+  "wrong_reasons": {
+   "b": "Non-participation of stakeholders is a collaboration/engagement risk to manage, not the metric tracked as a basis for future planning.",
+   "c": "Cost may be monitored at the project level, but BABOK specifically cites time spent on elicitation as the tracked planning metric.",
+   "d": "Scope changes are handled through requirements life cycle management and governance, not as an elicitation planning metric."
+  }
+ },
+ {
+  "question_id": "43f5a2e2-93a5-565e-90d8-3dd8b05e34f6",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 5.3 Prioritize Requirements, prioritization is continual: priorities must be revisited when new information emerges, such as newly uncovered dependencies among requirements or solution components, since requirement dependencies are a basis for prioritization. Discovering further dependencies among solution components directly triggers re-prioritization.",
+  "wrong_reasons": {
+   "a": "Replacing a team member is a project resourcing matter and does not change the relative priority of requirements.",
+   "b": "A new IPO in the market is external business activity that does not by itself alter requirement priorities for the system.",
+   "d": "Growing defect counts is a quality concern addressed through defect management and solution evaluation, not a prioritization trigger."
+  }
+ },
+ {
+  "question_id": "25e64e12-072a-5cfd-af97-3d15b900baef",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 5.3 Prioritize Requirements, one basis for prioritization is implementation difficulty/likelihood of success: implementing requirements most likely to succeed first demonstrates early, visible success, which builds stakeholder confidence and support for the initiative. This is precisely why management may prioritize by likelihood of success even when other requirements exist.",
+  "wrong_reasons": {
+   "a": "Fast return on investment corresponds to prioritizing by business value or benefit, not by likelihood of success.",
+   "c": "Prioritizing by likelihood of success is a deliberate, recognized strategy, not a sign that management misunderstands the requirements.",
+   "d": "Avoiding penalties or fines corresponds to prioritizing by regulatory or policy compliance."
+  }
+ },
+ {
+  "question_id": "867228c2-9fcf-5f2f-91e1-98eb043be36c",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Compromising is the conflict-resolution approach in which every party gives up something in order to reach an agreement acceptable to all; it produces a lose-lose (or partial win) outcome. This relates to negotiation and conflict resolution under BABOK v3, 9.5 Interaction Skills (Facilitation and Negotiation).",
+  "wrong_reasons": {
+   "a": "A barrier is an obstacle to communication or progress, not a conflict-resolution mode.",
+   "b": "Problem solving (collaborating) seeks a win-win solution that satisfies all parties without requiring concessions.",
+   "c": "Withdrawal means one party retreats from the conflict; it does not require all parties to give something up."
+  }
+ },
+ {
+  "question_id": "273d16bc-4bb7-5737-a830-40d1baf7c122",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Inconsistent execution of customer-facing processes is a legitimate improvement opportunity: variability in how customers are served can confuse or frustrate them and signals a process that is not standardized. Under BABOK v3, 10.31 Observation and 6.1 Analyze Current State, such process inconsistencies are exactly the kind of issue a BA identifies when assessing the current state for improvement opportunities.",
+  "wrong_reasons": {
+   "b": "Waiting for a drop in sales is reactive; improvement opportunities should be identified proactively from observed process weaknesses.",
+   "c": "Enterprise environmental factors do not universally mandate process consistency; this rationale is fabricated.",
+   "d": "The absence of observed complaints does not mean the inconsistency is harmless; proactive analysis is expected."
+  }
+ },
+ {
+  "question_id": "d48e261d-5ff3-5987-9c7c-d47b0707cee4",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 7.5 Validate Requirements, a requirement that delivers no benefit to any stakeholder and does not align with the solution scope or business objectives is a candidate for elimination. The BA's recommendation is to remove the requirement rather than to alter the agreed scope or future state to accommodate it.",
+  "wrong_reasons": {
+   "a": "Updating the solution design would preserve a requirement already judged to provide no stakeholder benefit.",
+   "b": "The future state is not in question; one non-beneficial requirement does not warrant re-evaluating the future state.",
+   "c": "Changing the solution scope to fit a valueless requirement inverts the logic; scope should drive requirements, not the reverse."
+  }
+ },
+ {
+  "question_id": "c8d711c3-cbb7-5e87-9cf7-7303cad97349",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.4 Benchmarking and Market Analysis, benchmarking compares the organization's practices, processes, and offerings against competitors or best-in-class peers in order to identify opportunities to improve and remain competitive. Studying what competitors offer prospective clients to find revenue-increasing solutions is a textbook benchmarking activity.",
+  "wrong_reasons": {
+   "a": "Business rules analysis defines and manages the organization's own operating rules, not competitor comparison.",
+   "b": "Functional decomposition breaks down processes, scope, or functions into components; it does not compare against competitors.",
+   "c": "Focus groups gather attitudinal feedback from participants about a product or service, not systematic competitor comparison."
+  }
+ },
+ {
+  "question_id": "101fb0fb-f24b-500b-a568-59227c524b67",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Writing feature ideas on sticky notes, posting them on a wall, and grouping them into themes is the affinity map, a collaborative game described in BABOK v3, 10.10 Collaborative Games. Collaborative games are a listed technique of task 4.5 Manage Stakeholder Collaboration, used to encourage participants to work together, share knowledge, and build a shared understanding.",
+  "wrong_reasons": {
+   "a": "Grouping ideas into themes organizes and reveals patterns; it does not rank requirements by relative importance.",
+   "b": "The participants are already generating and organizing ideas, which is beyond preparing for elicitation.",
+   "c": "The activity concerns ideas about a feature being built, not an assessment of organizational capabilities."
+  }
+ },
+ {
+  "question_id": "fc07b88f-522e-546b-a7e9-e054f04d48c8",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.3 Plan Business Analysis Governance, the governance approach defines how changes to requirements and scope are proposed, assessed, prioritized, and approved, including how formal the change control and impact assessment process will be. Determining the formality of the process to assess a major scope change is therefore governed by the governance approach.",
+  "wrong_reasons": {
+   "b": "The information management approach covers how BA information is stored, accessed, and reused, not change assessment formality.",
+   "c": "The stakeholder engagement approach addresses who to collaborate with and how to communicate, not change control formality.",
+   "d": "There is no 'solution approach' governing change assessment; solution scope is what is being changed, not the governing process."
+  }
+ },
+ {
+  "question_id": "c7fdbb5b-c16f-55a2-ac22-b49d0fbb6b5c",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In BABOK v3, 3.3 Plan Business Analysis Governance (Approvals element), the BABOK notes that stakeholder availability, attitude toward the initiative, and willingness to engage directly affect the timeliness of approvals; delayed approvals in turn impact delivery timelines. Unavailable or disengaged stakeholders therefore jeopardize both timely delivery and the approval process.",
+  "wrong_reasons": {
+   "a": "Test execution is a delivery-team activity not directly tied by BABOK to stakeholder meeting availability.",
+   "c": "Requirements reuse depends on information management practices, not on stakeholder availability for meetings.",
+   "d": "Risk analysis can proceed with BA-led work; BABOK explicitly links stakeholder availability and attitude to approvals."
+  }
+ },
+ {
+  "question_id": "d08d236e-bb01-5600-b197-9316e8f5e79b",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 7.4 Define Requirements Architecture, relationships between requirements must meet quality criteria including defined, necessary, correct, unambiguous, and consistent. 'Unambiguous' means a requirement is not linked to other requirements in different or conflicting ways across views, which is exactly the criterion described.",
+  "wrong_reasons": {
+   "b": "'Correct' means the relationship accurately reflects the actual dependency between the requirements.",
+   "c": "'Necessary' means the relationship is needed to understand the requirements or scope.",
+   "d": "'Defined' means the type and nature of the relationship is stated, not that links are free of conflicts."
+  }
+ },
+ {
+  "question_id": "aad3f9a2-091e-51d0-b18d-4ffa1bf4205f",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Root cause analysis (BABOK v3, 10.40 Root Cause Analysis) is used to identify and evaluate the underlying causes of a problem rather than its symptoms. Within managing business analysis performance (BABOK v3, 3.5 Identify Business Analysis Performance Improvements), root cause analysis helps determine the underlying causes of failures or difficulties in accomplishing BA work.",
+  "wrong_reasons": {
+   "a": "Problem tracking (item tracking) records and monitors issues to resolution but does not analyze their underlying causes.",
+   "b": "Pareto charts show the relative frequency of causes but are a display aid, not the technique BABOK cites for underlying cause identification of BA work failures.",
+   "c": "Trend analysis reveals patterns over time; it does not isolate the root cause of a specific failure."
+  }
+ },
+ {
+  "question_id": "93653546-a572-58e9-acd2-5a80b8ef97d2",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 4.3 Confirm Elicitation Results, the purpose is to check the information gathered during elicitation for accuracy and consistency, confirming with stakeholders that the captured (stated) requirements match their actual understanding of the problem and their needs. It is a check against the stakeholders' intent, not against the solution, sponsor documents, or project scope.",
+  "wrong_reasons": {
+   "a": "Comparing requirements to a proposed solution is part of solution evaluation/validation, not confirming elicitation results.",
+   "c": "The check is against the eliciting stakeholders' understanding, not against the sponsor's documented requirements.",
+   "d": "Alignment with scope is addressed in requirements validation and life cycle management, not in confirming elicitation results."
+  }
+ },
+ {
+  "question_id": "cae9be7a-847a-5384-bd81-34b20fdab12c",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 7.2 Verify Requirements, quality characteristics of requirements include atomic, complete, consistent, concise, feasible, unambiguous, testable, prioritized, and understandable. Before reviewing requirements with the sponsor, the BA verifies they exhibit these characteristics—atomic, feasible, and testable are three of them.",
+  "wrong_reasons": {
+   "a": "Parametric and analogous are estimation methods, not requirement quality characteristics.",
+   "c": "Predictive, diagnostic, and descriptive describe analytics or measurement types, not requirements quality.",
+   "d": "Capable and strategic are not BABOK requirement quality characteristics; only 'correct/consistent'-type wording partially resembles them."
+  }
+ },
+ {
+  "question_id": "7d0ea02b-4a1e-595c-a7e6-d6a9e3084553",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "A focus group (BABOK v3, 10.21 Focus Groups) is a pre-qualified small group of stakeholders brought together in a moderated, interactive discussion to elicit their attitudes, perceptions, and expectations about a product, service, or opportunity. Focus groups are a listed technique in 8.1/8.2 (Measure/Analyze) and 7.6 Analyze Potential Value and Recommend Solution for gauging perceived value of requirements and design options.",
+  "wrong_reasons": {
+   "b": "Brainstorming generates many new ideas quickly; it does not collect evaluative feedback on perceived value.",
+   "c": "A survey collects feedback from a broad audience via questionnaires, not a moderated small-group discussion.",
+   "d": "'Group interview' is not a distinct BABOK technique; the described moderated feedback discussion is a focus group."
+  }
+ },
+ {
+  "question_id": "3502a34e-5f52-5e00-a86b-b3206b95a1e5",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In BABOK v3, 8.3 Assess Solution Limitations, when instances of outputs below acceptable quality are found, the BA performs problem analysis to identify the source of the problem; Root Cause Analysis (10.41) is the listed technique for identifying the underlying cause of the defective outputs and thereby the solution's limitations.",
+  "wrong_reasons": {
+   "a": "Risk analysis addresses uncertain future events, not diagnosing an existing pattern of defective outputs.",
+   "c": "Acceptance and evaluation criteria define what an acceptable output is; they were effectively used to detect the low quality, not to explain it.",
+   "d": "Business rules analysis examines the rules governing decisions; it is not the general diagnostic technique for defective solution outputs."
+  }
+ },
+ {
+  "question_id": "5598db44-4e34-5211-9934-dc2624d84acf",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.4 Plan Business Analysis Information Management, mind mapping is a listed technique used to identify and categorize the kinds of business analysis information that need to be managed. Its radial structure of topics and sub-topics is well suited to classifying information into categories.",
+  "wrong_reasons": {
+   "a": "Item tracking monitors issues and action items to closure; it does not categorize information types.",
+   "b": "Observation elicits information by watching people work; it is not an information-classification technique for planning.",
+   "c": "Prototyping models solution interfaces or processes, not the categorization of BA information."
+  }
+ },
+ {
+  "question_id": "3a7bd2d7-801d-59c9-935f-ba4e905a24b5",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "For the Determine Solution Approach task (BABOK v2, 5.2), the listed techniques include benchmarking, brainstorming, decision analysis, estimation, SWOT analysis, and feasibility analysis. Risk analysis is not among the techniques for determining the solution approach; it is applied elsewhere (e.g., assessing risks of the recommended solution).",
+  "wrong_reasons": {
+   "a": "Benchmarking is a listed technique, used to see how other organizations solve the same problem.",
+   "b": "Decision analysis is a listed technique for comparing and ranking possible approaches.",
+   "d": "Brainstorming is a listed technique for generating possible solution approaches."
+  }
+ },
+ {
+  "question_id": "04f22f25-d468-5e72-9861-2e33ca9b6725",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Brainstorming (BABOK v3, 10.5) is the elicitation technique designed to produce a broad or diverse set of options quickly, engaging stakeholders to generate ideas about solutions, influencing factors, potential delays, and other creative input. It fosters non-judgmental generation of many ideas which are then evaluated.",
+  "wrong_reasons": {
+   "a": "Benchmarking compares against other organizations' practices; it does not generate a broad set of stakeholder-created ideas.",
+   "c": "Data flow diagrams model how information moves through a system; they are an analysis model, not an idea-generation activity.",
+   "d": "Business rules analysis defines organizational rules and policies; it does not generate broad option sets."
+  }
+ },
+ {
+  "question_id": "fb2c757b-df65-52da-b9bd-f10fef22e099",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Flowcharts and process models (BABOK v3, 10.35 Process Modelling) are composed of elements such as activities, decisions, events, and parallel flow constructs like forks and joins. Attributes are components of data models (entities, attributes, relationships — BABOK v3, 10.13 Data Modelling), not of flowcharts.",
+  "wrong_reasons": {
+   "a": "Forks are flowchart/activity-diagram elements that split flow into parallel paths.",
+   "c": "Activities are the fundamental steps depicted in a flowchart.",
+   "d": "Joins are flowchart/activity-diagram elements that merge parallel paths back together."
+  }
+ },
+ {
+  "question_id": "b6b6c0a6-32ba-5e6f-acba-51d4df08219f",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.21 Focus Groups, a focus group is a directed, moderated group conversation designed to elicit ideas, attitudes, and opinions about a specific product, service, problem, or opportunity in an interactive group environment. The facilitator guides (directs) the discussion around prepared topics.",
+  "wrong_reasons": {
+   "a": "Interviews are typically one-on-one question-and-answer sessions, not directed group conversations about a product.",
+   "b": "'Group discussions' is a generic term, not the BABOK technique defined by this description.",
+   "c": "Feedback loops are a systems/communication concept, not an elicitation conversation technique."
+  }
+ },
+ {
+  "question_id": "d1868c3e-6838-5d77-bf52-fed3257e0037",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 7.1 Specify and Model Requirements, the two modelling formats are matrices and diagrams. A matrix is used when modelling requirements that have a complex but uniform structure, and matrices are also explicitly used for prioritization of requirements and for recording requirements attributes and traceability—matching both needs in this scenario.",
+  "wrong_reasons": {
+   "a": "User interface models depict screens and interactions, not complex uniform data relationships needing prioritization.",
+   "c": "A data model diagrams entities and relationships but is not the format BABOK associates with prioritizing requirements.",
+   "d": "A data dictionary defines individual data elements and their attributes; it is itself often matrix-based but does not serve prioritization."
+  }
+ },
+ {
+  "question_id": "d0245499-8e67-5e12-8c5f-db8eb120512f",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "When stakeholders are geographically dispersed across time zones and synchronous meetings are impractical, asynchronous written communication is appropriate. Per BABOK v3, 4.4 Communicate Business Analysis Information, delivery methods include individual and group collaboration as well as e-mail or other non-verbal methods, which suit documents that are already well understood and mature—here the core requirements were already explained, so e-mail review before final approval is the fitting method.",
+  "wrong_reasons": {
+   "a": "Group collaboration requires getting stakeholders together (physically or virtually), which the time zones have made cumbersome.",
+   "b": "Brainstorming generates new ideas; the need here is review of an already-explained document.",
+   "d": "Collaborative games are interactive workshop activities, unsuitable for asynchronous document review across time zones."
+  }
+ },
+ {
+  "question_id": "dd6073de-4ff6-51a7-ae2b-8f3f05853d16",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "The Enterprise Analysis knowledge area (BABOK v2, chapter 5) comprises: Define Business Need, Assess Capability Gaps, Determine Solution Approach, Define Solution Scope, and Define Business Case. Assessing solution performance belongs to Solution Assessment and Validation (BABOK v2 ch. 7; in BABOK v3, 8.1 Measure Solution Performance), not to enterprise analysis.",
+  "wrong_reasons": {
+   "a": "Determine Solution Approach is a defined Enterprise Analysis task (BABOK v2, 5.2).",
+   "b": "Define Business Need is a defined Enterprise Analysis task (BABOK v2, 5.1).",
+   "c": "Assess Capability Gaps is a defined Enterprise Analysis task (BABOK v2, 5.3)."
+  }
+ }
+]

@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "57702edc-889a-51fb-aeb6-2c54305b50ce",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "A data dictionary (BABOK v3, 10.12 Data Dictionary) is used to standardize definitions of data elements, including their meanings, allowable values, aliases, and attributes. It is the natural companion document to a class diagram to ensure a common understanding of class attributes.",
+  "wrong_reasons": {
+   "a": "Reviews (10.37) are used to evaluate work product quality, not to define data elements.",
+   "b": "Data mining (10.16) discovers patterns in large data sets; it does not document data element definitions.",
+   "c": "A glossary (10.23) defines business terms for a domain, but the data dictionary is the technique specifically for defining data elements and their attributes."
+  }
+ },
+ {
+  "question_id": "8c49c7ab-527f-5afa-b0de-c6eafcded05b",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "The Ishikawa diagram, also called a fishbone diagram, is a cause-and-effect diagram used in root cause analysis (BABOK v3, 10.40 Root Cause Analysis) to trace a problem back to its underlying causes.",
+  "wrong_reasons": {
+   "a": "An activity diagram models workflow/process flow, not causes of a problem.",
+   "b": "A data-flow diagram (10.13) shows how information moves through a system.",
+   "c": "Cost-benefit is a financial comparison, not a causal diagram."
+  }
+ },
+ {
+  "question_id": "1e6fed48-709c-5594-aca6-bc2e229433ea",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "By analyzing the current state and meeting with senior management to understand goals and how the enterprise currently delivers value, the BA is performing Analyze Current State (BABOK v3, 6.1), whose central output is the business needs. Business needs are the problems and opportunities that guide the change, and any proposed solution is ultimately evaluated against whether it satisfies the business need.",
+  "wrong_reasons": {
+   "b": "Solution requirements describe capabilities of a specific solution and come later, during Requirements Analysis and Design Definition.",
+   "c": "Success measures/metrics are defined when specifying performance measures (7.x/8.1), not by broadly analyzing current state and goals.",
+   "d": "Solution limitations are identified while assessing an existing solution (8.3), not during current state analysis of the enterprise."
+  }
+ },
+ {
+  "question_id": "746e7fb6-7c66-5169-a8a4-23315a14efc3",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "When building an activity list to plan business analysis work (BABOK, Plan Business Analysis Approach / work breakdown), each activity or task is assigned a unique number (identifier) so it can be unambiguously tracked, estimated, and referenced.",
+  "wrong_reasons": {
+   "a": "Procurement needs are not attributes assigned to every activity in an activity list.",
+   "b": "Roles and responsibilities are assigned via stakeholder/RACI analysis, not a mandatory attribute of each activity list item.",
+   "d": "Risk level is assessed via risk analysis and is not required for every task on the activity list."
+  }
+ },
+ {
+  "question_id": "2138b0e4-997d-54ed-ac5e-5783bb49eb57",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "In BABOK, a distinction is made between work products and deliverables: requirements documentation is a deliverable — an output formally provided to stakeholders. Work products are the documents and notes used during the business analysis process, such as meeting agendas/minutes, interview questions and notes, and presentation slides.",
+  "wrong_reasons": {
+   "b": "Interview questions and notes are a classic example of a business analysis work product.",
+   "c": "Meeting agendas and minutes are work products created during the BA process.",
+   "d": "Presentation slides prepared during analysis are work products."
+  }
+ },
+ {
+  "question_id": "19257747-d5c2-57ce-8862-903018462a7c",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "The business analysis communication plan describes the stakeholder groups, their communication needs, and the level of formality appropriate for communicating requirements (BABOK, Plan Business Analysis Communication; in v3 this is covered under 3.2 Plan Stakeholder Engagement / 3.4 Plan Business Analysis Governance). It defines how, when, and to whom BA information will be communicated.",
+  "wrong_reasons": {
+   "a": "The requirements management plan defines the process for managing scope, traceability, and requirement changes, not communication formality.",
+   "b": "The project management plan is the project manager's overall integration document, not the BA communication vehicle.",
+   "c": "The scope management plan defines how project scope is defined and controlled, not stakeholder communication of requirements."
+  }
+ },
+ {
+  "question_id": "8c0ae28d-b0eb-5b8a-abd0-359184e37785",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 5.3 Prioritize Requirements, stability is a basis for prioritization: requirements that are unstable (likely to change or not sufficiently understood) may be given lower priority to minimize unanticipated rework and wasted effort. The BA should lower the priority until the requirement stabilizes rather than remove it or inflate its priority.",
+  "wrong_reasons": {
+   "b": "Prioritizing solely on one SME's insistence ignores the stability basis and risks rework on a volatile requirement.",
+   "c": "Removing the requirement discards a potentially valuable need; instability is grounds for deferral, not deletion.",
+   "d": "Leaving priority unassigned fails the prioritization task; every requirement in scope should receive a priority."
+  }
+ },
+ {
+  "question_id": "292e87b6-64f9-5099-9dd5-d6631002221e",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "A constraint is a restriction or limitation imposed on the solution or the business analysis effort, such as a budget cap. The $300,000 ceiling limits acceptable solution options and is therefore a business constraint (BABOK v3, 6.2 Define Future State — constraints; also discussed in Requirements Analysis and Design Definition).",
+  "wrong_reasons": {
+   "a": "Solution cost is the actual estimated/incurred cost of a chosen solution, not a stakeholder-imposed limit.",
+   "b": "A budget is the allocated funds for the initiative; here the figure functions as a restriction on acceptable solutions, i.e., a constraint.",
+   "c": "Requirements express needs and capabilities; a cost cap restricts the design space rather than describing a needed capability."
+  }
+ },
+ {
+  "question_id": "73397867-586b-5a11-acac-e0a52960000d",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 7.5 Define Design Options and 7.6 Analyze Potential Value and Recommend Solution, each design option must be described in sufficient detail to allow comparison and assessment of its expected value. If the team cannot accurately assess the merits of the proposed approaches, the requirements and design options lack the level of detail needed to evaluate them.",
+  "wrong_reasons": {
+   "a": "Allocating requirements to solution components (7.2 in Solution Evaluation context / Allocate Requirements) happens after a solution option is selected.",
+   "b": "The number of approaches does not by itself prevent assessment; well-defined options can always be compared.",
+   "c": "The scenario states the business need was confirmed by market research and requirements were finalized with the product owner."
+  }
+ },
+ {
+  "question_id": "aec0fd88-beda-50b1-92a4-78a4dd653a8b",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "A data dictionary (BABOK v3, 10.12 Data Dictionary) records the standard definitions of data elements: their names, aliases, meanings/descriptions, and allowable values. It is the model that captures name, aliases, and description of system data.",
+  "wrong_reasons": {
+   "a": "A class model shows classes, attributes, and relationships but does not focus on aliases and standardized definitions.",
+   "b": "An entity relationship diagram shows entities and their relationships, not aliases and textual definitions of data elements.",
+   "d": "A CRUD matrix maps which processes/roles Create, Read, Update, or Delete data — it does not define data elements."
+  }
+ },
+ {
+  "question_id": "1274af52-5759-5fbd-a652-53daa4556266",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 3.2 Plan Stakeholder Engagement, after stakeholder analysis the BA plans stakeholder collaboration; the considerations listed — timing and frequency, location, available tools, delivery methods, and stakeholder preferences — are exactly the collaboration considerations documented in the stakeholder collaboration plan (part of the stakeholder engagement approach).",
+  "wrong_reasons": {
+   "b": "The business analysis plan covers the overall BA approach and activities, not these specific collaboration details.",
+   "c": "'Stakeholder analysis plan' is not a BABOK deliverable; stakeholder analysis has already been completed in the scenario.",
+   "d": "The communications management plan is a PMBOK project-management artifact, not the BABOK output for stakeholder collaboration planning."
+  }
+ },
+ {
+  "question_id": "2a1b5704-3da8-57ac-bed6-3baa39dcc7f3",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "How business analysis information (such as user stories) is organized, stored, and accessed is defined by the information management approach (BABOK v3, 3.3 Plan Business Analysis Information Management). Making the stories more accessible means updating how BA information is organized and retrieved, i.e., the information management approach.",
+  "wrong_reasons": {
+   "a": "The BA performance assessment (3.5) measures how well BA work is performed, not how information is organized.",
+   "c": "Organizational performance standards are enterprise-level benchmarks, not the mechanism for organizing a team's user stories.",
+   "d": "A lessons learned register records the insight but does not implement the change in how stories are organized and accessed."
+  }
+ },
+ {
+  "question_id": "809aea6d-230a-5ed9-87da-fdf58a78f7d3",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Gap analysis compares the current state against a desired or benchmark state to identify the differences; assessing a security program against a maturity model to determine its maturity level is a gap analysis. In BABOK v3 terms, this is the current state vs. future state comparison performed in Strategy Analysis (6.1/6.2) using benchmarking and gap assessment.",
+  "wrong_reasons": {
+   "a": "Risk analysis evaluates the likelihood and impact of risks (10.40), not program maturity.",
+   "b": "Risk mitigation is a response to reduce risk, not a measurement process.",
+   "c": "Risk assessment identifies and evaluates specific risks, not the overall maturity of the security program."
+  }
+ },
+ {
+  "question_id": "4e180a8f-f832-5b69-9efe-107036853964",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Quality is defined as the degree to which a set of inherent characteristics fulfills requirements (ISO definition adopted by BABOK/PMBOK). This underpins verification activities such as BABOK v3, 5.2 Verify Requirements, which assesses the quality characteristics of requirements.",
+  "wrong_reasons": {
+   "b": "A regulation is an externally imposed rule, not a measure of fulfilling requirements.",
+   "c": "A project phase is a segment of the project life cycle.",
+   "d": "Scope is the boundary of the solution or work, not the degree of fulfilling requirements."
+  }
+ },
+ {
+  "question_id": "c3d82e6c-172a-5763-aa84-ed9d4936e48b",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Functional decomposition (BABOK v3, 10.22 Functional Decomposition) breaks down processes, systems, functional areas, or deliverables into smaller components to help understand and manage the scope of work. It is the technique for decomposing the solution scope into smaller work products.",
+  "wrong_reasons": {
+   "a": "Interface analysis (10.24) identifies interactions between solutions/systems, not a scope breakdown.",
+   "b": "User stories (10.48) capture stakeholder needs in small increments but are not a decomposition of scope into work products.",
+   "d": "Scope modelling (10.41) defines the boundaries (what is in/out of scope) rather than breaking the work into smaller parts."
+  }
+ },
+ {
+  "question_id": "da1a4291-56e8-59b5-8005-93bb0e94b31b",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Risk transference shifts the impact of a risk to a third party, typically through insurance, warranties, guarantees, and performance bonds (BABOK v3, 10.40 Risk Analysis and Management — risk responses). Life cycle costing is a cost-estimating/analysis approach considering total cost of ownership, not a transfer of risk.",
+  "wrong_reasons": {
+   "a": "Warranties transfer the cost of failure to the seller/vendor — a transference response.",
+   "b": "Performance bonds shift the financial consequence of non-performance to a third party — transference.",
+   "d": "Insurance is the textbook example of transferring risk to another party."
+  }
+ },
+ {
+  "question_id": "47326dbf-f88c-507d-a1d7-2c88933a046e",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "The requirements management plan defines the process to be followed in managing the solution scope and requirements, including traceability, attributes, prioritization, and the change/approval process (BABOK — Plan Requirements Management Process; in v3 covered by 3.4 Plan Business Analysis Governance).",
+  "wrong_reasons": {
+   "b": "The scope management plan is a project management artifact for project scope, not the BA process for solution scope and requirements.",
+   "c": "A change management plan addresses organizational or project change control broadly, not the requirements management process itself.",
+   "d": "The project management plan integrates all project planning; it does not specifically define the requirements management process."
+  }
+ },
+ {
+  "question_id": "db43483c-8b82-5366-9d52-569172f26c3e",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 6.2 Define Future State, the BA identifies the conditions (including business policies) needed to meet the business need; when existing policies constrain or are insufficient to achieve the desired future state value, changing those policies becomes part of the change — which, especially in a highly regulated environment, requires obtaining approval from the appropriate authority.",
+  "wrong_reasons": {
+   "a": "Constraining the solution to legacy policies sacrifices the desired future state value the change is meant to achieve.",
+   "b": "Recording an assumption ignores a known, discovered constraint — this is a fact to address, not an assumption.",
+   "c": "Modelling two future states defers the decision and adds effort without resolving whether the policies can change."
+  }
+ },
+ {
+  "question_id": "28d4714c-78dc-53a4-a69c-6ce38ed7671a",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "To ensure no performed activities are missed for a high-risk, high-profile process, the BA should have stakeholders formally review the process flow and user stories (BABOK v3, 10.37 Reviews; supports 4.5 Confirm Elicitation Results and 5.5 Verify/Validate). A formal structured review with the people who perform the work is the mechanism to verify completeness and directly address the sponsor's concern.",
+  "wrong_reasons": {
+   "a": "Logging the concern in the risk register tracks it but does nothing to ensure activities are not missed.",
+   "c": "Traceability to the business case shows alignment to objectives, not completeness of captured process activities.",
+   "d": "Re-reading already-approved elicitation results would not uncover activities that were never captured."
+  }
+ },
+ {
+  "question_id": "4b22b4a0-9950-5814-8067-72a2205d9203",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Current state models (BABOK v3, 6.1 Analyze Current State) help stakeholders understand how the organization works today, identify improvement opportunities, and validate solution scope against the existing environment. Creating Pareto charts is a data-analysis activity based on measured defect/frequency data, not a purpose of building a current state domain model.",
+  "wrong_reasons": {
+   "a": "Identifying improvement opportunities is a stated benefit of analyzing/modeling the current state.",
+   "b": "Validating solution scope with business and technical stakeholders is a valid use of a current state model.",
+   "d": "Helping stakeholders understand the current state is the primary purpose of the model."
+  }
+ },
+ {
+  "question_id": "8e965a32-7498-5344-8a1c-b15f77777157",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "The change-driven (adaptive/agile) approach favors defining requirements through team interaction and gathering feedback on working solution increments, with requirements detailed just-in-time (BABOK — Plan Business Analysis Approach; v3 3.1, predictive vs. adaptive approaches).",
+  "wrong_reasons": {
+   "a": "Experimentation alone is not the BABOK characterization; the emphasis is on team interaction and iterative feedback.",
+   "b": "Requirements are elicited iteratively throughout, not deferred until after a solution is identified.",
+   "c": "Standardized templates and heavy formal documentation characterize the plan-driven (predictive) approach."
+  }
+ },
+ {
+  "question_id": "ffc185c6-02c7-580c-8269-ed50806396e4",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Risk governance establishes the organizational structures, accountabilities, and checks and balances — including segregation of front, back, and middle office functions — that enable effective oversight of risk management. Governance defines who has authority and how duties are separated, aligning with BABOK v3 governance concepts (3.4 Plan Business Analysis Governance, 10.40 Risk Analysis and Management).",
+  "wrong_reasons": {
+   "a": "A risk response plan defines actions for identified risks, not organizational structure and segregation of duties.",
+   "b": "Risk analysis assesses likelihood and impact of risks; it does not establish organizational checks and balances.",
+   "c": "A risk management plan describes how risk activities will be performed, not the enterprise governance structure over risk."
+  }
+ },
+ {
+  "question_id": "d3443c7b-b928-5975-ace9-7117621b0166",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Risk categorization groups risks by common causes or by the areas of the project most affected (e.g., using a risk breakdown structure), which helps determine where the project is most exposed. This aligns with organizing risks by source/impact area in risk analysis and management (BABOK v3, 10.40).",
+  "wrong_reasons": {
+   "a": "Risk identification discovers and lists risks; it does not analyze which areas are most affected.",
+   "b": "Risk urgency assessment ranks risks by how soon a response is needed, not by affected area.",
+   "d": "Risk analysis broadly evaluates likelihood and impact; categorization is the specific process of grouping risks by affected area."
+  }
+ },
+ {
+  "question_id": "b97fb320-3a04-5bf6-906d-aa26adaf4618",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK (Specify and Model Requirements, v3 5.1; modelling concepts), models are simplified representations of reality used to describe situations or problems, define business domain boundaries, and describe thought processes and action flows. Defining the resources needed on the project team is a project management planning activity, not a purpose of a requirements model.",
+  "wrong_reasons": {
+   "b": "Models such as scope models explicitly define boundaries of the business domain.",
+   "c": "Describing a situation or problem is a core purpose of modelling.",
+   "d": "Process and activity models describe thought processes and action flows."
+  }
+ },
+ {
+  "question_id": "045c9aa7-a01e-5edd-b161-e69a73f4a9e3",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "Estimating the cost of labor, materials, equipment, and facilities for multiple proposed solution options early in the initiative — before a solution is selected — produces a rough order of magnitude (ROM) estimate, a high-level estimate with wide accuracy ranges used to compare options (BABOK v3, 10.19 Estimation; supports 7.6 Analyze Potential Value and Recommend Solution).",
+  "wrong_reasons": {
+   "a": "Cost budgeting aggregates approved estimates into a cost baseline for a chosen solution, which comes later.",
+   "b": "Expert judgment is a means of producing estimates, not the name of this costing process.",
+   "d": "'Scoping the project costs' is not a recognized estimating process in BABOK or PMBOK."
+  }
+ },
+ {
+  "question_id": "e12eec18-1e86-5564-b2fb-30c2cd88779d",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "A coverage matrix is a simple table used to manage traceability when there are relatively few requirements or when tracing only high-level requirements (BABOK — Manage Requirements Traceability; v3 5.1 Trace Requirements). For a small project with few requirements, the coverage matrix is the recommended form.",
+  "wrong_reasons": {
+   "a": "A roles and responsibility matrix maps stakeholders to work, not requirements traceability.",
+   "b": "A RACI matrix defines Responsible/Accountable/Consulted/Informed roles, not requirement tracing.",
+   "d": "A full requirements trace matrix (often via a requirements management tool) suits larger sets of requirements; BABOK names the coverage matrix for few requirements."
+  }
+ },
+ {
+  "question_id": "73d7eeca-1866-5979-bffe-845b8fb29ff7",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "When assessing tradeoffs between delivery/release options, the BA considers available resources, constraints on the solution, and dependencies between requirements, since some capabilities may need to be delivered together or in sequence (BABOK — Allocate Requirements; v3 7.2 covers allocation and release planning considerations).",
+  "wrong_reasons": {
+   "a": "Historical information supports estimation generally but is not the allocation tradeoff consideration BABOK lists.",
+   "c": "Team experience affects estimates, not the defined considerations for allocating requirements across releases.",
+   "d": "Enterprise environmental factors is PMBOK terminology, not a BABOK allocation consideration."
+  }
+ },
+ {
+  "question_id": "6a2c9b0f-b63b-51fb-9e78-28f0a10bf502",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Fast tracking is the schedule compression technique of performing phases or activities in parallel that would normally be done in sequence — overlapping two program phases is fast tracking.",
+  "wrong_reasons": {
+   "a": "Lead time is an adjustment to a dependency between two activities, not the act of overlapping whole phases as a compression decision.",
+   "b": "Rolling (rolling wave planning) is progressive elaboration of plans, not overlapping phases.",
+   "d": "Crashing compresses the schedule by adding resources/cost, not by overlapping work."
+  }
+ },
+ {
+  "question_id": "f5b8ea7e-8cac-5795-be48-b9fd119dc3aa",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, 10.20 Financial Analysis, the internal rate of return is the discount rate at which the net present value of an investment equals zero — effectively the breakeven rate of return. Comparing each solution's IRR against the required rate tells the BA which solution is worth investing in based on its breakeven point.",
+  "wrong_reasons": {
+   "a": "The discount rate is an input assumption (cost of capital), not a calculated breakeven measure of a proposal.",
+   "b": "NPV gives the absolute value created at a given discount rate; it does not itself express a breakeven point.",
+   "c": "ROI expresses percentage return of benefits over costs, without identifying the breakeven rate or point."
+  }
+ },
+ {
+  "question_id": "52329195-45df-5b9f-9e8f-fe9a89f445e9",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "A statement of work (SOW) is a narrative description of the products, services, or results (the work) required for the project. It textually describes what will be done, in contrast to the WBS which is a hierarchical decomposition of deliverables.",
+  "wrong_reasons": {
+   "a": "A CWBS is a hierarchical breakdown of the contracted work, not a narrative description.",
+   "b": "A WBS is a deliverable-oriented hierarchical decomposition, not narrative text.",
+   "c": "A CSOW describes only the portion of work covered by a specific contract, whereas the question asks about the work required for the project."
+  }
+ }
+]

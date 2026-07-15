@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "e4f62e35-3614-5bbd-b523-c4f960a2c595",
+  "context": "",
+  "question": "A business analyst (BA) at a regional bank has recently been assigned to assist on a project to expand into new markets. The chief executive officer (CEO) envisions the bank as a national brand and has asked the chief financial officer (CFO) to monitor project progress closely. The project manager (PM) has asked the BAs on the team to recommend an appropriate business analysis approach.\nBased on the nature of the project and the industry, which approach should they recommend?",
+  "options": {
+   "a": "An unstructured approach utilizing informal team interaction, model-driven documentation standards, and iterative requirements development",
+   "b": "An agile approach with frequent team interaction, adaptive documentation standards, and iterative requirements development",
+   "c": "moderate approach utilizing the bank's existing waterfall project lifecycle and documentation deliverables not requiring formal approval",
+   "d": "formal approach with planned team interaction, agreed upon documentation deliverables requiring formal approval, and front-loaded requirements development"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4f0542d0-189c-5f05-ae34-3fa239352eec",
+  "context": "",
+  "question": "A software development company is in the process of creating a new product for their customer base. It has been several years since such a project has been initiated and the organization has created a new team to own and develop the product. The project team will be evaluated by the successful adoption of the product, which will be developed over the next 12 months.\nThe team's business analyst (BA) has analyzed the current state in partnership with the product owner and has been meeting with senior management to identify the goals that need to be attained. A broad view of the business has been analyzed in order to have an understanding of how the company is currently providing value to its customer base.\nAfter the BA completed the initial analysis, the information is reviewed with leadership. At this point in the project, what will the BA be presenting?",
+  "options": {
+   "a": "Project timeline",
+   "b": "Project deliverables",
+   "c": "Resource staffing",
+   "d": "Expected benefits"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "2f424250-a437-51dc-be2c-9819a18e775b",
+  "context": "",
+  "question": "Which of the following is a flowchart that shows all the processes and the interfaces that interact with the project processes?",
+  "options": {
+   "a": "Process configuration",
+   "b": "Pareto chart",
+   "c": "Control chart",
+   "d": "Quality baseline"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f0f282dc-b2d3-5578-a1ff-e3d0751c9566",
+  "context": "",
+  "question": "You are the business analyst for a large project that will create new software for the entire organization. This new software will affect all of the administrative assistants in the organization schedule meetings, reserve facilities, and share calendars. There are approximately 2,400 administrative assistants in your organization and not all of these people can attend requirements gathering workshops. What approach can you use to manage and gather requirements from these 2,400 administrative assistants?",
+  "options": {
+   "a": "You can meet with a small group of administrative assistants and assume their requirements are reflective of the remaining group of administrative assistants.",
+   "b": "You will need to meet with all of the administrative assistants as part requirements elicitation.",
+   "c": "You can meet with a small group of administrative assistants that will serve as representatives for the remaining administrative assistants.",
+   "d": "You can meet with the administrative assistants' managers."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d69b1f8a-fa97-5057-a9ac-14d52e827c9f",
+  "context": "",
+  "question": "You are the business analyst for your organization and you are completing the manage requirements traceability process. You are tracking the requirements to determine how the requirements are interrelated with one another and with the actual delivery of the project scope.\nThere are actually three reasons why the business analyst should trace requirements. Which one of the following is not one of the three reasons why trace requirements is useful?",
+  "options": {
+   "a": "Impact analysis",
+   "b": "Requirements coverage",
+   "c": "Requirements allocation",
+   "d": "Quality control"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "85f0e8ef-540d-5690-9bc9-08a106ce236d",
+  "context": "",
+  "question": "Your organization is trying to determine which one of two opportunities they will pursue. The Project A is worth $235,987 and Project B is worth $567,000 but carries significant risk. The organization elects to purse Project B and not Project A.\nWhat is the opportunity cost in this scenario?",
+  "options": {
+   "a": "$331013",
+   "b": "There is not enough information to know as the risk for Project B has not been quantified.",
+   "c": "$235,987",
+   "d": "$567,000"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f68ff0a8-d94c-5f54-9804-dbb5006f3f0d",
+  "context": "",
+  "question": "You are the business analyst for your organization. Management has asked that you create a model of the requirements so the stakeholders can better understand the requirements and the project as a whole. Which of the following statements best describes a model?",
+  "options": {
+   "a": "Models are slices of the project solution.",
+   "b": "Models simplify the requirements for common stakeholders.",
+   "c": "Models are statistics for the return on investment, time saved, and other mathematics.",
+   "d": "Models abstract and simplify reality."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "191f7146-c271-5b02-bd58-c2659d0a4906",
+  "context": "",
+  "question": "Which of the following can be an effective tool during quality control to help determine the how the problem occurred?",
+  "options": {
+   "a": "Rework",
+   "b": "Trend Analysis",
+   "c": "Flowcharting",
+   "d": "Pareto Diagram"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "33f9586a-8175-5a38-b515-4d96f54b23b7",
+  "context": "",
+  "question": "What element of the plan business analysis process affects the business analysis duties that need to be performed?",
+  "options": {
+   "a": "The experience of the business analyst",
+   "b": "The experience of the project manager",
+   "c": "The expected completion date of the business analysis duties",
+   "d": "The type of project or initiative"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b54d30a0-f2c7-55a1-8ac2-5ded30148660",
+  "context": "",
+  "question": "Which of the following is the process of developing a document that formally authorizes a project or a phase?",
+  "options": {
+   "a": "Define Scope",
+   "b": "Develop Schedule",
+   "c": "Develop Project Charter",
+   "d": "Create Work Breakdown Structure"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "2144d5bd-22a5-5153-8bde-136e5949c4fd",
+  "context": "",
+  "question": "Which of the following processes includes tasks and roles, risk categories, schedules for risk management activities, definitions of probability and impact, and the stakeholders' tolerances?",
+  "options": {
+   "a": "Risk management plan",
+   "b": "Risk register",
+   "c": "Risk analysis",
+   "d": "Risk response plan"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "cc003f20-c12d-59eb-b18e-ddef2370b7a9",
+  "context": "",
+  "question": "You and Tom are writing the solution scope for a new project in your organization. You need to create a method to define what solution will and will not provide for the organization. What technique can you and Tom use to establish appropriate boundaries for the solution?",
+  "options": {
+   "a": "Interviews with the key stakeholders",
+   "b": "User stories",
+   "c": "Functional decomposition",
+   "d": "Scope modeling"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c2db1f00-148e-5739-b3a4-0a94c0db0cf1",
+  "context": "",
+  "question": "You are the business analyst for your organization. Your current project is using a plan-driven approach for the requirements, business analysis, and monitoring. Which one of the following statements best describes the plan-driven approach to business analysis planning and monitoring?",
+  "options": {
+   "a": "Plan-driven approaches determine how priorities will be diagnosed for the project solution.",
+   "b": "Plan-driven approaches encourage changes that prevent errors and omissions.",
+   "c": "Plan-driven approaches typically have meetings daily to discuss the business analysis requirements process.",
+   "d": "Plan-driven approaches typically call for a significant amount of formality and detail."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "2ec221fa-f147-5415-98e1-21bafa57638e",
+  "context": "",
+  "question": "Which of the following charts is a quality control tool to show categories of defects?",
+  "options": {
+   "a": "Pareto chart",
+   "b": "RACI chart",
+   "c": "Gantt chart",
+   "d": "RAM chart"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "3ce7f0f6-8563-5b42-b51a-0ef05193f7ed",
+  "context": "",
+  "question": "Which of the following is the comparison of planned project results with actual project results?",
+  "options": {
+   "a": "Variance analysis",
+   "b": "Cost-benefit analysis",
+   "c": "Statistical Sampling",
+   "d": "Trend analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "0c09b892-3d8c-5fe7-bab1-c91d072d8790",
+  "context": "",
+  "question": "You are the business analyst for your organization. Management has asked that in the business case you're creating that you also include the projected costs and benefits to be realized and how those and benefits will be assessed and evaluated. What term matches management's request?",
+  "options": {
+   "a": "Cost-benefits justification",
+   "b": "Risk assessment",
+   "c": "SWOT analysis",
+   "d": "Results measurements"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "7929aa8b-a050-54e8-aa0b-5f0167024a49",
+  "context": "",
+  "question": "A company is in the middle of a large-scale project. Safety concerns have been brought up by several stakeholders, and this has led to numerous proposed changes. The business analyst (BA) must now assess the impact that making these changes will have on the project. When assessing the impact of safety concerns, which of the following should be considered?",
+  "options": {
+   "a": "Design",
+   "b": "Urgency",
+   "c": "Risk register",
+   "d": "Cost/benefit analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "9850d362-cf39-5fdc-afbb-0d96458e1757",
+  "context": "",
+  "question": "Jenni is the business analyst for the UHQ Organization. She is preparing to complete the conduct elicitation activity for her organization. Jenni can use all of the following techniques as part of this activity except for which one?",
+  "options": {
+   "a": "Requirements workshops",
+   "b": "Document analysis",
+   "c": "Interviews",
+   "d": "Problem tracking"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "dc6d6e29-e3a6-596c-8d1d-b6ab9e5c6da6",
+  "context": "",
+  "question": "An innovative pizza restaurant announces a new pizza topping each week. Once advertised, the new topping on the regular dough constitutes the sole pizza type offered during the week. No other pizza toppings are offered. Which of the following processes is a strong candidate to be addressed while planning for requirements reuse?",
+  "options": {
+   "a": "Dough preparation",
+   "b": "Toppings preparation",
+   "c": "Topping recipes",
+   "d": "d images"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f88e2d2f-e61c-5c75-88fe-91101d1d9958",
+  "context": "",
+  "question": "A business analyst (BA) had identified redundancy in the process for the first contact resolution for customer issues: currently two separate a visions handle this task. A new solution identifies a single point of contact that will eliminate the redundancy. What can the BA do to highlight the required changes to the structure?",
+  "options": {
+   "a": "Current state description",
+   "b": "Policies and procedures",
+   "c": "Business capability analysis",
+   "d": "Organizational modeling"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "3b5283fd-ed1e-596b-a11a-af137ef305ab",
+  "context": "",
+  "question": "An automobile manufacturer is undertaking a project intended to modify or replace the company's current timekeeping system. Negative employee reaction to change follows as word of the proposed solution spreads throughout the company. What could a business analyst (BA) do to prevent or reduce employee discontent?",
+  "options": {
+   "a": "Record negative employee reaction as a project risk",
+   "b": "Propose cultural changes for the organization",
+   "c": "Report potential sources of dissent to management",
+   "d": "Relay upper management support to stakeholders"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "804db352-e92e-5a67-be06-6e6267bf6768",
+  "context": "",
+  "question": "A business analyst (BA) has defined a business analysis approach and presented the documents to the sponsors, the senior executives, the domain experts, the project manager and the head of technology, to obtain agreement from all. At this juncture, the prefect manager objected to some of the estimates determined m the budget and refused to agree with the estimates. Which guideline or tool, if followed by the BA. would have helped in avoiding such disagreements?",
+  "options": {
+   "a": "Requirements Classification Schema",
+   "b": "Stakeholder Engagement Approach",
+   "c": "Risk Analysis and Management",
+   "d": "Business Analysis Performance Assessment"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d558c950-c183-5672-91ca-03593300d4fb",
+  "context": "",
+  "question": "Which of the following techniques is used to divide a project into controllable parts?",
+  "options": {
+   "a": "Gantt Chart",
+   "b": "Pareto Chart",
+   "c": "WBS",
+   "d": "CPM"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b9e887a6-5f74-5600-bdbf-3a9f0e2293f2",
+  "context": "",
+  "question": "Which of the following requirement attributes lacks any ambiguous characteristics?",
+  "options": {
+   "a": "Understandable",
+   "b": "User Requirements Document (URD)",
+   "c": "Unambiguous",
+   "d": "Urgency"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "aec11898-b922-584e-a92b-733add53f80c",
+  "context": "",
+  "question": "Which of the following roles works with the project team to understand the deliverables and then teaches the users of the deliverables how to utilize the project's product?",
+  "options": {
+   "a": "End user",
+   "b": "Database analyst",
+   "c": "Stakeholder",
+   "d": "Trainer"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "40b87c38-4cac-5fc3-a895-2df57a9a5a6b",
+  "context": "",
+  "question": "Which of the following documents is described in the statement below? \"It is a type of procurement document used to request proposals from prospective sellers of products or services.\"",
+  "options": {
+   "a": "Request for quote",
+   "b": "Request for information",
+   "c": "Request for bid",
+   "d": "Request for proposal"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "be979aba-2ec7-5584-896a-bb16cc03d634",
+  "context": "",
+  "question": "You are the business analyst for your organization. You are currently working with Steve on the organize requirements process. You and Steve have elected to use the user stories approach for this process. What is the user stories approach for requirements organization?",
+  "options": {
+   "a": "Stakeholders' experiences equate to the stakeholder requirements.",
+   "b": "Stakeholders are interviewed and their experiences are recorded to help identify the requirements.",
+   "c": "Stakeholders' objectives are described to identify the requirements that the solution will need to support.",
+   "d": "Stakeholders are interviewed and their stories are recorded as part of the requirements."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "a560d6cc-d439-5a26-9e7d-3181997e49f5",
+  "context": "",
+  "question": "What plan includes the description of the scope of work, the deliverable Work Breakdown Structure, the activity list, and estimates for the business analysis activities?",
+  "options": {
+   "a": "Project management plan",
+   "b": "Implementation plan",
+   "c": "Requirements management plan",
+   "d": "Business analysis plan"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "403dfb54-aed9-552f-a833-9cb304a400bd",
+  "context": "",
+  "question": "Which of the following participants have to keep the minutes and details of the conversation during Interviews?",
+  "options": {
+   "a": "Stakeholder",
+   "b": "Scribe",
+   "c": "Business Analyst",
+   "d": "End user"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "2be35140-a4b5-5d3a-8a97-a1d8fcdb9251",
+  "context": "",
+  "question": "Which of the following is the process of identifying and assessing factors that may jeopardize the success of a project or the achievement of a goal?",
+  "options": {
+   "a": "Risk analysis",
+   "b": "Risk identification",
+   "c": "Risk retention",
+   "d": "Risk communication"
+  },
+  "image_paths": []
+ }
+]

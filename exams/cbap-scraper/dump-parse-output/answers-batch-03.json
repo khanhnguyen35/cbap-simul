@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "8ddf0b51-1891-5c10-8656-cef8c99ac74f",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.12 Data Modelling, a class model (used in object-oriented analysis) shows classes with their attributes, operations (behaviors), and relationships/associations to other entities in the solution. Operations are the distinguishing element: only the class model captures behavior together with data structure.",
+  "wrong_reasons": {
+   "a": "An entity relationship diagram shows entities, attributes, and relationships but does not model operations/behavior.",
+   "b": "A data dictionary (BABOK v3, 10.13) defines data elements and their meanings, not operations or relationships graphically.",
+   "d": "A CRUD matrix maps which processes create, read, update, or delete data; it does not show attributes or operations of entities."
+  }
+ },
+ {
+  "question_id": "deaed3b6-7206-522c-913c-0d0cf7fdcd2d",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "Business process models depict the sequence of activities and the flow of work, which is why they are also called activity models or activity flow models (BABOK v3, 10.35 Process Modelling describes process models as showing the sequential flow of work or activities). UML activity diagrams are a common notation for process models.",
+  "wrong_reasons": {
+   "a": "An organization model shows reporting structures and roles (BABOK v3, 10.32 Organizational Modelling), not process flow.",
+   "c": "A relational model is a data/database modelling concept, unrelated to processes.",
+   "d": "A data flow model (BABOK v3, 10.14) shows how data moves between processes and stores, not the business process activities themselves."
+  }
+ },
+ {
+  "question_id": "107b8812-4a39-503a-9a42-8e9669e5a707",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "In a business case's financial analysis (BABOK v3, 10.7 Business Cases and 10.20 Financial Analysis), costs and benefits are assessed over a defined time period. The management horizon relates to when the initiative recovers its investment - the point at which the solution breaks even on cost and begins to return a profit, which is why payback period/break-even is a core business case measure.",
+  "wrong_reasons": {
+   "a": "Expected deliverables describe scope, not a point in time used for financial assessment.",
+   "b": "Solution completion is the delivery date, not the financial break-even horizon considered by management.",
+   "c": "Phase durations are project schedule elements, not the horizon over which benefits offset costs."
+  }
+ },
+ {
+  "question_id": "ac344237-bd86-54e9-9037-b1bf93f23342",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "BABOK v3, 3.1 Plan Business Analysis Approach: the approach defines how business analysis will be performed - including deliverables, analysis techniques, team roles, timing, and formality. Requirements for solution acceptance (acceptance and evaluation criteria) are defined later in Requirements Analysis and Design Definition, not as part of the business analysis approach.",
+  "wrong_reasons": {
+   "b": "Deliverables are explicitly part of planning the business analysis approach.",
+   "c": "Team roles are addressed when planning the approach and stakeholder engagement.",
+   "d": "The analysis techniques to be used are a defined element of the business analysis approach."
+  }
+ },
+ {
+  "question_id": "694fe967-4194-56d9-8b30-e7bff0d58594",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Business needs can be generated top-down, bottom-up, from middle management, or from external drivers. A customer coming to the organization and requesting new software is a need originating outside the enterprise - a customer demand - which BABOK classifies as an external driver (see BABOK v3, 6.1 Analyze Current State, business needs arising from external sources such as customer demand or market competition).",
+  "wrong_reasons": {
+   "a": "Bottom-up needs arise from staff performing the work who identify process problems, not from customers.",
+   "c": "Middle management needs come from managers needing information or process changes to meet objectives.",
+   "d": "Top-down needs originate from senior management strategic objectives, not from an external customer request."
+  }
+ },
+ {
+  "question_id": "90d40904-ef59-5484-9e6f-0b2e0751f9cd",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Stakeholder analysis (BABOK v3, 3.2 Plan Stakeholder Engagement; 10.43 Stakeholder List, Map, or Personas) identifies the stakeholders - any group or individual - who may be affected by a proposed initiative or who share a common business need, and examines their characteristics, attitudes, and influence. Stakeholders include people, groups, and organizations, so 'stakeholders' is the accurate, complete term.",
+  "wrong_reasons": {
+   "a": "Limiting the analysis to organizations and lines of business excludes individual stakeholders.",
+   "c": "It is not limited to organizations affected by a problem; it covers all stakeholders of the initiative.",
+   "d": "Limiting it to people excludes organizations and groups that are also stakeholders."
+  }
+ },
+ {
+  "question_id": "4a91207b-6e47-53b7-80c2-15402fec7252",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "BABOK v3, 3.2 Plan Stakeholder Engagement and 3.4 Plan Business Analysis Information Management require considering stakeholders' communication needs AND their communication preferences (format, frequency, channel, level of detail). By unilaterally deciding on e-mail for everyone, the BA ignored individual stakeholder communication preferences.",
+  "wrong_reasons": {
+   "a": "Business objectives are defined in Strategy Analysis, not a missing element of the communication-focused stakeholder analysis here.",
+   "c": "Retention concerns information storage/records management, and e-mail actually maintains a record; it is not what was missed.",
+   "d": "Presentation materials are a delivery format detail, not a stakeholder analysis element."
+  }
+ },
+ {
+  "question_id": "08cbc49a-ba62-58b8-9f58-7b1aef25cff9",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.43 Stakeholder List, Map, or Personas: stakeholder maps are visual diagrams that depict the relationship of stakeholders to the solution and to one another. Common forms include the stakeholder matrix (influence vs. interest) and the onion diagram showing stakeholder involvement relative to the solution.",
+  "wrong_reasons": {
+   "a": "It is not limited to positive/negative stakeholder connections; attitude is only one analyzed attribute.",
+   "b": "Geographic location is a stakeholder attribute but not what a stakeholder map depicts.",
+   "c": "Responsible/accountable/consulted/informed roles are shown in a RACI matrix, not a stakeholder map."
+  }
+ },
+ {
+  "question_id": "e5d570e9-fd91-5dcd-ab67-d72bcb62861d",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "A Resource Breakdown Structure (RBS) is a hierarchical chart of the resources needed for the initiative, which can be grouped by category, type, or project phase. This aligns with estimation and planning support concepts referenced in BABOK v3, 10.19 Estimation and general project planning practice.",
+  "wrong_reasons": {
+   "a": "A Pareto chart ranks causes/defects by frequency to identify the vital few; it does not show resources.",
+   "b": "An Organizational Breakdown Structure decomposes the organization's units/reporting relationships, not the resources needed by phase.",
+   "c": "A Gantt chart shows schedule activities across time, not a hierarchical grouping of resources."
+  }
+ },
+ {
+  "question_id": "05362365-59af-5d3c-a155-ad988fc13ffd",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "When analyzing resources required as part of feasibility/alternative analysis (BABOK v3, 6.3 Define Change Strategy and 10.20 Financial Analysis considerations), the assessment covers existing resources, resources that must be increased, additional capabilities required, and new resources that need to be developed or acquired. The missing dimension is the new resources to be developed.",
+  "wrong_reasons": {
+   "b": "Financial performance metrics are performance measures, not a dimension of the resources-required analysis.",
+   "c": "An 'enterprise readiness agreement' is not a BABOK concept; enterprise readiness assessment is a separate consideration.",
+   "d": "The timeline belongs to the change strategy/schedule, not to the resource-requirements dimensions."
+  }
+ },
+ {
+  "question_id": "2e98cd01-5111-507d-bc62-68199230c20f",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Stakeholder analysis begins as soon as a business need is identified and is performed continuously throughout the initiative as new stakeholders emerge (BABOK v3, 3.2 Plan Stakeholder Engagement). Stakeholders must be understood before planning, elicitation, or solution definition can proceed effectively.",
+  "wrong_reasons": {
+   "a": "The project charter may not exist yet; stakeholder analysis precedes and is independent of chartering.",
+   "b": "Naming a sponsor is not the trigger; the business need is.",
+   "d": "Waiting until a solution is identified is too late; stakeholders must be analyzed while the need is being explored."
+  }
+ },
+ {
+  "question_id": "4a4b754c-0b3b-5052-ab3a-69def0b46c80",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "In an adaptive (agile) approach, changes are welcomed and managed through the product backlog: new or changed requirements are added to the backlog and prioritized against other items for a future iteration (BABOK v3, 3.1 Plan Business Analysis Approach - adaptive approaches; 10.4 Backlog Management; Agile Extension). The BA should add the requested change to the backlog for prioritization.",
+  "wrong_reasons": {
+   "a": "Changing the whole approach to predictive because of one change request is disproportionate and contrary to adaptive principles.",
+   "b": "Formal change request processes suit predictive approaches; adaptive initiatives manage change through backlog prioritization.",
+   "c": "Directly inserting it into the next iteration bypasses prioritization by the product owner/stakeholders."
+  }
+ },
+ {
+  "question_id": "f950e56c-edaa-5a31-bf14-6015a0afb85e",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "BABOK v3, 10.40 Risk Analysis and Management: risk-averse stakeholders prefer to avoid risk. Avoidance means not undertaking the risky course of action or removing the source of the risk entirely, which is the strategy consistent with a risk-averse organization facing a highly uncertain assumption.",
+  "wrong_reasons": {
+   "a": "Acceptance (doing nothing beyond monitoring) characterizes risk-neutral or risk-seeking postures, not risk-averse ones.",
+   "b": "Transfer shifts the risk to a third party but the organization still tolerates the risk existing; it is not the defining risk-averse response.",
+   "d": "Mitigation reduces probability/impact but still accepts residual risk, whereas a risk-averse organization prefers to avoid it."
+  }
+ },
+ {
+  "question_id": "32d6880a-f02b-5f7b-97ae-a117c32046eb",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "A test plan is mandatory in virtually all software development projects because the solution must be verified and validated against requirements before acceptance (aligned with BABOK v3, 7.6 Analyze Potential Value and Recommend Solution / Solution Evaluation activities and acceptance criteria, 10.1). The other plans are situational and depend on project context.",
+  "wrong_reasons": {
+   "a": "Communication management plans are best practice but scaled to context; small efforts may not formalize one.",
+   "b": "Disaster recovery plans apply to operations/infrastructure contexts, not to most development projects as mandatory artifacts.",
+   "d": "Procurement plans are only needed when goods/services are purchased externally."
+  }
+ },
+ {
+  "question_id": "0f5cca6e-0b34-59ce-824c-c786a95a392a",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "BABOK v3, 5.1 Trace Requirements: traceability identifies and documents the lineage of each requirement, including its relationships to other requirements, designs, and solution components. It links business requirements down to stakeholder and solution requirements and to other artifacts and solution components (derive, depends, satisfy, validate relationships).",
+  "wrong_reasons": {
+   "a": "Risk, cost, quality, and scope elements are not the basis of requirements traceability links.",
+   "c": "Linking requirements to the WBS is a project management mapping, not the BABOK definition of tracing.",
+   "d": "Tracking issues, risks, costs, and defects around a requirement describes monitoring/requirements life cycle metrics, not traceability relationships."
+  }
+ },
+ {
+  "question_id": "a2dbc410-3af5-59bd-83be-8a2ac6d2a910",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "BABOK v3, 6.2 Define Future State (business goals and objectives): goals and objectives describe the ends that the organization is seeking to achieve. Goals are longer-term qualitative statements that are progressively refined into more specific, measurable objectives (often tested against SMART criteria).",
+  "wrong_reasons": {
+   "a": "Processes to be improved describe means/scope of change, not the ends being pursued.",
+   "b": "Benefits versus risk and cost is the cost-benefit content of a business case, not the goals element.",
+   "c": "Describing all required work is the definition of project scope, not business goals and objectives."
+  }
+ },
+ {
+  "question_id": "5dcac1e2-3227-5922-8a54-bd4f6e54e31f",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "Requirements analysis (BABOK v3, Requirements Analysis and Design Definition KA) covers progressively elaborating and defining stakeholder requirements - which describe what a solution must be capable of doing to meet stakeholder needs - and refining them into solution requirements. This option describes the scope of the requirements analysis processes as a whole.",
+  "wrong_reasons": {
+   "a": "Focusing effort on the most critical requirements describes the Prioritize Requirements task (5.3), only one activity within the KA.",
+   "c": "Defining all the work and only the required work is the definition of project scope management (PMBOK), not requirements analysis.",
+   "d": "Conformance to requirements and fitness for use is the definition of quality, not requirements analysis."
+  }
+ },
+ {
+  "question_id": "af0fc68d-5b11-5d26-9962-a7f27006ad99",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "For planning the business analysis approach, the stakeholders consulted include the domain SME, project manager, regulator, sponsor, and implementation SMEs such as testers (BABOK v3, 3.1.4 Stakeholders lists domain subject matter expert, project manager, regulator, and sponsor; testers participate as implementation SMEs). 'Functional management' is not a stakeholder role recognized for this task.",
+  "wrong_reasons": {
+   "a": "Testers (implementation SMEs) are consulted because the approach affects testing and quality activities.",
+   "b": "The project manager is explicitly listed - the BA approach must be compatible with the project approach.",
+   "c": "The regulator is explicitly listed because regulations may dictate formality and process requirements."
+  }
+ },
+ {
+  "question_id": "e34116f8-1751-514a-a5ab-bae50924fd0c",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "BABOK v3, 4.1 Prepare for Elicitation: the project manager ensures that the needed people and resources are available for elicitation activities. Since selecting participants commits stakeholder time, the BA should obtain approval from the project manager, who controls resource allocation and scheduling on the initiative.",
+  "wrong_reasons": {
+   "a": "The sponsor authorizes the initiative and resolves escalations but does not approve day-to-day elicitation participant lists.",
+   "b": "End users are participants in elicitation, not approvers of who attends.",
+   "d": "Subject matter experts provide domain knowledge as participants, not approval authority."
+  }
+ },
+ {
+  "question_id": "34b3ac77-16b6-53ff-9e0c-343704dbf5bd",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Verify (Validate) Scope is the process of formally reviewing completed deliverables with the customer to confirm the completeness of the project work and obtain formal acceptance so the project can move forward. It focuses on acceptance of deliverables, complementing BABOK v3 solution evaluation and acceptance criteria concepts (10.1 Acceptance and Evaluation Criteria).",
+  "wrong_reasons": {
+   "a": "A phase gate review decides whether to continue to the next phase; it is a governance checkpoint, not deliverable acceptance.",
+   "b": "'Inspection of key results' is not a standard defined process for gaining customer acceptance.",
+   "d": "Quality control checks correctness of deliverables against quality standards, whereas scope verification is about formal customer acceptance."
+  }
+ },
+ {
+  "question_id": "33d480f8-a2a1-5b29-8300-e4100ab4a1ff",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Analyzing whether the organization's current structure, people, processes, and technology can meet an identified business need is assessing capability gaps (BABOK v3, 6.1 Analyze Current State and 6.2 Define Future State identify the gaps between current capabilities and those needed to meet the business need).",
+  "wrong_reasons": {
+   "a": "Determining the solution approach happens after the capability gaps are understood, to decide how to close them.",
+   "c": "Requirements elicitation gathers information from stakeholders; this scenario is a strategy-level capability assessment.",
+   "d": "Verifying requirements checks the quality of requirements specifications, unrelated to organizational capability analysis."
+  }
+ },
+ {
+  "question_id": "85ef1a2e-69e5-5d80-b93c-97abc31c23cf",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "A restriction imposed by management on the change - such as a time limit of 60 days, a budget cap, or resource limits - is a business constraint. Business constraints reflect limitations of the organization (budget, time, policy, resources), whereas technical constraints arise from the technology environment (BABOK v3 constraint concepts in 6.2 Define Future State and requirements classification).",
+  "wrong_reasons": {
+   "a": "A technical constraint would stem from architecture, platforms, or technology standards, not a management-imposed deadline.",
+   "b": "'Schedule constraint' is a project management term; BABOK classifies management-imposed time limits as business constraints.",
+   "d": "An assumption is something believed true without proof; the 60-day limit is an explicitly imposed restriction."
+  }
+ },
+ {
+  "question_id": "75a12096-d0f8-55f6-904f-efdd08e84300",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "For a product scheduling system, the people who will directly interact with the solution daily are the end users; eliciting only from the manager and supervisor misses them. BABOK v3, 3.2 Plan Stakeholder Engagement and 2.2 stakeholder roles emphasize including end users, since requirements approved without them risk missing real operational needs.",
+  "wrong_reasons": {
+   "b": "The project manager coordinates delivery but is not a primary source of scheduling-system requirements.",
+   "c": "Upper management provides strategic direction; the operational requirements gap here is at the user level.",
+   "d": "IT support is an implementation/operational support stakeholder, less critical than the users who operate the system."
+  }
+ },
+ {
+  "question_id": "96efea5b-f3f3-56f0-89d2-865dbbf6ab98",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "The Initiating process group occurs at the beginning of a project (or phase): it authorizes the project, produces the charter, and identifies initial stakeholders. This project management framing complements BABOK v3 strategy analysis work that often precedes or coincides with initiation.",
+  "wrong_reasons": {
+   "a": "Executing performs the planned work after planning is done.",
+   "b": "Planning follows initiation, once the project is authorized.",
+   "d": "Monitoring and Controlling spans the whole project but does not start it."
+  }
+ },
+ {
+  "question_id": "4e32b0fe-90dd-5f07-825c-5acd116ba646",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Waterfall is the sequential, phase-based (predictive) life cycle in which each phase completes before the next begins and the project manager focuses on controlling time, cost, and scope. BABOK v3, 3.1 Plan Business Analysis Approach describes such predictive approaches as maximizing up-front planning and control.",
+  "wrong_reasons": {
+   "a": "Spiral is risk-driven and iterative, cycling through repeated prototyping and evaluation rather than fixed sequential phases.",
+   "b": "Agile is adaptive, welcoming change and delivering iteratively rather than controlling fixed scope up front.",
+   "d": "Incremental delivers the product in successive slices rather than a single sequential phase-gated flow."
+  }
+ },
+ {
+  "question_id": "a5515931-934a-5917-a824-c67c1f95aad7",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "BABOK v3, 8.4 Assess Solution Limitations / 8.5 Assess Enterprise Limitations: when a solution limitation is identified, the BA first assesses its impact on business operations and value delivery to determine severity before recommending actions. Understanding the operational impact of the unmet SLA scenario drives any subsequent recommendation.",
+  "wrong_reasons": {
+   "b": "Pulling a future-release requirement into scope is a solution decision made only after the impact is understood, and it may not be justified.",
+   "c": "Modifying the SLA changes the commitment without knowing whether the business can tolerate the limitation.",
+   "d": "Changing the business process is premature before assessing whether the limitation materially affects operations."
+  }
+ },
+ {
+  "question_id": "5cb04938-1a7d-5035-b652-c5095b8f4a56",
+  "correct_letter": "a",
+  "confidence": "medium",
+  "explanation": "The purchased solution does not fit how the Non-Life team actually operates, so they keep working manually - a failure to assess how the solution would integrate with existing business processes and ways of working. This is an operational assessment, part of evaluating whether the enterprise can make effective use of a solution (BABOK v3, 8.5 Assess Enterprise Limitations - enterprise culture assessment and operational/technical assessment).",
+  "wrong_reasons": {
+   "b": "Organizational structure analysis concerns reporting lines and roles, which were not the source of the misfit.",
+   "c": "Stakeholder impact analysis alone addresses who is affected, but the core miss was how the solution fits operational processes.",
+   "d": "Stakeholder location (physical distribution) is irrelevant to the manual-calculation workaround."
+  }
+ },
+ {
+  "question_id": "39b4cf50-e7a6-5e61-b5a8-ba318f459af8",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3, 10.20 Financial Analysis, ROI = (Total Benefits - Cost of Investment) / Cost of Investment. Benefits over 3 years = 3 x $150,000 = $450,000; total cost = $200,000 + $30,000 (yr 2) + $30,000 (yr 3) = $260,000. ROI = ($450,000 - $260,000) / $260,000 = $190,000 / $260,000 = approximately 73%.",
+  "wrong_reasons": {
+   "a": "44% would result from an incorrect cost base or omitting one year of benefits.",
+   "c": "40% ignores the correct net-benefit-over-cost calculation (e.g., dividing by benefits instead of costs).",
+   "d": "51% does not match the net benefit ($190,000) divided by total investment ($260,000)."
+  }
+ },
+ {
+  "question_id": "e4f62e35-3614-5bbd-b523-c4f960a2c595",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "BABOK v3, 3.1 Plan Business Analysis Approach: highly regulated industries (banking), high-stakes strategic initiatives, and strong executive oversight (CEO vision, CFO monitoring) call for a predictive, formal approach - planned stakeholder interaction, formally approved documentation deliverables, and requirements defined up front to support governance and compliance.",
+  "wrong_reasons": {
+   "a": "An unstructured, informal approach conflicts with regulatory and executive oversight demands.",
+   "b": "An agile/adaptive approach with minimal formal documentation is a poor fit for a heavily regulated banking expansion under close financial scrutiny.",
+   "c": "Deliverables not requiring formal approval would be inadequate for compliance and CFO-level monitoring."
+  }
+ },
+ {
+  "question_id": "4f0542d0-189c-5f05-ae34-3fa239352eec",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "The BA has analyzed the current state, identified business goals, and examined how the enterprise currently delivers value - Strategy Analysis work (BABOK v3, 6.1 Analyze Current State and 6.2 Define Future State). At this early point, what the BA presents to leadership is the expected benefits (potential value) of pursuing the change, which justifies the initiative before planning details exist.",
+  "wrong_reasons": {
+   "a": "A project timeline is a project management planning output, not the result of current state/goal analysis.",
+   "b": "Project deliverables are defined later when the solution scope and plan are established.",
+   "c": "Resource staffing is a project planning concern, not the output of strategy analysis with leadership."
+  }
+ }
+]

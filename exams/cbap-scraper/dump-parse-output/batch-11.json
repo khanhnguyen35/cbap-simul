@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "bd9444c5-ab2a-5eff-8972-f49c1c08fa7c",
+  "context": "",
+  "question": "Which of the following qualitative techniques involves a disciplined analysis of the event sequences that could transform a potential hazard into an accident?",
+  "options": {
+   "a": "Failure mode and effects criticality analysis",
+   "b": "HAZOP technique",
+   "c": "Failure mode and effects analysis",
+   "d": "Preliminary Risk Analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "9478d9b1-461f-5d71-aff2-1bab9ef2dd30",
+  "context": "",
+  "question": "You are the business analyst for your organization and are preparing to conduct stakeholder analysis. As part of this process you realize that you'll need several inputs. Which one of the following is NOT an input you'll use for the conduct stakeholder analysis task?",
+  "options": {
+   "a": "Enterprise architecture",
+   "b": "Enterprise environmental factors",
+   "c": "Organizational process assets",
+   "d": "Business need"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c72fa890-fc9b-5c3d-a8b7-af983858c1a5",
+  "context": "",
+  "question": "You are completing enterprise analysis. Management has asked you to create a document that will help them create a go/no go decision to invest and more forward with a proposed project. What document does management want you to create?",
+  "options": {
+   "a": "Feasibility study",
+   "b": "Project scope",
+   "c": "Solution scope",
+   "d": "Business case"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "272b9cfa-6b0e-501e-bd00-4097c5713aaf",
+  "context": "",
+  "question": "Rachel is writing the business case for her organization. As she's completing this process Rachel is concerned that she's including all the correct information for management. Which one of the following should Rachel not include in her business case?",
+  "options": {
+   "a": "Time to break even",
+   "b": "Opportunities to prioritize requirements",
+   "c": "Follow-on opportunities",
+   "d": "Qualitative and quantitative benefits"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b0592b73-532d-5186-b905-428e97593d34",
+  "context": "",
+  "question": "Which of the following process models needs to complete each set of tasks in one phase before moving into the next phase in a project development life cycle?",
+  "options": {
+   "a": "Procedural model",
+   "b": "Evolutionary model",
+   "c": "Spiral model",
+   "d": "Waterfall model"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "3cc13a38-1d52-5eee-8ed2-79b58bcca796",
+  "context": "",
+  "question": "Which of the following processes is used to make certain that the project team members are completing the project work according to the project plan?",
+  "options": {
+   "a": "Project time management",
+   "b": "Project scope management",
+   "c": "Quality management plan",
+   "d": "Quality control"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "6d53900f-b737-574a-9bd3-e947614a515b",
+  "context": "",
+  "question": "What element of the conduct elicitation activity is tracked to provide a basis for future planning?",
+  "options": {
+   "a": "Time actually spent eliciting the requirements",
+   "b": "Number of stakeholders that did not participate in the requirements elicitation",
+   "c": "Cost of actually eliciting the requirements",
+   "d": "Changes that entered the scope throughout the requirements elicitation activities"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "43f5a2e2-93a5-565e-90d8-3dd8b05e34f6",
+  "context": "",
+  "question": "An online stock trading system is under implementation. Which of the following events can be considered as a trigger for re-prioritization?",
+  "options": {
+   "a": "A team member has left the project and is being replaced",
+   "b": "A new initial public offering in the stock market is introduced",
+   "c": "Further dependencies among solution components are uncovered",
+   "d": "Number of reported quality defects is growing through phases"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "25e64e12-072a-5cfd-af97-3d15b900baef",
+  "context": "",
+  "question": "You are the business analyst for your organization. Management wants you to prioritize the identified requirements by the requirements that have the highest likelihood of success.\nWhy would management want you to prioritize the requirements with this factor even though some of the requirements may be difficult to implement?",
+  "options": {
+   "a": "They want a fast return on investment.",
+   "b": "They want to show early success in the implementation to the project stakeholders.",
+   "c": "They don't understand the requirements.",
+   "d": "They want to avoid penalties or fines due to a pending law."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "867228c2-9fcf-5f2f-91e1-98eb043be36c",
+  "context": "",
+  "question": "Which of the following requires that all parties in the conflict must give up something?",
+  "options": {
+   "a": "Barrier",
+   "b": "Problem solving",
+   "c": "Withdrawal",
+   "d": "Compromising"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "273d16bc-4bb7-5737-a830-40d1baf7c122",
+  "context": "",
+  "question": "Jane is the business analyst for her organization and she is completing passive observation to identify improvement opportunities in the workflow. She notices that some of the employees perform certain customer- facing activities in a different format than the other workers. Is this a problem that can be addressed as part of an improvement opportunity?",
+  "options": {
+   "a": "It can be a problem as customers could become confused or frustrated because of the different approaches to the work.",
+   "b": "It is not a problem unless there is a drop in sales so it should be left alone.",
+   "c": "It can be a problem as the enterprise environmental factors always call for consistency in all processes.",
+   "d": "It is not a problem unless the customer complains. If Jane has not noticed the customers complaining then the process should be left along."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d48e261d-5ff3-5987-9c7c-d47b0707cee4",
+  "context": "",
+  "question": "While reviewing a subset of requirements with stakeholders, a business analyst (BA) finds a requirement that does not deliver benefit to any of the stakeholders. After much discussion, the stakeholders decide that the requirement does not align with the solution scope. What recommendation will the BA make?",
+  "options": {
+   "a": "Update the solution design",
+   "b": "Re-evaluate the future state",
+   "c": "Change the solution scope",
+   "d": "Eliminate the requirement"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c8d711c3-cbb7-5e87-9cf7-7303cad97349",
+  "context": "",
+  "question": "Sally is the business analyst for her organization. Sally and her business analysis team is currently using a business analysis approach to determine what the competition of her organization is offering prospective clients. She is trying to identify solutions to increase revenue by remaining competitive with the competition. What business analysis approach is Sally and her business analysis team using?",
+  "options": {
+   "a": "Business rules analysis",
+   "b": "Functional decomposition",
+   "c": "Focus groups",
+   "d": "Benchmarking"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "101fb0fb-f24b-500b-a568-59227c524b67",
+  "context": "",
+  "question": "A business analyst (BA) asks participants in a workshop to write down their ideas about the feature being built on sticky notes place them on the wan and then group the ideas into similar themes. The BA is using, this technique to:",
+  "options": {
+   "a": "prioritize requirements.",
+   "b": "prepare for requirements elicitation.",
+   "c": "identify organizational capabilities.",
+   "d": "manage stakeholder collaboration."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "fc07b88f-522e-546b-a7e9-e054f04d48c8",
+  "context": "",
+  "question": "While working on a major project to replace the billing mechanism at a bank, a major change in scope is discussed. Which approach does the business analyst (BA) use to help determine the formality of the assessment process to be followed to understand the impacts of the scope change?",
+  "options": {
+   "a": "Governance",
+   "b": "Information management",
+   "c": "Stakeholder engagement",
+   "d": "Solution"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c7fdbb5b-c16f-55a2-ac22-b49d0fbb6b5c",
+  "context": "",
+  "question": "The business analyst (BA) is not having great success scheduling stakeholder meetings. Stakeholders say they are too busy or there are higher priority meetings on their calendars. The BA is concerned, knowing that stakeholder availability, attitude, and willingness to engage will impact the timeliness of project delivery as well as the.",
+  "options": {
+   "a": "test execution.",
+   "b": "approval process.",
+   "c": "requirements reuse.",
+   "d": "risk analysis process."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d08d236e-bb01-5600-b197-9316e8f5e79b",
+  "context": "",
+  "question": "The BA Is finalizing the definition of the requirements architecture by understanding how requirements relate to each other. A key component that must be apparent in all three diagrams is that none of the requirements be linked in different or conflicting ways. What relationship quality criterion does this represent?",
+  "options": {
+   "a": "Unambiguous",
+   "b": "Correct",
+   "c": "Necessary",
+   "d": "Defined"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "aad3f9a2-091e-51d0-b18d-4ffa1bf4205f",
+  "context": "",
+  "question": "What technique used during the manage business analysis performance process can help identify the underlying causes of failures or difficulties in accomplishing business analysis work?",
+  "options": {
+   "a": "Problem tracking",
+   "b": "Pareto charts",
+   "c": "Trend analysis",
+   "d": "Root cause analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "93653546-a572-58e9-acd2-5a80b8ef97d2",
+  "context": "",
+  "question": "Which of the following statements best describes the purpose of the confirm elicitation results process?",
+  "options": {
+   "a": "Validate that the stated requirements expressed by the stakeholders match the solution the organization has proposed.",
+   "b": "Validate that the stated requirements expressed by the stakeholders match the stakeholders' understanding of the problem and the stakeholders' needs.",
+   "c": "Validate that the stated requirements expressed by the stakeholders match the documented requirements of the project sponsor.",
+   "d": "Validate that the stated requirements expressed by the stakeholders match the project scope."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "cae9be7a-847a-5384-bd81-34b20fdab12c",
+  "context": "",
+  "question": "A business analyst (BA) has a meeting next week with the project sponsor to ensure that the requirements align with the objective of the project. Prior to the meeting, the BA must ensure that the requirements are:",
+  "options": {
+   "a": "parametric, analogous, and decomposed",
+   "b": "atomic, feasible and testable",
+   "c": "predictive, diagnostic, and descriptive",
+   "d": "correct, capable, and strategic"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "7d0ea02b-4a1e-595c-a7e6-d6a9e3084553",
+  "context": "",
+  "question": "A business analyst (BA) wants to estimate the potential value delivered by a set of requirements and design options by targeting a small group of stakeholders to understand their perceived value and expectations. The BA is going to organize a discussion during which feedback is collected. Which technique will be used?",
+  "options": {
+   "a": "Focus Group",
+   "b": "Brainstorming",
+   "c": "Survey",
+   "d": "Group interview"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "3502a34e-5f52-5e00-a86b-b3206b95a1e5",
+  "context": "",
+  "question": "A company finalized the implementation of a new, corporate-wide database. After nearly three months of operation, the solution is repeatedly producing invalid outputs. A business analyst (BA) has been asked to investigate the solution's problem. The BA has been able to find several instances where the outputs from the solution are below an acceptable level of quality. Which of the following techniques should the BA use to identify the solution limitations?",
+  "options": {
+   "a": "Risk Analysis and Management",
+   "b": "Root Cause Analysis",
+   "c": "cceptance and Evaluation Criteria",
+   "d": "Business Rules Analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "5598db44-4e34-5211-9934-dc2624d84acf",
+  "context": "",
+  "question": "A business analyst (BA) is developing an approach for information management. The BA needs to identify and categorize which information is to be managed. Which of the following techniques should the BA use to achieve this objective?",
+  "options": {
+   "a": "Item Tracking",
+   "b": "Observation",
+   "c": "Prototyping",
+   "d": "Mind Mapping"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "3a7bd2d7-801d-59c9-935f-ba4e905a24b5",
+  "context": "",
+  "question": "You are working with several business analysts to determine the solution approach for an identified problem. All of the following techniques are acceptable for identifying the solution approach except for which one?",
+  "options": {
+   "a": "Benchmarking",
+   "b": "Decision analysis",
+   "c": "Risk analysis",
+   "d": "Brainstorming"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "04f22f25-d468-5e72-9861-2e33ca9b6725",
+  "context": "",
+  "question": "You are the business analyst for your organization. You want to use a requirements elicitation technique to produce a broad set of options for an identified problem. You want the stakeholders to help you identify options, factors that affect the solution, any possible delays in the solution implementation, and ideas for creating a solution. Which of the following requirements elicitation activities would best satisfy these requirements?",
+  "options": {
+   "a": "Benchmarking",
+   "b": "Brainstorming",
+   "c": "Data flow diagrams",
+   "d": "Business rules analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "fb2c757b-df65-52da-b9bd-f10fef22e099",
+  "context": "",
+  "question": "Which of the following is NOT a component of flowchart?",
+  "options": {
+   "a": "Forks",
+   "b": "Attributes",
+   "c": "ctivities",
+   "d": "Joins"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b6b6c0a6-32ba-5e6f-acba-51d4df08219f",
+  "context": "",
+  "question": "Which of the following are directed conversations for gathering ideas, opinions about a product, service, problem, or opportunity?",
+  "options": {
+   "a": "Interviews",
+   "b": "Group discussions",
+   "c": "Feedback loops",
+   "d": "Focus groups"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d1868c3e-6838-5d77-bf52-fed3257e0037",
+  "context": "",
+  "question": "While reviewing the data feeds on a project the business analyst (BA) realizes there is a feed that contains complex relationships. In order to help understand the data and accurately reflect a set of requirements the BA decides to prioritize the requirements. What modeling format could the BA use?",
+  "options": {
+   "a": "User interface",
+   "b": "Matrix",
+   "c": "Data model",
+   "d": "Data dictionary"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d0245499-8e67-5e12-8c5f-db8eb120512f",
+  "context": "",
+  "question": "The business analyst (BA) works in a global company and the majority of stakeholders are located in different countries. The BA already explained the core requirements during the initial meetings. However due to the time zone differences it has been cumbersome to organize further meetings. What method should the BA use so the stakeholders can review the document before final approval?",
+  "options": {
+   "a": "Group collaboration",
+   "b": "Brainstorming",
+   "c": "E-mail",
+   "d": "Collaborative games"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "dd6073de-4ff6-51a7-ae2b-8f3f05853d16",
+  "context": "",
+  "question": "Enterprise analysis provides many things for an organization. All of the following are tasks included in enterprise analysis except for which one?",
+  "options": {
+   "a": "Determine solution approach",
+   "b": "Define business need",
+   "c": "ssess capability gaps",
+   "d": "Solution performance assessment"
+  },
+  "image_paths": []
+ }
+]

@@ -1,0 +1,362 @@
+[
+ {
+  "question_id": "2849b026-add1-5eee-9690-8eb6e047c89c",
+  "context": "",
+  "question": "You are the business analyst for a large software development project. There are several issues that must be resolved by certain dates or the problem will prevent the project from advancing. What technique can you use to track problems with the requirements?",
+  "options": {
+   "a": "Problem tracking",
+   "b": "Issue tracking",
+   "c": "RTM",
+   "d": "Baselining"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "a99a62da-86cc-5df1-9e6b-77d3e52e472d",
+  "context": "",
+  "question": "The performance of the business analysis team has been reviewed by management to determine areas for improvement. The manager would like to help the business analysts (BAs) develop their skills and address the corrective actions. What is a technique that may help achieve this goal?",
+  "options": {
+   "a": "Lessons learned",
+   "b": "Team restructure",
+   "c": "Weekly meetings",
+   "d": "Team building"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c0e67816-6891-53cd-93e1-27e5acac12f4",
+  "context": "",
+  "question": "You are the business analyst for your organization and are with another business analyst, Steve, on the requirements elicitation for a new solution. You warn Steve that you'll need to be tracing the requirements in an effort to prevent scope creep. What is scope creep?",
+  "options": {
+   "a": "The scope grows slightly larger as more requirements, often unneeded, are added to the scope",
+   "b": "The scope slips on the schedule which in turn delays the project delivery date",
+   "c": "Gold plating",
+   "d": "The scope shifts from the original intent of the business case"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "18b3cae8-85c0-5913-8547-4c8f67f4669f",
+  "context": "",
+  "question": "You are the business analyst for your organization and are training Tracy on business analysis duties. You are explaining to Tracy how it's important for a business analyst to generate new ideas to approaching problems, solving problems, and to generate alternative solutions. You stress that it's important for the business analyst to generate new ideas and innovative concepts. What type of analytical thinking are you describing for Tracy?",
+  "options": {
+   "a": "Lateral thinking",
+   "b": "Brainstorming",
+   "c": "Creative thinking",
+   "d": "Decision making"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "507b08a7-2fb3-5a5f-a5c0-134db3db60ff",
+  "context": "",
+  "question": "You have identified several stakeholders that you believe are kinesthetic learners. Which statement best describes the kinesthetic learning approach?",
+  "options": {
+   "a": "The learners learn best by reading and pondering.",
+   "b": "The learners learn best be experiencing the topic.",
+   "c": "The learners learn best by seeing the topic in a model or through storyboards.",
+   "d": "The learners are not interested in the topic unless they can immediately apply it to their lives or jobs."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d079720c-8e6c-54f8-b16f-cff540bb409a",
+  "context": "",
+  "question": "You are the business analyst for a new project. Part of this project is for the project team to manually install new workstations through the company's campus. Based on your research you have determined that the project team can install 25 new workstations per hour. Since there is a fixed amount of time that these workstations need to be installed you are considering adding additional labor for the implementation. You are also considering to adjust the prioritization of the project requirements based on the amount of workstations the project team can install per hour. What does the 25 workstations per hour represent in this scenario?",
+  "options": {
+   "a": "Timeboxing",
+   "b": "Planning",
+   "c": "Parametric estimate",
+   "d": "Report project"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "9de70e56-255a-5ae6-9c31-21cd7ed7e9b7",
+  "context": "",
+  "question": "Henry is the business analyst for his organization. Management has created a pre-determined budget of $450,000 for his solution. Henry has identified the project requirements but now wants to prioritize them based on timeboxing and budgeting. Henry examines the cost of the requirements and begins removing the requirements from the allowed list in order to meet the $450,000 budget. What timeboxing or budgeting approach is Henry using?",
+  "options": {
+   "a": "Parametric",
+   "b": "All in",
+   "c": "Selective",
+   "d": "All out"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "85026c5b-a068-55ec-b990-79343c8d7a26",
+  "context": "",
+  "question": "A business analyst (BA) is preparing a requirement package for access management system. A state diagram foe entity 'User* has been prepared. The BA wants to check the completeness of requirements by comparing different models.Which diagram should be used with a state diagram to verity that all functions are defined to work with entity \"User\" for the different roles?",
+  "options": {
+   "a": "Sequence diagram",
+   "b": "Functional diagram",
+   "c": "Use case diagram",
+   "d": "Data flow diagram"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "2ace687f-0b9d-569e-8c68-69eba451f0d3",
+  "context": "",
+  "question": "Wanda is the business analyst for her organization and she is currently working on the specify and model requirements process. One of the elements of this process is the documentation of the textual requirements. Wanda must describe the capabilities of the solution, any conditions that must exist for the requirements to operate, and what third component of the textual requirement?",
+  "options": {
+   "a": "Any constraints that may prevent the solution from fulfilling the requirement",
+   "b": "Write in the active voice",
+   "c": "Describe a situation or problem",
+   "d": "Express only one requirement at a time"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "ef2aab7e-2618-58ba-bd1c-2aaa7bfe80f0",
+  "context": "",
+  "question": "As part of identifying an enterprise's capability to adopt a potential solution, a business analyst (BA) is reviewing existing processes and tools within the enterprise for their ability to adapt to a new solution. Which of the following assessments is the BA performing?",
+  "options": {
+   "a": "Stakeholder",
+   "b": "Enterprise",
+   "c": "Organizational",
+   "d": "Operational"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "761025fc-f1f1-520b-a73b-5fc01cca6962",
+  "context": "",
+  "question": "You have identified a task in your task list that cannot be completed until the inspector for the project signs off on the initial deliverables. The inspector's signoff on the initial deliverables is called what?",
+  "options": {
+   "a": "Assumption",
+   "b": "Dependency",
+   "c": "Milestone",
+   "d": "Constraint"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "27682ad6-b646-5e14-89d6-3b9991435944",
+  "context": "",
+  "question": "Which stakeholder must approve the business analysis approach to ensure that the business analysis approach is compatible with the other project activities?",
+  "options": {
+   "a": "Project sponsor",
+   "b": "Project manager",
+   "c": "Project customer",
+   "d": "Change control board"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "6497939a-c795-57aa-8e66-0118388c7fc4",
+  "context": "",
+  "question": "The, an output of the define scope process, does document the process and criteria for accepting completed products.",
+  "options": {
+   "a": "Statement of Work",
+   "b": "Contract",
+   "c": "Project scope statement",
+   "d": "Project management plan"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "b1528f89-fd6d-5cee-ab58-c613a73ed28f",
+  "context": "",
+  "question": "Which of the following is a process of adding labor to a project to reduce the project duration?",
+  "options": {
+   "a": "Forming",
+   "b": "Storming",
+   "c": "Rolling wave planning",
+   "d": "Crashing"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d07fee20-7d7c-50e1-b3ff-e59e297f2f21",
+  "context": "",
+  "question": "A software company has won a contract to implement its product for a client. As part of the implementation work, a business analyst (BA) is asked to elicit information about the other client applications that will interface with the new system and provide the information graphically. The technical staff needs to understand the message interaction within the systems for key business transactions. Which type of diagram should the BA use?",
+  "options": {
+   "a": "Process",
+   "b": "Sequence",
+   "c": "ctivity",
+   "d": "Context"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "77cc5e47-bff5-5b62-a99f-d7ccb27235ff",
+  "context": "",
+  "question": "Stakeholders have indicated concerns with the level of uncertainty they are willing to accept with the solution. What type of analysis can the business analyst (BA) use to alleviate these concerns?",
+  "options": {
+   "a": "Gap",
+   "b": "Financial",
+   "c": "Requirements",
+   "d": "Risk"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "f0070fe3-21b2-5b12-bc24-f8e9aee8289d",
+  "context": "",
+  "question": "Before the start of a large, cross functional change effort the team of Business analysts (BAs) assigned decided they need something to help them ensure requirements collectively support one another and do not conflict. What option would provide the consistency they are looking for?",
+  "options": {
+   "a": "Process modeling",
+   "b": "Functional decomposition",
+   "c": "plate Architecture",
+   "d": "Checklist"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "855704c2-5398-5e27-9ba1-a4c281a3bdb0",
+  "context": "",
+  "question": "Which one of the following diagrams when properly laid out is always laid in a left to right display to properly reflect the chronology of all project work?",
+  "options": {
+   "a": "Influence diagram",
+   "b": "Project schedule network diagram",
+   "c": "rrow diagramming method",
+   "d": "Time-scaled schedule network diagram"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "4ca94bea-7efe-5eab-bbc8-10dbd94b3d89",
+  "context": "",
+  "question": "A business analyst (BA) has been writing requirements for a project that has several stakeholders with varying levels of product expertise. What must the BA take into consideration to meet stakeholder perspectives?",
+  "options": {
+   "a": "The competency of individual stakeholders",
+   "b": "The format of the requirements",
+   "c": "The types of diagrams produced",
+   "d": "The level of decomposition needed"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "38835fa8-633f-516c-b286-d642dcfb3b54",
+  "context": "",
+  "question": "The technology team at a financial institution has successfully constructed a software application to be deployed as part of a digital banking strategy. A business analyst (BA) has completed a review of the current state description and now needs to evaluate the solution and determine limiting factors for value realization. What additional input is required to perform the assessment of enterprise limitations?",
+  "options": {
+   "a": "Operational assessment",
+   "b": "Potential value",
+   "c": "Solution performance analysis",
+   "d": "Organizational structure"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "766a160b-e91d-5b7a-9fbf-7223964fa865",
+  "context": "",
+  "question": "A business analyst (BA) is defining the decision making process for changes raised during a project and wants to understand the decision making authorities within the company. What might the BA do to gather this information?",
+  "options": {
+   "a": "Market analysis",
+   "b": "Focus group",
+   "c": "Survey",
+   "d": "Cost benefit analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c28193cf-896d-5f21-86ee-089579034b11",
+  "context": "",
+  "question": "Yolanda is the web designer for your company and you are the business analyst. You are working with Yolanda on a new website that your company will host. You'd like for her to create a mock-up of the website without spending much time on the actual workings behind the web interface. You'd like for her to show the customer how the website will look, some idea of the functionality of the website, and some basic graphics and colors so the customer can see the direction of the project. What type of prototype are you asking Yolanda to create?",
+  "options": {
+   "a": "Mock-up prototype",
+   "b": "Vertical prototype",
+   "c": "Storyboard prototype",
+   "d": "Horizontal prototype"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "c0d542ab-e798-5d65-8eb6-197c57a3eee9",
+  "context": "",
+  "question": "You are the business analyst for your organization. As part of the requirements prioritization you have given each key stakeholder $10,000 in play money to distribute among the identified requirements. Each stakeholder can assign their play money to any of the requirements, but the requirements will be prioritized based on the value of the play money assigned to each requirement. What type of requirements prioritization is happening in this scenario?",
+  "options": {
+   "a": "Resource leveling",
+   "b": "Confirmation management",
+   "c": "Utility function",
+   "d": "Voting"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "68df43a4-369e-52fd-a441-0392a482401d",
+  "context": "",
+  "question": "You are the business analyst for your organization and working with Tim to identify the assumptions within the business solution. Which one of the following is an assumption?",
+  "options": {
+   "a": "The vendor believes the hardware should arrive by December 1",
+   "b": "The software must be compatible with Windows Vista",
+   "c": "The software must cost less than $99 per license",
+   "d": "The hardware must cost less than $450 per unit."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "d81204cb-f466-53a0-a902-dd5d264cc2df",
+  "context": "",
+  "question": "A customer has provided a business analyst (BA) with many business requirements and some have inter-dependencies with other requirements. To ensure the requirements are delivered according to customer expectations which requirements attribute should the BA consider including in the project requirements document?",
+  "options": {
+   "a": "Unique identifier",
+   "b": "Priority",
+   "c": "Constraints",
+   "d": "Acceptance criteria"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "353551c3-6d05-55f8-8716-2cb2eabebe52",
+  "context": "",
+  "question": "You are the business analyst for your organization and you are preparing to elicit the requirements for a new business opportunity. Which one of the following statements best describes the prepare for elicitation process?",
+  "options": {
+   "a": "You need authority granted to you from the sponsor to utilize resources for the elicit requirements process.",
+   "b": "You need to determine which elicitation techniques are needed for the requirements gathering technique.",
+   "c": "You need to ensure all needed resources are organized and scheduled for conducting the elicitation activities.",
+   "d": "You need to receive permission from functional management to interview and elicit requirements for the stakeholders."
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "cd54de51-347b-5dc3-9fc8-8c286a2aeac6",
+  "context": "",
+  "question": "You are the business analyst for your organization. You are preparing the business needs documentation for a new solution to an identified problem. Parts of your input for this process are the business goals and objectives set by your organization.\nWhat approach can you use to assess the business goal and their validity and longevity?",
+  "options": {
+   "a": "Functional decomposition",
+   "b": "POLDAT",
+   "c": "SMART",
+   "d": "Root cause analysis"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "6e27ef63-fbae-55e2-ae18-7a1e1605d172",
+  "context": "",
+  "question": "Ned is the business analyst for the NHQ Company. He is working with Stan on completing the requirements prioritization of all the identified requirements. Why would Stan and Ned complete requirements prioritization?",
+  "options": {
+   "a": "To determine which requirements should be completed first",
+   "b": "To determine which requirements should not be completed at all",
+   "c": "To determine which requirements carry the most risk",
+   "d": "To determine who created what requirement based on their position in the organization"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "10a30ea9-de6f-5f67-abe0-402df87f6463",
+  "context": "",
+  "question": "In a requirements elicitation effort, the business analyst (BA) needs to define boundaries for business domains, categorize and create a hierarchy of items, and show data sources and their relationships for specific audiences. Which of the following modeling formats should the BA use?",
+  "options": {
+   "a": "Diagrams",
+   "b": "Graphics",
+   "c": "Matrices",
+   "d": "Prototype"
+  },
+  "image_paths": []
+ },
+ {
+  "question_id": "df21c47a-668f-5aad-a68d-7b46b0c3c08f",
+  "context": "",
+  "question": "Before investing further in the project a customer and the key stakeholders of the project want to be able to visualize the final product. Which elicitation technique should the business analyst (BA) select?",
+  "options": {
+   "a": "interface Analysis",
+   "b": "Reverse Engineering",
+   "c": "Observation",
+   "d": "Prototyping"
+  },
+  "image_paths": []
+ }
+]

@@ -1,0 +1,332 @@
+[
+ {
+  "question_id": "2c015733-d73a-5ec3-aa75-6bd25d366501",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "BABOK v3, 4.1 Prepare for Elicitation, element 'Understand the Scope of Elicitation' explicitly lists the business domain, overall corporate culture and environment, group dynamics, and expected outputs as considerations. Understanding these allows the BA to communicate the scope of the elicitation activity and detect when the session strays from it.",
+  "wrong_reasons": {
+   "a": "The change strategy is defined in Strategy Analysis (6.4), not what a facilitator communicates when preparing a workshop.",
+   "b": "Requirements prioritization occurs later in Requirements Analysis and Design Definition, not while preparing/conducting elicitation.",
+   "d": "Enterprise architecture is background knowledge, not the item the BA communicates to workshop participants."
+  }
+ },
+ {
+  "question_id": "e8beb6f5-da95-56b8-9547-a7beb98e2a80",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Per BABOK, the business analyst is responsible for pre-project and strategy work such as defining the business architecture, conducting feasibility studies, and preparing business cases (Strategy Analysis / Enterprise Analysis activities, e.g. BABOK v3 6.4 Define Change Strategy and 10.7 Business Cases). These deliverables justify and scope investment in a change.",
+  "wrong_reasons": {
+   "a": "A security administrator manages access controls and security operations, not business cases.",
+   "b": "Developers implement solutions; they do not prepare feasibility studies or business architecture.",
+   "d": "A project leader/manager manages delivery of an approved initiative, not the pre-project business analysis deliverables."
+  }
+ },
+ {
+  "question_id": "dd2554d7-3b82-5691-8cb6-9854aa888dec",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.38 Risk Analysis and Management is the technique for identifying, analyzing, and managing risks (uncertain events that could negatively affect value) and for monitoring them on an ongoing basis. Threats to the solution's performance uncovered during Solution Evaluation are recorded and handled through risk analysis and management.",
+  "wrong_reasons": {
+   "b": "Root Cause Analysis (10.40) diagnoses underlying causes of existing problems; it does not manage threats on an ongoing basis.",
+   "c": "Solution performance analysis assesses measured performance versus value (task 8.3); it is not the technique for recording and managing threats.",
+   "d": "Solution scope is a deliverable defining solution boundaries, not a technique for handling risks."
+  }
+ },
+ {
+  "question_id": "b5f0362a-9354-5170-8993-dc416a587826",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "In the Allocate Requirements task (BABOK Solution Evaluation/Assessment area; v2 7.2), solution components include business processes, business rules and policies, software applications, people/organizational units, and infrastructure. An 'assessment of proposed solution' is a separate business analysis task/output, not a solution component.",
+  "wrong_reasons": {
+   "b": "Business processes to be performed and managed are a listed solution component.",
+   "c": "Business policies and business rules are a listed solution component.",
+   "d": "Software applications and application components are a listed solution component."
+  }
+ },
+ {
+  "question_id": "b78856d8-5017-587c-a06b-b0fd4a8df34e",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "BABOK v3, 3.5 Identify Business Analysis Performance Improvements produces the output 'Business Analysis Performance Assessment', which documents comparisons of planned versus actual performance, root causes of variances, and recommended improvement approaches for future business analysis work.",
+  "wrong_reasons": {
+   "a": "A skills assessment evaluates an individual's competencies, not process improvement recommendations for BA work.",
+   "c": "The stakeholder engagement approach (3.2) describes how to collaborate with stakeholders, not BA process improvements.",
+   "d": "The governance approach (3.3) defines decision-making, change control, and approvals, not performance improvement measures."
+  }
+ },
+ {
+  "question_id": "2aa8102f-3234-529b-8a65-34966d025f82",
+  "correct_letter": "a",
+  "confidence": "low",
+  "explanation": "Funding a project incrementally, releasing only enough capital at each milestone to reach the next one, is commonly called step funding in CBAP exam preparation materials (related to business case and decision analysis concepts, BABOK 10.7 Business Cases / 10.16 Decision Analysis). It limits organizational exposure by re-justifying the investment at each step.",
+  "wrong_reasons": {
+   "b": "Phase funding is not the term used; phases relate to project life cycle structure rather than the incremental capital-release approach described.",
+   "c": "Stakeholder funding is not a recognized funding approach term.",
+   "d": "Milestone funding is a distractor mirroring the question wording; the described approach is conventionally termed step funding."
+  }
+ },
+ {
+  "question_id": "0e503517-5302-5884-9f2f-7224792d5290",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In Enterprise Analysis / Strategy Analysis (BABOK v3 6.2 Define Future State, 6.4 Define Change Strategy), when a capability gap assessment shows the organization lacks the capabilities needed to seize an opportunity, the typical course of action is to launch a new project (initiative) to develop or acquire the missing capabilities.",
+  "wrong_reasons": {
+   "a": "Hiring resources may be one component of a change, but by itself it does not close a capability gap involving technology.",
+   "c": "Contracting is a possible sourcing tactic within an initiative, not the general course of action identified by BABOK.",
+   "d": "Abandoning the opportunity is not implied; capability gaps trigger new initiatives to build the needed capabilities."
+  }
+ },
+ {
+  "question_id": "3cb59384-3174-576e-9f44-79dd3f6e8eab",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Per BABOK v3, business policies act as constraints on solutions and are a source of business rules (10.9 Business Rules Analysis; 7.2 Verify / 7.3 Validate Requirements consider alignment with policies). When a requirement conflicts with existing policy, the BA should identify the policy as a potential constraint and escalate it to management, who own the decision to change policy or the requirement — the BA does not unilaterally alter either.",
+  "wrong_reasons": {
+   "a": "The BA cannot simply request policy changes and treat them as assumptions; policy changes are management decisions.",
+   "b": "Creating a requirement to change policy presumes the business has decided to change the policy, which has not happened.",
+   "c": "Silently modifying elicited requirements to fit policy discards stakeholder needs without governance review."
+  }
+ },
+ {
+  "question_id": "94e7801a-1c03-5b3e-b4b8-b9e3c21d0bfc",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "Gap analysis determines and documents the variance (gap) between business needs/requirements and the current capabilities of the enterprise. In BABOK v3 this is central to Strategy Analysis (6.1 Analyze Current State and 6.2 Define Future State identify the capability gaps a change must address).",
+  "wrong_reasons": {
+   "a": "Risk analysis addresses uncertainty and threats/opportunities, not capability variance.",
+   "b": "Schedule analysis concerns timelines, a project management concern.",
+   "d": "Cost-benefit analysis compares costs to benefits of an option, not current versus required capabilities."
+  }
+ },
+ {
+  "question_id": "e90525df-7f10-5cd1-a9f1-b359cdfc318a",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "BABOK v3, 4.4 Communicate Business Analysis Information requires tailoring the form and level of the communication to the audience. Presenting a model appropriate to domain 2's stakeholders (7.1 Specify and Model Requirements; models chosen to suit audience understanding) addresses the clarity problem caused by reusing a presentation built for a different audience.",
+  "wrong_reasons": {
+   "a": "A survey gathers input; it does not clarify or communicate the requirements information causing the confusion.",
+   "b": "Estimation addresses effort/cost, not communication clarity.",
+   "d": "A backlog manages work items; it does not resolve stakeholder misunderstanding of the presented material."
+  }
+ },
+ {
+  "question_id": "83351526-c9de-505f-8995-3cbe1e674889",
+  "correct_letter": "c",
+  "confidence": "medium",
+  "explanation": "BABOK v3, 5.2 Maintain Requirements states that requirements intended for long-term use and reuse should be named, defined, and represented at an appropriate level of abstraction, avoiding ties to specific implementation details. Since the seasonal products vary every year, expressing their requirements at a higher level of abstraction makes them less subject to revision with each change.",
+  "wrong_reasons": {
+   "a": "Referencing specific departments couples volatile seasonal requirements to organizational structure, forcing rework every year.",
+   "b": "Referencing specific departments reduces reusability even for stable requirements, contrary to Maintain Requirements guidance.",
+   "d": "The established products are stable; it is the frequently changing seasonal requirements that benefit most from abstraction."
+  }
+ },
+ {
+  "question_id": "e65393c1-626f-58cb-9848-7438507a971b",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Risk analysis is the process of defining and analyzing the dangers posed by potential natural and human-caused adverse events, assessing their likelihood and impact. This aligns with BABOK v3, 10.38 Risk Analysis and Management, where analysis of identified risks estimates probability and consequence.",
+  "wrong_reasons": {
+   "b": "Risk identification only lists potential risks; it does not analyze the dangers they pose.",
+   "c": "Risk management is the broader ongoing discipline of planning, responding to, and monitoring risks, not just defining and analyzing them.",
+   "d": "Risk communication is sharing risk information with stakeholders, not analyzing it."
+  }
+ },
+ {
+  "question_id": "1838c981-e7c8-5ca1-b861-f695a86c3d08",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.44 State Modelling describes and analyzes the different possible states of an entity (here, a trainee) and the valid transitions between those states (white belt to yellow belt, yellow to green, etc.) over its life cycle. A state diagram is exactly the model for progression through defined levels.",
+  "wrong_reasons": {
+   "a": "Decision modelling (10.17) represents business decision logic and rules, not life-cycle states of an entity.",
+   "c": "Concept modelling (10.11) defines terms and their relationships in the domain, not state transitions.",
+   "d": "Organizational modelling (10.32) depicts organizational structure, roles, and reporting lines."
+  }
+ },
+ {
+  "question_id": "ebd5cd52-e072-543c-8c27-0505b91dee46",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK v3 Strategy Analysis (6.1 Analyze Current State, element 'Business Needs'), business needs should be defined from the perspective of the enterprise as a whole, not from any single stakeholder group's viewpoint. When consolidating input from many groups, the BA ensures the resulting need statement reflects the enterprise perspective.",
+  "wrong_reasons": {
+   "a": "Traceability to sources is useful but is not the key quality of a consolidated business need statement.",
+   "c": "Business needs should be solution-independent; describing potential solutions biases the analysis.",
+   "d": "Business needs are statements of problems or opportunities; minimizing risk is not a criterion for defining them."
+  }
+ },
+ {
+  "question_id": "b86da515-9126-5a22-a6fa-25b367769fb6",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "In the standard business continuity planning life cycle, Scope and Plan Initiation is the first phase: it establishes the scope, objectives, resources, and management support for the BCP effort. Only after initiation does the Business Impact Assessment, plan development, and approval/implementation follow. (General BA/continuity body of knowledge; not a BABOK v3 task.)",
+  "wrong_reasons": {
+   "a": "Plan development occurs after scoping and the business impact assessment provide its inputs.",
+   "c": "The Business Impact Assessment is the second phase, performed after the effort is scoped and initiated.",
+   "d": "Plan approval and implementation is the final phase of the BCP process."
+  }
+ },
+ {
+  "question_id": "61eb3b75-4b09-5c31-8366-abdd9ce28e15",
+  "correct_letter": "d",
+  "confidence": "medium",
+  "explanation": "Change requests generally increase toward the end of a project, as stakeholders see the emerging solution and discover gaps or new needs — which is also when changes are most costly. This is why BABOK emphasizes early requirements validation and a defined change control process (BABOK v3, 5.3 Prioritize Requirements and 5.4 Assess Requirements Changes).",
+  "wrong_reasons": {
+   "a": "At launch the solution barely exists, so there is little to request changes against.",
+   "b": "Early in the project requirements are still being defined, so formal change requests are few.",
+   "c": "Scope management processes handle change requests; they are not when requests increase."
+  }
+ },
+ {
+  "question_id": "b723e9ac-2b84-513e-bd2f-a110ea83674f",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.36 Prototyping is used to elicit and validate stakeholder needs by providing an early, tangible model of the solution, allowing stakeholders to visualize the final product before further investment. Proof-of-concept and evolutionary prototypes exist precisely for this purpose.",
+  "wrong_reasons": {
+   "a": "Interface analysis (10.24) identifies interfaces between solutions/components, not a visualization of the product.",
+   "c": "Reverse engineering analyzes an existing system to recover its design, not a future product.",
+   "d": "Observation (10.31) studies stakeholders performing current work; it does not show the future product."
+  }
+ },
+ {
+  "question_id": "828eaebd-7fc6-5f48-8e97-45472cd75ca4",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "Problem tracking — called Item Tracking in BABOK v3 (10.26) — is the technique for capturing identified issues, assigning ownership, and tracking them through to resolution, ensuring stakeholder concerns and problems raised during business analysis are not lost.",
+  "wrong_reasons": {
+   "a": "Brainstorming (10.5) generates ideas; it does not track issues to resolution.",
+   "b": "Observation (10.31) elicits information by watching work being performed.",
+   "c": "Interviews (10.25) elicit information from stakeholders; they do not manage issue resolution."
+  }
+ },
+ {
+  "question_id": "7e50366f-8dff-537b-9de7-7da877f32317",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "An SPI of 0.87 means the project was already behind schedule; working overtime to bring actual performance back in line with the plan is a corrective action — an action taken to realign performance with the plan after a deviation has occurred (concept used in solution/performance assessment, cf. BABOK v3 Solution Evaluation and 10.28 Metrics and KPIs).",
+  "wrong_reasons": {
+   "a": "Engagement refers to stakeholder involvement, not a schedule-recovery action.",
+   "b": "Preventive actions are taken before a deviation occurs to avoid it; here the variance already existed.",
+   "d": "Improvement actions raise performance beyond the plan; here the goal was merely to return to the planned schedule."
+  }
+ },
+ {
+  "question_id": "b4e4cc0d-18dd-5ae2-8ff5-5834834e6f21",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "Per BABOK (Organize/Specify and Model Requirements; v3 7.1 and 5.1 Trace Requirements), individual requirements may be simple, but complexity arises from the number and nature of relationships and dependencies among requirements. Modeling and traceability structures exist to manage this inter-requirement complexity.",
+  "wrong_reasons": {
+   "b": "Project management practices are outside the requirements structure itself.",
+   "c": "Stakeholders influence elicitation effort, but the stated source of solution complexity is requirement interrelationships.",
+   "d": "Cost and schedule constraints affect the project, not the intrinsic complexity among requirements."
+  }
+ },
+ {
+  "question_id": "24f71e0e-6bf4-531d-9b12-d29cc0bfb90a",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "BABOK lists 'regulatory or policy compliance' as a basis for prioritizing requirements (BABOK v3, 5.3 Prioritize Requirements; 10.33 Prioritization): requirements that must be implemented to meet regulatory or legal demands are ranked accordingly. Ranking requirements against relevant laws is regulatory ranking.",
+  "wrong_reasons": {
+   "b": "Business value ranking prioritizes by benefit delivered, not by legal obligation.",
+   "c": "Constraint ranking is not a BABOK prioritization basis; constraints are restrictions, not this scheme.",
+   "d": "Risk ranking prioritizes by uncertainty/threat of requirements, not by laws and regulations."
+  }
+ },
+ {
+  "question_id": "cc95e25f-2136-5d48-8fb3-02416815b63e",
+  "correct_letter": "d",
+  "confidence": "high",
+  "explanation": "BABOK v3, 3.1 Plan Business Analysis Approach, element 'Timing of Business Analysis Work' notes that timing is affected by factors such as resource availability, priorities/urgency of the initiative, other concurrent initiatives, and constraints such as contract terms or regulatory deadlines. Of the options, contract terms is the factor BABOK cites.",
+  "wrong_reasons": {
+   "a": "Solution design is an output of later work; it does not drive when BA activities are scheduled.",
+   "b": "The project manager's experience is not a BABOK factor affecting timing of BA work.",
+   "c": "Sponsor interest is not listed as a timing factor; constraints and resource availability are."
+  }
+ },
+ {
+  "question_id": "5373f418-e1b9-5915-8142-8545b0d38678",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "In the Define Business Case task (BABOK v2 5.5; carried into v3 as the Business Cases technique 10.7), the inputs are the business need, solution scope, stakeholder concerns, and assumptions and constraints. A feasibility study is related pre-project analysis but is not one of the defined inputs to writing the business case.",
+  "wrong_reasons": {
+   "b": "Stakeholder concerns are a defined input to the business case.",
+   "c": "Assumptions and constraints are a defined input to the business case.",
+   "d": "The business need is the fundamental input that the business case justifies addressing."
+  }
+ },
+ {
+  "question_id": "9f35ba0a-00e0-543f-8d31-f93875bd431e",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "BABOK v3, 4.2 Conduct Elicitation distinguishes three types of elicitation: collaborative (direct interaction with stakeholders), research (studying existing sources), and experiments (prototypes, proofs of concept). Given the urgency, the BA worked directly and interactively with the business SMEs — a collaborative elicitation approach, which yields needed information quickly from the people who hold it.",
+  "wrong_reasons": {
+   "a": "Experiments (prototypes, pilots) take time to build and observe, unsuited to the shortest possible timeline.",
+   "c": "Estimation is a technique (10.19) for sizing effort, not a type of elicitation.",
+   "d": "Research relies on studying documents and data sources, slower and less targeted than direct collaboration with the available SMEs."
+  }
+ },
+ {
+  "question_id": "f21ebf9a-8a94-56a8-b25c-bcce94164c99",
+  "correct_letter": "b",
+  "confidence": "high",
+  "explanation": "Per BABOK (Prepare Requirements Package, v2 4.4; v3 4.4 Communicate Business Analysis Information), the primary goal of a requirements package is to communicate requirements information clearly, in an understandable and usable format appropriate to the audience, so stakeholders can review, understand, and act on it.",
+  "wrong_reasons": {
+   "a": "Cost, schedule, and risk information belong to project management documents, not the requirements package's purpose.",
+   "c": "Packaging is for communication and review, not for chunking work for execution.",
+   "d": "The WBS is a project manager's tool; supporting it is not the goal of a requirements package."
+  }
+ },
+ {
+  "question_id": "c6711a83-50e7-5052-b202-ef95c23d4ada",
+  "correct_letter": "b",
+  "confidence": "medium",
+  "explanation": "BABOK v3, 8.1 Measure Solution Performance (element 'Collect Performance Measures') states that when using statistical sampling the BA must consider the volume or sample size and the frequency and timing of measurements, since these determine whether the sample validly represents performance (e.g., calls resolved per hour varies by time of day and season).",
+  "wrong_reasons": {
+   "a": "Metrics and KPIs define what to measure, not the statistical sampling considerations of how/when to sample.",
+   "c": "Financial analysis evaluates costs and benefits, unrelated to sampling validity.",
+   "d": "Benchmarking compares against peers/standards; it is not a sampling consideration."
+  }
+ },
+ {
+  "question_id": "a85c84e1-c4b5-56f1-b7a1-7ec40d509478",
+  "correct_letter": "c",
+  "confidence": "low",
+  "explanation": "An insurance product is defined primarily by its data and business rules (coverages, premiums, policy attributes, relationships), so a logical data model is the requirements viewpoint that both domain SMEs (who validate business meaning) and implementation SMEs (who design the database and system) can work from (BABOK v3, 10.15 Data Modelling; 7.1 Specify and Model Requirements on selecting models for the audience).",
+  "wrong_reasons": {
+   "a": "A business process model shows workflow, useful mainly to domain SMEs, and does not capture the data-centric definition of an insurance product.",
+   "b": "An organization model shows structure and roles, irrelevant to product requirements.",
+   "d": "A scope model bounds the solution at a high level and lacks the detail SMEs need to review product requirements."
+  }
+ },
+ {
+  "question_id": "811a06f0-5710-559b-be89-1446c44eb483",
+  "correct_letter": "a",
+  "confidence": "high",
+  "explanation": "BABOK identifies three categories of stakeholder risk tolerance: risk-aversion, neutrality, and risk-seeking (BABOK v3, 10.38 Risk Analysis and Management, risk attitude/tolerance). Mitigation is a risk response strategy for treating a risk, not a category of risk tolerance.",
+  "wrong_reasons": {
+   "b": "Risk-aversion is one of the three defined risk tolerance categories.",
+   "c": "Risk-seeking is one of the three defined risk tolerance categories.",
+   "d": "Neutrality is one of the three defined risk tolerance categories."
+  }
+ },
+ {
+  "question_id": "2096c58d-30b7-541e-88dd-cb0cfd4ffd3f",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "BABOK v3, 10.9 Business Rules Analysis defines the technique as identifying, expressing, and managing the rules that govern decisions in an organization and that define, constrain, or enable organizational operations and policies. Option c restates this definition.",
+  "wrong_reasons": {
+   "a": "Business rules analysis defines rules, not the people who govern decisions.",
+   "b": "Job functions, roles, and responsibilities are the subject of organizational modelling and roles/permissions matrices.",
+   "d": "Historical information for research is document analysis territory, not business rules analysis."
+  }
+ },
+ {
+  "question_id": "4694da4a-bf55-5449-865b-6d5cc7abb9b9",
+  "correct_letter": "c",
+  "confidence": "high",
+  "explanation": "BABOK v3, 3.5 Identify Business Analysis Performance Improvements (element 'Performance Measures') defines 'significance' as assessing whether the benefit obtained from the work products justifies the cost, time, and resource investment expended to produce them — exactly the measure described.",
+  "wrong_reasons": {
+   "a": "'Strategic' measures assess whether objectives and longer-term goals were met, not value versus cost of work products.",
+   "b": "'Effectiveness' assesses whether work products were usable as delivered or required extensive revision, not value versus investment.",
+   "d": "'Knowledge' assesses whether the BA understood the context and had the skills/experience to perform the work."
+  }
+ }
+]
