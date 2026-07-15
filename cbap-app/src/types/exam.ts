@@ -9,6 +9,8 @@
  * Cờ chất lượng dữ liệu (v3). Các giá trị đơn:
  * 'ok' | 'missing_all_answers' | 'missing_distractors'
  * | 'missing_subquestion' | 'subquestion_recovered'
+ * | 'ai_answered' (đề 22–25: nguồn dump không có đáp án,
+ *   đáp án + giải thích do AI suy luận từ BABOK v3 — vẫn usable)
  * Có thể là cờ ghép nối bằng "+" (vd "missing_all_answers+missing_subquestion")
  * → luôn kiểm tra bằng .includes(), không so sánh bằng.
  */
@@ -17,7 +19,7 @@ export type DataQuality = string;
 /** Ánh xạ trực tiếp từ 1 dòng trong questions.tsv */
 export interface QuestionRecord {
   question_id: string;
-  exam_number: string;       // "1"–"21"
+  exam_number: string;       // "1"–"25" (22–25: đề dump, đáp án do AI suy luận)
   question_order: string;    // "1"–"120"
   group_id: string;
   group_position: string;

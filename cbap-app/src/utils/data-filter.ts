@@ -6,10 +6,17 @@ import type { Question, ExamHistory, ExamSummary } from '@/types/exam';
 import { isBrokenQuestion } from './tsv-helper';
 
 // Đề thi có chất lượng kém (dựa vào phân tích dữ liệu nguồn)
+const AI_ANSWERED_NOTE =
+  'Đề dump không có đáp án gốc — đáp án & giải thích do AI suy luận từ BABOK v3, nên đối chiếu khi ôn tập';
+
 const WARNED_EXAMS: Record<number, string> = {
   7: 'Đề 7 chỉ có 5 câu hỏi (bị cắt cụt từ nguồn gốc)',
   20: 'Đề 20 có 14 câu lỗi dữ liệu (thiếu đáp án hoặc thiếu câu hỏi)',
   21: 'Đề 21 có 18 câu lỗi dữ liệu (thiếu đáp án hoặc thiếu câu hỏi)',
+  22: AI_ANSWERED_NOTE,
+  23: AI_ANSWERED_NOTE,
+  24: AI_ANSWERED_NOTE,
+  25: AI_ANSWERED_NOTE,
 };
 
 // ── Lấy danh sách câu hỏi của 1 đề ─────────────────────────

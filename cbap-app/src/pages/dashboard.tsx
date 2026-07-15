@@ -1,5 +1,5 @@
 // ============================================================
-// Dashboard — Main landing page: 21 exam cards
+// Dashboard — Main landing page: exam cards (số đề lấy động từ dữ liệu)
 // Shows progress, best score, data quality warnings
 // ============================================================
 
@@ -107,7 +107,7 @@ export default function Dashboard() {
           📚 CBAP Practice Exam Simulator
         </Title>
         <Text type="secondary">
-          21 đề thi · {totalUsable.toLocaleString()} câu hỏi khả dụng · BABOK v3
+          {examNumbers.length} đề thi · {totalUsable.toLocaleString()} câu hỏi khả dụng · BABOK v3
         </Text>
       </div>
 
